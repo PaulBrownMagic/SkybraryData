@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# __coconut_hash__ = 0xe6afdaba
+# __coconut_hash__ = 0xe99a390f
 
 # Compiled with Coconut version 1.3.1 [Dead Parrot]
 
@@ -550,7 +550,7 @@ def get_page(url):
         return None
     else:
         content = get_html(res)
-        fname = f"{url.split('/')[-1]}"
+        fname = f"{url.replace('http://www.skybrary.aero/index.php/Special:URIResolver/','').replace('/','+')}.txt"
         return _coconut_tail_call(Page, fname, content)
 
 
