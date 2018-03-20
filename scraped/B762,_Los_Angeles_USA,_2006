@@ -1,0 +1,80 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On June 2, 2006, an American Airlines Boeing 767-200ER fitted GE CF6-80A engines experienced an uncontained failure of the high pressure turbine (HPT) stage 1 disc in the No. 1 engine during a high-power ground run carried out in designated run up area at Los Angeles for maintenance purposes during daylight normal visibility conditions. The three maintenance personnel on board the aircraft as well as two observers on the ground were not injured but both engines and the aircraft sustained substantial damage from the fuel-fed fire which occurred as an indirect result of the failure.
+
+Investigation
+Although there was no intention of flight, an Investigation into the event was carried out by the NTSB. It was established that maintenance were performing a high-power engine run-up in response to a flight crew defect report entered after the previous flight that the left engine lagged behind the right engine by about 2 percent during the climb from FL360 to FL380. The technicians who had been on board reported that they had performed a series of troubleshooting procedures, including deselecting the EEC and then making two rapid movements of the thrust levers from idle to maximum thrust and back to idle. They reported that after the left engine had reached maximum thrust for the second time and was decelerating through 95 percent N1, they had heard a loud explosion that was quickly followed by a fire under the left wing and in the fuselage aft of the wing. They stated that they had immediately shut down both engines, discharged fire shot 1 into the left engine and evacuated the aircraft. The fire continued until it was extinguished by the attending RFFS personnel.
+Examination of the No. 1 engine showed that the HPT stage 1 disc had ruptured and completely split the engine with the fan, booster, high pressure compressor, and combustor hanging from the forward-engine mount and the low pressure turbine and exhaust hanging from the rear-engine mount. The HPT stage 1 disc was found to have separated from the shaft at the conical section of the shaft and was completely missing from the engine. The recovery of the pieces of the ruptured disc showed that it had broken into three approximately equally sized pieces, a fourth triangular-shaped piece and several smaller fragments. One piece of the disc, which had initially bounced off of the ground before penetrating the aircraft fuselage had completely severed the aircraft left-hand keel beam and partially severed the right-hand keel beam before exiting the fuselage to become lodged in the No. 2 engine exhaust duct. Another piece of the disc was found in the airplane embedded in an air duct. A third piece of the disc was found nearly 800 metres away from the aircraft against an airport perimeter fence after crossing over two active runways, 25R/07L and 25L/07R, as well as taxiways. It was noted that an Air New Zealand Boeing 747-400 had just landed on Runway 25L. The fourth triangular-shaped piece of the disc was found embedded in the engine pylon. 
+Examination of the No. 2 engine showed that the left side of the nacelle was peppered with holes and impact marks made by debris from the No. 1 engine in addition to a piece of the HPT stage 1 disc that had gone through the exhaust duct and was protruding from the right side of the engine. The examination of the aircraft generally found numerous holes in the left and right wing fuel tanks where fuel had leaked out and fed the ground fire that burned the left wing and the fuselage aft of it.
+Examination of the failed disc showed that the primary fracture which had originated the rupture was a small dent at a blade slot at the bottom aft corner and that it had led to a rim-to-bore radial fracture.
+The Investigation formed the view that had the failure occurred during flight rather than on the ground during maintenance, the aircraft may not have been able to maintain safe flight. It noted a previously investigated uncontained failure of an HPT stage 1 disc on the same engine type six years earlier during engine ground runs and the Safety Recommendations issued as a result if it and also an in-flight uncontained HPT stage 1 disc rupture that had occurred to an Air New Zealand Boeing 767-200 with the same engine type in 2002.
+It was considered that although all four of the previous NTSB Recommendations were closed in either an acceptable or acceptable alternate status following FAA action, the fact that an uncontained failure of an HPT stage 1 disc had recurred was considered to indicate that further action was necessary.
+The Investigation also noted that the CVR had been intentionally disabled prior to the ground running, and that this action had removed the opportunity to access useful data for investigative purposes. The Investigators were told that that disabling the CVR prior to ground running was normal practice.
+The Probable Cause of the event was determined as:
+“The HPT stage 1 disk failed from an intergranular fatigue crack because of GE's inadequate design of the CF6-80 series HPT stage 1 disk. The inadequate design of the disk resulted in a high stress area in the blade slot bottom aft corner that was at or nearly at the material's capability so that there was no damage tolerance such that a small dent could cause a crack to initiate and propagate to failure.”
+It was also considered that: 
+“Contributing to the disk's failure was the FAA's failure to mandate an accelerated inspection schedule after a previous CF6-80A uncontained HPT stage 1 disk failure had occurred and after other CF6-80A HPT disks had been found during routine overhaul to have cracks in the blade slot bottom aft corners.” 
+On 26 August 2006, during the course of the Investigation, five Safety Recommendations were made as follows:
+
+
+ that the FAA require that all CF6-80A and -80C2 high pressure turbine (HPT) stage 1 disks and applicable -80E1 HPT stage 1 disks that have more than 3,000 cycles since new (CSN) and have not been reworked in accordance with General Electric Service Bulletins (SB) 72-0788 or 72-1089 or have not yet been inspected in accordance with SB 72-0779 or Alert Service Bulletin 72-A1026 be immediately removed from service for inspection and rework in accordance with these SBs. Those CF6-80A and -80C2 HPT stage 1 disks and applicable -80E1 HPT stage 1 disks that have fewer than 3,000 CSN and have not been reworked or inspected in accordance with these SBs can remain in service until reaching the 3,000 CSN threshold, at which time they should also be removed from service for inspection and rework. 
+
+
+(A-06-60)
+
+
+ that the FAA require that all CF6-80A and -80C2 high pressure turbine (HPT) stage 1 disks and applicable -80E1 HPT stage 1 disks that have not been reworked in accordance with General Electric Service Bulletins (SB) 72-0788 or 72-1089 but have been inspected in accordance with SB 72-0779 or Alert Service Bulletin (ASB) 72-A1026 and have more than 3,000 cycles since the inspection be immediately removed from service for re-inspection and rework in accordance with these SBs. Those CF6-80A and -80C2 HPT stage 1 disks and applicable -80E1 HPT stage 1 disks that have not been reworked in accordance with SBs 72-0788 or 72-1089 but have been inspected in accordance with SB 72-0779 or ASB 72-A1026 and have fewer than 3,000 cycles since the inspection can remain in service until reaching the 3,000 cycles-since-inspection threshold, at which time they should also be removed from service for re-inspection and rework.  
+
+
+(A-06-61)
+
+
+ that the FAA revise the engine-related airworthiness directive process to ensure that the compliance timelines are appropriately established. 
+
+
+(A-06-62)
+
+
+ that the FAA require a design review of CF6-80 series high pressure turbine (HPT) stage 1 disks that incorporate chamfered blade slot bottom aft corners that includes a stress analysis and finite element model emphasizing the blade slot bottom aft corner to determine whether sufficient material property margin exists to ensure that cracks do not occur. If the design review of chamfered HPT stage 1 disks finds that this design does not provide sufficient material property margin, then a redesign or material change should be implemented. 
+
+
+(A-06-63)
+
+
+ that the FAA require that maintenance personnel ensure that an aircraft’s cockpit voice recorder (CVR) is operating before conducting any engine ground tests. If an airplane has been involved in a reportable event, the incident CVR should be removed to preserve the event data and any subsequent ground test should be delayed until a suitable replacement CVR can be installed in the aircraft. 
+
+
+(A-06-64)
+The Final Report of the Investigation was published on 31 January  2008. A separate Letter to the FAA details the Safety Recommendations
+Safety Recommendations and the reasons for issuing them. 
+
+Further Reading
+
+Uncontained Engine Failure
+
+Aircraft Ground Running
+
+Ground Accident Prevention Program
+
+Ageing Aircraft - Structural Failure
+
+Damage Tolerance
+
+
+
+
+
+

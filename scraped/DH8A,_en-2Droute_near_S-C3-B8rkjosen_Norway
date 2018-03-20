@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 21 February 2006, a Bombardier DHC8-100 being operated by Wideroe Flyveselskap on a passenger flight from Tromsø to Sørkjosen experienced a temporary loss of control during descent in night IMC when the power levers were inadvertently selected to a position aft of the Flight Idle gate and propeller overspeed and engine malfunction followed. After recovery and shut down of the right engine, a return to Tromsø was made using the remaining engine without further event. All 20 occupants were secured by seat belts at the time and uninjured.
+
+Investigation
+An Investigation was carried out by the AIBN. FDR data was available for the Investigation. It was established that the aircraft commander, who had been acting as PF had spent his whole 24 year airline pilot career at the Operator and had been a Captain on type since 1995. The First Officer had just joined the Operator and had two months experience on his first airline type.
+It was established that in an attempt to reduce the speed of the aircraft to the rough air penetration speed after the sudden onset of significant turbulence, the aircraft commander had inadvertently pulled both Power Levers past Flight Idle and into the ‘beta’ or ground only range as a result of which both propellers had reached uncontrollably high rotation speeds well in excess of the AFM limit of 1210 rpm. Control of the aircraft was lost as it banked severely and pitched steeply nose down. It was reported that “dust in the cockpit was thrown up in the air and looked like smoke in the glare from one of the lights that suddenly came on, and there was a smell of oil. A completely deafening noise arose from the propellers, preventing all communication in the cockpit. A large number of warning lights came on”. Before the commander was able to level out the aircraft, a loss of “about 1,000 feet of” altitude was observed and the aircraft had changed heading by about 30° from the previous 060°.
+FDR data showed that over the course of four seconds, vertical acceleration mainly varied between + 0.2g and 2g but also briefly reached -1.07g. Maximum bank was 58° to the right and maximum pitch down was 20°. The right engine PRPM rose from 911 to the highest recordable value of 1500 in 7 seconds and over the same period, the left engine PRPM rose from 916 to 1483. FDR data also showed that the problems began at an altitude of 8870 feet and that the loss of altitude was 760 feet and that the speed had been 225 KCAS prior to the upset but had increased significantly to 243 KCAS during the 10 seconds prior to the rapid increase in PRPM. Despite the selection of full power, the speed then dropped towards 140 KCAS. As the speed reduced, the Commander had realised that the right engine PRPM was excessive and called ”propeller overspeed” after which the First Officer believed he had completed the memory actions of the applicable QRH drill. However, when the propeller continued at an excessive rpm, the QRH drill was consulted and completed during which it was found that the memory item “Alternate Feather” had been omitted from the memory actions. With the Alternate Feather set to ‘Feather’ the propeller blades feathered and propeller rotation ceased. The mandated action to complete the QRH drill for shutdown of the affected engine then followed. By this time, FDR data showed that 3 minutes and 34 seconds had elapsed since the over speed had occurred with an unintended descent of 1132 feet to an altitude of 7,728 feet in an area where the SSA was 7000 feet.
+The Commander reported already having determined that continuing to destination was no longer a safe option and had turned left and set course back to Tromsø.  An emergency was declared and the intention to return to Tromsø advised following a position request from Sørkjosen AFIS. The remainder of the flight passed without further event. Even after the arrival back in Tromsø,  the flight crew remained unaware what had caused the over speed.
+Extensive examination of all the relevant evidence failed to find any airworthiness factor which had or might have contributed to the event. The Investigation was unable to establish how far below Flight Idle the power levers came before they were instinctively pushed forward again when it was realised that something was seriously wrong. The Investigation considered that “the fact that damage was limited to the right engine can indicate that the right Power Lever was pulled somewhat further back than the left. This may be due to pure chance or that the hand, due to the geometry of the arm, was twisted a little when the handles were pulled back. A factor can also be how long the Power Levers stayed behind Flight Idle.  The existence of rigging differences between the two engines is also possible”. The Investigation did not identify any significant differences between the two engines or their ability to withstand propeller overspeeding.
+Although apart from damage to the air inlet the right engine was externally intact, internal damage to it was extensive and included:
+
+
+ Separation of the engine-to-gearbox shaft 
+
+ Significant damage to the compressor caused by the passage through it of metal fragments
+
+ Separation and partial melting of the LP turbine shaft
+
+ Separation and partial melting of the HP turbine shaft
+
+ Major damage to the vane rings for the power turbine second stage 
+
+ Complete destruction of most of the turbine blades on the power turbine second stage 
+
+ Significant damage due to contact between rotating and stationary parts in a number of locations
+
+
+The Investigation noted the following AFM Engine Limitation:
+“In-flight operation of the POWER levers aft of the FLT IDLE gate is prohibited.
+Failure to observe this limitation will cause propeller overspeed, possible engine
+failure and may result in loss of aircraft control.”
+It was considered that “any movement of the Power Levers behind Flight Idle while the aircraft is airborne has an element of risk. The propeller rotational speed can exceed permitted values and at worst cause mechanical damage. Furthermore, the aerodynamic drag increases severely, which might cause loss of control of the aircraft”. It was noted that as for most turbopropeller aircraft types, a small release trigger must be lifted to disengage a mechanical stop before continued rearward movement of the power levers becomes possible. In the case of the incident aircraft type, the release trigger can be lifted with the power levers anywhere in the permitted ‘Flight’ range. If this action is take in flight, a loud warning sound will occur. 
+The Investigation noted the existence of an optional modification, which had not been taken up by Widereøe at the time of the event, which prevents movement below Flight Idle unless the radio altitude is 20 feet or less or the aircraft air/ground sensing system is in ‘ground’. 
+The Investigation came to the conclusion that:
+
+
+ the incident occurred due to too weak safety barriers in the protection systems on the Power Levers.
+
+
+
+ the left engine was not seriously damaged, probably because it did not reach the same degree of propeller overspeed as the right engine.
+
+
+
+ the left engine by mere chance avoided similar damages and (so) the incident (must be regarded as serious because) the aircraft could have lost engine power on both engines.
+
+
+
+ the left engine was not seriously damaged probably because it did not reach the same degree of propeller overspeed as the right engine.
+
+
+The AIBN also noted that during their investigation of a Widereøe DHC8-100 accident at Hammerfest on 1 May 2005, the crew had reported hearing “something they likened to birds twittering” without knowing what it meant, which had in retrospect been identified as the warning sound signifying the release of the mechanical stop which removes the Flight Idle gate. Although it had been concluded that this issue had not had any direct bearing on the accident outcome, one of the seven Safety Recommendations made in the 2009 Norwegian language Final Rep ort had been to the effect that "Widerøe should consider whether the pilots’ knowledge and awareness of this system can be improved.”.
+One Safety Recommendation was made as a result of the Investigation: 
+
+
+ that Transport Canada and EASA require the type certificate holder (Bombardier) to introduce measures to prevent propeller overspeed during unintended management of Power Levers.
+
+
+The Final Report of the Investigation was released on 22 June 2012.
+
+Further Reading
+ AIBN Report SL 2012/05
+
+
+
+

@@ -1,0 +1,219 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+3 Related Articles
+4 Further Reading
+
+
+Description
+On 4 February 2015, an ATR72-600 (B-22816) being operated by TransAsia Airways on a scheduled domestic passenger flight from Taipei Songshan to Kinmen as GE235 in day VMC crashed out of control into the Keelung River in central Taipei three minutes after take-off. Having flown close to several high buildings, near to impact, it passed low over a road bridge and one wing struck a moving taxi injuring both occupants, one seriously. The aircraft was destroyed and there were 43 occupant fatalities including all 3 flight crew and one of the two cabin crew. 14 of the remaining occupants sustained serious injuries and one sustained minor injuries. Some railings and a light pole at the edge of the bridge were also damaged.   
+
+Investigation
+An Investigation was carried out by the Taiwan Aviation Safety Council (ASC). Both the FDR and 2 hour CVR were recovered and data from both of them were successfully downloaded. The PCMCIA Card from the QAR was also recovered undamaged and found to contain almost equivalent data to that on the FDR. Recorded ATC data were also available.
+It was found that three pilots were on the flight deck, two qualified as Captain on type as the operating crew and a 63 year-old ATR72-500 First Officer, who was undergoing differences training for the ATR72-600, was occupying the supernumerary crew seat as an Observer. Captain 'A' was 42 years old and was occupying the left hand seat as commander. He was a former Air Force pilot who on retirement had joined another airline and undertook training to become an Airbus A330 First Officer but failed to qualify. He had then joined TransAsia where he had qualified as an ATR72-500 First Officer in 2011 and had been promoted to Captain in August 2014. In November 2014, he had completed differences training for the ATR72-600 and transferred to that fleet as a Captain. He had accumulated 4,914 total flying hours which included 3,151 hours on the ATR72-500 and approximately 250 hours on the ATR72-600. Captain 'B' was 45 years old and had joined TransAsia in June 2006 and completed training as a First Officer with the Company on the ATR72-500 in August 2007. Four years later he had been promoted to Captain and then in February 2014, he had completed differences training and transferred to the ATR72-600 fleet as Captain. He had accumulated 6,822 total flying hours which included 5,687 hours on the ATR72-500 and 795 hours on the ATR72-600.
+The flight was the third of four sectors for the flight crew consisting of two return flights from Songshan to Kinmen. Take-off from runway 10 was commenced with Captain 'A' as PF, Four seconds later, the PM stated that the Automatic Take-off Power Control System (ATPCS) was not armed. The PF responded that the take-off would continue which was acknowledged by the PM. After a further seven seconds, the PM advised that the ATPCS was now indicating 'armed' and the aircraft became airborne 11 seconds after that. The AP was engaged soon afterwards in LNAV and, at 115 knots, IAS modes. TWR instructed the aircraft to change to Taipei APP as it commenced a climbing right turn passing 1000 feet in accordance with the assigned SID. Then, as it passed 1200 feet, the FDR recording indicated that the left engine was operating in an uptrim condition with its bleed valve closed which "corresponded with the beginning of an ATPCS sequence" in which the right engine had been auto feathered. The Master Warning was annunciated accompanied by an "ENG 2 FLAME OUT AT TAKE OFF" message in the Engine Warning Display.
+The AP was disconnected almost immediately and the PF announced that he would "pull back engine one throttle”. The PM responded with “wait a second cross check”, but the rearward power lever movement of engine one had already been commenced, although it was then stopped at 66 degree Power Lever Angle (PLA). The aircraft continued climbing with IAS and HDG modes now set and with the selected speed of 106 knots and the selected heading initially at 131° which later changed to 092°.
+The PM then called “OK Engine Flame out Check”, the PF responded with “check”, the PM stated “check uptrim yes, auto feather yes” and the PF responded with “OK”. At almost the same time, the PM called out “watch the speed” which had reduced to 101 KCAS and the PF then announced that he was going to further reduce power on engine one and did so to the 49 degree PLA position. Whilst this was being done, the PM said "OK now number two engine flameout confirmed” to which the PF responded to with another “OK" but left the left engine power lever at the 49 degree PLA position.
+Thirty one seconds after the "ENG 2 FLAME OUT AT TAKE OFF" annunciation, the aircraft had reached 1,630 feet, the highest altitude recorded, and the airspeed was 102 KCAS. The IAS mode then reverted into PITCH HOLD mode for a continuous period of 20 seconds. The power setting was not sufficient to support continued climb and one second later the Stall Warning was active for one second. The PF then said “terrain ahead”, the PM replied “OK lower…” and the Observer  said “you are low”. The Stall Warning was activated again for four seconds, this time with the stick shakers. The PM responded with “okay push, push back”, to which the PF stated “shut”; the PM then responded “wait a second…throttle throttle” and the engine one Power Lever was moved to the fully retarded Idle position and the engine two (left engine) Power Lever was advanced to 86 degrees. The aircraft was "now in a continuous left turn with a 10 to 20 degree angle of bank and in descent through 1,526 feet at 101 KCAS”. Engine one was then shut down.
+Eleven seconds after this shutdown was complete, the PM declared a MAYDAY as the aircraft began to bank to the right. The crew attempted to engage the AP again twice but failed whilst the Observer asked "how it had become like this". Immediately after two failed attempts to engage the AP, during which the Observer asked "How has it becomes like this", the PM first stated "both sides...lost" and then immediately followed this with "no engine flameout, we lost both sides". The PF began repeating "restart the engine" and, after a further 16 seconds, engine one had been restarted and had reached 30% Nh with the aircraft descending through 400 feet. The PF said “Wow pulled back the wrong side throttle” and "from that time on, the aircraft entered an aerodynamic stall from which it did not recover". An EGPWS PULL UP Warning occurred and the left bank increased suddenly to 80° and the left wing collided with the taxi on the road bridge before continuing to bank left and enter the river inverted three minutes after becoming airborne from Songshan.  
+The picture sequence below shows the final moments with aircraft stalled taken by a dashcam on a vehicle which was following the taxi.
+
+ The aircraft as it descended out of control into the Keelung River just before and just after the left wing hit a taxi [reproduced from the Official Report]
+After reviewing the assembled evidence, the observations of the Investigation included the following:
+
+
+ There were no recorded defects in the right hand engine AFS prior to departure. However, the ATPCS malfunction which created the circumstances which the crew proved unable to respond to effectively was attributable to specific 'compromised' solder joints in the AFU which led to random and usual transient electrical discontinuities that prejudiced the correct operation of the AFU. It was found that this problem had been known to the aircraft manufacturer ATR since 2005 and their response had been to say that it was related to component ageing and recommend inspections for continued integrity as mitigation. It was concluded that this response had been inadequate and noted that during the Investigation, engine manufacturer Pratt & Whitney Canada had advised that "a product improvement has been made to the auto-feather control and is currently (being) implemented on all new production engines" with Service Bulletin 21880 being issued in October 2015 for the replacement of existing auto-feather control with the improved one on in-service aircraft. 
+
+ All three pilots on the flight deck had achieved the majority of their ATR 72 experience on the -500 variant which, although covered by a type rating common to the -600, is sufficiently different to require that pilots trained initially on the -500 must undertake significant 'differences training' course before being permitted to operate the -600 variant. Of relevance to the annunciation of ATPCS faults during a take-off was an important difference in the pilot response to failure of the system to indicate 'ARM'. For the -500, TransAsia fleet policy permitted flight crews to continue the take-off if the ATPCS did not show 'ARM' as long as the RTOW had been checked before take-off,  whereas ATR72-600 policy required crews to always reject the take-off if the ATPCS did not show ‘ARM’. Although -600 crews were so trained, the accident flight crew decision to continue with their take-off was contrary to this and increased the chances of the subsequent airborne system malfunction which led to auto feather of the right hand engine and uptrim of the left hand engine. However the distinction in ATPCS policy between the two variants was not documented anywhere and the -500 and -600 Normal Checklists both contained the procedure which was applicable only to the -500. It was noted that ATR guidance if the ATPCS 'ARM' annunciation was absent or intermittent during take-off was revised after, and as a consequence of, the investigated event so that it was the same for both variants: reject the take-off. 
+
+ Neither TransAsia documentation nor the ATR AFM and FCOM specified an abnormal procedure for the all engines rejected take-off case as should have been made before the accident flight got airborne.
+
+ Once the unexpected right hand engine auto feather had occurred, the pilots failed to communicate with each other effectively or follow prescribed SOPs. It was noted that "if the crew had done nothing more than confirm the loss of thrust on the right hand engine and returned to land using the remaining engine, the occurrence would not have occurred".  
+
+ It was noted that "the flight crew’s performance reflected many of the known findings" of the 1998 AIS/AECMA 'Propulsion System Malfunction + Inappropriate Crew Response (PSM+ICR)' Report.
+
+ Although Captain A had passed his command upgrade and -600 differences training, it was concluded that "there were indications that his ability to handle an engine failure at takeoff was marginal" with a range of negative comments in his training file on "his understanding and performance of single engine flameout at takeoff procedures". 
+
+ Although the -600 differences training programme for -500 pilots used by TransAsia "was developed in accordance with the corresponding EASA Operational Evaluation Board (OEB) report" and was in compliance with applicable regulatory requirements, interviews carried out with TransAsia's -600 pilots "indicated that pilots without advanced automation experience found the differences training to be inadequate, especially in regard to FMS and electronic displays familiarisation". It was considered that the failure of  Captain A to "utilise the autopilot and flight warning system to identify and manage the emergency situation...may have been a result of his lack of knowledge, understanding and confidence in using the aircraft’s automated support systems, which may, in part, have been a function of insufficient differences training". It was considered that the current 5-day -600 differences course and subsequent line training should be reviewed to see if it is "sufficient to ensure that TransAsia flight crews are competent to operate the ATR72-600 under all normal and non-normal conditions". It was particularly noted that the transition from the conventional flight instruments including analogue displays of the -500 variant to an EFIS environment and electronic check list of the -600 represented significant change and that "the visual pattern and information picked up by the crew in an emergency situation may not be retrieved at the same location with the same display". 
+
+ The event under Investigation occurred less than 7 months after a fatal accident to another TransAsia ATR72 aircraft which was also attributed to poor flight crew performance and in particular to "systemic flight crew non compliance with procedures" and an absence of effective risk management at the Operator which had not been adequately addressed by the Safety Regulator. It was found that "these safety issues were still being addressed by the airline at the time of the event being investigated here" and concluded that Regulatory Oversight needed to be enhanced to ensure that the airline's safety improvement programs are "implemented in a timely and effective manner".     
+
+
+The Investigation formally documented a series of 9 Findings related to Probable Causes as follows:
+
+
+Powerplant
+
+
+
+ An intermittent signal discontinuity between the right hand engine Auto Feather Unit (AFU) and its associated torque sensor may have led to the automatic take-off power control system (ATPCS) not being continuously armed during the take-off roll and being activated during the initial climb which resulted in a complete ATPCS sequence including the auto feathering of the right hand engine
+
+ The available evidence indicated that the intermittent discontinuity between the torque sensor and the right hand engine AFU was probably caused by compromised soldering joints inside the Unit.
+
+
+
+Flight Operations
+
+
+
+The flight crew did not reject the take off when the ATPCS 'ARM' indication did not light during the initial stages of the take off roll.
+
+TransAsia did not have a clearly documented company policy with associated Instructions, Procedures and Notices to Crew for ATR72-600 operations which communicated the requirement to reject the take-off if the ATPCS did not arm. 
+
+Following the uncommanded auto feather of the right hand engine, the flight crew failed to perform the documented failure identification procedure before taking any action. That resulted in the Pilot Flying’s confusion regarding the identification and nature of the loss of engine power and he reduced power on the operative left hand engine.
+
+The flight crew’s non-compliance with TransAsia Airways ATR72-600 Abnormal and Emergency Procedures for an engine flame out at take-off resulted in the Pilot Flying reducing power on and then shutting down the wrong engine.
+
+The loss of engine power during the initial climb and inappropriate flight control inputs by the Pilot Flying generated a series of stall warnings, including activation of the stick pusher. The crew did not respond to the stall warnings in a timely and effective manner. 
+
+The loss of power from both engines was not detected and corrected by the crew in time to restart an engine. The aircraft stalled during the attempted restart at an altitude from which the aircraft could not recover from loss of control.
+
+ Flight crew coordination, communication, and threat and error management (TEM) were less than effective and compromised the safety of the flight. Both operating crew members failed to obtain relevant data from each other regarding the status of both engines at different points in the occurrence sequence. The Pilot Flying did not appropriately respond to or integrate input from the Pilot Monitoring.  
+
+
+It further documented a series of 10 Findings Related to Risk as follows:
+
+
+Powerplant
+
+
+
+The engine manufacturer attempted to control intermittent continuity failures of the AFU by introducing a recommended Inspection Service Bulletin (ISB) at 12,000 flight hours to address ageing issues. Recorded AFU failures at 1624 flight hours and 1206 flight hours show that causes of intermittent continuity failures of the AFU were not only related to ageing but also to other previously undiscovered issues and that the ISB implemented by the engine manufacturer to address this issue before the occurrence was not sufficiently effective. The engine manufacturer has issued a modification addressing the specific finding of this Investigation. This new modification is currently implemented in all new production engines, and another Service Bulletin is available for retrofit.
+
+
+
+Flight Operations
+
+
+
+ The Pilot Flying’s decision to disconnect the Autopilot shortly after the first Master Warning increased his subsequent workload and reduced his capacity to assess and cope with the emergency situation.
+
+ The omission of the required Pre Take-off Briefing meant that the crew were not as mentally prepared as they could have been for the propulsion system malfunction they encountered after take-off.  
+
+
+
+Airline Safety Management
+
+
+
+ TransAsia Airways did not follow its own procedures when selecting and training the Pilot Flying for command upgrade. Its Quality Assurance processes had not detected that the command selection upgrade process had been compromised. 
+
+ TransAsia Airways did not use widely available crew resource management (CRM) guidelines to develop, implement, reinforce and assess the effectiveness of their flight crew CRM training programme. 
+
+ While the TransAsia Airways ATR72-600 differences training program was consistent with the EASA ATR72 Operational Evaluation Board (OEB) report and compliant from a Civil Aeronautics Administration (CAA) regulatory perspective, it may not have been sufficient to ensure that their flight crews were competent to operate the ATR72-600 under all normal procedures and a set of abnormal conditions.
+
+ The ATR72-600 differences training records for the accident aircraft flight crew showed that Captain 'A' probably needed more training on the single engine flame out at take-off procedure. That meant that if the differences training records were stored, adequately maintained and evaluated by appropriate TransAsia Airways Flight Operations and/or Quality Assurance personnel, there would have been yet another opportunity to review Captain A’s ability to handle engine out emergencies.
+
+ Captain A’s performance during the occurrence was consistent with the performance weaknesses noted during his training, including his continued difficulties in handling emergency and/or abnormal situations, including engine flame out at take-off and single engine operations. However, TransAsia Airways did not effectively address the evident and imminent flight safety risk that Captain A represented.
+
+
+
+Regulatory Oversight
+
+
+
+ The Civil Aeronautics Administration (CAA) oversight of flight crew training, including crew resource management (CRM) training, is in need of improvement.   
+
+ The systemic nature of TransAsia Airways' flight crew non-compliance with standard operating procedures identified in previous investigations, including the fatal accident to a Company ATR72 less than seven months previously, remained unaddressed at the time of the accident investigated here. Although the CAA had conducted a special audit after this previous accident, which identified the standard operating procedures compliance issue, they did not ensure that the Operator responded to previously identified systemic safety issues in a timely manner to minimise potential future risk.
+
+
+A total of 16 Safety Recommendations were made as a result of the Investigation as follows:
+
+
+ that TransAsia Airways document a clear company policy with associated instructions, procedures, training, and notices to crew members for ATR72-600 operations communicating the requirement to reject a take-off in the event that the automatic take off power control system (ATPCS) is not armed as required. [16-06-001]
+
+ that TransAsia Airways conduct a thorough review of the airline’s flight crew training programmes, including recurrent training, crew resource management (CRM) training, upgrade training, differences training, and devise systematic measures to ensure that:
+
+Standardised flight crew check and training are conducted;
+
+All flight crews comply with standard operating procedures;
+
+All flight crews are proficient in handling abnormal and emergency procedures, including engine flame out at take-off;
+
+The airlines use widely available guidelines to develop, implement, reinforce, and assess the effectiveness of their flight crew resource management (CRM) training programme, particularly the practical application of those skills in handling emergencies;
+
+Command upgrade process and training comply with the airline’s procedures and that competent candidates are selected; 
+
+ATR72-600 differences training and subsequent line training are sufficient to ensure that flight crews are competent to operate the ATR72-600 under all normal and abnormal conditions; and
+
+All flight crew training records during the employment period are retained in compliance with the aircraft flight operation regulations; [16-06-002]
+
+
+
+ that TransAsia Airways improve the airline’s internal quality assurance oversight and audit processes to ensure that recurring safety, training, and administrative problems are identified and rectified in a timely manner. [16-06-003]
+
+ that TransAsia Airways implement and document an effective and formal pilot performance review programme to identify and manage pilots whose performance is marginal. [16-06-004]
+
+ that TransAsia Airways evaluate the safety culture of the airline to develop an understanding of the reasons for the airline’s unacceptable safety performance, especially the recurring non-compliance with procedures. [16-06-005]
+
+ that the Civil Aeronautics Administration review airline safety oversight measures to ensure that safety deficiencies are identified and addressed in an effective and timely manner. [16-06-006]
+
+ that the Civil Aeronautics Administration implement a highly robust regulatory oversight process to ensure that airline safety improvements, in response to investigations, audits, or inspections, are implemented in a timely and effective manner. [16-06-007]
+
+ that the Civil Aeronautics Administration conduct a detailed review of the regulatory oversight of TransAsia Airways to identify and ensure that the known operational safety deficiencies, including crew non-compliance with procedures, non-standard training practices and unsatisfactory safety management, were addressed effectively. [16-06-008]
+
+ that the Civil Aeronautics Administration provide inspectors with detailed guidance on how to evaluate the effectiveness of operator non technical training programmes such as crew resource management (CRM) and threat and error management (TEM) training programmes. [16-06-009]
+
+ that UTC Aerospace System Company work with the manufacturers of engine and aircraft to assess the current operating parameters and aircraft risks associated with the PW127 series engine auto feather unit (AFU) to minimise or prevent occurrences that could result in uncommanded auto feather. [16-06-010]
+
+ that Pratt & Whitney Canada work with manufacturers of the auto feather unit and airframe to assess the current operating parameters and aircraft risks associated with the PW127 series engine auto feather unit (AFU) to minimise or prevent occurrences that could result in uncommanded auto feather. [16-06-011]
+
+ that Avions de Transport Régional (ATR) work with manufacturers of the auto feather unit and engine to assess the current operating parameters and aircraft risks associated with the PW127 series engine auto feather unit (AFU) to minimise or prevent occurrences that could result in uncommanded auto feather. [16-06-012]
+
+ that Avions de Transport Régional (ATR) publish in the flight crew operating manual (FCOM) an operational procedure related to rejected take-off and expanded information regarding conditions leading to rejected take off. [16-06-013]
+
+ that the European Aviation Safety Agency require a review at industry level of manufacturer’s functional or display logic of the flight director so that it disappears or presents appropriate orders when a stall protection is automatically triggered. [16-06-014]
+
+ that the European Aviation Safety Agency study the content and the duration of the minimum requirement regarding a differences training programme between a conventional avionics cockpit and an advanced suite including enhanced automated modes for aircraft having the same type rating. [16-06-015]
+
+ that the European Aviation Safety Agency require a review of manufacturer's airplane flight manual (AFM) to ensure that a rejected take-off procedure is also applicable to both engines operating. [16-06-016]
+
+
+The Final Report was published on 30 June 2016.
+
+Related Articles
+
+Loss of Control
+
+Flame Out
+
+Stall
+
+Rejected Take Off
+
+Crew Resource Management
+
+Electronic Flight Instrument System
+
+SOPs
+
+Terrain Avoidance and Warning System (TAWS)
+
+AT75, vicinity Magong Taiwan, 2014
+
+
+Further Reading
+
+AIA/AECMA Project Report on Propulsion System Malfunction Plus Inappropriate Crew Response (PSM + ICR), G.P. Sallee, D. M. Gibbons, November 1998
+
+
+
+
+
+

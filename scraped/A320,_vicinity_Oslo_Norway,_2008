@@ -1,0 +1,71 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 19 December 2008, an Airbus A320-200 being operated by Aeroflot on a scheduled passenger flight from Moscow Sheremetyevo to Oslo descended at a high rate and airspeed significantly below its cleared altitude whilst attempting to establish on the ILS localiser for runway 19R at destination in night VMC. An EGPWS ‘TERRAIN AHEAD’  activation resulted following which a recovery was made. There were no injuries to the 61 occupants during the excursion and the approach was subsequently discontinued in favour of vectoring to a second approach which was uneventful.
+
+Investigation
+An Investigation was carried out by the AIBN. DFDR and ATC radar data was available to support the Investigation. These sources were used to construct the annotated diagram of the approach track shown below. 
+It was found that although there was no significant cloud at the destination airport, surface visibility was poor with freezing fog drifting in the vicinity so that whilst it was proving necessary to alternately close each of the two runways periodically for runway surface treatment, it was also necessary for ATC to bear in mind that Cat 2/3 approaches were only possible to runway 19R. The initial ATIS copied by the inbound A320 gave light surface winds with runway 19R as the runway in use and visibility expected to reduce to 800 metres in fog. This was input to the FMGS as the primary approach but then on initial contact with Oslo APP, the runway to expect was changed to 19L and the AFGS primary was changed accordingly. However, whilst not directly informed of it, the crew then began noticing that other aircraft were being informed that LVP were in force and were aware that this implied an approach to 19R (or 01L). 
+Eight minutes after initial contact with APP, and with speed control at 210 KIAS, the aircraft had been transferred to Oslo DIR which gave a radar heading of 280° and advised “prepare now for 19R localiser frequency 111.3 due weather conditions”. The crew did not notice the further runway change and therefore incorrectly read back “…heading 280° cleared ILS 19L” without challenge. After an exchange with another aircraft, DIR re-advised the runway and this time the read back was correct. By this point, the aircraft was configured with flaps 1 and less than a minute from the 19R localiser without a closing radar heading or explicit clearance to establish.
+The aircraft commander, who was PF explained to the Investigation that “he did not feel comfortable with the situation and that he considered requesting vectors for a new approach”. However due to a lot of traffic on the radio and proximity of the aircraft to the localiser, he decided to re-programme the FMGS for 19R and passed control to the First Officer whilst he did so. He reported needing two attempts to key in the correct runway for landing, but had not recognised that this was caused by mental overload and high stress level. Having set up the AFGS, he took over again as PF and activated APP mode, by which time the aircraft was so close to the localiser that “capture” happened almost immediately whilst flying though it at an angle of about 90 degrees so that the AP aggressively introduced a bank left with some sideslip to capture the localiser beam. 
+Upon raising his head after briefly making some selections on the FMGS control panel, the PF perceived an aggressive aircraft pitch up instead of the actual bank and responded by disconnecting the AP and pushing the sidestick forward to counteract the false impression of pitch up. The aircraft was at 4380 feet QNH with a 30° bank to the left and a descent rate of 2200 fpm. As the aircraft passed 4 000 ft a few seconds later, the bank had increased to approximately 35° and the descent rate to 4600 fpm. At the same time, the aircraft was flying through the centre of the localiser beam with a heading of approximately 240° still in a left turn to regain it from the west. 
+
+ Estimated flight path relative to the runway 19R ILS LOC (reproduced from the Official Report)
+The rate of descent continued to increase, reaching a maximum of 5800 fpm and triggering an EGPWS warning of “TERRAIN AHEAD, TERRAIN AHEAD” before the commander began corrective action to an eventual wings level recovery back to the cleared altitude of 4000 feet. During the descent, the First Officer made calls of ‘SPEED SPEED’ to signify that the Flap 1 limit of 230 KIAS was going to be exceeded but subsequently stated that he “did not recognise the absence of the commanders’ response as a sign of incapacitation and therefore did not intervene by taking controls”. However, FDR data shows that on two occasions the First Officer briefly made contrary side stick inputs during the recovery without taking over. Information collected by the Investigation showed that the overall flying experience of the First Officer was very low relative to both his age and to the overall experience of the aircraft commander.
+FDR data showed that the aircraft had descended to a minimum of 2540 feet and that the lowest altitude directly above the terrain during the incident was 2030 feet - although nearby terrain reached to within 565 feet of this. FDR data also showed that the descent from 4000 feet to 2540 feet had taken about 17 seconds during which the airspeed increased to 260 knots, 30 knots above the flaps 1 limit.
+ATC DIR noticed the altitude deviation as the aircraft approached its minimum descent altitude and instructed the crew to start climbing to a “safe altitude” of 4 000 feet before briefly losing radar contact. 
+The aircraft commander described to the Investigation having been disoriented when looking up as the aircraft began the sharp left bank towards the localiser and stated that he had disconnected both the AP and A/T in an attempt to regain control and situational awareness. He explained that he had subsequently concluded that “he most likely was exposed to spatial disorientation” which the Investigation noted had been reviewed in a Safety Study carried out by the Australian Transport Safety Bureau (ATSB) and published as “An overview of spatial disorientation as a factor in aviation accidents and incidents”.
+In respect of ATC actions in repeatedly changing runway in use, the Investigation noted the remarks on this subject on page 55 of the European Action Plan for the Prevention of Runway Excursions (EAPPRE). 
+The Investigation concluded that the aircraft crew had ‘fallen behind the aircraft’ as they attempted to get it established on the ILS approach and “became stressed at a time when the focus should be directed at flying the aircraft” rather than  making changes in the aircraft systems such as those required to change the active landing runway in the AFGS.
+It was concluded that “a risk of controlled flight into terrain (CFIT) was present but not imminent” on the basis that “when at its lowest altitude of 2540 feet, it would have required approximately one minute of level flight before (the aircraft) would (have been) in conflict with rising terrain ahead”. It was noted that “although the recovery was late and slow, once initiated it was positive to the point where the First Officer elected not to intervene more aggressively”.
+It was noted that whilst it is desirable for ATC to embrace flexibility to achieve efficient traffic processing, this must not be at the expense of safety given that “there is a point where flexible and efficient traffic processing reaches a limit which may threaten safety”. It was considered too that “established work methodology should not be deviated from, for example changing the landing runway when the aircraft is less than 30 nm out should not happen unless the crew (are willing to) accept the change". 
+However, it was accepted that “regardless of factors that could have been changed by air traffic control, the commander has the overall responsibility for safe flying”.
+The Investigation considered that “in this incident both ATC and the crew had time to solve the misunderstandings prior to (the incident aircraft) approaching the localiser” and concluded that “it is both parties responsibility to ensure precise communication”.
+The Final Report of the Investigation was published on 11 June 2013 and made available in English translation. No Safety Recommendations were made. 
+
+Further Reading
+
+Controlled Flight Into Terrain
+
+CFIT Precursors and Defences
+
+Somatogravic and Somatogyral Illusions
+
+Unstabilised Approach: Late Runway or Approach Type Change
+
+Low Visibility Procedures
+
+Crew Resource Management
+
+Situational Awareness
+
+Spatial Disorientation
+
+Terrain Awareness
+
+Cross-checking Process
+
+Human Factors in AGC
+
+Response to a "PULL UP" Warning
+
+An overview of spatial disorientation as a factor in aviation accidents and incidents. Australian Transport Safety Board (2007) (as referenced from the Official Report)
+
+
+
+
+
+

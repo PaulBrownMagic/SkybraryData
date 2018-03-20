@@ -1,0 +1,88 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 2 January 2005, a Boeing 767-300 being operated by Air Canada on a scheduled passenger flight in day VMC from Toronto to Santiago, Chile was approximately 180 nm333,360 m 333.36 km 1,093,700.788 ft north of the intended destination and in the cruise at FL370 when it suffered a run down of the left engine which flight deck indications suggested was due to fuel starvation. A MAYDAY was declared to ATC and during the subsequent drift down descent, with the cross feed valve open, the failed engine was successfully restarted and the flight was completed with both engines operating without further incident.
+
+Investigation
+An Investigation was carried out by the Canadian Transportation Safety Board. It was established that the only prior warning which the flight crew had received of the imminent engine run down 45 seconds before it occurred was an EICAS warning of low fuel pressure output from both boost pumps in the left main fuel tank. Subsequently, the left engine had been successfully restarted passing approximately FL230, 18 minutes after the rundown, with both engines operating normally thereafter and the remainder of the flight completed without further incident 
+It was found that whilst preparing for the departure of the flight from Toronto, the flight crew had noticed a discrepancy between the indication on the fuel totaliser (9600 kg) and the amount entered as remaining by the previous crew in the Aircraft Technical Log (7600 kg). When they entered the fuel upload which had been made into the ACARS using 7600 kg from the previous flight, the ACARS unit indicated that there was insufficient fuel for the flight. When the crew manually changed the amount of the arrival fuel to 9600 kg, the ACARS accepted the upload entered. 
+A further indication which was indicative of a fuel discrepancy was then found by the crew in that the rudder trim had been left set at three units left at the end of the previous flight whereas it would usually be less than one unit from neutral.  The setting might have been taken as an indication that the aircraft had been flown whilst trimmed left-wing down, a status consistent with there being less fuel in the left main wing tank than the right main wing tank.
+The FQIS flight deck indications were recorded as 18500 kg in both  main tanks and  24 500 kg in the centre tank making a total fuel load of 61500 kg, a figure also indicated by the Flight Management Computer (FMC) and compatible with the figure for required fuel on the operational flight plan of 61300 kg.
+It was noted that Air Canada procedures at the time required the Captain of the aircraft to resolve any fuel loading discrepancy before departure but failed to specify the way this should be done.
+Once the flight had departed, en route fuel checks were made and did not at any time indicate a problem with fuel endurance in relation to the apparent fuel available in relation to the intended destination or appropriate fuel reserves. However, the crew noticed that the left main tank fuel quantity blanked out intermittently during the flight. The crew therefore relied on the fuel quantity indicated by the FMC, which calculates the fuel remaining by subtracting the fuel consumed by the engines from the total amount input at engine start. When the engine flamed out, the FQIS flight deck display showed 5700 kg of fuel in the right main tank with the left main tank indicator blank. The FMC showed the total fuel remaining was 10 900 kg. After landing, the actual fuel remaining on board was 4700 kg, 5000 kg less than the FMC indicated. In the absence of any evidence that there had been a fuel leak, it was concluded that the fuel load on the aircraft must have been 5000 kg less than was indicated after fuelling. It was noted that despite departing with significantly less than the required minimum fuel on board, en route conditions had resulted in the flight arriving at destination with adequate fuel to proceed to the flight-planned alternate.
+The Investigation found that the FDR, which records total fuel quantity from the FQIS, had recorded zero fuel quantity for most of the flight, indicating a failure in the FQIS. It was then discovered that the aircraft had had a history of left tank fuel indication problems during the five weeks prior to the occurrence. There had been a total of five defect reports stating that the left fuel quantity indication had gone blank or was inoperative. Each of these had each been resolved by the raising of an ADD with the aircraft then released to service under MEL provisions which included the requirement to verify the fuel quantity measuring sticks before each departure. Various maintenance actions had been taken prior to clearance of the first three of these defect entries but the fourth was signed off as fixed without any maintenance work being done when the system performed normally on two consecutive flights and the fifth, made six days before the investigated occurrence, was incorrectly actioned so that the MEL conditions relevant to the defect were not being applied. After the incident flame-out, a defect entry was again made for the left fuel quantity indication being blank and again the aircraft was dispatched using an ADD. Eventually, rectification was achieved by replacement of a wiring harness in the left wing which accounted for both the faulty FQIS readings and the premature automatic shut-off of the refuelling of the left main tank. 
+The Investigation found as to Causes and Contributing Factors as follows:
+
+
+ The fuel quantity indicating system was defective. As a result, during refuelling the left main wing tank shut off prematurely when the tank was approximately 5000 kg less than full; fuel quantity indications were incorrect; and, during the flight, fuel quantity and balance warnings were inoperative.
+
+
+
+ A maintenance control error removed the fuel quantity indicating system defect from the aircraft deviation list. As a result the aircraft was dispatched without the fuel load being validated using measuring sticks in accordance with the MEL.
+
+
+
+ The Operator’s procedures do not specify how to resolve fuel quantity discrepancies, nor does flight dispatch advise the crew of the reported arrival fuel. As a result, when the crew adjusted the fuel quantity to get the ACARS to accept the fuel upload, it defeated the intent of the fuel check and did not resolve the discrepancy. The result was acceptance of an inadequate fuel load.
+
+
+
+ The Operator did not incorporate Boeing Operations Manual Bulletin ACN-53 R2 into the aircraft operating manual. The bulletin recommended that the aircraft be landed at the nearest suitable airport in the event of a main fuel tank quantity indicator failure in flight with fuel loaded in the centre tank. As a result, when a main fuel tank quantity indicator failed after take-off from Toronto, the crew continued the flight.
+
+
+
+ The fuel in the left main wing tank was exhausted without any prior fuel low-level warning, resulting in the left engine flaming out.
+
+
+In respect of Risk, the Investigation concluded that: 
+
+
+ The Operator’s maintenance control and technical dispatch procedures allowed the aircraft to be dispatched several times when it was not airworthy or in compliance with the minimum equipment list.
+
+
+
+ The aircraft operated throughout this flight with a fuel imbalance that exceeded the limitations published in the aircraft operating manual.
+
+
+
+ The Operator did not incorporate a Boeing Operations Manual Bulletin recommendation into its MEL Manual, resulting in the aircraft being dispatched during the month prior to this occurrence with fuel in the centre tank under the provisions of MEL 28-41-1-A, contrary to the Boeing recommendation.
+
+
+
+ In the event of a FQIS failure in flight, the Boeing 767 has no independent means of detecting low fuel quantity, nor does the QRH contain a precautionary procedure, similar to that contained in MEL 28-41-01-A, against a possible fuel leak. As a result, there is a risk of flight crew taking inappropriate action, feeding the leak, and depleting the fuel on the good side.
+
+
+Safety Action taken by Air Canada was noted but no Safety Recommendations were made. 
+The Final Report of the Investigation was authorised for release on 23 November 2005 and may be seen in full at SKYbrary bookshelf: TSB Aviation Investigation Report - A05F0001
+
+
+Further Reading
+
+Fuel Starvation, Stress, Fatigue and Nonstandard Phraseology (OGHFA SE)
+
+Fuel Leak and Confirmation Bias (OGHFA SE)
+
+Situational Awareness
+
+Defect Assessment
+
+Airworthiness Directive
+
+
+
+
+
+

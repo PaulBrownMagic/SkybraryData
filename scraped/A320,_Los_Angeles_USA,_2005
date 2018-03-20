@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Synopsis
+3 The Investigation
+4 Corrective Actions
+5 Related Articles
+6 Further Reading
+
+
+Description
+On 21 September 2005, an Airbus A320 operated by Jet Blue Airways made a successful emergency landing at Los Angeles Airport, California, with the nose wheels cocked 90 degrees to the fore-aft position after an earlier fault on gear retraction.
+
+Synopsis
+The official Report by the National Transportation Safety Board (NTSB) states that, after take-off, “The flight crew noted an error message displayed on the Electric Centralized Aircraft Monitoring (ECAM) system". There was a fault (L/G SHOCK ABSORBER FAULT) message for a nose landing gear (NLG) shock absorber.
+The DFDR data then indicated that the gear handle was positioned to the down position. The crew then received an error message of a fault for the nose wheel steering (WHEEL N/W STRG FAULT). There was no master warning so the FO continued flying the airplane while the captain troubleshot the ECAM system.
+The FO flew the airplane over Palmdale, California, at 14,000 feet mean sea level (msl) while the captain consulted the flight crew operating manual (FCOM) and maintenance control. The FCOM noted that the nose gear "may be caught at 90 degrees." The captain continued to evaluate the problem to ascertain the systems' status. The flight crew continually updated the cabin crew and passengers.
+The flight diverted to Long Beach, California. The captain decided to perform a flyby of the tower for verification on the gear status. The tower, Jet Blue ground personnel, and a local news helicopter advised him that the nose gear was canted 90 degrees to the left. The captain stated that after discussing the situation with company representatives, he decided to divert to LAX because it had optimum field conditions, runway length, and a better emergency/abnormal support services. The crew flew for several hours to burn fuel so that they could land at a lighter weight.
+The captain took note of the fuel burn to ensure that the center of gravity stayed within limits. The captain also advised the cabin crew that in the event that the nose gear collapsed, evacuation from the aft doors was not available so everyone would deplane from the forward exits. The flight crew advised the cabin crew to take the emergency procedures up to the point of egress, at which time the captain would advise the method.
+Prior to touchdown, the captain announced "brace" and the flight attendants also transmitted "brace" over the public address system.
+The captain flew the airplane for the landing. He touched down at 120 knots, and applied normal braking at 90 kts166.68 km/h 46.26 m/s. He held the nose gear off of the ground as long as possible. At 60 kts111.12 km/h 30.84 m/s, the flight crew shut down the engines. They did not use ground spoilers, reverse thrust, or auto braking. During the landing, the forward cabin crew could smell burnt rubber. The cabin crew remained at their stations as previously defined by the captain. The air traffic control tower confirmed that there was no fire, and the captain announced this to the cabin crew. After this notification, the passengers deplaned normally using an air stair.
+Upon touchdown, the NLG tires rapidly deflated and tore apart, and both wheels were worn into the axle. During landing, the airplane's trajectory was not affected by the abnormal NLG configuration or subsequent tire destruction, and the airplane stayed on the runway centerline.”
+
+The Investigation
+During the post-occurrence conducted tests and research it was determined that “A post-flight readout from the BSCU indicated 6.5 degrees for the NLG, which meant that the NLG was beyond 6.5 degrees from the centered position. It recorded two faults: at 1531, the L/G SHOCK ABSORBER FAULT, and at 1532, the WHEEL N/W STRG FAULT. Examination of the nose wheel assembly with a borescope revealed fractured and separated anti-rotation lugs.
+The purpose of the test was to find the root cause of the steering anomaly detected by the airplane's BSCU (Brake Steering Control Unit). The testing also indicated that when hydraulic pressure was not available to the unit, the BSCU would not automatically move the nose wheel assembly from a position greater than 6.5 degrees to its mechanically centered position and fault code 671 would be triggered.
+
+Corrective Actions
+Airbus issued Operations Engineering Bulletin (OEB) 175-1 (post Flight Warning Computer standard E3) and OEB 176 (Flight Warning Computer standard E2) in October 2005. This provided a procedure for the flight crew to reset the BSCU in flight. It discussed steps to take if the L/G SHOCK ABSORBER FAULT ECAM message was triggered at any time in flight and the WHEEL N/W STRG FAULT ECAM caution light illuminated after landing gear extension. Under those conditions, it noted that the flight crew could reset the BSCU when all landing gear doors indicated closed on the ECAM WHEEL page. Successful NLG centering and nosewheel steering recovery would be indicated if the WHEEL N/W STRG FAULT ECAM light was no longer illuminated. FAA AD 2005-24-06 and EASA AD 2006-0174 were subsequently issued to perform a NLG shock absorber charge pressure check and a repetitive borescope inspection of NLG upper support/cylinder lugs to mitigate the fatigue cracks that were induced by the BSCU Standard L4.5 (or earlier EMM standards). Furthermore, FAA AD 2007-18-19 was issued to supersede FAA AD 2005-24-06 and defines the related investigative/corrective actions referencing Airbus SB A320-32-1310. The SB A320-32-1310 introduces a modified and more robust upper support. The FAA AD 2007-18-09 also provides optional terminating action for repetitive inspections.
+Airbus issued new software standards L4.8 (sb a320-32-1305) and L4.9B that cancelled OEBs 175 and 176. BSCU standard 4.8 reduced the number of pre-landing test cycles to eight per flight, which they felt reduced the likelihood of fatigue. Standard 4.9B has no effective pre-landing test cycles to induce fatigue. Airbus made a design change to the upper support assembly and provided specific inspection requirements at NLG overhaul. They consider those changes plus incorporation of Standard 4.9B to be terminating action for this issue.
+
+Related Articles
+Airworthiness
+
+
+ Airworthiness
+
+ Airworthiness Directive
+
+ Damage Tolerance
+
+ Ageing Aircraft - Structural Failure
+
+
+Further Reading
+
+The full NTSB Report (LAX05IA312)
+
+
+
+
+
+

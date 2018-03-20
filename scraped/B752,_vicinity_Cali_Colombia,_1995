@@ -1,0 +1,295 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+3 Safety Recommendations
+4 Related Articles
+5 Further Reading
+
+
+Description
+On 20 December 1995, a Boeing 757-200 being operated by American Airlines on a scheduled domestic passenger flight from Miami FL to Cali Colombia impacted terrain whilst descending to destination in night VMC resulting in the destruction of the aircraft and fatal injury to all but four of 163 occupants. 
+
+Investigation
+An Investigation was carried out by the Aeronautica Civil of the Republica de Colombia. The FDR and CVR were both recovered and successful downloaded and FMS data and ATC recordings were also obtained. It was established that the First Officer had been PF. It was noted that both flight crew were cross-qualified on the Boeing 757 and Boeing 767 and that both were experienced in operations on these two types, although no information on specifically 757 recency was recorded. It was also noted that whilst the Captain was familiar with Cali, the First Officer had not been there before. The airport is situated in a north-south valley at an ARP elevation of 3162 feet amsl with the highest mountains within 30nm of the airport being to the east and reaching 9000 feet amsl within 10nm of the extended runway centreline and exceeding 14000 feet amsl thereafter. 
+The accident flight was expected to take just over three hours and had been delayed both on the gate and for take off at Miami, giving rise to an expression of concern by the Captain that the Cabin Crew rest period after a late arrival may delay the northbound flight the next day. As the aircraft approached Cali from the north, descending through FL230 with the AP engaged, the crew reported being 63 nm from Cali and ATC cleared the aircraft direct to the CALI VOR (situated south of the airport) upon which the PM selected ‘Direct To’ that beacon in the FMS. This had the effect, not appreciated by either pilot, that all intermediate waypoints were deleted, so that they would need to be re-input if subsequently required. 
+Shortly after this, ATC advised that the surface wind at Cali was calm and asked if the crew would be able to take runway 19 (a VOR/DME approach) rather than runway 01 (an ILS approach). 
+
+ SKCL ILS Approach RWY01
+This offer was accepted as a Rozo 1 STAR which requires routing to the ULQ VOR, situated 34 miles north of the runway 19 threshold followed by a shallow intercept track to join a straight in final approach track to runway 19 at 12 nm from the threshold. This track passes over the ROZO NDB at 2.6 nm from the runway threshold. 
+
+ SKCL VOR/DME Approach RWY19
+The aircraft passed the ULQ (TULUA) VOR tracking slightly right of the procedure at 288 knots in a steep descent with the thrust levers at Flight Idle and the speed brakes about 50% deployed. By this time, the aircraft was ‘getting ahead’ of the crew and the Investigation noted that neither pilot had realised that the ULQ VOR position had been deleted from the FMS Flight Plan until they had already passed it. Possibly not appreciating the position of the ROZO NDB as being so close to the runway, the Captain decided to select ‘Direct To’ it on the FMS which meant that it had to be re-input following the earlier deletion. However, when this was done - without the required verification - the aircraft began to turn east towards Bogota where, unappreciated by the crew, there was another NDB ‘ROMEO’ with the same transmission frequency and the same identification as ROZO - ‘R’ - but some 130 nm distant. The crew realised that this unexpected left turn was contrary to their desired track and after discussion during which the speed brakes were selected to about 75% and then full and the aircraft heading reached 101°, the First Officer initiated a right turn back towards the airport 98 seconds after the left turn had begun. 
+However, the terrain consequence of the deviation - leaving the valley floor, had not been appreciated and the continued steep descent with speed brakes fully deployed towards the initial procedure platform altitude of 5000 feet amsl was continued. Just over 3 minutes after passing over the ULQ VOR and just over 100 seconds after the right turn had begun, the aircraft was still descending at between 1000 and 1500 fpm with the thrust at idle and speed brakes fully deployed at a speed of 240 KIAS. 
+Eleven seconds later, passing 8571 feet amsl, a continuous GPWS ‘PULL UP’ activation began. Within two seconds, the crew had promptly selected maximum thrust and in the space of three seconds, pitch had been increased to stick shaker activation at an attitude of 20.6° nose up.
+During this escape manoeuvre, the aircraft gained 436 feet from its lowest recorded altitude of 8,551 feet amsl before it struck trees near the summit of a 9000 feet high mountain ridge. The final recorded airspeed was 187 KIAS with a pitch attitude of almost 28° and a rate of climb of about 6000 fpm giving a climb angle of about 15°. The speed brakes remained extended throughout. 
+The evidence assembled indicated that the aircraft had passed through the trees for about 300 feet after its tail had struck them first and appeared to have cleared the ridge without ground contact. However, having sustained catastrophic damage, it  then crashed on the other side of the ridge, coming to rest in several pieces with a fire breaking out in the main fuselage section of the wreckage. 
+In the context of crew confusion in use of the FMS once the intermediate waypoints had been automatically deleted by the selection of a direct track to the Cali VOR, the Investigation noted that “the evidence of the hurried nature of the tasks performed and the inadequate review of critical information between the time of the flight crew’s acceptance of the offer to land on Runway 19 and the flight’s crossing the initial approach fix, ULQ, indicates that insufficient time was available to fully or effectively carry out these actions” and that “consequently, several necessary steps were performed improperly or not at all and the flight crew failed to recognise that the airplane was heading towards terrain until just before impact”. In the absence of any evidence of relevant airworthiness or ATC issues, the Investigation concluded that “flight crew actions caused this accident.”
+The Investigation also found that their positional awareness had not been helped by “numerous important differences (which) existed between the display of identical navigation data on approach charts and on FMS-generated displays” despite the fact that the same contractor (Jespersen-Sanderson) supplied both. 
+In respect of the lack of awareness of terrain on the part of both pilots, the Investigation considered that the First Officer had relied on the Captain for such awareness and also proposed a number of other reasons for this deficiency in respect of both pilots: 
+
+
+ Cali was not included in the American Airlines list of South American airports for which special pre-approach briefing criteria were mandated.  
+
+ The guidance given in the American Airlines reference guide and in training did not have sufficient impact to be recalled in a time of high stress and workload. 
+
+ Both pilots had become used to flying in the vicinity of mountainous terrain and perhaps complacent in respect of the associated hazards. 
+
+ Terrain information was not shown on the EHSI or portrayed graphically on the approach chart used. 
+
+ Dark night conditions limited the ability to see the terrain. 
+
+
+In respect of the evident breakdown of CRM, the Investigation considered that “the  accident also demonstrates that even superior CRM programs, as evidenced at American Airlines, cannot assure that under times of stress or high workload, when it is most critically needed, effective CRM will be manifest”.  It noted that neither pilot was able to recognise: 
+
+
+ that the use of the FMS was confusing and did not clarify the situation 
+
+ the steps necessary to fly the approach successfully, even while trying to do so 
+
+ the numerous cues available that illustrated that the initial decision to accept runway 19 was ill advised and should be changed 
+
+ that they were encountering numerous parallels with an accident scenario they had reviewed in recent CRM training 
+
+ that the flight path was not monitored for over a minute just before the accident. 
+
+
+It was also concluded that:
+
+
+ ATC followed applicable ICAO and State rules and procedures and “did not contribute to the cause of the accident”. 
+
+ The FAA had not overseen American Airlines’ flight crew operating into South America “according to the provisions of ICAO Document 8335, parts 9.4 and 9.6.33”. 
+
+ American Airlines training policies did not include provision for keeping pilots' flight training records in a way which indicated any details of pilot performance. 
+
+ Neither Boeing not American Airlines Operations Manual content response to GPWS Warnings mentioned the need to stow the speed brakes. 
+
+
+The Investigation formally determined that the Probable Causes of the accident were: 
+
+
+The failure of the flight crew to adequately plan and execute the approach to runway 19 at Cali and their inadequate use of automation. 
+
+The failure of the flight crew to discontinue the approach to Cali despite numerous cues alerting them of the inadvisability of continuing the approach. 
+
+The lack of situational awareness of the flight crew in respect of vertical navigation, proximity to terrain, and the relative location of critical radio aids.
+
+The failure of the flight crew to revert to basic radio navigation at the time when FMS-assisted navigation became confusing and demanded an excessive workload at a critical phase of the flight. 
+
+
+And that there were four Contributing Factors: 
+
+
+The focus of the flight crew on expediting their approach and landing in order to avoid potential delays. 
+
+The execution of the GPWS escape manoeuvre without retracting the speed brakes. 
+
+FMS logic that dropped all intermediate fixes from the display(s) in the event of execution of a direct routing. 
+
+FMS-generated navigational information that used a different naming convention from that published on navigational charts. 
+
+
+Safety Recommendations
+As a result of the Investigation, the following 22 Safety Recommendations were issued:
+
+
+ that the Federal Aviation Administration should develop and implement standards for the portrayal of terminal environment information on FMS/EFIS displays that match, as closely as possible, the portrayal of that information on approach charts. 
+
+ that the Federal Aviation Administration should evaluate all FMS-equipped aircraft and, where necessary, require manufacturers to modify the FMS logic to retain those fixes between the position of an aeroplane and the one which it is proceeding towards following the execution of a command to the FMS to proceed direct to a fix other than the next in line. 
+
+ that the Federal Aviation Administration should require airlines to provide pilots through CRM and flight training with the tools to recognize when the FMC becomes an obstacle to the proper conduct of the flight and correctly evaluate when to discontinue the use of the FMC and revert to basic radio navigation. 
+
+ that the Federal Aviation Administration should require that all approach and navigation charts used in aviation graphically portray the presence of terrain that is located near airports, or flight paths. 
+
+ that the Federal Aviation Administration should require pilots operating FMS equipped aircraft to have open and easily accessible the navigation charts applicable to each phase of flight before each phase is reached. 
+
+ that the Federal Aviation Administration should encourage manufacturers to develop and validate methods to present accurate terrain information on flight displays as part of a system of earlier ground proximity warning. 
+
+ that the Federal Aviation Administration should require the Jespersen-Sanderson Company to inform airlines operating FMS-equipped aircraft of the presence of each difference in the naming or portrayal of navigation information on FMS-generated and approach chart information, and require airlines to inform their pilots of these differences, as well as the logic and priorities employed in the display of electronic FMS navigation information. 
+
+ that the Federal Aviation Administration should evaluate the curricula and flight check requirements used to train and certificate pilots to operate FMS equipped aeroplanes, and revise the curricula and flight check requirements to assure that pilots are fully knowledgeable in the logic underlying the FMS or similar computer system before being granted aircraft type certification.. 
+
+ that the Federal Aviation Administration should perform en route inspections of United States-domiciled airlines operating into Latin America in compliance with standards according to the provisions of ICAO Document 8335 part 9.4 and Part 9.6.33. 
+
+ that the Federal Aviation Administration should evaluate the Boeing procedure for guarding the speed brake handle during periods of deployment, and require airlines to implement the procedure if it increases the speed of stowage or decreases the likelihood of forgetting to stow the speed brakes in an emergency situation. 
+
+ that the Federal Aviation Administration should evaluate the dynamic and operational effects of automatically stowing the speed brakes when high power is commanded and determine the desirability of incorporating on existing airplanes automatic speed brake retraction that would operate during wind shear and GPWS escape manoeuvres or other situations demanding maximum thrust and climb capability. 
+
+ that the Federal Aviation Administration should require that newly certified transport category airplanes include automatic speed brake retraction during wind shear and GPWS escape manoeuvres or other situations demanding maximum thrust and climb capability. 
+
+ that the Federal Aviation Administration should develop a mandatory CFIT training program that includes realistic simulator exercises that are comparable to the successful wind shear and rejected take off training programmes. 
+
+ that the Federal Aviation Administration should evaluate the CFIT escape procedures of airlines operating transport category aircraft to ensure that the procedures provide for the extraction of maximum escape performance and ensure that those procedures are placed in operating sections of the approved Operations Manuals. 
+
+ that the Federal Aviation Administration should alert pilots of FMS equipped aeroplanes to the hazard of similarly identified navigation stations when operating outside of the United States. 
+
+ that the Federal Aviation Administration should review the pilot training record keeping systems of airlines operated under FAR Parts 121 and 135 to determine the quality of the information contained therein, and require the airlines to maintain appropriate information on the quality of pilot performance in training and checking programs. 
+
+ that the Federal Aviation Administration should evaluate the possibility of requiring that flight crew-generated inputs to the FMC be recorded as parameters in the FDR in order to permit accident investigators to reconstruct pilot - FMS interaction. 
+
+ that the International Civil Aviation Organisation should urge Member States to encourage its pilots and air traffic controllers to strictly adhere to ICAO standards phraseology and terminology in all radio telecommunications between pilots and controllers. 
+
+ that the International Civil Aviation Organisation should evaluate and consider the adoption of the recommendations produced by the CFIT Task Force that has been created under the initiative of the Flight Safety Foundation. 
+
+ that the International Civil Aviation Organisation should establish a single worldwide standard that provides unified criteria for providers of the electronic navigational databases used in Flight Management Systems.
+
+ that American Airlines should review their guidelines for ensuring that the flight crew preparation rendered by the training given at the Flight Training Academy is maintained throughout the different operational pilot bases by the standardisation of the evaluation criteria used by Check Pilots. 
+
+ that American Airlines should address the analysis of flight crew performance recorded in flight crew training records in order to reinforce CRM and the individual aspects of flight training programs. 
+
+
+The Final Report of the Investigation (in Spanish) was received by the NTSB on 27 September 1996 but does not contain all the Appendices issued at the time. An English Language translation of both the Main Report and all its Appendices was subsequently prepared at the University of Bielefeld, Germany under the direction of Professor Peter Ladkin. The Appendices to the Report were:
+APPENDIX A  A Summary of the organisation of the Investigation 
+APPENDIX B  The CVR TRANSCRIPT
+APPENDIX C Instrument Approach Charts for Cali 
+APPENDIX D Extract from the American Airlines B757/767 Operations Manual  covering the aileron and spoiler controls
+APPENDIX E  Wreckage Photographs 
+APPENDIX F FMS Route Pages prior to impact reconstructed from the Accident aircraft FMC NVM
+Only Appendix ‘C’ is included in the translated copy of the above-referenced translation of the Main Report.
+Following the release of the Official Report, and with the concurrence of the Columbian Aeronautica Civil, the NTSB, which had assisted with the Investigation, determined that it should also issue 17 further Safety Recommendations as follows and it did so on 16 October 1996:
+
+
+ that the FAA' should evaluate the effects of automatically stowing the speed brakes on existing airplanes when high power is commanded and determine the desirability of incorporating automatic speed brake retraction on these airplanes for wind shear and terrain escape maneuvers, or other situations demanding maximum thrust and climb capability [A-96-90]
+
+
+
+ that the FAA should require that newly certified transport-category aircraft include automatic speed brake retraction during wind shear and ground proximity warning system escape maneuvers, or other situations demanding maximum thrust and climb capability. [A-96-91]
+
+
+
+ that the FAA should evaluate the Boeing Commercial Airplane Group procedure for guarding the speed brake handle during periods of deployment, and require airlines to implement the procedure if it increases the speed of stowage or decreases the likelihood of forgetting to stow the speed brakes in an emergency situation. [A-96-92]
+
+
+
+ that the FAA should evaluate the terrain avoidance procedures of air carriers operating transport category aircraft to ensure that the procedures provide for the extraction of maximum escape performance and ensure that those procedures are placed in procedural sections of the approved operations manuals. [A-96-93]
+
+
+
+ that the FAA should require that all transport-category aircraft present pilots with angle-of-attack information in a visual format, and that all air carriers train their pilots to use the information to obtain maximum possible airplane climb performance. [A-96-94]
+
+
+
+ that the FAA should develop a controlled flight into terrain training program that includes realistic simulator exercises comparable to the successful wind shear and rejected takeoff training programs and make training in such a program mandatory for all pilots operating under 14 CFR Part 121. [A-96-95]
+
+
+
+ that the FAA should require all flight management system (FMS)-equipped aircraft, that are not already capable of so doing, to be modified so that those fixes between the airplane's position and the one towards which the airplane is proceeding are retained in the FMS control display unit and FMS-generated flight path following the execution of a command to the FMS to proceed direct to a fix. [A-96-96]
+
+
+
+ that the FAA should inform pilots of flight management system (FMS)-equipped aircraft of the hazards of selecting navigation stations with common identifiers when operating outside of the United States and that verification of the correct identity and coordinates of FMS-generated waypoints data is required at all times. [A-96-97]
+
+
+
+ that the FAA should develop and implement standards to portray instrument approach criteria, including terminal environment information and navigational aids, on FMS-generated displays that match, as closely as possible, the corresponding information on instrument approach charts. [A-96-98]
+
+
+
+ that the FAA should, until such time as common standards are developed for flight management system (FMS)-generated displays and instrument approach charts, require the Jespersen­ Sanderson Company to inform airlines operating FMS-equipped aircraft of each difference in the naming and/or portrayal of navigation information on FMS­ generated and approach chart information, and require airlines to inform their pilots of these differences. [A-96-99]
+
+
+
+ that the FAA should require pilots operating under 14 CFR Part 121 to have open and easily accessible the approach and navigation charts applicable to each phase of flight before each phase is reached. [A-96-100]
+
+
+
+ that the FAA should examine the effectiveness of the enhanced ground proximity warning equipment and, if found effective, require all transport-category aircraft to be equipped with enhanced ground proximity warning equipment that provides pilots with an early warning of terrain. [A-96-101]
+
+
+
+ that the FAA should require that all approach and navigation charts graphically present terrain information. [A-96-102]
+
+
+
+ that the FAA should require that approach charts to airports that do not have radar coverage available at the time of the publication of the chart prominently state, on the chart, that radar coverage is unavailable. [A-96-103]
+
+
+
+ that the FAA should, with the International Civil  Aviation  Organization  (ICAO)  Member States, review the naming conventions used  for  standard  instrument  departures  (SIDs) and standard terminal arrival routes (STARs), and  urge  member  states  with SIDs and STARs that do not follow  the  ICAO  naming  convention  to  rename them in accordance with the ICAO recommendation. [A-96-104]
+
+
+
+ that the FAA should  develop, with air traffic authorities of member states of the International Civil Aviation Organization, a program to enhance controllers' fluency in common English-language phrases and interaction skills sufficient to assist pilots in obtaining situational awareness about critical features of the airspace, particularly in non-radar environments. [A-96-105]
+
+
+
+ that the FAA should revise Advisory Circular 120-51B to include specific guidance on methods to effectively train pilots to recognize cues that indicate that they have not obtained situational awareness, and provide effective measures to obtain that awareness. [A-96-106]
+
+
+The background to these recommendations is contained in the covering letter to the FAA. As shown by the Recommendations, the NTSB were particularly keen to address across all jet aircraft types:
+
+
+ the feasibility of auto stowage of speed brakes when full forward thrust is applied noting that only a minority of types currently had such a system. 
+
+ the possible value of an angle of attack indication as a means to enhance the ease with which maximum pitch attitude could be maintained during a ground proximity or wind shear escape manoeuvre.
+
+ the retention of all waypoints in an active FMS flight even if ‘direct to’ is used.
+
+ inconsistencies between FMS-generated navigation displays and paper chart information.
+
+ inadequate criteria governing the portrayal of terrain on charts and maps supplied commercially.
+
+ STAR naming protocols not consistent with the corresponding Recommendation in ICAO Annex 11.
+
+ the effects of limited English language proficiency in ATC on the ability to grasp the underlying implications of communications from flight crew, and the possible aggravation of any such effects by an inappropriate perception by controllers in some cultures of the relative status of pilots and controllers.  
+
+
+They also report in the referenced covering letter that:
+“Results of an initial study (which) the Safety Board conducted of the performance of flight 965 following the GPWS warning indicate that had the speed brakes been retracted 1 second after initiation of the escape maneuver, the airplane would have been able to climb 150 feet above the initial impact point, possibly clearing the mountain. In addition, had the speed brakes been immediately retracted and had the airplane pitch attitude been maintained at the stickshaker activation angle, the airplane could have climbed 300 feet above the initial impact point.”
+
+
+Related Articles
+
+ Controlled Flight Into Terrain
+
+ Flight Safety Foundation ALAR Toolkit
+
+ Night Visual Approaches
+
+ Accident and Serious Incident Reports: CFIT
+
+ Flight in Mountainous Terrain
+
+ Response to a "PULL UP" Warning
+
+ CFIT Precursors and Defences
+
+ Terrain Awareness
+
+ Situational Awareness
+
+ Crew Resource Management
+
+ Cross-checking Process
+
+
+Further Reading
+
+ (Spanish) Informe Sobre El Accidente De Una Aeronave "EN VUELO CONTROLADO HASTA CAER EN TIERRA, VUELO 965 AMERICAN AIRLINES, BOEING 757-223", Aeronautica Civil De La Republica De Colombia
+
+ (English) Aircraft Accident Report "CONTROLLED FLIGHT INTO TERRAIN AMERICAN AIRLINES FLIGHT 965, BOEING 757-223", Aeronautica Civil of the Republic of Colombia
+
+NTSB Safety Recommendations Covering Letter to the FAA containing 17 further Safety Recommendations.
+
+
+
+
+
+

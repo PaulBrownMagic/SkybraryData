@@ -1,0 +1,48 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 The Investigation
+3 Related Articles
+4 Further Reading
+
+
+Description
+On 28 January 2009 the commander of a Boeing 757-200 being operated by UK-based Operator Astraeus AL for Ghana Airways and acting as PF for the sector became aware of a the failure of his ASI early in the night takeoff roll on a scheduled passenger flight. He decided to continue the takeoff and deal with the problem whilst airborne. After passing FL180 the crew selected the left Air Data switch to ALTN, believing this isolated the left Air Data Computer (ADC) from the Autopilot & Flight Director System (AFDS). Passing FL316, the VNAV mode became active and the Flight Management Computer’s (FMCs), which use the left ADC as their input of aircraft speed, sensed an overspeed condition and provided a pitch-up command to slow the aircraft. The co-pilot was concerned about the aircraft’s behaviour and, after several verbal prompts to the commander, pushed the control column forward. The commander, uncertain as to what was failing, believed that a stick-pusher had activated. He disengaged the automatics and lowered the aircraft’s nose, then handed over control to the co-pilot. A “MAYDAY” was declared and the aircraft returned to Accra without further event. 
+
+The Investigation
+The Investigation was carried out by the UK AAIB. The cause of the faulty LH ASI was found to be the remains of a beetle-like creature in the left pitot system. The Investigation Report noted that the Operator had subsequently amended their engineering procedures to include the fitting of pitot covers and blanks when the aircraft is on the ground during long turnarounds. 
+It was noted that two fatal accidents which had occurred in 1996 had been subsequently attributed to erroneous airspeed indications and that this latest incident demonstrated “that flying a large aircraft with unreliable instruments is demanding and crews can become ‘task saturated’. There were times during this flight where the flight crew were confused as to what was happening. In this incident, the commander recognised a failure of his ASI before 80 kts148.16 km/h 41.12 m/s and the takeoff could have been safely rejected. Instead, he continued the takeoff using the co-pilot’s and standby ASIs and encountered a number of related emergencies. These eventually led to the declaration of a MAYDAY and return to the departure airfield. Although the commander considered that conditions were suitable for resolving the problem when airborne, a low speed rejected takeoff would have been more appropriate in these circumstances.” The AAIB Report also advises that “As a result of this incident, the company has implemented refresher training for its pilots on the AFDS, its modes, and operation. A blocked pitot tube event is also included as a part of their simulator recurrent training. The company now advise their crews to reject the takeoff if the problem is recognised at speeds below 80 kts148.16 km/h 41.12 m/s.” No Safety Recommendations were made.
+
+Related Articles
+
+Loss of Control
+
+Unexpected Events Training (OGHFA BN)
+
+Decision-Making (OGHFA BN)
+
+
+Further Reading
+
+The full Report of the Investigation may be seen at the bookshelf
+
+
+
+
+
+

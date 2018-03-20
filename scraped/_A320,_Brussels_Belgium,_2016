@@ -1,0 +1,171 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+3 Related Articles
+4 Further Reading
+
+
+Description
+On 5 October 2016, an Embraer 195 being operated by Air Dolomiti on a Lufthansa flight from Brussels to Munich as DLH4TX took off in normal night visibility from runway 07R at Brussels as an Airbus A320 being operated by Aer Lingus on a flight from Dublin to Brussels as EIN638 was about to land on intersecting runway 01. The A320 initiated a go around in response to an ATC instruction shortly before touch down. The A320 passed over the intersection of the two runways after the E195 had passed it on its take-off roll.
+
+Investigation
+An Investigation was carried out by the Air Accident Investigation Unit (Belgium) - AAIU (Be). It was decided that "since no accident occurred, the FDRs need not be read out" but QAR data were downloaded and included, along with ATC recorded data, relevant information. By the time the event was reported to the AAIU (Be) relevant CVR data had been overwritten.
+It was noted that the 52 year-old E195 Captain, who had been acting as PF for the departure involved, had 14,400 total flying hours including 4,662 hours on type and that the 45 year-old First Officer had 8350 total flying hours including 4,643 hours on type. Both had flown to and from Brussels a few times in the past but reported being relatively unfamiliar with it. The 46 year-old A320 Captain had 10,961 total flying hours including 8,960 hours on type and the 31 year-old First Officer had 667 total flying hours including 491 hours on type. The TWR controller involved had 8 years’ experience of the position and was almost 5¾ hours through a 7 hour afternoon shift.  
+It was established that the E195 had left the gate slightly behind schedule and during push-back the crew, aware that they would be departing from runway 07R, had requested departure from the C5 intersection. The GND controller "responded by giving a taxi route leading to the C6 intersection" which was not immediately understood by the crew "due to the rapid speaking tempo" and they requested and received clarification explaining that all 07R intersection departures enter the runway from taxiway C6. Upon reaching the C6 stop bar located at the exit from the 6-way intersection between taxiways C6, C5, E1, OUTER10, INNER10 and Z - see the illustration below - it stopped and, after switching to TWR as instructed, was cleared to "line up and wait" on runway 07R. This clearance was correctly read back after which the "stop bar lights dimmed" allowing the aircraft to proceed. The Captain reported finding the taxiway centreline lights onto the runway "not easy to follow" and being sufficiently "uncertain of their position" to have "asked the First Officer if they were on the runway". The crew stated that "during the line-up, they had had an optimum view of runway 01 and again did not notice any landing light". Once lined upon the runway 07R centreline, aligned on Runway 07R, the Captain asked the First Officer whether they had received take-off clearance and "the First Officer answered positively".
+
+ The taxi route followed by the E195 showing where the change to TWR occurred. [Reproduced from the Official Report]
+At this time, the A320 was on final approach for runway 01 and, after the E195 had been instructed to line up and wait on runway 07R, it had been cleared to land. According to both the TWR Controller and the TWR Supervisor, traffic at this time was "not dense" and so the TWR Controller was managing both landings on runway 01 and take-offs on runway 07R. It was reported to the Investigation that "specifically for (runway 07R) line-ups from C6, the controller maintains eye contact with aircraft, because of the short reaction time necessary in case of incident" and the controller involved stated that he had maintained a clear view of the aircraft .
+The E195 crew confirmed that they had initiated a rolling take-off run as soon as they were lined-up and had not seen the approaching A320. The A320 crew saw the E195 starting to roll and "were about to call ATC when the TWR Controller, who had visual contact with both aircraft, promptly instructed the A320 to go around". The A320 crew responded immediately with FDR data recording a minimum height of 68 feet agl. Their aircraft subsequently passed over the intersection of the two runways about a minute after the E195 had passed it. Their subsequent landing was uneventful.
+It was noted that the airport was equipped with an A-SMGCS which includes the generation of warnings when a runway incursion occurs. This alerting system provided a visual alert when the E195 entered the Runway 01 protected area 90 metres from the runway 01/19 centreline which, for the 50 metre-wide runway, was 65 metres from its edge and 4 seconds before it crossed the intersection.
+It was noted that the combination of take offs from 07R and landings on runway 01 was a normally-used one and that forecast and actual surface winds at the time favoured this combination. The prevailing winds were light, the tail wind components on runway 25R (only) were in excess of the maximum allowed under the airport's runway designation procedures (7 knots). 
+The arrangements for intersection take-offs from runway 07R were reviewed and it was noted that, as in the case of the investigated departure, all such departures would require aircraft to enter the runway via taxiway C6. Declared distances for three such take-off positions were provided in the AIP and marked by illuminated signs - see below - and designated as Positions H (for 'Heavy'), PSN 1 and PSN 2. No explicit mention of "PSN 2" was made to the departing E195.
+
+ The three designated intersection take-off holding positions on runway 07R. [Reproduced from the Official Report]
+The existence of similar 'take-off without clearance' events was noted and summaries of some events of this type included in the Accident and Incident cases held in SKYbrary were listed. Six other similar occurrences at Brussels, not necessarily of the same relative risk, were found to have been recorded over the 5 years to November 2016.
+A number of sources of information on the risk management of runway incursion were identified including:
+
+
+ The ICAO Doc 9870 'Manual on the Prevention of Runway Incursions', First Edition 2007  
+
+The European Action Plan for the Prevention of Runway Incursions (EAPPRI - Edition 2.0) 
+
+ The 'Runway Safety Handbook' published by the Airports Council International (ACI) First Edition 2014  
+
+
+It was noted that Chapter 4 of ICAO Doc 9870 makes recommendations for the prevention of runway incursions which include: 
+
+
+ Pilots should not accept an ATC clearance that would require them to enter [,,,] a runway from an obliquely angled taxiway. 
+
+ When using […] intersection departures, oblique or angled taxiways that limit the ability of the flight crew to see the landing runway threshold or final approach area should not be used. 
+
+
+It was also noted that Attachment A to ICAO Annex 14 Volume 1 'Aerodrome Design and Operations' states that "the centre line of an entrance taxiway should be perpendicular to the runway centre line, where possible" so that "pilots (have) an unobstructed view of the entire runway, in both directions, to confirm that the runway and approach are clear of conflicting traffic before proceeding towards the runway". It then adds "where the taxiway angle is such that a clear unobstructed view, in both directions, is not possible, consideration should be given to providing a perpendicular portion of the taxiway immediately adjacent to the runway to allow for a full visual scan by the pilots prior to entering [....] a runway". Appendix K of the EAPPRI also emphasises that "flight crew need an unobstructed view of the runway, in both directions, to confirm that the runway and approach is clear of conflicting traffic before proceeding to enter or line up [and] to achieve this clear view, runway entrances should be at right angles to a runway". 
+It was observed that although the use of Simultaneous Intersecting Runway Operations (SIRO) "may serve to increase traffic efficiency, shorter approach tracks and taxi routes for example, there are inherent risks associated with (this practice and) strict procedures must be in place to prevent a runway incursion". However, the Investigation took the view that it should not consider the decision to use SIRO rather than other potentially viable alternatives and therefore confined its analysis to the safety issues associated directly or indirectly with SIRO. 
+A number of aspects of the event were discussed in the Investigation's analysis including:
+
+
+ Human Factors relating to the issue of the Take-off Clearance
+
+
+
+ Whilst the available evidence did not enable a meaningful attribution of 'human factors' which might have led both E195 pilots to unintentionally take off without clearance, it was considered that had the ATC instruction to “Line up and wait Runway 07R” been supplemented by additional information, such as a location or a warning of incoming traffic, "it would have increased the situational awareness of the crew and increased the probability that the instruction would have been retained".
+
+
+
+ Procedural Context for non-compliance with Clearance
+
+
+
+ The Air Dolomiti Operations Manual was found to not adequately address the need for positive confirmation of ground clearances by both pilots and as such made it more likely that a pilot - in this case the senior pilot - would be content to take the advice of the other pilot when uncertain rather than initiate clarification from ATC.
+
+
+
+ Controller Mitigation of the consequences of the incursion
+
+
+
+ Even though the controller reacted quickly to the situation, since it took only 5 seconds for the E195 to reach the intersection from the moment it started to accelerate for the take-off, it may not have been possible to prevent a collision at the intersection if the A320 had already touched down.
+
+
+
+ Taxiway Layout and naming
+
+
+
+ Consideration of the taxi routing to and through the 6-way intersection to reach the required C6 access for an intersection departure from runway 07R led the Investigation to conclude that both taxiway layout and taxiway naming were unduly complex and capable of creating an avoidable increase in workload for pilots not familiar with the airport or departures from a particular runway. The oblique intersection of taxiway C6 with runway 07R meant that a 120° turn was required to reach "PSN 2" which for that manoeuvre only was contrary to commonly accepted practice for runway access. The prevailing situation in both respects was compared to recommended practices in ICAO Annex 14, the EAPPRI, the ACI Runway Safety Handbook and the EASA specifications for Aerodrome Design (CS-ADR DSN) and found to be not in accordance with them to varying degrees. Some suggestions which could reduce complexity were made.
+
+
+
+ Event Risk Classification
+
+
+
+ The variation in the way that the risk classification systems applied to runway incursion events produced a measure of relative risk for particular events was discussed and it was noted that their outputs were not consistent with the less prescriptive guidance on what constituted a 'Serious Incident' according to Annex 13. It was noted that such a difference "is not a pure administrative matter, but also triggers a different response by the stakeholders involved" and thereby influences the level of scrutiny of the circumstances which prevail.  
+
+
+The Cause of the investigated event was formally documented as "the take-off without clearance of an aircraft instructed to 'line up and wait' on Runway 07R while an aircraft was in final approach of Runway 01".
+Seven Contributory Factors were also identified as follows:
+
+
+ Non-use by the E195 crew of a mnemonic and/or cross-check for the take-off clearance.
+
+ Limited traffic information/situational awareness given when delivering ATC clearances. 
+
+ Inadequate doubt-clearing management on the E195 flight deck.
+
+ The unfamiliarity of the E195 crew with the airport.
+
+ Authorising an aircraft to line up on RWY 07R at a short distance from the intersection with RWY 01 without correlation with landing traffic on the latter.
+
+ The intersection and status of RWY 01 is not indicated on RWY 07R.
+
+ The complex taxiway layout (a junction connecting 6 taxiways just before taxiway C6, where the obliquely-angled entry to the taxiway includes part of the taxiway centreline lights).
+
+
+Safety Action taken during and known to the Investigation as a result of the event included the following:
+
+
+ Air Dolomiti made some changes to their SOPs to require that when on the ground, "the pilot conducting the taxi, should continuously express his/her intention in relation to the ground route to be followed" and to add the procedure that the nose landing light should be switched on only when the take-off clearance has been received.
+
+ Belgocontrol introduced a new procedure to improve situational awareness of pilots which requires controllers to inform them of the "closest traffic" whenever a line up and wait clearance is given or if they are instructed to hold position when reporting "ready for departure" at 07R positions H, 1 or 2.
+
+
+Four Safety Recommendations were made as follows:
+
+
+ that Air Dolomiti should revise the text in its Operations Manual Part A paragraph 8.3.1.2 to add the text "Take-off clearance must be heard by each crew member and confirmed between the crew members. If confirmation is not achieved, clarification must be requested from ATC". [BE 2016-0018]
+
+ that Belgocontrol should undertake a substantiated study on a procedure which defines a minimum elapsed time (in terms of distance to the RWY01 threshold of landing traffic) after which the instruction to “line-up and wait” (on runway 07R) via C6 should not be given. This study should also take into account the possible replacement of taxiway C6 by a right-angled entrance taxiway and the replacement of the current stop bar by a CAT I stop bar (90 m from runway centreline) as both these both factors would definitely reduce the time needed to line-up on runway 07R. [BE-2016-0019]
+
+ that the Brussels Airport Company should perform a study aimed at improving the indications of both the presence and the status of Runway 01-19 in the vicinity of its intersection with Runway 07R. [BE-2016-0020]
+
+ that the Brussels Airport Company should carry out a study into how to reduce the complexity of the taxi route to the current line-up position 2 (on runway 07R). [BE-2016-0022]
+
+
+The Final Report of the Investigation was issued on 27 March 2017.
+
+Related Articles
+
+ Runway Incursion
+
+ Runway Crossing Incursions
+
+ Intersecting Runways Operations
+
+ Advanced Surface Movement Guidance and Control System (A-SMGCS)
+
+ Human Factors in AGC
+
+ The Human Factors "Dirty Dozen"
+
+ Controller Detection of Manoeuvring Area Conflicts
+
+ Runway Incursion and Airport Design
+
+
+Further Reading
+
+ ICAO Doc 9870: Manual on the Prevention of Runway Incursions, first ed., 2007
+
+
+
+
+
+

@@ -1,0 +1,79 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 19 May 2004, a Bombardier DHC8-400 being operated on a scheduled passenger flight from Sandefjord to Bergen by Norwegian airline Wideroe was climbing through 13500 ft4,114.8 m approximately 20 nm37,040 m 37.04 km 121,522.31 ft west north west of Sandefjord in day VMC when there was a loud 'bang' from the left engine followed quickly by total power failure and a fire warning for that engine. The crew carried out the QRH drill, declared an emergency and made a return to Sandefjord. Although the left hand engine was shut down and both engine fire bottles had been discharged, the engine warning remained illuminated throughout the remainder of the flight. The aircraft was stopped on the runway after landing and a successful emergency evacuation of all 31 occupants was carried out with no injuries whilst the Airport Fire Service attended to the fire source.  
+
+Investigation
+An Investigation was carried out by the Accident Investigation Board Norway (AIBN). 
+It found that the sudden shut down of the left engine was made automatically by the FADEC and was then followed by execution of the prescribed flight crew emergency drill. The shut down was found to have occurred as the result of a fatigue fracture in one of the low pressure compressor first stage rotor blades. Vibration due to this blade fracture led to major internal damage in the engine and caused an oil leak in the fuel heater. This oil flowed backward and was ignited by the hot exhaust gases at the rear of the engine. The fire caused major damage to the engine and caused the fire alarm annunciation to continue after the fire had gone out and the engine had cooled completely.
+The rotor blade fracture was found to have occurred at the mid chord in a low hour blade of new design and as a result, a new version of the first stage compressor with both a modified profile and a change of material was developed and made available for new aircraft production and for retrofit during the course of the Investigation.
+Evidence that the fire had been limited to the main engine compartment within the nacelle and had not spread to any other fire zones was found and it was concluded that the fire had been fuelled by up to 15 litres of oil with “that the most likely ignition source (being) the surge flame from the engine exhaust nozzle associated with the blade-off event / sudden engine stoppage”.
+The Investigation concluded that the maintenance system at Wideroe was deficient, noting that the Engine Condition Trend Monitoring system had been non operational for six months prior to the event despite it being declared in Company documentation as a key element of the preventive maintenance strategy. However, this was not considered of direct relevance to the event.
+It was considered that the response to the emergency situation by the type-experienced flight crew had not been optimal, with evidence of poor CRM, poor manual handling and poor flight management. It was noted that an orbit was necessary to loose height on visual final approach at a time when engine fire was still annunciated.
+It was concluded that there were weaknesses in the response of the Airport RFFS at Sandfjord Airport following the return of the aircraft. Whilst the investigation concluded that the fire had been out some minutes before the landing, the attempt by the RFFS to cool the engine down by foam application was ineffective until an engineer arrived to open the engine panels to provide better access. Whilst noting that “the fact that the covers were not opened initially had no consequences on the scale of the damage.” The Investigation concluded that “the fire and rescue service (at Sandefjord) ought to get a better understanding of essential technical designs on aircraft that use the airport regularly”
+The event was considered to have been handled “smoothly and well by all of the air traffic control service units involved”.
+The Investigation also noted that:
+
+
+ Nothing indicates that the fire was fed with fuel. There was consequently a limit to the time the fire would last before it would put itself out.
+
+ The high temperature in the fire brought about functional failure in the fire detection system. The fire alarm indicated that there was fire in the engine right until the system was physically disconnected.
+
+ There are no certification requirements for fire detection systems to notify when a fire has gone out.
+
+
+The Full AIBN Report was published on 27 November 2007 and may be seen at SKYbrary bookshelf: Report on Serious Aviation Incident SL 2007/33
+It contained four Safety Recommendations:
+
+
+Recommendation 2007/32T
+
+According to the manufacturer, Kidde Aerospace, the fire detection system was damaged by the high temperatures during the engine fire. As a result of this, the fire alarm did not cease although the engine fire had gone out. The AIBN is of the opinion that an incorrect warning of this type is highly detrimental and can put unendurable pressure on the crew. Current requirements for fire detection systems do not explicitly state that the warning should cease once the fire has gone out. The AIBN recommends the Norwegian Civil Aviation Authority to become involved internationally with a view to improving the certification requirements for fire detection systems in aircraft, so that crews are given an indication that a fire has gone out.
+
+Recommendation 2007/33T
+
+According to the manufacturer, Kidde Aerospace, the fire detection system was damaged by the high temperatures during the engine fire. As a result of this, the fire alarm did not cease although the engine fire had gone out. The AIBN is of the opinion that an incorrect warning of this type is highly detrimental and can put unendurable pressure on the crew. SHT recommends that the Norwegian Civil Aviation Authority in consultation with the FAA should consider making it mandatory for Kidde Aerospace to provide information about the wrong indications that can occur on the current equipment. This information ought to be provided to all aircraft manufacturers which have installed or will be installing this type of alarm equipment for incorporation into the Aircraft Flight Manuals.
+
+Recommendation 2007/34T
+
+The method initially used by the fire and rescue service at Sandefjord Airport Torp while putting out the fire had little effect since the extinguishing medium did not penetrate to the hot areas between the engine and the engine covers. The AIBN recommends that the fire and rescue service at Sandefjord Airport Torp, in collaboration with technical personnel from Widerøe, should develop specific procedures for extinguishing fires on the DHC-8-400.
+
+Recommendation 2007/35T
+
+Engine Condition Trend Monitoring (ECTM) is included as part of the company’s maintenance programme for the DHC-8-400. ECTM was not conducted on the PW 150A engines from 15 November 2003 until the incident. The situation was not a contributory factor to the engine fire, but indicates a failure within the company’s maintenance system. The AIBN therefore recommends that Widerøes Flyveselskap should undertake a review of the quality control and the function of the Maintenance Review Board with a view to preventing any similar failure of internal programmes.
+
+
+Further Reading
+
+Aircraft Fire Detection Systems
+
+Aircraft Fire Extinguishing Systems
+
+Engine/APU on Fire: Guidance for Controllers
+
+Maintenance Error
+
+Airworthiness - The System
+
+Crew Resource Management (OGHFA BN)
+
+
+
+
+
+

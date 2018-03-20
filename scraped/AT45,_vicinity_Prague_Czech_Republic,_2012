@@ -1,0 +1,78 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 31 October 2012, an ATR42-500 being operated by Czech Airlines on an airworthiness function flight in day VMC entered a full stall during a planned test of only the functioning of the Stall Protection System. Recovery was achieved from the resultant unusual attitude and again after a subsequent and similar full stall followed by a more effective recovery response, the remainder of the 85 minute function flight was completed without further event.     
+
+Investigation
+An Investigation was carried out by a Commission established by the Czech Air Accident Investigation Institute (AAII). Recorded data relevant to the Investigation was recovered from the FDR and QAR.
+It was established that the pilots for the flight were both qualified as Training Captains on the ATR42/72 with the pilot occupying the left hand seat acting as PF and the pilot occupying the right hand seat being designated as commander. The PF was operating under supervision as part of the training required to complete the Czech Airlines "Test Flight Qualification Course". It was all noted that there were "six other crew members" on board the aircraft but their roles as "crew members" were not stated, although it was noted that the incident flight was also the 'handover flight' to a new operator.
+It was established that the first full stall occurred during the first prescribed function test of the Stall Protection System (SPS), with the ICING AOA switch selected on in non-icing conditions so as to carry out the initial test of the system with a greater safety margin. This test was commenced at FL160 in VMC after an earlier climb to FL250. The aircraft altitude was kept essentially constant and with the power to idle, a slow speed reduction was set up in clean configuration. However, when SPS activation did not occur at around the anticipated speed for it in icing conditions, speed reduction was allowed to continue even below the anticipated speed for SPS activation in normal conditions. As the aircraft reached 7 knots below the latter speed, a full stall occurred but the pilot response was contrary to that required in that the control column was moved rearwards rather than forwards and the flaps were not selected to 15°. The effect of this action/inaction by the PF was a further reduction in airspeed, a rapid left roll to almost 90° bank to the left and a rapid descent. The commander quickly intervened with a significant forward movement of the control column and additional right aileron and recovery to controlled flight was achieved at FL138.  
+A further similar SPS test was initiated soon afterwards as the aircraft climbed through FL157, again with the ICING AOA switch on, this time with an increased rate of speed reduction. Again SPS activation did not occur at any time and the speed reduction was continued to the onset of a full stall although this time, the actions in response were correct and the wing drop was less marked and the height loss small.   Two further similar manoeuvres with the ICING AOA on followed but both were terminated without SPS activation and without reaching a fully stalled condition. The remainder of the planned function testing was then completed.
+It was established that the incident flight was the second flight since the aircraft had been repainted at a specialist contractor in Ostrava, 150 nm from Prague. After this work, the aircraft had been returned to Prague but no Stall Warning fault or alert was reported to have occurred during this flight.   
+Recorded data showed that both AOA vanes had adopted a fixed position from soon after the aircraft climbed above the prevailing freezing level until soon after it descended below it during the return to Prague after completion of the flight test activities. This provided an explanation for the absence of any SPS activation during the tests. The data also showed that the AOA vanes had been blocked during the earlier Ostrava-Prague flight. 
+Both AOA vanes were removed from the aircraft and were found to be contaminated with water but functioning normally on the Prague-Ostrava flight prior to the repainting. The aircraft manufacturer concluded that "the AOA sensors were contaminated with water particles sprayed during cleaning of the aircraft before or after repainting".
+The Investigation concurred with the opinion of the aircraft manufacturer and noted that "occurrence of water inside the AOA sensor may be attributed to the technological procedure used in removing the original coating of the aircraft". It was further observed that "given the demanding nature of the repainting technology, it was impossible to clearly determine at which stage of the process water had penetrated the sensor; whether it was because of insufficient protection of the critical place or due to water penetrating the protected place". However, it was noted that water will not penetrate the AOA sensor during the normal operation of the aircraft and that past experience, such as the 2008 accident to an A320 in France (A320, vicinity Perpignan France, 2008 (LOC HF AW)) has shown that this may happen when aircraft are pressure washed without adequate protection of the AOA sensors.
+In respect of the crew progressing their system testing to the onset of a full stall, the Investigation noted the opinion communicated by the aircraft manufacturer that such action was inappropriate and that "verification of the physical threshold of aircraft stall is carried out by the trained test flight pilots of the manufacturer during certification test flights". This opinion was continued with the statement that "during test flights the test pilots of individual operators should not travel at a speed lower than the Stick Shaker activation speed (and) such speed limit must be determined before each test flight for the respective aircraft weight and configuration".
+In respect of the Czech Airlines procedures for airworthiness function flights, the Investigation noted that they "did not stipulate the minimum speed for the respective weight and configuration under which the aircraft speed shall not drop in the case of inoperability of the Stall Protection System or its part, i.e. the speed at which the test is to be terminated was not specified" whereas "during the low speed test flight the crew was intentionally reducing speed until the stall speed in spite of the Stick Shaker/Stick Pusher not being activated at the expected speed with an effort to identify the system activation threshold". 
+The formally stated conclusion of the Investigation as to Cause was as follows:
+"The aircraft stalled during a low speed test flight when the crew was intentionally reducing speed until the stall speed in spite of the Stick Shaker/Stick Pusher (caused by the freezing of the AOA sensors) not being activated. The blocked AOA sensors caused the consequent inoperability of the Stall Protection System (Stall Warning, Stick Shaker/Stick Pusher). It is very likely that water penetrated the AOA sensors during pressure water cleansing of the aircraft coating without sufficient protection of the AOA sensors in the external contractor’s paint shop, which resulted in icing blockage of internal movable components of the AOA sensors in the environment with temperatures below zero."
+Three Safety Recommendations were made:
+
+
+ that Czech Airlines Technics and Czech Airlines promptly incorporate in the Repainting Technical Conditions Manual the duty to cover the AOA sensors prior to commencement of pressure water cleansing in compliance with the figure below.
+
+ that Czech Airlines adds to the existing test flight documentation for the respective aircraft weight and configuration: 
+
+ the speed when the Stick Shaker is activated with AOA/ON 
+
+ the speed when the Stick Shaker is activated with AOA/OFF 
+
+ the speed when the Stick Pusher is activated 
+
+
+
+ that Czech Airlines adds to the existing test flight documentation the procedure to be applied in the case of failure of the Stall Warning System. 
+
+
+ Instructions to cover the AOA sensors prior to commencement of pressure water cleansing (reproduced from the Official Report)
+
+The Final Report was issued on 26 May 2014. 
+
+Further Reading
+
+ Loss of Control
+
+ Airworthiness Function Flights
+
+ Stall Warning Systems
+
+ Flight Envelope
+
+ Recovery from Unusual Aircraft Attitudes
+
+ Non Revenue Flights
+
+ Mitigating Risk for Non Standard Flights
+
+ Crew Training for Airworthiness Function Flights
+
+ Recovery from Unusual Aircraft Attitudes
+
+ Aerodynamic Stall Awareness and Avoidance
+
+
+
+
+
+

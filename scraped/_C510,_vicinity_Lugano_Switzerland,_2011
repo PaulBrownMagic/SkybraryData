@@ -1,0 +1,73 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 16 December 2011, a Saab 2000 being operated by Darwin Airline on positioning flight from Geneva to Lugano lost separation against a Cessna C510 VLJ being operated by Italian air taxi company MyJet on a “commercial flight” from Biggin Hill UK to Lugano in day IMC. Both aircraft were in Italian airspace delegated to Swiss ATC control. A TCAS RA was activated on the Saab 2000 and, in conjunction with a Traffic Advisory System (TAS) awareness alert activated in the Cessna, ensured that there was no actual risk of collision. No relevant evasive manoeuvres were required and both aircraft subsequently landed without further event in sequence at Lugano.    
+
+Investigation
+The conflict occurred in Italian airspace and was not reported to the Swiss Accident Investigation Board (SAIB) until three days after it had occurred. The SAIB then advised the Italian authorities who delegated the Investigation to the SAIB.
+It was established that when the conflict occurred, both aircraft were working Lugano TWR where procedural service was being provided by a single TWR controller. It was found that whilst the investigated incident scenario was developing, the only other controller on duty, designated as the GND controller, was temporarily away from his position because he had felt unwell. Weather conditions at the time were such that a LOC approach to runway 01 was likely to be followed by a visual circuit to land on runway 19. Both aircraft were approaching initially from the north and were handed off to Lugano by Milano Control with adequate separation, the Saab being ahead of the Cessna. 
+Once with Lugano, the Saab had been cleared to descend to 6000 feet QNH on 995 hPa and take up the PINIK hold. As the aircraft turned inbound in the hold to head north north west towards PINIK, a preventive RA to ‘Monitor Vertical Speed’ was annunciated but TWR was not immediately advised of this. The C510, which had checked in on the same frequency shortly after the Saab, had been cleared to descend to FL 070 - which was an inadvertent error by the controller not noticed by the crew since the actual Transition Level that day was FL 075 following a nine day period with higher pressure generating a Transition Level of FL 070. As they approached PINIK tracking south south west at that level, the Cessna crew received a “TAS” Alert indicating opposite direction traffic approaching 500 feet below and decided that it would be in the interests of safety to climb to increase separation. At about the same time, the Saab crew advised TWR of their RA and thus prompted the controller to check his “Distance From Touchdown Indicator” (DFTI). This was showing the Saab at an altitude of 5700 feet (rather than 6000 feet) and the Cessna at an altitude of 6200 feet (rather than FL 070) and so he  immediately instructed the Cessna to “maintain seven zero, do not descend below”. 
+Nineteen seconds after the Saab reported an RA (and just over three minutes after it had first been activated), the two aircraft passed each other 1nm south west of PINIK with a lateral separation of 0.1 nm and a vertical separation of 500 feet in IMC. “Clear of Conflict” was annunciated to the Saab crew some 35 seconds after the RA had been reported to ATC. It was found that the climb intended by the Cessna had not actually commenced until shortly after the two aircraft had passed each other. Both aircraft subsequently continued to a landing in turn without further event.
+It was considered that the Transition Level error made by the controller was “a result of the extended period during which FL 070 was applied as the Transition Level” and that “he had become accustomed to this value and therefore made (his) error based on routine”. It was also considered that the absence of the GND controller at the time had removed the possibility that he might have been able to notice and correct the TWR controller’s clearance error. 
+The Investigation then sought to establish why the DFTI had provided the controller with altitude readouts for the two aircraft which, although 500 feet apart as had been the case, were both lower than the actual altitudes after allowing for the 500 feet effect of the controller’s transition level error. It was found that the source of the data SSR data displayed on the Lugano DFTI was obtained from a central facility near Zurich and the conversion of aircraft data from standard pressure altitudes to QNH was tied to the Zurich transition level and QNH. At the time of the investigated event, the QNH at Zurich was 984 hPa but the QNH at Lugano was 995 hPa. This accounted for the displayed aircraft altitudes at Lugano being 300 feet too low. 
+The Investigation was informed by ANSP Skyguide that the source “was not designed for multiple QNH zones, so for the radar display the QNH and Transition Level for Zurich alone were decisive”. No corresponding explanation was reported to have been provided by Skyguide as to why in the light of this, the Lugano DFTI was fed in this way and (apparently) the consequence not documented. It was noted that the controller involved had not been aware of this aspect of the DFTI display but that unit procedures, whilst not permitting use of altitude data for control duties did explicitly say that the system should be used to provide “support for pilots in emergency situations”. 
+The stated view of the Investigation on this finding was that:
+“Even though the DFTI is not intended for the purpose of separation, it is intended as an aid in emergency situations. Especially in cases of emergency, time-critical stress situations may arise which might be further exacerbated by incorrect altitude information. For this reason, this configuration defect in the system constitutes a considerable risk from an aviation safety perspective”. 
+The formal statement of Cause from the Investigation was that:
+“The serious incident is attributable to the fact that the air traffic control officer gave clearance to descend to an aircraft in the area of the transition level (TL); given the prevailing atmospheric pressure this led to a dangerous convergence with another aircraft, which involved a significant risk of collision.”
+It was concluded that “the following factors made it more difficult to identify the incorrect clearance and defuse the situation:
+
+
+ The air traffic control officer was working alone.
+
+ The altitude readings on the radar display below TL/TA (were) based on Zurich airport (QNH) and were wrong for the airport Lugano (which) hampered the overview.”
+
+
+One Safety Recommendation was issued as a result of the Investigation as follows:
+
+
+ that The Federal Office of Civil Aviation, together with Skyguide, the air navigation services company, should ensure that correct data are displayed at least on all radar systems which amongst others are intended for use in emergency situations. [No 472]
+
+
+The Final Report was completed on 17 July 2013 and approved by the management of the Swiss AIB on 27 August. 
+
+
+Further Reading
+
+Loss of Separation
+
+Transition Altitude/Level
+
+Level Bust - ATCO Induced Situations
+
+ACAS Resolution and Traffic Advisories
+
+Airborne Collision Avoidance System
+
+Altimeter Setting Procedures
+
+Interruption or Distraction
+
+ATC Expectation Bias
+
+Recency Bias
+
+ATCO Workload
+
+
+
+
+
+

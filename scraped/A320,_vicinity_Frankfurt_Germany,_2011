@@ -1,0 +1,96 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 13 December 2011, an Airbus A320-200 being operated by Aeroflot on a scheduled passenger flight from Frankfurt to Moscow Sheremetyevo was cleared for a daylight take off in normal visibility from a runway parallel to one where an Airbus A380-800 being operated by Lufthansa on a scheduled passenger flight from Tokyo to Frankfurt was about to touch down but this aircraft then commenced an own initiative go around. The A320 take off clearance was not cancelled and due to subsequent proximity of the respective aircraft flight paths, the standard wake vortex separation minima were breached and the A320 was exposed to the risk of encountering wake vortex turbulence.  However, no such encounter actually occurred.
+
+Investigation
+An Investigation was carried out by the BFU. Notification of the event to the BFU by the ANSP was not made until the following day. Although neither CVR nor FDR recordings from either aircraft were available to the Investigation, access to QAR data from both and to ATC recordings facilitated a detailed reconstruction of both aircraft flight paths. It was noted that each of the two adjacent runways had a dedicated TWR controller seated adjacent to each other in the VCR and using different R/T frequencies.
+It was established that a take off clearance for runway 25C had been given to the  A320 three seconds before the A380, by then over the runway 25L TDZ, had commenced a go around. Twelve seconds after the A380 had begun the go around and when it was approximately 900 metres past the runway 25L threshold, the A320 began its take off roll on runway 25C. The runway 25C controller subsequently became aware of the A380 go around and, five seconds after the A320 had become airborne, had instructed it to continue on runway heading and advised of the A380 go around. It was considered that there had been a missed opportunity to cancel the A320 take off clearance whilst it was still accelerating towards take off at a relatively low speed. In the event, the standard missed approach (ahead) being flown by the A380 put it on a flight path ahead of, above and parallel to the A320 with both aircraft tracks being similarly affected by a crosswind from the south. 
+As a result of a misunderstood verbal communication between the two TWR controllers, lateral separation was reduced as both aircraft were turned left. Although the aerodrome and local area had been in VMC, by the time this occurred, the two aircraft were in IMC.
+It was noted that the A380 go around decision resulted from uncertainty about whether a touch-down within the TDZ was assured. QAR data showed that runway contact had occurred as the go around was commenced.
+The flight paths of the two aircraft, and thus their lateral and vertical separation against time, were calculated and the diagram below taken from the Investigation Report summarises the findings. It was found from this work that from 9 seconds after the A320 had become airborne, its lateral distance from the A380 in the climb had progressively decreased to about 1nm. At the same time, and over the same half minute after take off, the A320 came to within 200 feet of the simultaneous A380 altitude, but within 10 seconds, this difference had begun to increase again. A minute later, with the A380 passing 5000 feet QNH, lateral distance of the two aircraft had also begun to increase continuously. 
+
+ Separation between the two aircraft from the time of the A320 take off onwards (Reproduced from the Official Report)
+The achieved CPA was calculated as 0.97nm horizontally and 200 ft vertically, so that “the required minimum separation was infringed significantly” but it was concluded that “due to the aircraft positions (relative) to each other and (their) similar airspeed there was no danger of a collision”. However, the prevailing atmospheric conditions were found to have led to a finite risk of the A320 penetrating the wake turbulence of the A380 with a concomitant risk of loss of control, and it was estimated that the A320 had come as close as 30 metres to the A380 wake vortices during the period of proximity although it was confirmed that no actual penetration of them had occurred. 
+The runway 25L controller was found to have instructed the A380 to fly a southerly heading whilst the two aircraft were proximate because he had misinterpreted the words of the (runway 25C controller) "I will turn mine left" to be an instruction to him to let the A380 turn left. It was noted that this interpretation would have “also met his cognitive model for a solution of the (conflict)”. The runway 25C controller’s instruction to the A320 to turn left and in line with the SID track was based on an erroneous judgement that the A380 had reached a sufficient altitude to make this action safe.
+The Investigation concluded that “this attempt at a solution was not suited to establish separation between the aircraft within a short time period. In addition, this change in flight path led to (proximity to) the wake turbulence of the A380 since the A320 flew below” and that this would have occurred whether the A380 had turned left or continued straight ahead as the controller had anticipated.
+In respect of the risk that had existed in terms of the conflict which had occurred, it was noted that in May 2011, the ANSP had completed the required safety assessment for the addition of the fourth runway 07L/25R. The risks considered had included straight ahead missed approaches from 25L with take offs from 25C followed by left turning SIDs and concluded that take-off from 25C should occur only after an aircraft on approach to 25L has touched down and/or if such an aircraft is still at least 6nm away. This ‘no-fly zone’ was displayed on the runway 25C controller’s screen and was supposed to create a minimum lateral separation of 3nm /1000feet.
+However, it was the opinion of the Investigation that the approved arrangements for westerly operations on runways 25L and 25C were mainly a result of a desire to “reduce noise pollution of the densely populated urban area located in the extended take-off direction 25”. It was considered that in a situation such as the investigated one, even without the issuing of a premature take off clearance for southbound runway 25C traffic, the requirement for immediate coordination communication between several Controllers constituted “a systemic risk for flight safety due to low error tolerance” in respect of both standard and wake vortex traffic separation which was mitigated only by heightened alertness of the controllers involved. 
+In respect of the loss of control risk in the investigated event, the Investigation concluded that “the risks arising from wake turbulences particularly of large transport aircraft and lighter aircraft possibly penetrating them were not sufficiently taken into consideration when the departure routes were specified and during the safety assessment”.
+It was also noted that the routine recording of background communication and aura environment in the VCR as recommended in ICAO Annex 11 had not been in place. This had meant that it had not been possible to fully reconstruct the sequence of events and nature of inter-controller communication during the event and sole reliance had had to be placed on controller statements as support for the available radar and R/T communication recordings.
+The Investigation formally documented the Causes of the event as follows:
+Immediate Causes:
+
+
+ the take-off clearance was given even though the landing of the A380 on the parallel runway was not yet definite.
+
+ a rejected take-off was not instructed.
+
+ the erroneous mental approach of solving a problem of the controller resulted in the instruction to the departing airplane to fly a turn toward the airplane conducting a go-around on the parallel runway.
+
+
+Systemic Causes:
+
+
+ the increased coordination effort between the controllers due to the working position organisation (tower) and the organisation of the runway operation has contributed to the separation infringement and to the approximation of the wake turbulence.
+
+ the stipulations for the controllers to separate the departure routes of runway 25C and the missed approach procedures of runway 25L were insufficient.
+
+
+The following five Safety Recommendations were issued as a result of the Investigation:
+
+
+ that The Air Navigation Service Provider should develop actions to reduce the coordination effort for the parallel operation of runways 07R/25L and 07C/25C particularly in case of a missed approach. It should also be investigated if and under what circumstances the approaching and departing airplanes on runways 07C/25C and 07R/25L can be handled on one frequency. [34/2012]
+
+
+
+ that The Federal Supervisory Authority for Air Navigation Services (BAF) should ensure that the air navigation service provider at Frankfurt/Main Airport separates the departure routes of runway 25C and the missed approach procedure of runway 25L by changing flight procedures and/or operational procedures. The aim should especially be to give the controllers more time to recognise possible air proximities in time and establish sufficient vertical and/or lateral separation between the aircraft involved. [35/2012]
+
+
+
+ that even if the adherence to approach and departure routes stipulated due to noise avoidance has a high priority, the Air Navigation Service Provider should explicitly stipulate for Frankfurt/Main Airport that air traffic controllers should deviate from these stipulations in case of special organisational situations and make decisions in favour of a safe conduct of flight. Such situations should be trained in the scope of simulator trainings. [36/2012]
+
+
+
+ that The Federal Supervisory Authority for Air Navigation Services (BAF) should ensure that air navigation service providers in combination with their risk assessment establish processes to guarantee the adherence to validation procedures. There should be validation processes after safety-relevant incidents and in accordance with stipulated time intervals. [37/2012]
+
+
+
+ that The Federal Ministry of Transport, Building and Urban Affairs (BMVBS) should pass a decree regarding the implementation of the ICAO recommendation in Annex 11, Chapter 3.33. Based on this decree the air traffic service providers should equip their air traffic control units with suitable equipment so that the recording of background communication and the aural environment is ensured. [38/2012]
+
+
+The Final Report BFU 5x013-11 of the Investigation was published in December 2012 and subsequently made available in English translation.
+
+
+Further Reading
+
+Loss of Separation
+
+Parallel Runway Operation
+
+Situational Awareness
+
+Wake Vortex Turbulence
+
+Airbus A380 Wake Vortex Guidance
+
+Recovery from Wake Vortex Encounter
+
+
+
+
+
+

@@ -1,0 +1,480 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 22 May 2010, a Boeing 737-800 being operated by Air India Express on a scheduled passenger flight from Dubai to Mangalore made an unstable approach to runway 24 at destination in day VMC and continued to a deep landing before overrunning the end of the runway at speed and falling into a ravine where the aircraft was destroyed by the impact and subsequent fire and 158 of the 166 occupants were killed and of the remaining eight, seven were seriously injured and one suffered only minor injuries.
+
+ Google Earth View of Mangalore Airport with the final location of the aircraft marked (Reproduced from the Official Report)
+Investigation
+A special Court of Inquiry was established by the Indian Ministry of Civil Aviation to oversee the conduct of the Investigation of the accident and prepare a Report on it. FDR and CVR data were successfully recovered for use in the Investigation.
+It was noted that both the Captain and First Officer had substantial experience in the aircraft type as Air India Express pilots. The Captain, an expatriate contract pilot, was automatically designated as PF for the landing in accordance with the ‘special qualification’ requirement of the Operator because Mangalore was one of three ‘tabletop’ airports in India from where scheduled flights operate and was therefore on the Operator’s ‘Critical Airfield’ List.
+Descent from cruise level FL370 was commenced at 77nm142,604 m 142.604 km 467,860.893 ft from Mangalore and speed brakes were deployed for most of the descent. Radar at Mangalore had been previously subject to NOTAM action as unavailable and the aircraft was cleared for a procedural ILS DME Arc approach to Runway 24. It joined the northern part of the 10nm18,520 m 18.52 km 60,761.155 ft radius arc from the west at a speed of 250 KIAS and tracked it as prescribed to join the ILS LLZ at 7.5 DME. However, at this point, although the speed was recorded as 179 KIAS, the aircraft was still high and the actual altitude was 5260 feet1,603.248 m whereas the procedure arc-to- LLZ intercept was charted to be carried out at an altitude of 2200 feet670.56 m.
+The reported visibility at the airfield was 6 km with no significant cloud. Descent on track but above the ILS GS began with the AP engaged. Speed and rate of descent were not excessive but the aircraft continued to descend on a profile which sustained a height more than twice that of the ILS GS throughout.
+A late recognition of this excess height appears to have occurred at about 2nm3,704 m 3.704 km 12,152.231 ft range and, after the AP had been disconnected, a significant increase in the rate of descent to 4000 fpm followed. The CVR contains a remark from the Captain at this point that suggests that the aircraft may have been so far above the ILS GS that a false GS lobe had been captured without crew awareness.  It was the large increase in the rate of descent which then led to the triggering of a number of EGPWS Mode 2 ‘Sink Rate’ calls followed eventually by a ‘PULL UP’ Warning. It also prompted a number of calls from the First Officer of both ‘unstabilised’ and ‘go around’, all ignored by the Captain. 
+The aircraft had not reported established in the ILS as requested and after asking and receiving this confirmation, a late landing clearance was issued with the wind advised as calm.  FDR data showed that the aircraft had crossed the runway threshold at a height of about 200ft60.96 m compared to the standard landing performance assumption of 50 feet15.24 m and at a speed in excess of 160 KIAS compared to the Vref for the prevailing aircraft weight of 144 KIAS. 
+Due to this excessive speed prior to touchdown, the Flap Load Relief had moved the flaps from 40° to 30° and when the speed reduced below 158 knots, the flaps moved to the selected position of 40° during the flare which caused a prolonged float and a late touchdown.  Although the right main gear touched the runway at about 1370 metres past the threshold, the aircraft bounced slightly and finally touched down at about 1585 metres along the 2450 metre long runway.
+Soon after this touchdown with autobrake ‘2’ selected, the Captain had selected the thrust reversers and three seconds later had commenced manual braking. However, within 6 seconds of starting manual braking, and from a groundspeed of around 80 knots148.16 km/h 41.12 m/s, the thrust was increased and an attempted ‘Go Around’ was initiated. The aircraft then overran the runway, the 60 metre runway strip and the 90 metre RESA and soon afterwards, the right wing hit the LLZ antenna located 235 metres beyond the end of the runway paved surface. The aircraft minus most of one wing then broke through the airfield boundary fence before falling into the ravine.
+The final part of the approach profile is shown with appended extracts from the CVR tape on the diagram below taken from the Official Report.
+
+ Actual versus ILS GS profile - reproduced from the Official Report
+The Investigation noted the failure of the crew to follow the Operators SOP for stabilised approaches and for response to EGPWS activations. The steep authority gradient which appeared to have prevailed in the flight deck and a concern prevalent amongst some pilots that a go around was seen by operations management as something to be avoided. The attempt at a go around after deployment of the thrust reversers was noted as a further violation SOP and also in contravention with Boeing procedures for the aircraft type.
+It was also noted that the CVR had provided convincing evidence that the Captain had been in a fairly deep sleep for a significant part of the flight with no conversation recorded between the two pilots for the first 1 hour and 40 minutes of the 2 hour 5 minute tape and intermittent sounds of snoring and deep breathing whilst the First Officer made all R/T calls and communicated with the cabin crew on the interphone.
+It was noted that, despite the late touchdown, if maximum manual braking had been initiated with thrust reverser deployment, the aircraft could have been stopped within the overrun area if not the paved surface.
+The Court of Inquiry determined that the Direct Cause of the accident was as follows:
+
+
+ The Captain’s failure to discontinue the ‘unstabilised approach’ and his persistence in continuing with the landing, despite three calls from the First Officer to ‘go around’ and a number of warnings from EGPWS.
+
+
+It also determined that the Contributory Factors were:
+
+
+ In spite of availability of adequate rest period prior to the flight, the Captain was in prolonged sleep during flight, which could have led to sleep inertia. As a result of (a) relatively short period of time between his awakening and the approach, it possibly led to impaired judgment. This aspect might have got accentuated while flying in the Window of Circadian Low (WOCL).
+
+ In the absence of Mangalore Area Control Radar (MSSR), due to un-serviceability, the aircraft was given descent at a shorter distance on DME as compared to the normal. However, the flight crew did not plan the descent profile properly, resulting in remaining high on approach.
+
+ Probably in view of ambiguity in various instructions empowering the ‘co-pilot’ to initiate a ‘go around’, the First Officer gave repeated calls to this effect, but did not take over the controls to actually discontinue the ill-fated approach.
+
+
+As a result of the Investigation, the Court of Inquiry made the following 43 Safety Recommendations:
+Thirteen Recommendations to the Parent Company Air India and the Operator Air India Express
+
+
+Air India Express Should Operate as a Separate Entity
+
+
+
+ The DGCA regulations mandate that a separate AOP holder like Air India Express should operate as an independent organisation instead of being operated by part time Post Holders on deputation from Air India. The philosophy of operations of Air India Express is vastly different from Air India. While Air India is a legacy airline which operates on long haul international routes, Air India Express is a low cost airline operating to destinations in the Middle East, South and South East Asia. Air India Express also operates from multiple bases which make its operations vastly different from Air India. Functions of marketing, commercial, administration and even some aspects of engineering and logistics support can be synergised with the parent company. However, those of operations, training and flight safety should be independently managed by Air India Express.
+
+
+
+ Need for Calibrated Growth of Air India Express
+
+
+
+ Since its inception in 2005, Air India Express had grown rapidly from a mere 3 aircraft to 25 aircraft in a short span of 4 years. It had also done well to increase number of flights from 26 to about 210 per week in 2009. It is given to understand that there would be further induction of aircraft and operations on new routes including domestic sectors. In order to connect more cities with international routes, AI Express also plans to operate form additional bases. There would also to be an independent engineering setup to be started at Thiruvananthapuram shortly. While such growth has its merits, there is a need to ensure that along side other resources, infrastructure and in particular induction of duly qualified manpower also takes place. While inducting flight crew to cater to this increased requirement, issues such as training and flight safety should be given prime importance.
+
+
+
+Post-Holders in Air India Express
+
+
+
+ At the time of accident, the parent company Air India (NACIL-A) continued to depute pilots not qualified on Boeing 737-800 aircraft as Post Holders to supervise various functions of Air India Express. In view of the separate AOP issued to AI Express, there is a need for Post Holders particularly of Operations, Flight Safety and Training to be qualified on type. Since operating philosophy of the low-cost AI Express is from multiple bases, all supervisors should endeavour to fly from various sectors. This would make them familiar with peculiarities of routes, operating conditions, fatigue issues and in getting to know more number of flying crew stationed at these bases, which will in turn enhance “communication” and rapport.
+
+
+
+Computerised Network for all Activities
+
+
+
+ In view of Multi-base operations of Air India Express, there is an urgent need to computerise both, intra and inter departmental activities. Currently followed use of Pencil and Eraser to maintain crew schedules leads to ambiguity and lack of transparency. In order to obviate this, it is recommended that all crew schedules should be computerised urgently in keeping with CAR Section 3, Series ‘C’ Part II (Revised 2009) issued by DGCA. This non-compliance had also been brought out by the DGCA Audit carried out from 30th October to 3rd November 2007. During the process of investigation, it was also revealed that the commercial staff was not aware of MEL release on Seat No 25C and the same was wrongly allotted to a passenger from Dubai. With inter-departmental networking, such errors can be overcome. Use of Computers will also allow an efficient and faster means of communications with the flight crew operating from multiple bases. Changes to operating instructions or any flight safety alerts can also be made known to them at the earliest.
+
+
+
+Flight Safety Management
+
+
+
+
+ FOQA and CVR Analysis in Multi-Base Operations
+
+
+
+ The mandatory analysis of CVR is presently being carried out only for flights operating into Mumbai. Such sample checks also need to include flights operating from different bases and for monitoring performance of crew operating from bases other than Mumbai. In view of the multiple base operations, 100% FOQA analysis of DFDR takes up to 3 weeks. For faster monitoring of various parameters, this duration could be cut down by Computerisation and Networking. 
+
+
+
+ Flight Safety Counselling to Flight Crew
+
+
+
+ Flight Safety Counselling of flight crew should be participative and aimed at correcting a serious violation or if indicative of any trend of errors. It should be nonpunitive, unless absolutely necessary. The session should be non-intimidating and efforts should be made to ensure that flight crew view the process positively. However, errors/ violations and corrections if required should be spelt out clearly and unambiguously. During counselling, flight crew should also be appreciated for positive flight safety enhancement actions or ‘Good Shows’, if any.
+
+
+
+ Need for Internal Safety Audit
+
+
+
+ There is a need to carry out Internal Safety Audit of all bases and line stations by Flight Safety Department at frequency as stipulated in CAR Section 5, Series F, Part 1. Such Audit must include all departments like Operations, Engineering, Training and Commercial. The outsourced activities like Ground Handling, Catering/Flight Kitchen and Security etc must also be audited to identify any Safety concerns and to mitigate them.
+
+
+
+
+
+Training
+
+
+
+ Air India Express has a mixed intake of Pilots. While there are Captains and First Officers employed directly on contract, First Officers from Air India are also sent to AI Express for Command conversion. In addition, a number of foreign pilots have also been employed, who need to be given familiarisation training for operating in Indian conditions. There is also a need for recurrent training including various clearances and checks. There is a shortage of TRI and TRE which needs to be addressed urgently. The emphasis should be on a common SOP for such a mixed crew. During training, endeavour should also be made on inculcating a common company culture amongst the crew. Aspects such as CRM, actions during unstabilised approach, use of Vertical Situation Display (VSD), identification of false Glide Slope etc., should be covered in ground training and where possible, in simulator. In addition to this large requirement of training, Air India Express needs to develop its own infrastructure for carrying out training especially in view of the constraint of Multi-base operations. Since AI Express operates on shorter sectors, criteria for various qualifications should be more on numbers of take-offs and landings and not on total hours flown. The ground training should include aspects of Aviation Medicine including fatigue management, effects of alcohol, self-medication etc.
+
+
+
+Training on Simulator
+
+
+
+ Air India Express has a simulator for Boeing 737-800 aircraft. However this simulator suffers from maintenance problem and frequent breakdowns. In view of vast requirement of training, the simulator should have a much better state of serviceability. AI Express operates to some of the critical airfields such as Mangalore, Calicut and Pune. The simulator should be able to generate synthetic displays of these airfields. With availability of enhanced fidelity these days, the flight crew can be given better training. Apart from normal emergencies, emphasis during simulator training should also be given to ‘Go Around’ procedure from both stabilised and unstabilised approach conditions.
+
+
+
+Co-ordination Meetings
+
+
+
+ There is a need for frequent co-ordination meetings between various Post Holders for smooth operations of the Airline. The departments of operations, flight safety, engineering and training need to meet more often, to address various interdepartmental issues and to synergise working environment. 
+
+
+
+Crew Resource Management (CRM)
+
+
+
+ Crew Resource Management training and refreshers for all flight crew should be conducted as required by DGCA vide Operations Circular No 2 of 2001 dated 10 May 2001 and other circulars in this regard. This should include both classroom and simulator training. Workshops to include, inter alia, training on assertiveness by First Officers should be conducted. Specific issues regarding multi-cultural crew composition should also be covered during the CRM training. Flight crew should be sensitised to implications of nil or little communication on the flight deck during cruise phase. Flying supervisors and TRE/ TRI should observe all CRM issues including the Trans-Cockpit Authority Gradient by occupying Observer’s seat. This would allow them to assess the responses of both Captain and the First Officer, functioning as a team. In addition, airline should ensure a system whereby relevant details about the personal particulars and flying experience of the Captain and First Officer are available to each other, before commencing a flight together. This would help the flight crew in establishing a quick rapport. Flow of such information would be possible after computerisation and networking of activities at all bases, from which AI Express operates.
+
+
+
+Employment of Foreign Pilots
+
+
+
+ There is a need for Air India Express to carry out a detailed check into background of Foreign Pilots, prior to issuance of FATA by DGCA. Emphasis should be laid especially on flight safety issues for the entire flying career, as well as anomalies during training, if any, from all the previous employers. There is also a need to examine medical history of Foreign Pilots in its entirety. The airline should conduct pre-employment medical examination for all Foreign Pilots similar to Indian pilots. While proposing the employment of Foreign Pilots, Air India Express should justify such an employment. Yearly Training Plan and quantifiable targets achieved in upgrading Indian pilots to PIC, should accompany such proposal. Air India Express could re-consider terms and conditions of employment of foreign pilots. Encouraging foreign pilots to stay in India with families, rather than the current practice of serving six weeks followed by a two weeks vacation abroad, is considered most desirable. This would enhance ‘ownership’ and a sense of belonging amongst the foreign flight crew. In addition, this would increase effective utilisation of these pilots, reduce FDTL issues and need to reacclimatise after their vacation. Further, such longer stay within India would reduce the possibility of upsetting crew schedule and the uncertainty, should the foreign pilot not return after his vacation. In turn, it would also reduce the anxiety amongst foreign pilots regarding their continued employment and renewal of FATA.
+
+
+
+Crew Scheduling
+
+
+
+ Computerisation of crew scheduling should be ensured by the airline at the earliest in accordance with CAR Section 3, Series ‘C’ Part II (Revised 2009) issued by DGCA. This non-compliance had also been brought out by the DGCA Audit carried out from 30th October to 3rd November 2007. In multi-base operations, adequate number of flight crew (including Standby flight crew) should be based permanently at all such bases. Instead of moving the crew repeatedly to other bases, the permanent basing will allow unhindered operations of scheduled flights from all bases.
+
+
+
+Pre-flight Medical Check
+
+
+
+ Air India Express should ensure 100% Pre-flight medical check of all flight crew prior to commencement of a flight/ series of flights. The Operator should provide a suitable designated space for conduct of such pre-flight medical examination in privacy. All doctors performing such examination including those employed on contract basis should be suitably trained for the same. In addition, a random check for alcohol by use of Breathalyser should be conducted by the doctor as required vide CAR, Section-5, Series-F, Part-3, Issue-I dated 13th November 2009 issued by DGCA. Role of Airline Doctors as spelt out in the Handbook on Medical Assessment of Civil Flight Crew in India, available on the DGCA website, should be adhered to. The airline should encourage short-duration training in Aviation Medicine for all doctors. This will aid in early recognition of fatigue and importance of rendering correct advice regarding flying with minor sickness including with medication. 
+
+
+
+Aviation Medicine Specialist
+
+
+
+ The Airline should consider employing a full-time Specialist in Aviation Medicine. Such specialist should conduct initial and refresher training of flight crew and cabin crew in sleep physiology, circadian disruptions and methods to reduce effects of fatigue (including controlled rest in seat and use of prescription medication for sleep induction and alertness enhancement). This specialist may, in addition, be utilised to conduct regular classes in Aviation Medicine including Hypoxia, Spatial Disorientation and Aviation Psychology. In addition, such a specialist should be utilised to counsel the flight crew on their regular licensing medical examination and measures to be adopted to increase wellness and thereby a full and healthy flying career.
+
+
+Thirteen Recommendations to the Airports Authority of India (AAI)
+
+
+SOP on Watch Hours
+
+
+
+ There is a need for AAI to bring out SOP on actions to be completed prior to opening the ‘Watch Hours’ at all airports. The procedure should clearly bring out various activities which need to be completed prior to declaring an airfield ‘operational’ viz timely manning of Air Traffic Control Tower after having carried out inspection of runway, communications and other facilities including readiness of crash and fire tenders. It is recommended that after completion of inspection, the ATC Tower Controller takes his position at least 30 minutes prior to opening of watch hours. 
+
+
+
+Avoidance of Downward Slope in the Overshoot Area Particularly on Table Top Runways
+
+
+
+ As per worldwide data published by ICAO, most of the accidents occur during landing and take-off phases, with a large number of runway excursions and aircraft overrunning into the Overshoot Area. Considering the large momentum of these aircraft, a downward slope in the overrun area can worsen the outcome. It is therefore recommended that such downward slopes as obtaining in Mangalore, be brought to the same level of the runway surface. This also needs to be ensured at all table top airports in the country.
+
+
+
+Need for Frangible Structures on the Overshoot Areas
+
+
+
+ It is mandatory for all structures protruding above the Runway Safety Areas, to be frangible. These would include approach lights in the overshoot and undershoot area, signage, ILS Localiser Antenna mountings etc to name a few. At Mangalore, the ILS Localiser Antenna is mounted on a concrete structure. Although, this structure is in-frangible, as recommended at Para 4.2.2 above, once the downward slope of overshoot area for R/W 24 is brought to the same level of the runway surface, this concrete structure will also get embedded in the ground.
+
+
+
+Maintenance of RESA
+
+
+
+ Maintenance of RESA at Mangalore needs improvement. There were not only a number of shrubs growing all over, but some of the Approach Lights had their concrete mountings jutting out above the surface. Requisite refilling of sand and its periodic maintenance needs to be ensured.
+
+
+
+EMAS and Soft Ground Arrester Barrier
+
+
+
+ Considering the large number of runway excursions leading to hull loss accidents, ideally an arresting system like the Engineering Material Arresting System (EMAS) should be installed on the runway overshoot areas, especially for Table Top airports like Mangalore. However, at all other runways, the overshoot areas could incorporate a Soft Ground Arresting (SGA) system to retard the exiting aircraft, in case the cost of EMAS is not viable. It may be pertinent to mention that such SGA are maintained at almost all the Indian Air Force (IAF) airfields with regular ploughing and filling of sand, as required.
+
+
+
+Installation of Distance to Go Markers (DTGM)
+
+
+
+ As a visual reference to ascertain the remaining distance, it is recommended to install DTGM on runway shoulders. Such DTGM are made out of frangible material and are installed at not only all Indian Air Force airfields, but also at a number of civil airports abroad. Since a number of civil air operators also use IAF airfields, use of DTGM could help the pilots to ascertain critical distances such as TODA, ASDA etc. if such runways do not have standard ICAO markings. In this connection, DGCA had also issued a circular in October 1985.
+
+
+
+Location of Air Traffic Control Tower at Mangalore
+
+
+
+ After commissioning of runway 24/06 in 2006, the earlier ATC Tower was not found suitable for controlling air and surface movement operations, safely. Hence, a temporary ATC Tower had been built near 24 dumbbell. However, in addition to limited space, this location does not offer a clear field of view to the ATC controller, especially with commencement of operations from the New Terminal. It is, therefore, recommended that a new ATC Tower be built at a central location. The Tower should have adequate space to accommodate meteorological officer to facilitate him to take weather observations from all sides.
+
+
+
+Approach Radar/Area Radar Repeater in the ATC Tower
+
+
+
+ Ideally, approach Radars should be installed at all airports. However, in view of its cost effectiveness, if it is not feasible to install approach radar, a repeater display of the Area Radar should be installed in the ATC Tower. This will help in enhancing situational awareness of the ATC Tower Controller. It is, therefore, recommended that repeater display of the Area Radar be installed in the ATC Tower of Mangalore airport.
+
+
+
+Preventing Erosion of Strip Width at Mangalore
+
+
+
+ Due to the constraints of terrain, the Table Top runway 24/06 has a strip width of 150 metres instead of standard 300 metres. The limited strip width is also one of the permanent concessions being sought by AAI for licensing of airport at Mangalore. In order to ensure that the strip width does not reduce further, there is a need to initiate engineering measures. Use of nets and strict control over quarry and mining activity in this area are some of the recommended measures. All Operators should cater to safe crosswind limitation for the type of aircraft operations in view of the narrower strip width. The ATC Controller needs to caution the pilots in this regard.
+
+
+
+Suitability of RFF Vehicles for the Type of Terrain
+
+
+
+ Presently, at Mangalore airport, there are two types of RFF vehicles, namely ‘Agni Shatru’ and ‘Panther’. The newly inducted Panther RFF is bulky in size and it can only be used for fire fighting within the periphery of airport. However, it cannot be used for similar role outside the periphery of airfield due to narrow and winding access roads of this hilly terrain. It is, therefore, recommended that a mix of small and agile RFF vehicle along with heavier RFF vehicle is made available to cater to all types of contingencies. AAI should examine the feasibility of introducing Rapid Intervention Vehicle (RIV) at such airports.
+
+
+
+Continuity Training of RFF Crew Including Simulators
+
+
+
+ Due to operational constraints, the RFF crew lack opportunity of practical training and crash drill on actual aircraft. On the other hand, recurrent training for all activities related to aviation is required to enhance the level of professional skill and flight safety. It is, therefore, recommended that the RFF crew should be sent for training on simulators on regular intervals. In this connection, more number of simulators, large scale aircraft models and training films should be made available regionally.
+
+
+
+Follow up Action on Obstruction Surveys
+
+
+
+ In view of increasing construction activity across the country, there is a need to carry out obstruction survey more frequently. Other than informing the Operators regarding new obstructions, actions such as painting and installing obstruction lights should be followed up with urgency. At Mangalore, AAI needs to liaise with authorities of State Government to complete the pending action of painting of water tank and pruning of trees, in the vicinity of airport.
+
+
+
+Aerodrome Risk Assessment and Condition of Roads outside the Perimeter
+
+
+
+ Most of the recent accidents indicate that these occur during the landing and take-off phases with large number of runway excursions. Since Mangalore is a Table Top airport, Risk Assessment and mitigation would indicate that it is necessary to build adequate access roads outside the perimeter of Mangalore airport. AAI needs to take up the matter with the State Government in this regard.
+
+
+Sixteen Recommendations to the Directorate General of Civil Aviation (DGCA)
+
+
+Post Accident Initial Actions
+
+
+
+ There is a need for the DGCA to designate in co-ordination with Airports Authority of India, a post holder at each airport who will be the Single Point of Contact in case of an aircraft accident. Such official should initiate immediate actions required to facilitate investigation, while the search and rescue operations are still underway. All immediate actions need to be initiated and properly recorded till the arrival of Inspector of Accident, who will be appointed by DGCA. It is recommended that the initial actions should include video recording of the wreckage for better understanding of the situation, while the rescue operations are underway. There is also a need to bring out a Check List enumerating immediate initial actions. This Check List should be available at all airports and incorporated on the DGCA website.
+
+
+
+Aviation Medicine Specialist in the Initial Team
+
+
+
+ There is a need for including a Specialist on Aviation Medicine in the initial team of DGCA officials, who visit the site of accident, especially in the case of fatalities/injuries.
+
+ The Aviation Medicine Specialist should liaise with the local Police Authorities for implementation of Air Safety Circular No 03/84 issued by DGCA, Govt of India. He should also liaise with local Medical Authorities for the post mortem, especially those of flying crew. This will ensure a thorough autopsy including post-mortem Xrays that can help in corroborating the cause of the accident and establishing the cause of injuries/fatalities. Also this Specialist will ensure timely toxicology investigation to rule out consumption of alcohol or other drugs. Aviation Medicine Specialist should also be facilitated to go through personal effects of the deceased/injured flight crew and interview their family and colleagues. This will help to investigate the possibility of self-medication and any life stress events that may have contributed to the cause of the accident.
+
+
+
+Inclusion of Experts of Bomb Detection and Disposal Squad (BDDS), Bureau of Civil Aviation Security (BCAS)
+
+
+
+ There is a need to instruct the BDDS, BCAS to send their experts to the crash site immediately to investigate the possibilities of any explosive material carried on board the aircraft and also to rule out sabotage, if any.
+
+
+
+Revision and Distribution of DGCA Air Safety Circular No 3 of 1984
+
+
+
+ There is a need to revise the DGCA Air Safety Circular on “Action required by Police authorities in case of aircraft accidents” issued to District Police Officials, through State Governments. Inclusion of a specific requirement to analyse post mortem samples of the flight crew for several common prescription drugs is considered essential. There is also a need to widely circulate the revised Circular to all the District Police Officials. The official designated as the Single Point of Contact should also liaise with the local Police Officials regarding the actions required to be taken by them, as per current circulars. There is a requirement to create a separate link for Aircraft Accident Investigation on the DGCA website and to include all relevant circulars and manuals on this link. This will facilitate referral by all officials including Inspector of Accident, Airport Directors, Police officers and Doctors.
+
+
+
+Revision of AIC 28 of 1992 FDTL for Flying Crew
+
+
+
+ There is an urgent need to revise the currently used AIC 28 of 1992 regarding FDTL of flight crew. The revised FDTL needs to incorporate issues such as clarification on neighbouring countries as well as change in time zones while operating on international routes. There is also a need to incorporate due allowance for the effect of flying during Window of Circadian Low (WOCL). In view of rapid growth of Civil Aviation in the country, there is also a need to take a fresh look at the FDTL for Cabin Crew outlined in CAR, Seciton-7, Series-J, Part-I.
+
+
+
+Revision of Duty Time Limitation (DTL) for Other Staff Related to Aviation
+
+
+
+ In keeping with the growth of Civil Aviation Sector, there is a need to formulate Duty Time Limitations (DTL) and fatigue factor for the following groups of personnel:-
+
+a) Air Traffic Controllers
+
+b) Aircraft Maintenance Engineers
+
+
+
+
+
+Implementation of Fatigue Risk Management System (FRMS)
+
+
+
+ All operators need to incorporate training on Fatigue Risk Management System, which will enable flight crew to understand and manage the aspects of fatigue and stress.
+
+
+
+Regulation on Controlled Rest in Seat
+
+
+
+ In view of the Captain having slept for a prolonged period in his seat during this accident, DGCA needs to take a comprehensive view into the aspect of Controlled Rest in Seat, especially in a two-man cockpit. After due analysis, a regulation needs to be brought out for its effective implementation.
+
+
+
+Employment of Foreign Pilots
+
+
+
+ There is a need for both, the Operators and DGCA to carry out a detailed check into background of Foreign Pilots, prior to issuance of FATA. Emphasis should be laid especially on flight safety issues for the entire flying career, as well as anomalies during training, if any, from all the previous employers. In addition, there is a need to examine medical history of Foreign Pilots in its entirety. All Foreign Pilots also need to undertake medical fitness examination at IAM/AF CME, as applicable to the Indian Pilots. The Foreign Pilots need to be subjected to requisite ground subjects’ examination, so as to help them understand the Indian operating conditions, including the operators SOP. At the end of this process, the Foreign Pilots should be endorsed with Indian Civil Pilots Licence. Although the terms and conditions for employment of Foreign Pilots are best left to individual Operators, a longer period of engagement may help the Operators as well as the Foreign Pilots, in reducing their current anxiety of renewal of FATA. While proposing the employment of Foreign Pilots, every Operator should be able to justify such an employment. Yearly training plan and quantifiable targets achieved in upgrading Indian pilots as PIC, should accompany such a proposal.
+
+
+
+Pre Flight Medical Check
+
+
+
+ There is a need to re-draft the current CAR Section 5, Series ‘F’ Part III on Pre-flight Medical Check, which emphasises only on alcohol consumption. The new CAR should incorporate comprehensive instructions based on ‘Hand book on Medical Assessment of Civil Flight Crew in India’, available on the DGCA website. Implementation of pre-flight medical check by Operators needs to be audited by DGCA, periodically.
+
+
+
+Flying Checks by the Flight Inspectors of FSD
+
+
+
+ Flight Inspectors of FSD need to carry out frequent flying checks on sectors involving flights to Critical Airfields and also during ‘Red-eye’ flights involving Window of Circadian Low. This will help them in ascertaining for themselves, flight crew proficiency during such flights.
+
+
+
+Clarification on Flying Procedures
+
+
+
+ In view of this accident, there is a need for DGCA to bring out a Standard Operating Procedure to be followed for the following:-
+
+a) Unstabilised approach and actions to be taken by the First Officer, in case the PIC does not initiate a timely ‘Go Around’.
+
+b) Identification of False ILS Glide Slope and procedure to be followed for a safe landing. 
+
+
+
+
+
+ In view of a number of points raised by Operators and Participants during the Public Hearings, DGCA needs to clearly and unambiguously bring out the limits, which do not warrant any Operational Incident Reports (OIR) to be raised or punitive action to be initiated against the pilot for following incidents:
+
+a) Hard landing.
+
+b) Go Around.
+
+
+
+
+
+ CAR, Section-5, Series ‘F’ Part II, Issue I dated 13th September 1999 needs to be amended to remove any ambiguity regarding the exceedence limits.
+
+
+
+Avoidance of Verbal Instructions Towards Reporting of Flight Safety Incidents
+
+
+
+ No verbal instructions should be issued either by the officials of DGCA at New Delhi or from Regional Offices of DGCA regarding various limits, which if exceeded, warrant either an OIR or punitive action against a pilot by the Operator and/or DGCA.
+
+
+
+Applicability of Regulations to Foreign Airlines Operating in India
+
+
+
+ DGCA needs to ensure applicability of all Indian Regulations to the Foreign Airlines operating within Indian airspace. There is a need to audit their activities periodically, while operating in India.
+
+
+
+Safety Management Training for Executives
+
+
+
+ In view of rapid growth of aviation in India, both commercial and private, there is a need to ensure that various Executives as well as Post Holders undergo specialised training in Safety Management. This will enhance the necessary awareness amongst senior management, thereby ensuring that requisite importance is given to Flight Safety. In this connection the newly introduced Safety Management System (SMS) by DGCA also needs to be implemented by all operators.
+
+
+
+Publication of Flight Safety Journal
+
+
+
+ Since DGCA is a repository of all the current information on Flight Safety, a centrally published Journal on matters of Flight Safety will greatly help in spreading awareness on safe operations. DGCA has information on periodic initiatives by ICAO and has access to data on worldwide accidents/incidents. The recommendations from such data can be shared with the operators through this journal. The publication could be monthly/bi-monthly and could incorporate a variety of issues which have bearing on Flight Safety, such as Meteorology, Aviation Medicine, new ATC procedures etc, to name a few. The proposed Flight Safety Journal could also include ‘Good Show’ in respect of crew members as well as technical, ATC and all other personnel connected with aviation for an ‘individual action’ which might have resulted in avoiding an accident/ incident.
+
+
+One Recommendation to the Ministry of Civil Aviation
+
+
+Setting up of Indian Civil Aviation Safety Board
+
+
+
+ The Court of Inquiry also recommends setting up of an independent Indian Civil Aviation Safety Board (ICASB), on the lines of NTSB, USA. This independent body will help in focusing on all the flight safety related issues, so as to make timely recommendations to DGCA and Ministry of Civil Aviation for speedy implementation. The recommended proactive measures will help in minimising accidents and incidents. Such an independent organisation is much needed in view of rapid growth of aviation in the country including General Aviation. 
+
+
+The Report of the Court of Inquiry: Report on Accident to Air India Express Boeing 737-800 Aircraft VT-AXV on 22nd May 2010 at Mangalore was completed on 31 October 2010 and subsequently made public at a later date.
+
+Further Reading
+
+Runway Excursion
+
+Stabilised Approach
+
+Landing Flare
+
+Runway End Safety Area
+
+Engineered Materials Arresting System
+
+Crew Resource Management (CRM)
+
+Adherence to SOPs (OGHFA BN)
+
+Normal Checklists and Crew Coordination (OGHFA BN)
+
+Runway Overrun After Unstabilised Approach (OGHFA SE)
+
+
+
+
+
+

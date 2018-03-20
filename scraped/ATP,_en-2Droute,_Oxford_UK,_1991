@@ -1,0 +1,94 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Synopsis
+3 Related Articles
+4 Further Reading
+
+
+Description
+On 11 August 1991, an British Aerospace ATP being operated by British Midland Airways (BMA) on a scheduled passenger flight from East Midlands to Jersey, Channel Islands and climbing to cleared level FL160 in day IMC was unable to maintain altitude and as this level was approached and the flight crew temporarily lost control with uncontrollable roll oscillation and a high rate of descent leading to a loss of altitude of 3000 feet. A PAN was declared to ATC but as the aircraft descended below cloud, control was regained and the flight continued without further event. None of the 63 occupants were injured and the aircraft was undamaged.
+
+Synopsis
+This is an extract from the Report (4/92) the serious incident investigation published by the Air Accidents Investigation Branch (AAIB) UK on 16 September 1992:
+The commander set the propeller revolutions per minute (rpm) to 85% after take-off and to 82% on passing FL80 in the climb to the assigned level of FL160. He controlled the ITT [intermediate turbine temperature] to a maximum of 720°C993.15 K 1,328 °F 1,787.67 °R throughout the climb. The aircraft entered cloud just below FL130 at 160 kts296.32 km/h 82.24 m/s and a rate of climb around 500 ft/min2.54 m/s. […] when the aircraft was at approximately FL150, over a two minute period, the indicated airspeed (IAS) reduced to 142kt and rate of climb fell at times to zero. During the period that the aircraft was in cloud the crew observed sleet and rain. At FL154 the commander requested Air Traffic Control (ATC) for reduction in his cleared cruise flight level to FL140 but the controller was unable to approve the lower level immediately because it had been allocated to another aircraft. In the event the maximum level achieved by the Advanced Turbo Prop (ATP) was FL156.
+The engine and propeller ice protection systems had remained switched on from take-off and both pilots had been looking for signs of airframe ice, in order to determine if operation of the airframe de-icing boots was necessary. The only indication was a thin line of what they described as rime ice on the leading edges of the wings and three eights of an inch of rime ice on the windscreen wiper arm. The outside air temperature (OAT) was between -2°C and -5°C and the total air temperature (TAT) was calculated to have fallen to -2°C. The aircraft was being flown by autopilot in the heading mode with the attitude being controlled by the autopilot pitch wheel.
+[…] When the aircraft was at FL156, it began to experience vibration which rapidly increased in severity. The vibration was thought by the cabin attendants to be more severe in the rear of the aircraft than at the front. Both pilots had experienced propeller icing and associated vibration on an ATP before but on this occasion they thought it to be more extreme. The commander said that while the severe vibration lasted, the upper half of the attitude display on the electronic Primary Flight Display (PFD) showed intermittent blank bands and he was unable to read the alphanumeric characters on the Electronic Flight Instrument System (EFIS) displays.
+Shortly after the onset of the vibration the left wing dropped and the aircraft began to descend. The aircraft initially pitched down approximately 15° and began a rolling oscillation. The commander said that at the point of initial wing drop he disengaged the autopilot and flew the aircraft manually. He felt that the aircraft was slow to respond to aileron control inputs and large bank angles were reached, particularly to the left, where a single peak of 68° of bank was recorded. He described the aircraft as wallowing with light aileron control forces.
+During the period of roll oscillation and rapid descent the first officer transmitted a “Pan” call and altered the transponder to emergency code of 7700. He also switched the airframe de-icing to ON.
+[…] The crew reported that at no time during the incident were they aware of a warning from the pre-stall warning (PSW) system.
+Full control of the aircraft was regained at FL120. At this altitude, and clear of icing conditions, the flight continued uneventfully. 
+The characteristics of the stall are described in the report. They are derived from data retrieved from FDR and sent for additional assessment. The following assessment on the nature of the stall is made by the Defence Research Agency (DRA) and is included in the report:
+“At approximately 250 seconds the aircraft entered the stall. However, this stall was gentle and insidious. […] it occurred without triggering the stall warning system and well above the normal stall speed. The aircraft was under autopilot control which further masked its effects. Perhaps the only real clue was the severe vibration (presumably post-stall buffet) which was experienced throughout the duration of the stall, but which the crew attributed to propeller icing. Overall it is not surprising that the crew did not recognise the stall’s abnormally benign longitudinal characteristics”.
+The Report identifies the following factors as causes of the incident:
+
+
+ The rapid accumulation of glaze ice, which was not evident to the crew, but which produced significant aerodynamic degradation.
+
+ The difficulty of assessing visually the thickness of ice on the wing leading edges from the flight deck.
+
+ The BMA standard procedure to use a maximum ITT of 720°C in the climb discouraged the commander from applying power to counteract the loss of performance.
+
+ Use of autopilot in the pitch mode during climb which hampered recovery from the subsequent loss of control.
+
+ The propeller vibration which disguised the onset of the stall.
+
+
+The Report's 14 Safety Recommendations, beginning on page 41 of the Report, also address institutional and organisational issues (see Further Reading).
+
+Related Articles
+WX
+
+
+ Ice Formation on Aircraft, 
+
+ Aircraft and In Flight Icing Risks,
+
+ Accident and Serious Incident Reports:WX: a selection of accident and serious incidents in which Weather (WX) was a factor. 
+
+
+LOC
+
+
+ Loss of Control, 
+
+ In-Flight Icing.
+
+
+A&SI Reports:
+
+
+ AT73, en route, Roselawn IN USA, 1994
+
+ AT43, en-route, Folgefonna Norway, 2005 (WX LOC)
+
+ DH8D, en-route, South West of Glasgow UK, 2006 (LOC HF)
+
+ SH36, vicinity East Midlands UK, 1986 (WX LOC)
+
+
+Further Reading
+For further information see the serious incident report published by AAIB UK.
+
+
+
+
+

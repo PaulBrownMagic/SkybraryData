@@ -1,0 +1,97 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 14 February 2012, a Saab 24A being operated by Latvian carrier RAF-AVIA Airlines on a scheduled cargo flight for Swedish cargo carrier Nordflyg from Helsinki to Mariehamn failed to follow TWR ATC instructions to make a procedural ILS approach to runway 21 at destination and was observed on radar to track direct to the airport before being cleared to land and then observed by ATC in night VMC to attempt a steep turn towards the runway before disappearing behind rising terrain and trees until reappearing and remaining below the ILS GS and landing on runway 21.
+
+Investigation
+An Investigation was carried out by the Safety Investigation Authority, Finland (SIAF) as a result of notification by the Mariehamn ATC Unit. The aircraft FDR and CVR recordings were available to the Investigation as were ATC voice communication recordings and (some days later) a short informal unsigned report from the aircraft commander. The First Officer was interviewed both in Riga and in Helsinki but “attempts (by the Investigation Team) to interview the Captain…did not succeed”.
+The 57 year old aircraft commander who had acted as PF for the investigated approach, was found to be an experienced pilot but to have had only 200 hours on the Saab 340. The inexperienced First Officer had a total flying time of only 390 hours of which just under half were on the Saab 340. 
+It was established that the aircraft had been cleared to the IAF “PEXUT” for the ILS ‘z’ Runway 21 procedure and had acknowledged that clearance. It requires that the ILS FAT be acquired from the 10 nm DME MAR arc at 1800 feet QNH and prior to the IAF, which itself is positioned shortly before the ILS GS is intercepted at a range of 4.8nm - see the chart below. 
+What actually happened was that, after briefly establishing on the procedure DME arc with the AP engaged, the aircraft had turned left to track approximately 240° towards the (unseen) runway threshold - a track which was approximately 40 degrees off of the ILS FAT (see second diagram below). When TWR, having seen this deviation, asked for confirmation that the aircraft was continuing as cleared, this was given. After that, the symbol representing the aircraft was reported to have faded from the screen.
+
+ Instrument Approach Procedure for which ATC Clearance was given and accepted (reproduced from the Official Report)
+As the aircraft continued on its new track, it was found that it had begun to descend below the SSA of 1800 feet, then, as it passed 1600 feet QNH, it had turned right onto a track which was approximately perpendicular to the ILS FAT and continued to descend to 1000 feet QNH without the runway being in sight. As the ILS LOC was approached (and subsequently crossed) at a range of 3.1nm, the aircraft was cleared to land. The First Officer noted aloud that they did not have the runway in sight and, then, having noticed that the aircraft was now within the ILS LOC beam and ‘fly left’ was indicated, advised the PF to turn left. The PF had then “made a rapid deflection with the aileron and the rudder to the left”  in addition to pitching down and “ended up in an unusual flight attitude in which the maximum bank angle was 50 degrees to the left and the maximum pitch angle was 19° nose down”. The aircraft went into a sideslip with a rapidly accelerating sink rate which reached approximately 5000 fpm at height of 300 feet.  
+
+ A reconstruction of the path flown relative to the clearance given (reproduced from the Official Report)
+A GPWS Mode 2 (terrain closure rate) Warning was annunciated as well as Mode 5 (Glideslope) and Mode 6 (Bank Angle) alerts - see the third diagram below.
+
+ The vertical trajectory of the final approach flown relative to the ILS GS (reproduced from the Official Report)
+At this point, the TWR controller saw the aircraft making a steep turn towards the runway, following which it disappeared behind rising terrain and trees. The Mode 2 GPWS Warning repeated ‘PULL UP’ eight times but “the crew did not react to this”. Recovery was eventually achieved with a minimum height of 150 feet agl “about two seconds before they would have collided with the ground.” This occurred at 2.7nm from the runway threshold but was not in accordance with the prescribed response and the altitude was increased only slightly. The result of this was that further GPWS Mode 2 ‘PULL UP’ warnings were annunciated which were again ignored. Only as the PF flew the aircraft towards the runway threshold more or less level and well below the ILS GS using guidance from the First Officer did he eventually see it for the first time with 4 reds showing on the PAPIs. Finally, about 1.5 minutes after crossing through the ILS LOC at 3.2 nm, the aircraft was landed normally on runway 21.
+A METAR for the destination timed five minutes after the aircraft landed gave cloud as FEW at 1200 feet and BKN at 2000 feet and a visibility in light snow of more than 10km.
+Given that the deviation from the lateral clearance and the nature of it were the precursor to arrival at the ILS FAT at an angle of 90° and the subsequent attempt to turn sharply onto final approach which led directly to the loss of control, the Investigation sought to find an explanation for it but was not able to do so. It was not possible either to find an explanation for the premature descent below the altitude of 1800 feet which also occurred, although it was considered possible that the availability of a DME range from the field may have served to encourage descent once the clearance was no longer being followed and a more direct track towards the runway was being followed.    
+The Investigation considered that CRM during the approach had been deficient and not in accordance with requirements contained in the Company Operations Manual. Poor airmanship “which materialised in degraded situational awareness and decision-making” was seen as partly a consequence of a steep authority gradient between the aircraft commander and the First Officer. It was concluded that the latter had actively attempted to comply with the Company’s standard operating procedures but it was noted that  during interview, he had stated that although he had wanted to discontinue the approach after recovery from the loss of control, his previous experience led him to believe that any such suggestion would be ignored. He advised that he had also believed that “any attempts to actively interfere with the Captain’s flying, such as taking over the controls, would have spelled trouble later on”.
+The use by Mariehamn TWR of the ATS radar monitor during the prelude to the investigated event was considered and it was noted that it could “be used, for example, as an aid in traffic situation awareness, in making visual contact with an aircraft and in providing assistance to lost aircraft”. The guidance provided to controllers also stated that it could “be used to improve flight safety by inquiring about an aircraft’s position or other activity” and that “should the pilot’s reply confirm, for example, assumed incorrect positional information (regulations require that) the pilot must be notified of this.” However, the Investigation was advised that the ANSP Finavia “has aimed to regulate the use of radar monitors so as to prevent any erroneous impression on the part of the pilot that the air traffic controller was providing ATS surveillance services”.
+The Investigation found that during the recovery from loss of control, the AFM maximum load factor of 2.0 g had been momentarily exceeded with 2.06 g being recorded but the subsequent inspection had found that no action was required to ensure continued airworthiness.
+Safety Action taken during the course of the Investigation by the Latvian CAA to support an improvement in the operational safety standards of RAF-AVIA was noted. A number of meetings were held between the SIAF and the Latvian CAA in the context of both this event and another involving the same Operator which had already been under investigation at the time this one occurred. Latvian CAA action had included a temporary suspension of all RAF AVIA’s Saab 340 operations between 19 March and 29 April 2012 to allow fleet pilots to complete “language and refresher training and proficiency checks”.
+The Investigation formally identified the Probable Cause of the investigated Serious Incident as:
+
+
+ The Captain’s continuation of the approach in a situation which did not meet the requirements of a successful approach and landing. This degraded the flight crew’s situational awareness to the extent that the Captain flew the aircraft into an unusual attitude and the crew lost control of the aircraft. This resulted in the risk of colliding with terrain.
+
+
+The following Contributing Factors were also identified:
+
+
+ Crew Resource Management was poorly handled
+
+
+
+ The Captain did not comply with the Company’s Operations Manual
+
+
+
+ The crew did not follow the instrument approach procedure
+
+
+
+ The crew ignored the warnings of the Ground Proximity Warning System.
+
+
+Three Safety Recommendations were made as a result of the Investigation as follows:
+
+
+ that the Latvian Civil Aviation Agency ensure that RAF-AVIA pilots receive additional Crew Resource Management training. 
+
+ that the Latvian Civil Aviation Agency  ensure that RAF-AVIA pilots receive additional training as regards the operating procedures of the Ground Proximity Warning System. 
+
+ that Finavia Corporation update its regulation IAM RAC 89 (15 Nov 2006) “The use of radar monitors at ATS units” in such a manner that the air traffic controller also has the option of notifying the pilot when the information on the ATS monitor and the pilot’s position report diverge.
+
+
+The SIA(F) Final Report was published on 18 September 2013 and subsequently made available on English translation 
+
+
+Further Reading
+
+Loss of Control
+
+Terrain Avoidance and Warning System (TAWS)
+
+Situational Awareness
+
+Terrain Awareness
+
+Crew Resource Management
+
+Press-on-itis (OGHFA BN)
+
+Authority Gradients
+
+Cross-checking Process
+
+Continuation Bias
+
+
+
+
+
+

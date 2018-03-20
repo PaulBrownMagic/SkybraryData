@@ -1,0 +1,78 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 28 April 2014, an Airbus A320 (JA802P) being operated by Peach Aviation, on a scheduled domestic passenger flight from New Ishigaki to Naha as MM 252 made a go around from its PAR approach to destination after descending into close proximity with the sea surface whilst still approximately 3½ nm from the airport in day IMC. Repositioning to a further approach from which a landing was made was without further event. There were no injuries to the 53 occupants. 
+
+Investigation
+An Investigation was carried out by the Japan Transport Safety Board (JTSB) and commenced the day after the occurrence. Data from the FDR were successfully downloaded but relevant data on the CVR had been overwritten. Data stored in the NVM of the EGPWS Unit was recovered and recorded ATC data was also available.
+It was noted that the 45 year-old Captain, who was PF at the time of the event, had accumulated 9,353 total flying hours including 661 hours on type. The 38 year-old First Officer had accumulated 4,626 total flying hours including 1,387 hours on type. The PAR procedure was handled by a 35 year-old male trainee under the supervision of a 32 year old controller and observed by a 34 year-old in the "Coordinating Controller" position who was also qualified to operate in the Final Approach/PAR position.
+It was established that the flight had been uneventful until nearing Naha when the crew requested that their previously-briefed VOR approach to runway 18 should be changed to a PAR procedure to the same runway due to deteriorating weather conditions. This request was approved by the Arrival controller and whilst on a wide right hand downwind leg for runway 18 (see the annotated aircraft ground track Illustration below), the aircraft was instructed to descend to 1000 feet. Then, having been turned right onto the beginning of a radar base leg, it was instructed to reduce speed to 190 KIAS and the crew set Flaps 1. The aircraft was transferred to the "Pattern Controller" who advised that the visibility was 4,000 metres and 1,000 feet was reached 20 nm from touchdown. This unusually early descent was routine and was due to the need for approach traffic to remain clear of operations at the USAF Kadena Air Base and the USMC Futenma Air Station, both northeast of Naha and both of which have extended runway centrelines which cross the extended centreline of Naha runway 18. 
+
+ The annotated approximate ground track of the aircraft [reproduced from the Official Report]
+The Pattern Controller turned the aircraft right onto radar heading 185 and Flap 2 was set. Speed was reduced to 160 KIAS and the 18 touchdown RVR was advised as 1,700m and reducing. The aircraft was transferred to the "Final Controller" who would provide the precision radar talkdown as a trainee under supervision. With about 6½ nm to go, the Captain called for landing gear down and flaps to 3. With just under 6 nm to go, a communications check was performed by the trainee Final Controller in accordance with the prescribed procedure, after which the aircraft was instructed not to acknowledge further controller transmissions for the duration of the procedure. 
+The Captain selected a VS rate of -900 fpm on the FMA and activated the mode without apparently calling out either action and as the aircraft began to descend called for flaps to 'Full'. Descent from 1,000 feet QNH was supposed to await the controller's explicit instruction which could be expected at about 3nm from touchdown whereas it had begun at about 5½ nm from touchdown. Neither the trainee nor their supervisor noticed the descent and the trainee successively advised 5nm and 4nm from touchdown and in between issued a landing clearance. About the same time, an MSAW Low Altitude Warning appeared on the Pattern Controller's radar screen and the First Officer stated "Too Low, Too Low" twice in quick succession having noticed the low altimeter reading. Eventually, just after giving the 4 mile check, the trainee controller also finally recognised the premature descent with the aircraft at about 320 feet and transmitted "Ahh, maintain one thousand, maintain one thousand, you're too below for safety approach" (sic) at about the same time as the first of six EGPWS Alerts/Warnings over a period of 14 seconds - "TOO LOW TERRAIN" - was triggered. Descent continued for a further 80 feet with a further TOO LOW TERRAIN Alert and three PULL UP Warnings before the Captain selected the TO/GA thrust lever position and the aircraft began to climb away as the controller requested an acknowledgment of his alerting call which was followed by the First Officer advising of the go around. A further approach followed and the aircraft landed on runway 18 just over 20 minutes later. The final stages of the premature descent are shown in the illustration below based on EGPWS data.
+
+ The vertical profile of the descent and go around annotated with EGPWS activations [reproduced from the Official Report]
+The Captain subsequently told the Investigation that "he thought AP had kept the aircraft flying at an altitude of 1,000 ft until he initiated a go around". He "did not remember the operation of pulling the VS knob which resulted in the descent, although he believed that he as PF must have pulled it but had no idea why or what had caused this situation". He "was aware that the pilot is responsible for maintaining the altitude" although "on the other hand, he thought that the Controller (also) monitored the altitude of the aircraft". He had not heard any of the three 'PULL UP' Warnings. After the flight had landed, the Captain reported to his Manager that he had carried out a missed approach after an EGPWS 'TERRAIN' Alert and on the basis of that report had been cleared to continue flying as rostered for the rest of his duty.  
+The First Officer noted that she had initially failed to set the flaps to 'Full' when requested to but had announced doing so when she eventually did as the aircraft approached 800 feet QNH. By this time, she had already noticed the -900 fpm set on the VS pre-set window and had considered it too high but in the absence of a call from the Captain had not realised that he had already pulled the VS knob and started the descent early so when he did not respond to her alerting call about the rate, she decided it was better to continue and complete the Landing Checklist. On completing it, she stated that she had seen 600 feet on her altimeter and called out 'TOO LOW' twice and repeated it when the Captain appeared not to understand the situation. She said that "it seemed that the Captain at that moment was trying to verify what was happening" before taking go around action. She also reported not having heard any of the EGPWS 'PULL UP' Warnings. 
+The Supervising Controller stated to the Investigation that (since MSAW Warnings are not displayed at the Final Approach position) she had not been aware of anything abnormal until she had "heard the sound of an MSAW  'LOW ALTITUDE WARNING' from the area of Pattern Controller's position and the Pattern Controller said towards the Trainee that the Peach aircraft was descending". She had immediately checked the aircraft altitude and had "found that it was flying lower than usual". She stated that "due to the characteristics of the elevation indication on the PAR Screen, it is difficult to recognise altitude deviation of a level-flight aircraft" and she was of the view that "a deviation of 500 ft can be recognised, but that of 100 ft cannot be". The Observing Controller also failed to notice the premature descent until he heard the Pattern Controller's Low Altitude Warning.
+The Investigation noted that there had been a similar Serious Incident at Naha in October 2012 which had not been subjected to independent investigation and had involved a premature PAR descent from 1,000 feet to 327 feet radio height beginning at 9 miles from touchdown during an approach to runway 36. In this case, recovery again followed EGPWS Warnings with a minimum height over the water of 327 feet but in this case, the PAR procedure was resumed once the aircraft had climbed back to 1,000 feet. 
+The Investigation also noted that the MSAW system at Naha was configured to monitor the area of radar approaches to runway 18 "in the airspace between 15.74 and 0.81 nm from the approach end of the runway" and if triggered, a LOW ALTITUDE WARNING is annunciated only at the radar display used by the Pattern Controller. According to the Aviation Regulator, the Civil Aviation Bureau (CAB), the PAR controller handling the descent from 1,000 feet does not see MSAW alerts on their screen because they are assumed to be "definitely monitoring the elevation of an aircraft" and as a result are able to "give a corrective instruction if there is a subtle deviation from the glidepath".
+The Investigation considered that the fact that the Captain chose to fly the approach with the AP remaining engaged was probably pertinent to what happened. This view was formed in the light of the findings in respect of automation in the 2013 Report on the "Operational Use of Flight Path Management Systems" prepared by the FAA coordinated Flight Deck Automation Working Group. This found that "pilots sometimes over rely on automated systems – in effect, delegating authority to those systems, which sometimes resulted in deviating from the desired flight path under automated system control" and that "reliance on automation reduces pilot's' awareness of the present and projected state of the aircraft and its environment, resulting in incorrect decisions and actions”. The Captain had about one year of experience flying the A320 and "was accustomed to flying it using AP". Whilst it was recognised that he probably decided to keep the AP engaged "because of the worsening weather conditions and in order to reduce the workload", it was considered that if he had manually manoeuvred the aircraft during the PAR approach, both pilots "would have paid sufficient attention to maintaining an altitude of 1,000 ft".
+In respect of the ATC altitude monitoring function during a PAR at Naha, it was concluded that insufficient risk management had contributed to the premature descent of the aircraft and considered that "the risk that an aircraft might descend before meeting glide-path and deviate below the Radar Safety Zone should be explicitly addressed".
+The Investigation determined that the Probable Causes of the Serious Incident which occurred were that:
+
+
+ the Captain allowed the aircraft to descend prematurely during Precision Approach Radar (PAR) guidance to runway 18 at Naha
+
+ the aircraft began descent due to the Captain's unintentional selection on the Flight Mode Annunciator and continued because both the Captain and the First Officer were less aware of monitoring the altitude as they relied on the autopilot system to do so and did not properly prioritise their tasks.
+
+ there was insufficient risk management at the Naha Ground Controlled Approach Facility, relating to identification of an aircraft that might descend before meeting the glide-path and deviate below the Radar Safety Zone which contributed to the continued descent of the aircraft.
+
+
+The Final Report was adopted by the JTSB on 8 July 2016 and published on 28 July 2016. No Safety Recommendations were made.    
+
+Related Articles
+
+Controlled Flight Into Terrain (CFIT)
+
+Precision Approach
+
+Minimum Safe Altitude Warning (MSAW)
+
+TAWS/EGPWS
+
+Crew Resource Management
+
+Prioritisation for Pilots
+
+Cross-checking Process
+
+Risk Management
+
+Tunnel Vision
+
+Operational Use of Flight Path Management Systems
+
+Cockpit Automation - Advantages and Safety Challenges
+
+Flight Data Monitoring
+
+
+
+
+
+

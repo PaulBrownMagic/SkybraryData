@@ -1,0 +1,80 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 20 July 2011, an Avro RJ100 being operated by Swiss European Airlines on a positioning flight from Nuremburg to Zurich experienced a near loss of control after their initial response to an unexpected ‘bank angle’ alert whilst on approach at destination. After receiving navigation assistance from ATC pending restoration and use of valid aircraft navigation displays, normal flight path control was regained and a second approach to land was completed uneventfully.  
+
+Investigation
+An Investigation was carried out by the Aviation Division of the Swiss AIB. FDR data as recorded was successfully downloaded but pitch and bank angle were missing for the incident part of the flight. The CVR CB was not tripped after the flight and so the relevant recording was overwritten.
+It was established that soon after take off from Nuremburg with the First Officer as PF still flying manually, an un-commanded simultaneous disconnection of the AP and FD had occurred which had been resolved by selecting the alternate FGC. During the subsequent cruise with the AP and A/T engaged, the previous FGC selection was restored with no abnormal apparent consequences. Having established on the ILS LLZ for runway 14 at destination at 4000 feet QNH in IMC, selection of Flap 18 was accompanied by failure of the AP FD and A/T. The aircraft commander was convinced that the Nuremberg take-off scenario was being repeated so he had immediately switched to the alternate FGC 1 and instructed the First Office to continue flying manually. A few seconds later EGPWS "Bank Angle" Alert activated and the First Officer reported that, since his PFD indicated level flight, he had looked across to the commander's instruments and observed that an unstable bank angle was displayed with ‘ATT’ and ‘HDG’ warning messages. 
+As the aircraft approached 6nm from touchdown, ATC observed a sudden deviation from the LLZ and instructed the aircraft to ‘turn immediately right and climb immediately to four thousand feet’. The crew had then responded that they had a “navigation failure” and were instructed to climb to 5000 feet QNH. Indications on the First Officer’s EFIS displays remained stable and would have allowed the aircraft to be controlled manually but as he stated that he no longer trusted these indications, the aircraft commander took over control of the aircraft using standby instruments and also continued to conduct radio communications, advising ATC that heading reference was no longer available.
+ATC successively observed a high rate of descent followed by a similarly high rate of climb. DFDR data showed that during this period, the thrust levers had been repositioned over a wide range and airspeed had varied between 160 and 240 knots. ATC then suspended all other approaches into Zurich and kept the frequency in use clear so as to assist communications. Shortly afterwards, the crew declared a ‘PAN’ and advised that they had lost their primary navigation displays. Since it was impossible to estimate how the situation would develop, no further take-off clearances were given by air traffic control. Whilst the aircraft commander continued to have problems flying by reference to the standby instruments, the First Officer was actioning the QRH Checklist for ‘Loss of IRS’ and asked the aircraft commander to set the EFIS selector switch to "BOTH 2". This led to normal indications on the left side EFIS displays reappearing and allowed the FD and A/T to be re-engaged. ATC were advised and thereafter provided normal radar positioning back to the runway 14 ILS and the remainder of the flight was uneventful.
+Based on the reported failure of the FD and A/T after take off, NVM memory from FGC 2 was analysed and was found to have stored an IRU1 fault, which corresponded to the FDR record. When similar symptoms occurred during the approach, IRU1 could be seen to have again malfunctioned with similar effects to after take off. Despite extensive bench testing, it was not possible to establish why this IRU had generated unstable data and then failed completely. It was noted that the same aircraft had suffered multiple but intermittent IRU instability ten days later, again with no definite faults subsequently identified. 
+It was noted that the flight crew in the investigated event had connected the observed failures with the heavy rain which had prevailed before take-off in Nuremberg, referring to a 2009 technical information note supplied to pilots which, although it describes the failure of AP, AT and FD, as well as other systems, explains this as being caused by defective temperature measurement by the air data systems rather than the influence of moisture or water.
+However, in the light of difficulties in isolating ‘hard’ faults in unstable IRUs, it was considered that the investigated event “permits the conclusion that high humidity and the ingress of water into the IRUs caused these to generate unstable data”. It was accepted that this instability “may occur for only a short time and does not necessarily lead to a total failure of the IRUs” but would, regardless of which FGC was selected, lead to a failure of AP, AT and FD, as occurred immediately after take-off from Nuremberg. It was considered that the findings in respect of the subsequent flight when both IRUs malfunctioned at the same time which included the presence of traces of dust and water on all the printed circuit cards in one of the IRUs supported this hypothesis. 
+Although at the time of the investigated incident, the Operator had been encountering various problems with the flight guidance system, these had until this incident seldom had an origin in the IRS, which arguably left flight crew with the false perception that in the case of failure of AP, AT and FD, a faulty FGC would be the likely cause in all cases and so selecting the other FGC would solve the problem.
+The Investigation made a review of the crew response sequence and accepted that, until the appearance of ‘ATT’ and ‘HDG’ warnings on the left hand PFD, these were reasonable. However these warnings constituted what should have been a clear indication that an FGC failure could no longer be the source of the problem. The confused response of both pilots instead of a simple validation of the right hand PFD against the SBY AH and continued flight by reference to the former had then left the aircraft commander attempting to fly using the Standby Instruments and performing poorly in that endeavour despite a record of successful recurrent training performance. Examination of the Standby AH after the event confirmed its “flawless function”.  
+It was concluded that “the reason why the crew analysed the (failure on approach) situation inadequately is very probably that after the failure of the AP, A/T and FD they were convinced that they were confronted with the same problem as after the take-off in Nuremberg” and attributed the repeated failure of FGC functions to again be due to a FGC fault. This conclusion was not true even for the take-off failure, in Nuremberg but led to a preconceived opinion which supported the subsequent assumption of an unlikely simultaneous failure of two independent systems. 
+Notwithstanding the absence of a CVR recording, other circumstantial evidence was considered to indicate that the context for some seven minutes of flight under the assumption that there was no useable heading information indicates that crew cooperation was deficient. This had meant that the actual failure of a single system could only be overcome with considerable difficulty.
+The formally stated Conclusion of the Investigation was that the event was attributable to:
+“the fact that after the failure of a single system the crew did not use the remaining systems appropriately and safe control of the aircraft was at times no longer guaranteed”.
+The Investigation identified the following Contributory Factors:
+
+
+ The crew had a fundamentally unfounded picture about the technical problem causing the system failure.
+
+ After the loss of the autopilot, autothrottle and flight director, the First Officer did not manage to continue to control the aircraft manually.
+
+ The aircraft commander was able to fly the aircraft only to a limited extent with the aid of the standby instruments.
+
+ Crew resource management (CRM) was unsatisfactory.
+
+ The flight crew did not carry out a sufficient analysis of the situation.
+
+ An exercise which had been practised in the simulator using standby instruments and raw data could only be partially implemented in the actual case.
+
+
+Three Safety Recommendations were made as a result of the Investigation as follows:
+
+
+ that the Relevant Authority, together with the manufacturer of the AVRO 146-RJ100 aircraft and the operators concerned should verify an upgrade with improved standby instruments. [Safety Recommendation 456]
+
+
+
+ that the European Aviation Safety Agency, together with the operators of aircraft, still equipped with electromechanical standby instruments, should examine whether their design still fulfils today's requirements with respect to ergonomics. If this is not the case, an update with improved standby instruments should be arranged. [Safety Recommendation 457]
+
+
+
+ that the Federal Office of Civil Aviation should strive, together with the operators, (to ensure) that during checks and refreshers in the simulator, realistic scenarios (are used). [Safety Recommendation 458]
+
+
+The Final Report of the Investigation Final Report No. 2158 was completed on 10 October 2012 and approved by the Board on 20 November 2012.
+
+Further Reading
+
+Loss of Control
+
+Recovery from Unusual Aircraft Attitudes
+
+Energy Management during Approach
+
+Situational Awareness
+
+Normal Checklists and Crew Coordination (OGHFA BN)
+
+
+
+
+
+

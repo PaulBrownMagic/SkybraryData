@@ -1,0 +1,130 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+
+2.1 The Accident Flight Sequence
+2.2 What went wrong
+2.3 Authority to Operate
+2.4 Observations
+
+
+3 Related Articles
+
+
+Description
+On 29 February 2016, control of a UAV Navigation (UAVN) 'Atlantic' UAV being operated by the Flemish Institute for Technological Research (Vlaams Instituut voor Technologisch Onderzoek - VITO) on a local "test flight" in the vicinity of the aerodrome at Weelde was lost. Its automatic recovery function failed to work and it departed its intended flight path on a south south-westerly track at 4,000 feet. The UAV maintained this altitude as it crossed Belgium and entered northern France where, when the engine stopped, it glided to a crash-landing sustaining significant damage. En route, it passed near to Brussels where it breached prescribed separation with an aircraft which had just taken off from runway 07.
+
+Investigation
+An Investigation was carried out by the Air Accident Investigation Unit (Belgium) - AAIU (Be). No flight recorder was installed but data sent by the UAV to the Ground Control Station (GCS) were available. It was noted that the UAV involved, called an 'Oculus' by VITO, was a fixed wing design capable of automatic take-off, flight plan execution and automatic landing according to a previously-loaded flight plan which could be controlled up to a radio range of 50 km. It had an empty weight of 45 kg and a MTOW of 55 kg and was fitted with a 12 hp engine which enabled a Vno of 92 knots and an operational ceiling of 11,800 feet.  
+It was noted that the designer UAVN was "a privately-owned, Spanish company which had been developing flight control systems, autopilots and ground control stations since 2004" and was registered with AESA, the Spanish CAA, as a "Qualified UAV Operator".
+
+ The Atlantic (Oculus) UAV involved showing its overall dimensions. [Reproduced from the Official Report]
+In 2015, VITO had taken delivery of two of these 'Oculus' UAS after various difficulties in systems integration during manufacture had been resolved. The original 900 MHz radio communications frequency was supposed to have been changed with VITOs agreement to 2.4 GHz instead of the original 900MHz. However, when the system was inspected after the crash, it was found that "the system was actually working on 2.312 GHz, a frequency reserved for the Belgian Public Broadcasting Organisation RTBF". 
+The UAV required two operators, an "Internal Pilot" located in a van with no direct line of sight to the UAV to control the flight path using a computer and a (back up)  "External Pilot" in visual contact with the UAV who, if required, is able to control the aircraft in  'MANUAL' mode. The 43 year-old "External Pilot" had a total of 25 hours experience with the same and a similar UAV and had been an active flyer of radio-controlled model aircraft for over 25 years. For just over a year prior to the accident, he had also been the holder of a PPL with SEP rating.
+
+The Accident Flight Sequence
+It was established that the intention had been for the UAV to fly a predetermined route within the 3nm radius TSA around Weelde aerodrome which extended up to 4,500 feet amsl. The flight was being made for test purposes and was intended to last about an hour using a route pre-programmed into the autopilot. No payload was being carried on the flight but subject to its successful completion, a further flight with a camera system on board was planned. A full tank of fuel - 11.9 litres - was loaded. 
+No anomaly was detected during pre flight check of the UAV but there were nine interruptions of communication including two long duration (over 5 seconds) instances but this was "considered normal by the crew" who stated that they had "physically stood between the antennas, blocking the transmissions and the interruptions were only temporary". A Flight Plan was filed with call sign VITO 0200 and the SSR squawk 1414 was assigned.
+After take-off in AUTO mode, there was a short loss of communication (more than 1 second but not more than 5 seconds) above the WP1 (see the first illustration below) but the programmed flight path was maintained until above WP3 when a communication failure warning re-appeared. In response, the Internal Pilot switched the AP to its 'HOLD' mode, which was supposed to result in the aircraft maintaining a specific altitude and following a circular pattern around the location where the mode is engaged. This action was successful so it was decided that the UAV would be landed by switching to 'LAND' mode. However, soon afterwards, "the system notified a complete loss of communication" and it became impossible to manually take over the controls. ATC were immediately notified of the situation. The loss of communication should have resulted in an automatic reversion of the AP to 'SAFE' mode which should cause the aircraft to "fly to a pre-defined safety altitude before switching to LAND mode" which should then result in an automatic landing. 
+At first, the aircraft, which was in visual contact, appeared to follow the expected procedure but "the landing flight phase was interrupted several times and the aircraft was observed to be flying away from the aerodrome and then coming back but half an hour after take-off, it was seen to take up a south south-westerly heading (199°), begin a climb and visual contact was lost" (see the second illustration below). ATC were advised of the development and began to track the aircraft. It climbed to 4,000 feet and maintained the same 199° track through the Brussels CTR/TMA and overhead Charleroi Airport towards France. ATC "started diverting traffic and informed the civilian and military ATCs of the aerodromes on the flight path of the UAV to allow for necessary action in order to prevent collision or mishap (and) the only noticeable incident during the flight was a loss of separation with an airliner departing from RWY07 at Brussels" which brought the two aircraft to within 4.5nm laterally and 800 feet vertically.
+
+ The programmed flight and the actual track flown up the point of exit from it. [Reproduced from the Official Report]
+ The track whilst holding near to the aerodrome and then departing to the south. [Reproduced from the Official Report]
+Belgian military aircraft were despatched to track the UAV, which although it was observed to be maintaining a constant track (see the illustration below), appeared to be continuously describing a 'phugoid’ altitude oscillation. Once the French border had been crossed, the French Air Force took over the tracking. When the useable fuel on board was exhausted, the engine stopped and the UAV began to descend. It finally crashed in a field near Dizy-le-Gros in northern France approximately 110 nm from Weelde after 69 minutes airborne.
+
+ The 110 nm track flown from Weelde to the crash site. [Reproduced from the Official Report]
+What went wrong
+It could be deduced that the inability of the pilots to recover the aircraft once there had been a "long" loss of communication was the consequence of failure of the control mode to automatically change to 'SAFE' mode when there was a long loss of communication. The other potentially relevant safety feature was the ability to activate the installed parachute so that it would automatically deploy in the event of loss of communication (or engine failure). However, this capability had to be enabled before flight and it was found that this had not been done.
+The Investigation found no obvious defect in the GCS and the recovered UAV was powered and the loss of communication confirmed using both a directional and a non-directional antenna. However, when "the UAV parachute cover was opened to gain access to the UAV radio box, it was found that the cable between the radio and the antenna was disconnected". Further testing using the antenna cable and then the radio taken from the other VITO 'Oculus' aircraft proved that the radio on the crashed aircraft was also inoperative. It was noted that because disconnection of the antenna causes the radio to emit continuously at full power, this will eventually cause its failure. 
+It was found that throughout the flight, the on-board computer had sent correct data to the ground station - pitch, roll angle, low rpm warning (engine stopped), maximum mission (Bingo) time reached and 'UAV on ground'. Testing of the AP and the communications system demonstrated that both had been fully functional. In particular, it was found that it was not possible to interrupt the communication between the ground antenna and the UAV by positioning a person, or car between them or if the GCS dish antenna was pointed in the opposite direction to the location of the UAV. It was therefore concluded that "the communication interruptions during the pre flight check on the day of the accident indicated that the antenna connection was already faulty".
+Examination of the connection between the radio and the antenna cable found that the crimping of the brass sleeve into which the antenna cable connector had been inserted had not been properly performed - crimping of the sleeve had occurred only at the cable end so that "only a small portion of the extremities of the braid was pressed between connector and sleeve" - see the illustration below. The consequence of this manufacturing fault would have been an increasingly unreliable connection.  
+
+ The antenna cable sleeve alongside the connector which it was supposed to secure showing the reduced security of the connection caused by limited crimping of the sleeve. [Reproduced from the Official Report]
+Failure to achieve recovery when the attempt to switch from HOLD mode to LAND mode, which resulted in an automatic change to SAFE mode, was found to be attributable to an "undetected logic fault" introduced at some point during the system software modifications. These had been required to add a transponder with consequences which may also have been affected by post delivery "adjustments" performed by VITO personnel in order to "improve automatic precision landing capabilities”. When the eventual complete loss of control occurred, this same logic fault was also found to have prevented 'SAFE' mode automatically changing to 'LAND' by causing a continuous switching from 'LAND' to 'SAFE' mode and interrupting what would otherwise have been a successful recovery at least twice. Then, when the 20 minute pre set Maximum Mission (Bingo) Time had been reached, SAFE mode was entered for that (different) reason. This time, the next attempt to change to 'LAND' mode resulted in permanent activation of 'SAFE' mode because in this case of entry to 'SAFE' mode - unless the remote operator resets the exceeded Bingo Time, which was impossible without communication with the GCS – the AP inhibits entry into 'LAND' mode. 
+Thereafter, the aircraft began its continuous climb to 4,000 feet, the maximum achievable altitude in the prevailing configuration, at Vne (97 knots) and then levelled off at that altitude at which point the observed phugoid motion began. Once the engine stopped, the AP decreased attitude as necessary to maintain airspeed above the stall speed during the glide descent and continued to control the aircraft until the crash landing which ended the flight. The cause of the eventual engine failure was not determined but it was considered possible that it had overheated and seized up.
+
+Authority to Operate
+It was noted that at the time of the accident, there was no applicable regulation permitting the operation of UAVs so that "all UAV flights were forbidden to the exception of those specifically authorised by the Belgian Civil Aviation Authority". It was found that VITO had been so authorised for one year periods beginning on 1 February 2013, 2014 and 2015 but although a further renewal had been applied for in January 2016, the requested extension had not been approved at the time of the accident. Previous authorisations had included a comprehensive list of conditions which had included that only VLOS (Visual Line of Sight) operations were permitted and that "radio communications must occur in accordance with the requirements of the Belgian Institute of Postal Services and Telecommunications (BIPT)".
+
+Observations
+In its analysis of the factual findings, the Investigation made a series of observations including the following:
+
+
+ The (lapsed) Belgian CAA authorisation document held by VITO did not cover flights for any purpose except "scientific purposes" whereas the purpose of the accident flight was training and testing, a necessary adjunct to the achievement of the primary purpose.
+
+ The radio frequency which should have been used for communications between the GCS and the UAV - 2.4 GHz was not the subject of a specific authorisation and the BIPT was not aware of the intended use. The frequency was within a band allocated for "free" use but such use was conditional on a specified maximum power output which the system exceeded. In any case, as previously found, the actual frequency being used was within a band allocated for public broadcasting.
+
+ The (lapsed) Belgian CAA authorisation held by VITO was found to refer to the Operations Handbook for the aircraft without formally requiring that flights must be performed in accordance with it.
+
+ The Pilot Operating Handbook does not include a detailed procedure on how to operate the emergency parachute manually. Although this requires communication from the GCS, "the command can be actioned on the GCS console even when communications are interrupted" so that it would be sent as a priority if communication were to be re-established even briefly. This means that as the signal was briefly re-established a few times during the first part of the flight, it would have been possible to achieve deployment of the parachute.
+
+ The fact that the accident aircraft was equipped with a transponder was extremely useful in mitigating the risk of the loss of control of the UAV.
+
+ The original UAVN design, the Atlantic UAV, was flight tested in order to demonstrate emergency procedures. However, the VITO 'Oculus' versions had been extensively modified and there had been no subsequent flight testing of emergency procedures except to validate the activation of the 'HOLD' mode. Since the software fault was introduced during these modifications, a re-run of the emergency procedures flight test "would have allowed the early detection of the flaw in the logic in a controlled environment".
+
+
+The Cause of the investigated event was formally documented as follows:
+
+
+"A series of interruptions to the communication between the ground station and the aircraft due to the disconnection of an antenna cable inside the aircraft which caused the autopilot to initiate the automatic landing procedure. A flaw in the autopilot logic software then caused the aircraft to interrupt the automatic landing sequence and continue flying on a south south-westerly heading after Bingo Time was reached".
+
+
+Five Contributory Factors were also identified as follows:
+
+
+ The interruption of communication between the ground station and the aircraft that occurred during pre-flight was not identified by the crew as a potentially serious problem - the crew stated they considered it as a positive check. [Operational Factor]
+
+ Not all safety features were selected before the flight; the use of the automatic parachute was not selected before the flight. [Operational Factor]
+
+ The manual parachute deployment was not commanded when the crew realised that the 'SAFE' mode had not worked as expected. [Operational Factor]
+
+ The autopilot was not originally designed for the incorporation of a transponder, requiring the development of a software solution in order to open up another communications port in the autopilot to connect the transponder into the setup. [Technical Factor] 
+
+ The acceptance procedure after the different modifications to the autopilot software was insufficient to identify the change in the logic. [Technical Factor]
+
+
+Safety Action was taken during Investigation as a result of the event by the airframe manufacturer UAVN who stated that they had "revised their software validation process to include a check for AP software logic failures under specific communication loss conditions".
+Four Safety Recommendations were made as a result of the Investigation as follows:
+
+
+ that UAVN reviews the BINGO time logic, as it features the inherent danger of losing control of the UAV should a communication problem arise after the landing is interrupted and the BINGO time has elapsed. [BE-2017-0004]
+
+ that UAVN reviews the design of installed safety features to ensure that the essential ones are selected ‘on’ by default and require an action from the operator to be de-activated. [BE-2017-0005]
+
+ that the Belgian CAA reviews the requirements for in-flight demonstration in order to extend this requirement when a modification is applied to an UAV of a proven design. [BE-2017-0006]
+
+ that the Belgian CAA should, when issuing Type 1a UAV operations authorisations, require that all applicable safety measures identified in the Flight Manual are selected ‘on’ for each flight. [BE-2017-0006]
+
+
+The Final Report of the Investigation was issued on 17 March 2017.
+
+Related Articles
+
+Unmanned Aerial Systems (UAS)
+
+UAS Rules and Guidance - EU
+
+Key Risk Areas Involving UAS Operation
+
+
+
+
+
+

@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 3 April 2012, an Airbus A320 (F-HEPE) being operated by Air France on a scheduled passenger flight from Paris CDG to Tel Aviv making an RNAV VISUAL approach in day VMC to runway 26 at destination was mismanaged by the crew so that the recovery from an unintended low speed condition which triggered flight envelope protection led to an overspeed warning. A second and uneventful approach was subsequently made. There were no injuries to the 155 occupants and no resultant aircraft damage. 
+
+Investigation
+An Investigation was carried out by the French BEA. Recorded flight data was available. It was established that the flight crew involved had been a 58 year old male Captain with around 20000 flying hours over half of which had been gained as a Flight Engineer and 8000 as a Co-pilot on both A320 and A330/340 aircraft. Since gaining a command, he had accumulated 1800 hours on the A320. The 27 year old female Co-Pilot, designated as PF for the incident flight, had accumulated a total of 500 flying hours which included 200 on the A320.
+
+ The RNAV VISUAL 26 Approach Chart used by the crew (reproduced from the Official Report)
+The approach attempted at Tel Aviv in CAVOK conditions briefed as an ILS approach to runway 26 with only incidental reference to the possibility of an RNAV VISUAL approach for which the Air France chart is shown above.
+When ATC offered the RNAV VISUAL Approach, it was accepted but no further briefing had taken place, despite the fact that the PF had never previously flown one and the Captain subsequently stated that he was “not very familiar with this destination”. Neither pilot had received training on this type of approach and there was no reference to it in the Air France ‘Technical Use Manual’. The recommended descent on the charted procedure and its note involved the use of FD/AP/ATHR to achieve a mean slope of 2.7° between waypoints KEREN and DALIT, thereafter following the PAPI and selecting AP/FD OFF below 500 ft agl. 
+On the incident flight, descent to 3000 feet QNH for the downwind leg had been made in DES/NAV mode and then, half way along the downwind leg, the vertical mode had been changed to OPEN DESCENT which resulted in thrust being reduced to idle. Shortly after this, managed speed was selected and fully configured the aircraft for landing, ahead of the recommended position which was “once established on the glide path, just before lining up on final”. The effect of this action with idle thrust maintained was a rapid reduction of the speed towards the applicable Vapp of 138 KIAS with a lower stall margin than the recommended SOP of a higher target speed prior to final approach.
+Then, when commencing the subsequent turn onto final approach at a speed already 3 knots below Vapp, instead of following the FD pitch command, a necessity when using the OPEN DESCENT mode, the PF, for reasons which the Investigation was unable to determine, “made a pitch-up input for ten seconds”. Speed dropped to Vapp-16 knots as the angle of attack increased from 5.5° to almost 11°. The aural warning for low speed was activated and in response, with no call from either pilot, the PF attempted to commence a go around by selecting TO/GA thrust. The Investigation found that at this point the Captain had made a pitch down input on his sidestick without pressing the takeover pushbutton. He subsequently stated that this was because “he still had (it) in mind to continue the approach”. Then, flight envelope protection was triggered and the ALPHA FLOOR and TOGA LOCK mode followed – although according to the findings of the Investigation, the PF “did not identify the locking of the TOGA LOCK” and the PM “did not identify the (activation of the) ALPHA FLOOR mode”.  
+Configuration 3 was selected and an altitude of 3,000 feet set - despite the fact that the missed approach stop altitude from the chart is actually 2200 feet. As the speed increased, the PF retarded the thrust levers to ‘CLIMB’ but this had no effect because the crew had still not noticed that TOGA LOCK mode was engaged. As the aircraft approached 2,000 ft, the crew selected that altitude, re-engaged the AP, retracted the landing gear, selected configuration 1 and, with the speed at 208 KCAS, selected a speed of 188 KIAS. As a result of inertia and with full thrust still selected, the speed continued to increase and since the VFE in configuration 1 was 215 KIAS, the overspeed warning was activated. In response, the PF selected the thrust levers to idle, which disengaged both the A/T and, as a consequence, TOGA LOCK mode, which allowed aircraft energy to decrease, but not before a maximum speed of 223 KCAS and a maximum altitude of 2500 feet had been reached. 
+Shortly afterwards, the crew re-engaged the A/T and recovered full control of the aircraft and the transition to and completion of a second approach proceeded without further event.
+It was noted that the RNAV VISUAL approach procedure which the crew had accepted involved the provision of only lateral guidance from the FMS since Air France had chosen not to input a continuous descent path for the approach. It was also noted that “the concept of an RNAV VISUAL approach does not appear in the EU-OPS regulation, this type of approach not being used yet in Europe”. At the time of the incident, it was noted that the use of this procedure “was not clarified in the Air France Technical Use manual” and Tel Aviv was the only Air France short/medium haul destination.  
+In respect of the CRM displayed on the flight deck of the incident aircraft, it was noted that:
+
+
+ the PM had not anticipated the difficulties which the PF experienced and “had not offered to detail the key points of this unusual approach during the (approach briefing). 
+
+ from the beginning of the downwind leg of the procedure, the PF “had a feeling of discomfort in the conduct of the flight” and “she did not share her doubts with the PM and did not call out her actions”. During the turn onto finals, the crew stated that “they focused their attention on the flight path and were no longer monitoring the flight parameters”. 
+
+
+It was also found that five days after the investigated event, a similar event had occurred on the same approach at Tel Aviv to another Air France A320 with a different crew. However, this time the crew had responded as soon as the low speed warning was annunciated by increasing thrust and had continued the approach without the ALPHA FLOOR protection engaging. 
+It was considered that both events highlighted a number of common elements: 
+
+
+ The approach was conducted in OPEN DESCENT mode 
+
+
+
+ The flight was conducted with the AP off, the A/T on and the FD on 
+
+
+
+ The guidance provided on the approach procedure chart in respect of the NAV-FPA or NAV-V/S modes was not applied 
+
+
+
+ The PM, occupying the left seat for a left turn, was not monitoring the speed 
+
+
+
+ The PF did not follow FD commands 
+
+
+
+ The aeroplane had been prematurely configured during the downwind leg
+
+
+The Investigation concluded that the Causes of the investigated upset were as follows: 
+
+
+ The proposal of an RNAV VISUAL approach by Tel Aviv ATC to all airlines indiscriminately, departing from the initial concept, the absence of training in RNAV VISUAL approaches at Air France at the time of the event and the short preparation for the approach made by the crew did not allow the Captain to anticipate the PF’s difficulties in performing this unusual approach. 
+
+
+
+ In addition poor understanding of A/THR operation and of the importance of following the FD in OPEN DESCENT mode, which led the crew to believe that A/THR would ensure that speed was maintained. Failure to identify the risks associated with the selection of FULL configuration at the end of the downwind leg in OPEN DESCENT mode and inadequate monitoring of the flight parameters led to deviating below the manoeuvring airspeed before the last turn. 
+
+
+
+ During the last turn, while the aeroplane had an insufficient energy level, given its configuration, a prolonged pitch up order led to the triggering of the low energy SPEED, SPEED, SPEED warning and then of the ALPHA FLOOR protection.
+
+
+Safety Action by Air France since the investigated event in respect of the lack of pilot training on the Tel-Aviv RNAV VISUAL approach has involved the issue in October 2012 of an information leaflet to A320 pilots and the creation of a video of the approach available to pilots. Simulator training on the approach began in March 2013. 
+Air France also advised prior to publication of the report of the Investigation some 20 months after its occurrence that “the establishment of a specific procedure for RNAV VISUAL approaches in the airline’s documentation is currently under consideration and should be published shortly”. 
+There was no reported action in respect of “the lack of knowledge of A/T operation and the importance of following the FD in OPEN DESCENT mode” identified during the Investigation.
+Three Safety Recommendations were issued as a result of the Investigation as follows:
+
+
+ that EASA, in partnership with national civil aviation authorities, ensures that training and recurrent training programmes include instruction on the risks associated with the use of OPEN DESCENT mode on approach. [FRAN-2013-86]
+
+
+
+ that ICAO define a framework for RNAV VISUAL approaches in its Standards and Recommended Practices. [FRAN-2013-87]
+
+
+
+ that the Civil Aviation Authority of Israel ensure that, pending the implementation of provisions by ICAO, Tel-Aviv ATC only authorises RNAV VISUAL approaches for crews of airlines that have received approval and who have made a prior request for it. [FRAN-2013-88]
+
+
+The Final Report was published 20 December 2013 and is also available in French.
+
+
+Further Reading
+
+Loss of Control
+
+Crew Resource Management
+
+Situational Awareness
+
+Continuation Bias
+
+Cross-checking Process
+
+
+
+
+
+

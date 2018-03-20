@@ -1,0 +1,77 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+3 Concurrent Safety Action
+4 Further Reading
+
+
+Description
+On 31 August 2007 an Airbus A340-600 being operated by Iberia on a scheduled passenger flight from Madrid to Quito made a hard landing with drift /side slip after a circling approach in normal day visibility and was disabled on the runway after sustaining significant damage to the landing gear, particularly many of the tyres. There was no other damage to the aircraft and there were no injuries to the 320 occupants who eventually disembarked normally from the aircraft at its final resting position. 
+
+Investigation
+The event was notified to the CIAIAC by the Republic of Ecuador Accident Investigation Commission (Junta Investigadora de Accidentes - JIA) who subsequently delegated the Investigation to the CIAIAC. FDR data was recovered but the CVR had not been stopped and the relevant recording had been overwritten. Iberia procedures for stopping the CVR did exist but the task was designated to be carried out by maintenance personnel. 
+The Investigation found no evidence that there had been any relevant aircraft technical malfunctions, nor that any runway FOD had been present. It was established that the flight crew had consisted of the aircraft commander, a relief Captain and two Co Pilots. Both operating crew for the landing at Quito had been experienced on the aircraft type. 
+The runway in use was advised as 17 and weather information passed to the crew prior to their decision on which approach to fly had been a W/V of 120° varying between 060° to 180° with a mean speed of 9 knots16.668 km/h 4.626 m/s gusting to 19 knots35.188 km/h 9.766 m/s, visibility good and a cloud base of 3900 ft aal. ATC had initially cleared the aircraft to position for a left base for runway 17 but then agreed to the crew request for an ILS approach to runway 35 followed by circling to 17. The AIP chart for the ILS approach to 35 with reference to the circling to 17 option which was included in the Official Report includes a general reference to it being an “ICAO” standard chart, although there is no reference on it to PANS-OPS and there is no information about the chart which would have been used by the Iberia crew.
+The Investigation noted that “the fact that runway 17 was in use, and not 35 as called for in the operator’s instructions for the VOR-ILS approach, forced the crew to make a circling approach”. It also noted that circling, for which there is no prescribed track, is restricted due to the nature of the terrain around the airport location and specifically that high terrain in the extended downwind position prevents this leg being prolonged excessively. It was considered that “there is no indication that the operator had planned this manoeuvre in any detail”. 
+FDR data showed that the downwind leg had been flown “with little separation from the runway” and that a constant turn which began only 27 seconds prior to landing had been necessary to reach 500 ft on finals from the downwind leg.  The Investigation considered that “whether the downwind leg could have been prolonged without compromising safety given the rising mountain terrain is debatable”
+
+ Track flown based on FDR data – reproduced from the Official Report
+Despite the short amount of time before touchdown once on final approach, it was concluded that “the aircraft made a reasonably stable approach” but that the rate of descent was around 1500fpm as late as 400 feet aal, which was above the maximum 1200fpm allowable in the Operator’s Stabilised Approach guidance. It was still 1000 fpm when the flare was initiated and touchdown occurred at 960fpm with 10° of drift. It was established that the aircraft had contacted the runway surface 160 metres from the beginning of the runway threshold with a groundspeed of 175 knots. Pieces of tyre were found from the contact point forward for the length of the landing run, during which the aircraft was more or less aligned with the runway centerline until coming to a stop 2720 m away from the touchdown point on the 3120 metre long runway. During the landing run, ATC notified the crew of disintegrating tyres and it was found subsequently that tyres 10, 4 and 8 had burst, tyre 12 had deflated and tyres 3 and 7 had been subjected to a high brake temperature.
+Iberia provided the Investigation with their Operations Manual Part C content in respect of Quito which included the following “relevant aspects to the (investigated) incident: Report QUITO-1/2007
+
+
+ Given the mountainous terrain, published maximum maneuvering speeds must be strictly observed.
+
+ The main approach is the 35 ILS-VOR, with a permissible tailwind of 10 knots18.52 km/h 5.14 m/s.
+
+ Only a circling approach to the east) of runway 17/35 is possible for runway 17.
+
+ The low visibility circling manoeuvre is described in the FCOM issued by the aircraft manufacturer ….which states the need to be stable at an altitude of 400 feet at the conclusion of the base leg. The standard pattern visual approach is performed at 1,500 ft AGL.
+
+ All landings to be made by the aircraft commander, who must have at least one year of experience of the A340 fleet. To maintain their rating for the airport, they were required to have landed there at least once in the previous year, or undergo simulator training for that airport or fly there as an Observer on a regularly scheduled flight.
+
+
+It was, however, considered by the Investigation, there was “no record of the operator, either by itself or with the manufacturer’s support, having performed an in-depth study of the landing conditions on runway 17 when operations to Quito airport were initiated”.
+In respect of the handling of the aircraft, FDR data made available by Iberia showed that in the previous year, “approximately 15% of all flights (to Quito) had landed on runway 17, especially from June to August due to the prevailing winds”. It was also noted that “the operator’s training syllabus for the second quarter of 2006 focused on Quito” but because Iberia did not make use of an A340-600 flight simulator, approaches to both runways were practised only on the -300 simulator.
+Tyre distress under the combination of abnormal lateral and vertical loads was considered in the light of Airbus’ comments that “the landing conditions at Quito exceeded the specifications tested during the tyre certification process….according to certification data, the tyres may have withstood the touchdown despite the 10° drift had the descent rate been lower”. It was concluded that there was no basis for the issue of a safety recommendation involving the strength of the tyre.
+
+ The Operational envelope for the A346 tyres with ‘X’ indicating the actual conditions during the Quito landing
+Concurrent Safety Action
+It was noted that less than three months after the investigated event, Iberia had temporarily suspended operations of the A-340-600 at Quito following another more serious accident at that airport. 
+During this time, approach procedures for both runways which would ensure that aircraft were sufficiently stabilised prior to touchdown were defined and a new procedure for precision approach to runway 35 was adopted with a requirement to proceed to the designated alternate if runway 17 was in use. 
+Also, having noted that because of the size of the fleet, pilots would fly to Quito infrequently, Iberia ”organised a group of Captains to fly there on a more regular basis”. It also contracted the use of an A340-600 flight simulator for use in crew training in recognition of the handling differences between it and the A340-300 which crews also flew on the basis of a single type rating.
+The Investigation formally concluded as follows:
+“No evidence was found of any existing defects in the aircraft tyres or of malfunctions in any of its systems, nor of the presence of foreign object debris on the runway surface”.
+“The Probable Cause of the event is considered to be the performance of a landing with a high drift angle of the main gear relative to the runway centerline, combined with a high descent rate. This is consequence of a non stabilised approach, with excessive descent speed, which forced the crew to perform strong yaw and bank corrections in order to maintain the required horizontal course. The downwind leg of the visual approach circuit was performed with a little separation from the runway and a continuous turn was made (from) the downwind leg until the final, which gave little margin to the crew to stabilise the aircraft before touchdown. The consecutive changes in the crosswind component when the aircraft was close to the ground contributed to the crew not being able to stabilise it during final approach”
+The Final Report of the Investigation: Report QUITO 1/2007 was approved by the CIAIAC on 21 February 2011. No Safety Recommendations were made.
+
+Further Reading
+
+ Stabilised Approach
+
+ Tailwind Operations
+
+ Deceleration on the Runway
+
+ Runway Overrun After Unstabilised Approach (OGHFA SE)
+
+ Non-stabilized Approach After ATC-Requested Runway Change (OGHFA SE)
+
+
+
+
+
+

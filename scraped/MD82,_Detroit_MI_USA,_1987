@@ -1,0 +1,120 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+3 Probable Cause
+4 Safety Recommendations
+5 Related Articles
+6 Further Reading
+
+
+Description
+On 16 August 1987, an MCDONNELL DOUGLAS MD-82 being operated by Northwest Airlines on a scheduled passenger flight from Detroit MI to Phoenix AZ failed to get properly airborne in day VMC and, after damaging impact with obstacles within the airport perimeter after climbing to a maximum height of just under 40 ft, impacted the ground causing the destruction of the aircraft by impact forces and a subsequent fire. All but one of the 157 occupants were killed with the single survivor suffering serious injury. On the ground, 2 people were killed, 2 more seriously injured and 4 more suffered minor injury with several buildings vehicles and structures damaged or destroyed.
+
+Investigation
+An Investigation was carried out by the NTSB. The FDR and CVR were recovered and sucessfully replayed.
+It was established that, after failing to climb properly, and in the presence of roll oscillation, the left wing of the aircraft had struck a 42 ft high car park lighting pole at a height of 37 ft agl, damaging the wing structure and causing a major fuel leak. The aircraft had then continued to roll left across the car park before striking a second lighting pole and then a building before ground impact on a road outside the airport boundary. The aircraft continued to slide along the road, disintegrating as it progressed. Fires began in various pieces of aircraft wreckage and three occupied vehicles on the road and several unoccupied vehicles in the car park were destroyed by impact forces and / or fire.
+The investigation found that the stick shaker had activated at takeoff and continued to operate throughout the remaining 14 seconds that the aircraft was flyable. It was established that the aircraft commander had been operating as PF and considered that both pilots had believed that the flaps had been correctly set to the required 11 degrees with the leading edge slats at the mid-sealed position. 
+During the time the flight crew had been on board the aircraft, it was noted that there had been numerous R/T communications about windshear and microbursts in proximity to the airport. Since standard operator stall recovery procedures were not followed and especially because the mandated “Flaps 15” call had not made by PF when the stall warning system activated, it was considered probable that the PF believed that windshear had been encountered.
+However, overwhelmng evidence to the contrary led to the eventual conclusion by the Investogation that there had been no windshear encounter either during the take off roll or when airborne.
+Other findings of the Investigation included that:
+
+
+ The aircraft had taken off with its wing trailing edge flaps and leading edge slats not extended after the flightcrew had failed to make the necessary selection.
+
+ The flightcrew had not performed the applicable checklists in accordance with prescribed procedures and in particular they had not accomplished the Taxi Checklist and therefore had not checked the configuration of the aircraft.
+
+ The aircraft climb performance had been severely limited by the failure to properly configure the wing for takeoff.
+
+  The TOWS was inoperative and therefore had not provided a warning that the aircraft was not configured properly for takeoff.
+
+  The failure of the TOWS was caused by the absence of its required 28V DC electrical power supply from the Left DC Busbar; this had occurred at the P40 circuit breaker in circumstances that could not be determined.
+
+
+Probable Cause
+The NTSB determined that the Probable Cause of the accident was the flightcrew’s failure to use the taxi checklist to ensure that the flaps and slats were extended for takeoff. Contributing to the accident was the absence of electrical power to the airplane takeoff warning system which thus did not warn the flightcrew that the airplane was not configured properly for takeoff. The reason for the absence of electrical power could not be determined.
+
+Safety Recommendations
+As a result of its investigation, the NTSB made the following eight Safety Recommendations:
+
+
+ That the FAA conduct a directed safety investigation to determine the reliability of circuit breakers and the mechanisms by which failures internal to the circuit breakers can disable operating systems and to identify appropriate corrective actions as necessary. 
+
+
+(A-88-64)
+
+
+ That the FAA require the modification of the DC-9-80 series airplanes to illuminate the existing central aural warning system (CAWS) fail light on the overhead annunciator panel in the event of CAWS input circuit power loss so that the airplane conforms to the original certification configuration. 
+
+
+(A-88-65)
+
+
+ That the FAA develop and disseminate guidelines for the design of central aural warning systems to include a determination of the warning to be provided, the criticality of the provided warning, and the degree of system self monitoring.
+
+
+(A-88-66)
+
+
+ That the FAA require that all Parts 121 and 135 operators and principal operations inspectors emphasize the importance of disciplined application of standard operating procedures and, in particular, emphasize rigorous adherence to prescribed checklist procedures. 
+
+
+(A-88-67)
+
+
+ That the FAA convene a human performance research group of personnel from the National Aeronautics and Space Administration, industry, and pilot groups to determine if there is any type or method of presenting a checklist which produces better performance on the part of user personnel. 
+
+
+(A-88-68)
+
+
+ That the FAA expedite the issuance of guidance materials for use by Parts 121 and 135 operators in the implementation of team-oriented flightcrew training techniques, such as cockpit resources management, line-oriented flight training, or other techniques which emphasize crew coordination and management principles. 
+
+
+(A-88-69)
+
+
+ That the FAA issue an Air Carrier Operations Bulletin-Part 121 directing all principal operations inspectors to emphasize in MD-80 initial and recurrent training programs on stall and windshear recovery the airplane’s lateral control characteristics, potential loss of climb capability, simulator limitations, and flight guidance system limitations when operating near the supplemental stall recognition system activation point (stall angle of attack).
+
+
+(A-88-70)
+
+
+ That all Part 121 Air Carriers review initial and recurrent flightcrew training programs to ensure that they include simulator or aircraft training exercises which involve cockpit resource management and active coordination of all crewmember trainees and which will permit evaluation of crew performance and adherence to those crew coordination procedures.
+
+
+(A-88-71)
+The Final Reportof the Investigation was approved by the NTSB on 10 May 1988.
+
+Related Articles
+
+ Standard Operating Procedures
+
+ Take Off Stall
+
+ MD82, Madrid Barajas Spain, 2008 - an almost identical accident which ocurrred 21 years later when, on 20 August 2008, an MD82 aircraft operated by Spanair attempted to take off from Madrid Barajas with flaps and slats similarly retracted and the TOWS inoperative with the incorrect configuration causing loss of control, ground impact and the destruction of the aircraft and death of all but one of the occupants.
+
+
+Further Reading
+
+ NTSB Aircraft Accident Report AAR-05/88
+
+
+
+
+
+

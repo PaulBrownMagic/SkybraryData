@@ -1,0 +1,83 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The present article is under construction.
+Reader enquiries are welcome, contact the editor: editor@skybrary.aero. 
+  
+
+
+Description
+On 31 October 2014, the crew of a Boeing 757-300 (G-JMAB) departing on a scheduled passenger flight from London Gatwick to Hurghada Egypt in day VMC received an EICAS Advisory in respect of the right over-wing exit slide during take off. During the subsequent return to land, the slide detached from the aircraft and some un-commanded roll followed although the aircraft landed safely.
+
+ The slide carrier as it was found after landing (reproduced from the Official Report)
+ A close up of the slide carrier after landing (reproduced from the Official Report)
+Investigation
+An Investigation was carried out by the UK AAIB. FDR and 2-hour CVR data was downloaded and the FDR was found to have captured the entire flight but due to its duration, the CVR recording began just over an hour after takeoff.
+It was established that at a speed of around 70 knots on the takeoff roll with the First Officer as PF, a 'R WING SLIDE' Advisory Message had appeared on the EICAS. The aircraft commander had responded that the take off should be continued. The aircraft was stated to have handled normally during the takeoff, although FDR data showed that immediately after the aircraft became airborne, an average of 5.5º of left control wheel was required to maintain wings level, which it was considered would be consistent with the right wing slide panel - and possibly the slide carrier too - entering the airflow.
+As the flaps were retracted, the amount of control wheel input required for wings-level flight decreased and the crew decided to continue the departure and monitor the situation, taking the view that the advisory was probably false. The applicable QRH procedure was completed and required no further action in the absence of other related indications. The Cabin Manager was alerted and asked to check if anyone had heard or seen anything unusual in the cabin. However, after contacting Company Operations to alert them to the situation, a return to Gatwick was agreed.
+Since the message received was still considered probably false, Company Operations advised burning off fuel to get the aircraft down to minimum landing weight (MLW) and avoid an overweight landing. No emergency was declared and after 40 minutes in an extended holding pattern using a combination of landing gear, flap and speed brake to achieve a high drag and high fuel-use configuration, vectors to a normal approach to Runway 26L at Gatwick were commenced. 
+Then, when the aircraft was on base leg in the descent to 3000 feet QNH at a speed of 188 knots with flap 20 selected, the Cabin Manager advised the crew that "some of the cabin crew and passengers (had) heard a number of bangs or felt a brief period of airframe 'shuddering' and two passengers (had) reported seeing a white object detach from the aircraft on the right hand side". The aircraft joined final approach with the AP engaged and shortly after flaps 30 was selected, the commander noticed that the control column was offset to the left and commented that the AP seemed to be 'struggling' to maintain wings level. He took manual control of the aircraft at 1400 feet QNH and reported that a “significant amount of left aileron”, which FDR data subsequently showed to have been an average of 20º, was required to maintain the centreline (about 25% of the maximum possible deflection), although the aircraft remained fully controllable. After landing following a 2 hour 6 minute flight, the aircraft was taxied onto the parallel taxiway and the engines were shut down. 
+An inspection by the RFFS and Company engineers found that the right over-wing exit slide had detached from the aircraft. The aircraft was then towed to a gate for normal passenger disembarkation. The slide was subsequently recovered.
+It was found that scheduled out of phase maintenance had been carried out on the right over-wing slide system in accordance with the applicable AMM procedures overnight immediately prior to the investigated event. This work was found to have been "carried out by more manpower than would normally be required...because it was considered to be an infrequent task and so was a good learning opportunity". Although there was no awareness of it at the time and it would have been difficult to detect if inadvertently and only slightly moved, the Investigation concluded that the crank handle which is used to release the slide bay door for maintenance purposes had not been fully down in the 'safe' position but was sufficiently engaged to hold the door in place to the extent necessary to prevent detection of an abnormal state by external visual inspection and the immediate activation of the EICAS advisory message which subsequently occurred. It was noted that an 757 SB, which had not at the time been applied to the aircraft involved but was mandated under FAA AD 2012-01-09, introduces a clearer crank handle closed position indication which would have reduced the possibility of its mis-position being overlooked by the engineers. It was also noted that an unrelated adjacent source of vibration and resonance may have led over time to a gradual movement upwards of the crank handle to the point whereby it eventually allowed the slide carrier and door to open with its locking devices in the released condition. Once open, the carrier would have been in the air flow with the slide itself now no longer restrained within its pack, so that it could eventually unravel in the slipstream and flail against the fuselage "until its attachment material failed allowing it to detach and fall to the ground". 
+In the course of the Investigation, two operational aspects of the event were encountered which both became the subject of Safety Recommendations (see below):
+
+
+Exit identification 
+
+
+
+A discrepancy was found between the system used by the AFRS and the cabin crew to designate the exit doors of this aircraft. In the event of an emergency evacuation, had the AFRS needed to communicate information to the aircraft crew relating to the safety or otherwise of a particular exit, then it is possible that this information would have been communicated incorrectly. Since it is vital that this information be communicated in a clear and unambiguous manner, a standard system for referring to aircraft exits would reduce the potential for a misunderstanding but it was found that no such standardised system for exit door identification exists.
+
+
+
+757 QRH response to the wing slide message
+
+
+
+Should a wing slide unravel or deploy in flight, it is visible from the cabin. However, should only the wing slide carrier enter the airflow or a wing slide door open, neither are visible from the cabin. Therefore, in the case of a wing slide EICAS message, without any visible slide deployment, the crew are not able to establish the position of the wing slide door or the slide carrier. Should either of these enter into the airflow, the effect is an un-commanded roll which is exacerbated once the flaps reach a position of greater than 20. The current QRH procedure only recommends the use of flaps 20 for landing when the slide is confirmed as deployed, but still attached to the aircraft. The case where the wing slide EICAS message is generated but cannot be followed up with a visual confirmation of the wing slide door or carrier position by the crew is not covered. 
+
+
+The Conclusion of the Investigation was as follows:
+The right over-wing slide carrier deployed in flight, allowing the slide to unravel possibly as a result of the crank handle with a reduced breakout friction progressively moving, over an indeterminate period of time, to an unsafe position. A Contributory Factor was possibly the loose number 6 screw jack in the flap system which resulted in vibration in the area of the crank handle. The insecurity of the lever went undetected whilst the maintenance panel was open due to the lack of alignment marks and unfamiliarity of the observer(s) with how the crank handle should look when correctly positioned. SB 757-25-0298 addresses locking of the compartment door and provides revised and clearer alignment placards for the lever.
+Two Safety Recommendations were made at the conclusion of the Investigation as follows: 
+
+
+ that the European Aviation Safety Agency, in conjunction with the Federal Aviation Administration and other regulators, implement a standardised system of door and emergency exit designations to reduce potential misunderstanding between aircraft crews and airport emergency services in the event of an emergency evacuation. (2015-022)
+
+ that Boeing Commercial Airplanes amend the Quick Reference Handbook WING SLIDE alert procedures for Boeing 757-300 aircraft to make the instructions on the use of flaps 20 for landing applicable to all cases of WING SLIDE alerts. (2015-023)
+
+
+The Final Report of the Investigation was published on 13 August 2015.
+
+Related Articles
+
+EICAS
+
+Maintenance Error
+
+Emergency Evacuation on Land
+
+Airworthiness
+
+Situational Awareness
+
+
+
+
+
+

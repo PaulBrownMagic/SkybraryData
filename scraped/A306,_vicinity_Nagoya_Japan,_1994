@@ -1,0 +1,247 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+3 Related Event on SKYbrary
+4 Related Articles
+5 Further Reading
+
+
+Description
+On 26 April 1994, an Airbus A300-600R (B1816) being operated by China Airlines on a scheduled international passenger flight from Taipei to Nagoya as CI 140 and on final approach to destination in night VMC crashed within the airport perimeter out of control and was destroyed by the impact and a post crash fire. 264 of the 271 occupants were killed and the remaining 7, all passengers, were seriously injured.
+
+Investigation
+An Investigation was carried out by the Japan Aircraft Accident Investigation Commission (JAAIC). Data from both the  FDR and the CVR were successfully downloaded in support of the Investigation.
+Once it had been established that there was no evidence to indicate that the accident could be attributed in any way to a lack of continued airworthiness or to any aspect of aircraft loading, attention was focused on the actions of the crew and their control of engine thrust and aircraft pitch with particular focus in the A300-600R Automatic Flight System (AFS) and the crew interface with it during the latter stages of the accident approach. 
+It was a noted that the 42 year-old Captain had accumulated 8,340 total flying hours including 1,350 on type and had joined the airline as a First Officer in 1989 after 18 years in the Taiwanese Air Force mainly as a C47 (Dakota) pilot where he had flown 4,826 of his total flying hours. After three years as a First Officer on the Boeing 747, he had qualified on the A300-600R and been immediately promoted to Captain on the type in 1992. The First Officer, who was PF for the accident flight, had accumulated 1,624 total flying hours of which 1,033 were on type. He had joined the airline as a cadet  pilot and obtained his CPL and A300-600R type rating in 1992. Prior to beginning line flying training on the type, he had received three hours time on the aircraft during type training in France and a further four hours "basic flight training" at China Airlines and had been appointed as an A300-600R First Officer  thirteen months prior to the accident.
+The flight had been uneventful en route and it was noted that the Captain had briefed the First Officer (PF) on the approach and landing. The aircraft had commenced an ILS approach to runway 34 at Nagoya with both APs and the A/T (autothrust) engaged but shortly before passing the Outer Marker, the First Officer had disengaged both the APs and continued manually. A landing clearance was received  but soon afterwards, with the aircraft passing 1070 feet, he had inadvertently selected the 'GO' lever on the thrust levers which put the A/T into go-around mode with a corresponding thrust increase. The aircraft leveled off at approximately 1,040 feet and began to deviate above the ILS GS and the Captain instructed the First Officer to disengage the 'GO' lever and correct the flight path down to regain the ILS GS. The First Officer applied a nose down input to the control column but did not disengage the 'GO' lever despite two further reminders from the Captain. To assist recapture of the GS, the First Officer simultaneously re-engaged both APs - although there was no comment about this action on the CVR from either pilot. As he manually attempted to recapture the glide slope from above by reducing thrust and pushing the control column forward, the AP - in go around mode because of the operation of the 'GO' lever - was  providing opposite (pitch up) commands to the Trimmable Horizontal Stabiliser (THS). The THS reached its maximum pitch up position within 30 seconds as the aircraft descended through approximately 880 feet. Opposite elevator pitch-down masked the out of trim condition but considerable force was required on the control column. The First Officer tried to reduce this by using the control column pitch trim switch, which acts on the THS, but this action had no effect because pitch trim control of the THS was inhibited by design with the AP engaged.   
+Descending through approximately 700 feet, the APs were disengaged but the THS remained at its out of trim position and because of the reduction in thrust, airspeed had dropped by about 10 knots. The increasing AoA then triggered flight envelope protection and the "alpha floor" function was activated which caused an increase in thrust and a further pitch-up. Because of the greater surface area of the THS compared to the elevator, elevator authority was overcome by the THS. The First Officer stated that he could not push the nose down any further down, noted the alpha floor activation and, with the aircraft at about 500 feet, the Captain - unaware of the THS position -  took over as PF. Finding that he too could not increase forward pressure on the control column, he reduced thrust to try and regain the ILS GS but on realising that nose up pitch was increasing and that he was unable to control it,  he called and began a go around. The First Officer advised ATC accordingly. The increased thrust which followed the selection of the 'GO' lever increased the nose-up pitch moment and an uncontrolled and increasingly steep climb began with the AoA rapidly increased. At this point, the FDR showed that the Captain had briefly operated the pitch trim which was taken as evidence that he was unaware of the extreme nose-up position of the THS. The initial retraction of the flaps/slats in accordance with the standard go-around procedure further increased the pitch up as well as reducing the stall margin.  The aircraft continued to climb steeply reaching around 50° nose up as the stall warning sounded briefly. A few seconds later, at 1730 feet and shortly after a further (standard) flaps/slats retraction, the aircraft stalled, the nose dropped and a steep dive began. The Captain pulled the control column fully aft and the aircraft remained stalled until ground impact in an almost wings-level attitude, which occurred just over 40 seconds after he had taken control.
+
+ The vertical profile of the final 2 minutes of flight based on FDR radio height annotated with significant events (Reproduced from the Official Report)
+The Investigation examined in detail the way the A300 AFS worked with particular reference to the crew awareness of this, since both were considered to have been central to accident causation. The occurrence of previous serious incidents to an Airbus A300B4 and an Airbus A300-600 in early 1989 and to an Airbus A310 in early 1991 which had also involved crew AFS awareness were noted as was and the Airbus response to them. A serious and related incident to  an Airbus A310 which occurred in September 1994 whilst the Nagoya Investigation was in progress was also noted. 
+Relative to the accident under investigation, the significant features of the A300-600R AFS, many of which were very different to the flight control  systems of other aircraft and/or were differently inter-related, were noted as:  
+
+
+ Pitch control achieved through a combination of elevators and a THS, the latter providing much greater control over pitch than the former on account of its greater surface area.
+
+
+
+ Manual pitch trim using the electric switches on the control columns acted on the THS; with the AP engaged, these switches do not function unless the AP has been temporarily disconnected using the control column CWS switch. Manual movement of the pitch trim wheel disconnects auto trim and allows pilots to override the previously commanded THS position.
+
+
+
+ If the A/T is engaged, it may be overridden to achieve manual thrust control by light pressure on the thrust levers.
+
+
+
+ The available AP/FD modes include LAND & GO AROUND. LAND mode is used when flying an ILS approach and may be disengaged by selecting GO AROUND mode, by pressing the same LAND mode button which was used to engage it again or by selecting any other AP/FD mode on the FCU. GO AROUND mode is selected by moving the GO switches on the thrust levers and automatically engages the A/T and provides wings level pitch guidance which will maintain the reference airspeed. 
+
+
+
+ GO AROUND Mode can only be engaged if the flaps/slats are set to 15/15 or greater. It can be disengaged by selecting any other AP/FD mode except LAND mode.
+
+
+
+ If engaged, the AP can only be overridden by pilot fore/aft movement of the control column in AP/FD modes other than LAND and GO AROUND
+
+
+
+ Pilot alerting to THS movement is provided by visual indicators on the central pedestal, movement of the manual pitch trim control wheels on either side of the central pedestal and an aural warning if the THS is moved using the pitch trim switches on the control columns. However, the aural warning is inhibited if the AP is engaged since it is then functionally disabled.     
+
+
+It was concluded that at no time had either pilot appeared to have appreciated the extent of or origin of the abnormal out-of-trim situation which was at the root of their successive difficulties in controlling the aircraft. It was noted that it was "the activation of the alpha-floor function under the abnormal out-of-trim condition (which had) caused a sudden increase in the aircraft's pitch angle and contributed to its steep climb and subsequent stall".
+It was recognised that although both pilots had completed all the required aircraft type training, "this training was not necessarily sufficient to understand the sophisticated and complicated AFS system". It was further considered that information on the operational implications of the AFS system provided in the FCOM was inadequate. 
+It was noted that the DGAC France, as Regulatory Authority had originally accepted the "Recommended" (i.e. optional) status of the Airbus Industrie SB A300-22-6021 issued on 24 June 1993 which removed the restriction on pilot override of an engaged AP when LAND or GO AROUND modes were engaged provided the aircraft was in excess of 400 feet agl. However, it was noted that after the issue of a DGAC France AD to the same effect on 17 August 1994, Airbus Industrie had then re-classified this SB as "Mandatory".
+The Investigation determined that the Cause of the Accident was:
+The continuation of the approach after the inadvertent selection of the GO AROUND mode resulted in an unrecognised abnormal out-of-trim situation caused by the position of the THS being in conflict with the position of the elevators and the subsequent activation of the alpha floor function which was incompatible with this abnormal trim out-of-trim and generated  large pitch-up moment which narrowed the range of selection for recovery operations and reduced the time available for such operations.
+A series of Contributory Factors which led to the crew failing to recognise the situation they were in quickly enough to recover control were found to have included the following:
+
+
+ Normal operation of the thrust lever allows the possibility of an inadvertent triggering of the GO AROUND mode.
+
+
+
+ The crew re-engaged the APs while GO AROUND mode was still engaged.
+
+
+
+ The First Officer  continued pushing the control wheel in accordance with the Captain's instructions, despite its strong resistive force, in order to continue the approach.
+
+
+
+ There was no warning and recognition function to alert the crew directly and actively to the onset of the resulting abnormal out-of-trim condition.
+
+
+
+ Neither pilot had a sufficient understanding of the FD mode change and the AP override functions. The unclear descriptions of the AFS in the aircraft manufacturer's FCOM contributed to this.
+
+
+
+ The Captain's judgment of the flight situation while continuing the approach was inadequate, his take-over of control was delayed and when it did occur, appropriate actions did not follow.
+
+
+
+ The situational awareness and teamwork of both pilots during the upset was inadequate.
+
+
+
+ The optional modification detailed in Airbus SB A300-22-6021 (modification of the FCCs to allow the APs to be disconnected by pilot override of the control column above 400 feet agl) had not been carried out on the aircraft
+
+
+
+ Airbus had not categorised SB A300-22-6021 as "Mandatory", which would have given it the highest priority and so the airworthiness authority of the nation of design and manufacture had not promptly issued an AD requiring implementation of this SB.
+
+
+Early in the Investigation, the JAAIC provided the NTSB with "pertinent details of the investigation" including data from the CVR and FDR. Although made aware of the intention of the intended issue of an AD by the French DGAC as Type Certification Authority, the NTSB had "concerns regarding the A300 autopilot system that it believed the FAA should address as soon as possible". Accordingly, it formulated  three Safety Recommendations and communicated them on 31 August 1994 in an explanatory letter. They were: 
+
+
+ that the FAA require operators of the Airbus A-300 and A-310 series airplanes to provide immediate and recurrent training to flight crews on the hazard of attempting to counter autopilot commands by manual control forces when the airplane is being flown with the autopilot engaged in the land or go-around mode.  [A-94-164]
+
+
+
+ that the FAA review the logic of the Airbus A-300 and A-310 series automatic flight control systems and require modification as necessary so that the autopilot will disconnect if the pilot applies a specified input to the flight controls or trim system, regardless of the altitude or operating mode of the autopilot. [A-94-165]
+
+
+
+ that the FAA require modification of Airbus A-300 and A-310 series autopilot systems to ensure that the systems provide a sufficient perceptual alert when the trimmable horizontal stabilizer is in motion, irrespective of the source of the trim command. [A-94-166]
+
+
+Safety Action taken whilst the Investigation was in progress included the following:
+
+
+ The Taiwan Civil Aeronautics Administration (CAA) ordered China Airlines to promptly complete the FCC modification detailed in Airbus Industrie's SB A300-22-6021. It also ordered China Airlines to provide supplementary training to A300-600R pilots, re-evaluate their proficiency and submit pilot training and re-evaluation plans to the CAA.
+
+
+
+ Airbus Industrie re-categorised the FCC modifications detailed in Airbus SB A300-22-6021 from "Recommended" to "Mandatory" on 13 December 1994. 
+
+
+
+ The NTSB, having concluded that enabling the pilots to achieve a disconnection of the AP by either operation of the pitch trim system or control column input and the availability of a universally effective method of alerting pilots to THS movement would "probably have prevented the accident", issued the three Safety Recommendations detailed above on 31 August 1994. 
+
+
+Eight detailed Safety Recommendations were made by the JAAIC at the conclusion of their Investigation as follows: 
+
+
+ that the Taiwan Civil Aviation Administration require China Airlines to reinforce their flight crew education and training programs in the following areas:
+
+Ensuring that the system design and operational concepts for advanced technology aircraft are fully understood by pilots so that this understanding can be rooted more firmly in daily operations  
+
+Improving pilot education and training on the AFS functions of advanced technology aircraft to include: 
+
+
+
+
+
+
+a) controls and operations which crews rarely experience in daily flight, such as mode changes and manual overrides during autoflight.
+
+b) the establishment of measures which allow crews to easily recall the controls and operations described in (a) above in flight in order to effectively implement them.
+
+c) methods for enhancing crew's understanding of important technical information on flight operations issued by aircraft manufacturers.
+
+d)awareness which will reduce the chances that pilots will inadvertently activate the A300-600R thrust lever go around switch  and are able to take appropriate action if they do.
+
+
+
+
+
+ that the Taiwan Civil Aviation Administration require China Airlines to establish appropriate task sharing between flight crew members when the First Officer is acting as PF by reviewing the effectiveness of Crew Resource Management and crew coordination in those circumstances including situations where a Captain takes over as PF from a First Officer. Pre-flight Briefing should explicitly cover this.
+
+
+
+ that the Taiwan Civil Aviation Administration require China Airlines to improve crew coordination by:
+
+standardisation of the terms used for instruction, response, confirmation and execution of operations in order that pilots can have appropriate situational awareness in flight
+
+use of improved procedures for mutual confirmation by crews of operation and monitoring of ATS mode changes in advanced technology aircraft
+
+reinforcing the need for standard call outs in order to enhance the effectiveness of both the standardisation of terms and confirmation of ATS mode change
+
+
+
+
+
+ that the Taiwan Civil Aviation Administration require China Airlines to standardise flights by prescribing items that must be checked according to the aircraft attitude so that there is sufficient pilot situational awareness to ensure correct decisions are taken and to eliminate any effects of pilots' individuality.
+
+
+
+ that the DGCA France requires Airbus Industrie to implement improvements to the AFS functions of the A300-600R as follows:
+
+AP disconnect and manual override functions to make it possible for pilots to safely control the aircraft irrespective of aircraft altitude or flight phase by applying a force exceeding a certain level on the control column.
+
+the incorporation of functions which will prevent an out of trim condition arising from a prolonged override of the autopilot in the pitch axis via the control column. In doing this, the relationship between the Alpha Floor function and an out of trim condition should be considered.
+
+the warning and recognition functions for THS movement with active alerting when an out of trim situation exists or is imminent or when it continues to move for more than a certain period of time regardless of AP engagement or disengagement.
+
+
+
+
+
+ that the DGCA France requires Airbus Industrie to improve the descriptions provided in the A300-600R FCOM for the following from an operational viewpoint:
+
+
+•	AP manual override
+•	Disengagement of GO AROUND mode
+•	Recovery procedures for an out-of-trim condition
+
+
+ that the DGCA France requires Airbus Industrie to improve their dissemination of technical information to operators after a technically-related accident or serious incident so that it is prompt and includes a systematic explanation of the background and that any appropriate modifications should be developed  and/or the FCOM  revised to preclude recurrence.  
+
+
+
+ that the DGCA France should, along with Airbus Industrie, review the design of the AFS (function, mode display method, warning and crew recognition function) taking into account pilot ability, behaviour and cognitive process when responding to an emergency or abnormal situation. 
+
+
+The Final Report of the Investigation was approved by the Accident Investigation Commission on 15 July 1996 and published on 19 July 1996. During the course of the Investigation, the Commission published Progress Reports on 10 May 1994 and 9 January 1995 - their content is incorporated in the Final Report.
+
+Related Event on SKYbrary
+
+SB20, vicinity Sumburgh, UK 2014 (On 15 December 2014, the Captain of a Saab 2000 lost control of his serviceable aircraft after a lightning strike when he attempted to control the aircraft manually without first disconnecting the autopilot and despite the annunciation of a series of related alerts. The aircraft descended from 4,000 feet to 1,100 feet at up to 9,500 fpm and 80 knots above Vmo. A fortuitous transient data transmission fault caused autopilot disconnection making it possible to respond to EGPWS 'SINK RATE' and 'PULL UP' Warnings. The Investigation concluded that limitations on autopilot disconnection by pilot override were contrary to the type certification of most other transport aircraft.)
+
+
+
+Related Articles
+
+Loss of Control
+
+Take-off / Go-around (TO/GA) Mode
+
+Flight Control Laws
+
+Aerodynamic Stall Awareness and Avoidance
+
+Recovery from Unusual Aircraft Attitudes
+
+Flying a Manual Go-around
+
+Cockpit Automation - Advantages and Safety Challenges
+
+Flight Management System
+
+Situational Awareness
+
+
+Further Reading
+
+NTSB letter of recommendations (A-94-164 through-166), August 31, 1994
+
+
+
+
+
+

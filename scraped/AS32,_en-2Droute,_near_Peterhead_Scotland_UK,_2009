@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 1 April 2009, a Eurocopter AS332 L2 Super Puma being operated by Bond Helicopters on a scheduled passenger flight from the Miller Offshore Platform to Aberdeen in the cruise at an altitude of 2000 feet in day VMC crashed into the sea after a sudden and complete loss of control caused by a major mechanical failure. The helicopter was destroyed and all 16 occupants were killed.
+
+ Location of the Miller platform, Source:UK AAIB Air Accident Report: 2/2011
+Investigation
+An Investigation was carried out by the UK AAIB. During the first four months of the work, two Interim Reports and one Special Bulletin were published to highlight critical airworthiness matters and present corresponding Safety Recommendations which prompted Manufacturer and Regulatory safety action.
+The helicopter was equipped with a Combined Voice and Flight Data Recorder (CVFDR) which was recovered and successfully replayed. Non Volatile Memory (NVM) Data from the Health and Usage Monitoring System (HUMS) data card containing information from the operations conducted on the day of the accident was also recovered. This information was then merged with the rest of the operator’s ground station maintenance database to form a complete record. NVM data was also recovered from the Digital Engine Control Units (DECU), the Flight Deck EFIS Displays, the Digital Flight Data Acquisition Unit (DFDAU) and the Helicopter Operations Monitoring Programme (HOMP) data card (HOMP is the helicopter equivalent of fixed wing OFDM).
+It was established that 12 seconds after the First Officer had made a routine transmission, a MAYDAY call was made from the helicopter. With the benefit of a credible eyewitness report from a ship approximately two nm from the accident site in the prevailing good visibility, it was apparent that that the hub with the main rotor blades attached had separated from the helicopter at altitude since they could be seen descending to the sea surface separately.
+The analysis of all the evidence showed that there had been a catastrophic failure of the helicopter Main Rotor Gearbox (MGB) with the loss of all its oil pressure just 2.5 seconds after the end of the First Officer’s routine radio transmission. Twenty seconds after that, the main rotor and part of the epicyclic module attached to it had separated from the fuselage and the main rotor blades had struck the tail boom in several places severing it from the fuselage. The subsequent impact of the fuselage with the surface of the sea had occurred at a high vertical speed and had been non-survivable.
+
+ A diagram of the transmission layout - reproduced from the Official Report where it appears as Figure 4.
+The Investigation found that the failure of the MGB had been initiated in one of the eight second stage planet gears in the epicyclic reduction module of the gearbox. One of these planet gears had fractured as a result of a fatigue crack for which a precise origin could not be determined. However, analysis did suggest that the crack was likely to have been in the loaded area of the planet gear bearing outer race.
+The Investigation noted that reduction of the 23000 rpm output from the turboshaft engines to the 265 rpm main rotor blade speed takes place in the MGB in two stages.  The lower section of the MGB, referred to as the ‘main module’, reduces the input shaft speed to around 2,400 rpm and the epicyclic reduction module, located on top of the  main module, then reduces this output to around 265 rpm. 
+It was found that there was one aspect of maintenance history which was relevant to the eventual failure sequence:
+“A metallic particle had been discovered on the epicyclic chip detector during maintenance on 25 March 2009, some 36 flying hours prior to the accident. This was the only indication of the impending failure of the second stage planet gear”
+In respect of this particle, it was noted that the possibility of a material defect in the planet gear or damage due to the presence of foreign object debris could not be discounted. It was also noted that this particle had been released from a position near the edge of the outer race of the failed gear which had not been recovered.
+Other findings included that:
+
+
+ when the Continued Airworthiness programme for the AS332 L2 was initiated, it was determined that damage to planet gear outer races would not adversely affect the continued airworthiness of the helicopter
+
+ the design of the second stage planet gear met the requirements applicable at the time of certification. 
+
+
+The Investigation formally identified the Causal Factor as “the catastrophic failure of the Main Rotor Gearbox was a result of a fatigue fracture of a second stage planet gear in the epicyclic module”.
+In addition, the Investigation formally identified the following Contributory Factors:
+
+
+ The actions taken following the discovery of a magnetic particle on the epicyclic module chip detector on 25 March 2009, 36 flying hours prior to the accident, resulted in the particle not being recognised as an indication of degradation of the second stage planet gear, which subsequently failed.
+
+
+
+ After 25 March 2009, the existing detection methods did not provide any further indication of the degradation of the second stage planet gear.
+
+
+
+ The ring of magnets installed on the AS332 L2 and EC225 main rotor gearboxes reduced the probability of detecting released debris from the epicyclic module.
+
+
+The following six initial Safety Recommendations were made during the course of this Investigation.
+
+
+  That Eurocopter issue an Alert Service Bulletin to require all operators of AS332 L2 helicopters to implement a regime of additional inspections and enhanced monitoring to ensure the continued airworthiness of the main rotor gearbox epicyclic module. (2009-048)
+
+
+
+  That the European Aviation Safety Agency (EASA) evaluate the efficacy of the Eurocopter programme of additional inspections and enhanced monitoring and, when satisfied, make the Eurocopter Alert Service Bulletin mandatory by issuing an Airworthiness Directive with immediate effect. (2009-049)
+
+
+
+   That Eurocopter improve the gearbox monitoring and warning systems on the AS332 L2 helicopter so as to identify degradation and provide adequate alerts. (2009-050)
+
+
+
+  That Eurocopter, with the European Aviation Safety Agency (EASA), develop and implement an inspection of the internal components of the main rotor gearbox epicyclic module for all AS332 L2 and EC225LP helicopters as a matter of urgency to ensure the continued airworthiness of the main rotor gearbox. This inspection is in addition to that specified in EASA Emergency Airworthiness Directive 2009-0087-E, and should be made mandatory with immediate effect by an additional EASA Emergency Airworthiness Directive. (2009-051)
+
+
+
+   That the European Aviation Safety Agency, in conjunction with Eurocopter, review the instructions and procedures contained in the Standard Practices Procedure MTC 20.08.08.601 section of the EC225LP and AS332 L2 helicopters Aircraft Maintenance Manual, to ensure that correct identification of the type of magnetic particles found within the oil system of the power transmission system is maximised. (2009-074)
+
+
+
+  That the European Aviation Safety Agency, in conjunction with Eurocopter, urgently review the design, operational life and inspection processes of the planet gears used in the epicyclic module of the Main Rotor Gearbox installed in AS332 L2 and EC225LP helicopters, with the intention of minimising the potential of any cracks progressing to failure during the service life of the gears. (2011-075)
+
+
+A further 11 Safety Recommendations were issued at the conclusion of the Investigation:
+
+
+ That, in addition to the current methods of gearbox condition monitoring on the AS332 L2 and EC225, Eurocopter should introduce further means of identifying in-service gearbox component degradation, such as debris analysis of the main gearbox oil. (2011-032)
+
+
+
+ That Eurocopter review their Continued Airworthiness programme to ensure that components critical to the integrity of the AS332 L2 and EC225 helicopter transmission, which are found to be beyond serviceable limits are examined so that the full nature of any defect is understood. (2011-033)
+
+
+
+ That the European Aviation Safety Agency (EASA) review helicopter Type Certificate Holder’s procedures for evaluating defective parts to ensure that they satisfy the continued airworthiness requirements of EASA Part 21.A.3. (2011-034)
+
+
+
+  That the Federal Aviation Administration review helicopter Type Certificate Holder’s procedures for evaluating defective parts to ensure that they satisfy the continued airworthiness requirements of Federal Aviation Regulation Part 21.3.0. (2011-035)
+
+
+
+ That the European Aviation Safety Agency (EASA) re-evaluate the continued airworthiness of the main rotor gearbox fitted to the AS332 L2 and EC225 helicopters to ensure that it satisfies the requirements of Certification Specification (CS) 29.571 and EASA Notice of Proposed Amendment 2010-06. (2011-036)
+
+
+
+  That the European Aviation Safety Agency research methods for improving the detection of component degradation in helicopter epicyclic planet gear bearings. (2011-041)
+
+
+
+ That the Civil Aviation Authority update CAP 753 to include a process where operators receive detailed component condition reports in a timely manner to allow effective feedback as to the operation of the Vibration Health Monitoring system. (2011-042)
+
+
+
+ That Eurocopter introduce a means of warning the flight crew, of the AS332 L2 helicopter, in the event of an epicyclic magnetic chip detector activation. (2011-043)
+
+
+
+  That the European Aviation Safety Agency require the ‘crash sensor’ in helicopters, fitted to stop a Cockpit Voice Recorder in the event of an accident, to comply with EUROCAE ED62A. (2011-045)
+
+
+
+ That the Federal Aviation Administration require the ‘crash sensor’ in helicopters, fitted to stop a Cockpit Voice Recorder in the event of an accident, to comply with RTCA DO204A. (2011-046)
+
+
+
+  That the Civil Aviation Authority update CAP 739, and include in any future Helicopter Flight Data Monitoring advisory material, guidance to minimise the use of memory buffers in recording hardware, to reduce the possibility of data loss. (2011-047)
+
+
+The Final Report of the Investigation was published by the UK AAIB on 24 November 2011
+
+Further Reading
+
+Loss of Control
+
+Uncontained Engine Failure
+
+Health and Usage Monitoring System (HUMS)
+
+Aircraft Certification and Production Standards
+
+Sea State
+
+Helicopter Emergency Floatation Systems (EFS)
+
+Emergency Breathing Systems (EBS) for Offshore Helicopter Occupants
+
+Offshore Helicopter Safety Review 2014 UK CAA
+
+
+
+
+
+

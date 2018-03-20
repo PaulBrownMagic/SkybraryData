@@ -1,0 +1,98 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 4 August 2011, an Embraer ERJ 145 being operated by Luxair on a scheduled passenger flight from Luxembourg to Madrid in day VMC when its crew read back a clearance to descend to 10,000 feet as one to descend to 5000 feet, an altitude below both the STAR minimum altitude and the MRVA. The controller did not notice the read back error and when the aircraft was then transferred to the next sector, the controller there also did not notice the error when the crew advised their clearance on first call. An EGPWS ‘PULL UP’ Hard Warning was subsequently activated and recovery followed. There were no injuries to the 47 occupants during this manoeuvre.
+
+Investigation
+An Investigation was carried out by the Spanish Investigation Agency CIAIAC. It was noted that the First Officer had been acting as PF at the time of the Incident and that both pilots were experienced on the aircraft type and familiar with Madrid. 
+It was found that when the aircraft was cleared to descend to 10,000 feet by the controller in the ACC East Director position using the phraseology “descend to ten thousand feet”, spoken clearly and enunciated properly, the aircraft crew had wrongly read back a clearance to descend to 5000 feet which was not noticed by the controller concerned and was also below the altitude for the STAR being flown (10,000 feet), the MSA on the STAR chart (9500 feet) and the applicable MRVA. Prior to the aircraft reaching 10,000 feet, there was then a change of controller in position with the relevant strip showing a clearance to 10,000 ft. The aircraft was then transferred to the Initial Approach Director on the assumption that it was descending in accordance with the clearance issued. The receiving controller, despite advising the aircraft of “radar contact”, failed to notice the wrong cleared altitude when 5000 feet was given as well as not noticing that the aircraft was below the MRVA. He advised the Investigation that “the aircraft was transferred to him while supposedly descending through 10,000 ft and that there must have been a miscommunication since he asked the (East Sector) controller if he had cleared the aircraft to descend, to which he replied no”. The Investigation noted that “the information obtained from the (East Director) executive controllers and the planning controllers did not yield anything of relevance to the investigation of the event”.
+Recorded data showed that when the aircraft was transferred to the Initial Approach controller, it was already below 8000 feet and the advice to the crew of “radar contact” was given with the aircraft descending through an altitude of 7349 feet. The aircraft EGPWS was triggered a little over half a minute later with a Terrain Alert followed about 20 seconds later by a Hard Warning “Terrain Pull Up” to which the crew responded by disconnecting the AP, increased thrust and climbing. The minimum altitude reached by the aircraft was found to have been 6290 ft. The Warning and the response to it was not reported to ATC until responding shortly afterwards to a second transmission to turn right for traffic separation when after acknowledging the instructed radar heading, the crew added “and we’ll maintain seven thousand feet due to mountain”. Subsequently, ATC instructed the aircraft to climb to 10,000 feet.
+The actual altitude of the aircraft in relation to altitude clearance restrictions and key points during the event are shown in the diagram below. It can be seen that the aircraft was below the minimum altitude for the STAR for four minutes and below the MRVA for three minutes. The Investigation does not comment on the terrain clearance actually achieved during the event.
+
+ Flight profile of the aircraft during the incident (Reproduced from the Final Report)
+The Investigation did note that:
+
+
+ Each of the controller positions involved was manned by an “executive controller” and a “planning controller” but that “the functions of the planning controller are not documented by the service provider (AENA), meaning the exact tasks involved in the planning controller’s job are unknown.
+
+
+
+ The radar control system installed at the ACC involved was capable of generating MSAW alerts but that according to AENA “this function is not enabled at any of Spain’s control centres because the relevant operational validation to determine which operating parameters are needed for said alert has not been performed yet”.
+
+
+The formal statement of Cause made by the Investigation reads:
+“The incident occurred because the aircraft descended below the minimum standard terminal arrival route, minimum radar vectoring and minimum sector altitudes. The crew, which was obligated to maintain separation with terrain and know that the minimum altitude specified by the arrival procedure was 10,000 ft, descended below said altitude without confirming with ATC whether the clearance given was correct.
+The (ACC) sector controller used improper phraseology and cleared the aircraft to descend to 10,000 ft. The crew acknowledged descending to 5,000 ft and the controller did not correct the faulty readback”.
+It was also noted that contributing to the incident was “the fact that (the controllers involved) noticed that the aircraft had descended below the minimum altitude in the procedure and below the minimum radar vectoring altitude. The (Initial Approach) controller only realised this fact after being informed by the crew when the aircraft’s EGPWS alerted them and they started to climb.”
+Three Safety Recommendations were made as a result of the Investigation as follows:
+
+
+that AENA evaluate the incorporation of topics involving the use of standard phraseology and the recommendations issued by EUROCONTROL, as well as information concerning faulty acknowledgments and its consequences, into the continuing training programs for control personnel so as to raise controller awareness regarding the importance of these aspects. [REC 01/13]
+
+
+
+ that AENA establish the measures needed to implement the altitude alert function in (the radar control system), at least in those posts where aircraft separation with terrain could be critical (as is the case of Madrid-Barajas when in a south configuration). [REC 02/13]
+
+
+
+ that AENA issue a document where the operation procedure be described and the tasks of the planner controllers be defined. [REC 03/13]
+
+
+It was noted that as Luxair had decided during the Investigation to "revise its procedures, to improve its training and to present this incident internally to its crews as a case study to remind them of the importance of increasing their awareness of altitude restrictions and limitations” a Safety Recommendation to the Operator was not necessary.
+The Final Report (in Spanish) was approved for publication on 30 January 2013 and subsequently made available in English translation: Final Report (in English). 
+
+
+Further Reading
+
+Controlled Flight Into Terrain
+
+Minimum Vectoring Altitude (MVA)
+
+Terrain Avoidance and Warning System (TAWS)
+
+Minimum Safe Altitude Warning (MSAW)
+
+Response to a "PULL UP" Warning
+
+Terrain Awareness
+
+ATC Active Listening
+
+European Action Plan for Air Ground Communications Safety
+
+Human Factors in AGC
+
+Read-back or Hear-back
+
+European Action Plan for the Prevention of Level Bust
+
+Level Bust - ATCO Induced Situations
+
+Level Bust - Pilot Induced Situations
+
+ATC Expectation Bias
+
+Complacency
+
+Teamwork in Air Traffic Control
+
+Vigilance in ATM
+
+
+
+
+
+

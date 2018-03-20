@@ -1,0 +1,126 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+3 Probable Cause and Contributing Factors
+4 Safety Recommendations
+5 Further Reading
+
+
+Description
+On 8 December 2005, a Boeing 737-700 being operated by Southwest Airlines on a scheduled passenger flight from Baltimore/Washington International Thurgood Marshall Airport to Chicago Midway made a tailwind landing on a slippery Runway 31C in normal visibility at night and ran off the end of the runway. It exited the airport perimeter fence and ended up on adjacent road, where it struck a car before coming to a stop. An emergency evacuation was made using the forward left and the right rear cabin doors. 18 of the 103 occupants received minor injuries and the aircraft was substantially damaged. One car occupant was killed, one seriously injured and three others received minor injuries. The picture below, taken from the official NTSB report, shows the aircraft in its final resting position. The aircraft was substantially damaged but repairable.
+
+ Photograph of the accident airplane in the roadway intersection (Looking southeast, towards the departure end of Runway 31C).
+Investigation
+An investigation was carried out by the NTSB. It was noted that the aircraft commander was PF for the flight whilst en route, believing that the Company’s new autobrake procedures were applicable from the day of the accident, the flight crew reviewed and discussed them while en route to Chicago. It was noted that the accident landing was the first time either pilot had landed using autobrakes in either an aircraft or a simulator and that their aircraft type ratings covered all three 737 variants used by Southwest, the ’legacy’ -300 and  -500 and the ‘NG’ -700.  
+Whilst in the holding pattern to land at 10,000 feet3,048 m altitude, First Officer entered the latest weather and runway conditions and wind information (090° at 11 knots) into the On- board Performance Computer (OPC, a form of EFB in this case a Class 1 Type B EFB)  to determine the landing distance required for the designated landing runway 31C. The computed tailwind component was of 8 knots, within the Company limit of 10 kts18.52 km/h 5.14 m/s for all runway surface conditions but over the 5 knot limit for poor braking action. The Investigation was satisfied that accident flight crew were aware of these limitations and believed that they would be unable to land at Midway if braking action was reported poor for the full length of the runway. The First Officer entered multiple scenarios into the OPC, using fair and poor braking action separately because the OPC could not accept mixed braking action report inputs. This showed that the aircraft would stop about 170 metres / 560 feet before the departure end of the 1176 metre / 5826 feet long runway with fair braking action and about 12 metres / 40 feet before the departure end of the runway with poor braking action. The flight crew told the Investigation that they had decided that they would divert to one of their alternates if the tailwind component increased above 10 kts18.52 km/h 5.14 m/s or if braking action reports indicated poor braking action for the full length of the runway. Shortly before ATC issued the landing clearance, they advised “brakin’ action reported good for the first half, poor for the second half.” 
+
+ Chicago Midway Airport Layout 2003
+FDR data confirmed that the aircraft touched down on the runway centerline at about 124 knots229.648 km/h 63.736 m/s. The speed brakes deployed and brake pressure increased within about 1 second. Both pilots described the touchdown as “firm.” The Captain stated that he tried to deploy the thrust reversers immediately after touchdown but had difficulty doing so and applied the wheel brakes manually making no further effort to activate the thrust reversers. He told investigators that he believed that the use of the autobrake system distracted his attention from the thrust reversers after his initial attempt to deploy them. The First Officer said that when he saw that the thrust reversers were still stowed, he moved the Captain’s hand away from the levers and set them to maximum reverse. FDR data confirmed full thrust reverser deployment occurred about 18 seconds after touchdown.
+The Investigation noted the critical role played by subjective pilot braking action reports on the decisions made by subsequent flight crews about the effect of slippery surfaces on their landing performance. It noted that braking action reports for Runway 31C had been mixed, reporting good or fair braking action for the first half of the runway and poor braking action for the second half. The only terms which ATC may use for braking action reports under FAA rules are “good,” “fair,” “poor,” or “nil” and they must also give the source aircraft type or vehicle.
+Findings of the Investigation included that:
+
+
+ ATC failed to provide adequate braking action report information.
+
+ Because the flight crew did not use ‘braking action poor’ when they calculated their required landing distance which, combined with the associated tailwind limitation, would have required them to divert, they did not follow the requirements of their Operations Manual.
+
+ If the flight crew had appreciated that the stopping margins calculated by the EFB for the 737-700 already assumed credit for the use of thrust reversers, they might have decided to divert.
+
+ If Boeing-recommended aircraft performance data had been in use in the available EFB, the resulting negative stopping margins even for ‘fair’ braking action would have required the pilots to divert.
+
+ Effective presentation of assumptions which are implicit in landing distance calculations is critical to flight crew decisions on whether or not to proceed with a landing.
+
+ Southwest Airlines did not provide its flight crew with clear and consistent guidance and training regarding company policies and procedures in several areas, including interpretation of braking action reports and the assumptions affecting landing distance assessments.
+
+ The flight crew would have been able to stop the aircraft on the runway if they had used maximum reverse thrust promptly after touchdown and maintained it to a full stop. The delay in deploying the thrust reversers cannot be attributed to mechanical or physical difficulties.
+
+ Use of the autobrake system during a challenging landing situation led to the pilots’ distraction from the otherwise routine task of deploying the thrust reversers promptly after touchdown. Had Southwest Airlines implemented an autobrake familiarisation period in advance, such a period would have allowed pilots to become comfortable with the changed sequence of landing tasks.
+
+ The absence of an engineering materials arresting system (EMAS) installation in the limited overrun area for runway 31C contributed to the severity of the accident; even a nonstandard EMAS installation would have safely stopped the airplane before it left airport property.
+
+
+Probable Cause and Contributing Factors
+The NTSB determined that the probable cause of the accident was:
+“the pilots’ failure to use available reverse thrust in a timely manner to safely slow or stop the airplane after landing, which resulted in a runway overrun. This failure occurred because the pilots’ first experience and lack of familiarity with the airplane’s autobrake system distracted them from thrust reverser usage during the challenging landing.”
+It was also concluded that Southwest Airlines had contributed to the accident by:
+
+
+ Their failure to provide its pilots with clear and consistent guidance and training regarding company policies and procedures related to arrival landing distance calculations 
+
+ The programming and design of its on board performance computer, which did not present inherent assumptions in the program critical to pilot decision-making 
+
+ The plan to implement new autobrake procedures without a familiarisation period 
+
+ The failure to include a margin of safety in the arrival assessment to account for operational uncertainties.
+
+
+It was also concluded that the failure of the flight crew to divert to another airport given reports that included poor braking actions and a tailwind component greater than 5 kts9.26 km/h 2.57 m/s had contributed to the accident. 
+And it was additionally that “the absence of an EMAS which was needed because of the limited runway safety area beyond the departure end of runway 31C” had contributed to the severity of the accident.
+
+Safety Recommendations
+As a result of this investigation, the NTSB made the following eight recommendations to the FAA:
+
+
+ Immediately require all 14 Code of Federal Regulations Part 121, 135, and 91 subpart K operators to conduct arrival landing distance assessments before every landing based on existing performance data, actual  conditions, and incorporating a minimum safety margin of 15 percent. (A-07-57)
+
+ Require all 14 Code of Federal Regulations Part 121 and 135 operators to ensure that all on board electronic computing devices they use automatically and clearly display critical performance calculation assumptions. (A-07-58)
+
+ Require all 14 Code of Federal Regulations Part 121 and 135 operators to provide clear guidance and training to pilots and dispatchers regarding company policy on surface condition and braking action reports and the assumptions affecting landing distance/stopping margin calculations, to include use of airplane ground deceleration devices, wind conditions and limits, air distance, and safety margins. (A-07-59)
+
+ Require all 14 Code of Federal Regulations Part 121 and 135 operators of thrust reverser-equipped airplanes to incorporate a procedure requiring the non-flying (monitoring) pilot to check and confirm the thrust reverser status immediately after touchdown on all landings. (A-07-60)
+
+ Require all 14 Code of Federal Regulations Part 121, 135, and 91 subpart K operators to accomplish arrival landing distance assessments before every landing based on a standardized methodology involving approved performance data, actual arrival conditions, a means of correlating the airplane’s braking ability with runway surface conditions using the most conservative interpretation available, and including a minimum safety margin of 15 percent. (A-07-61)
+
+ Develop and issue formal guidance regarding standards and guidelines for the development, delivery, and interpretation of runway surface condition reports. (A-07-62)
+
+ Establish a minimum standard for 14 Code of Federal Regulations Part 121 and 135 operators to use in correlating an airplane’s braking ability to braking action reports and runway contaminant type and depth reports for runway surface conditions worse than bare and dry. (A-07‑63)
+
+ Demonstrate the technical and operational feasibility of outfitting transport-category airplanes with equipment and procedures required to routinely calculate, record, and convey the airplane braking ability required and/or available to slow or stop the airplane during the landing roll. If feasible, require operators of transport-category airplanes to incorporate use of such equipment and related procedures into their operations. (A-07-64)
+
+
+The Final Report of the Investigation was adopted on 2 October 2007.
+
+Further Reading
+Flight Safety Foundation
+
+
+ ALAR Briefing Note 8.4 - Braking Devices
+
+ ALAR Briefing Note 8.5 - Wet or Contaminated Runways
+
+
+SKYbrary
+
+
+ Runway Excursion
+
+ Runway End Safety Area
+
+ Runway Surface Friction
+
+ Engineered Materials Arresting Systems
+
+ Landing on Contaminated Runways
+
+ Runway Overrun On Landing (OGHFA SE)
+
+
+
+
+
+

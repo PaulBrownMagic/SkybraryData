@@ -1,0 +1,119 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+
+2.1 Related Matters
+
+
+3 Related Articles
+
+
+Description
+On 29 June 2009, an Airbus A310-300 (7O-ADJ) being operated by Yemenia on a scheduled international passenger flight from Sana'a, Yemen to Moroni, Comoros as flight IY626 was making a circling approach to destination runway 20 when contact was lost. It was subsequently found to have crashed into the sea approximately 9 nm from the airport and been destroyed by the impact with only one out of the 153 occupants who survived the initial impact eventually being found alive with serious injuries and rescued 9 hours later.
+
+Investigation
+An Investigation was carried out by a specially constituted Commission of Inquiry established by the Union des Comores as the State of Occurrence and commenced on 2 July 2009. With the assistance of the BEA France, both the FDR and CVR were eventually recovered but some of the most potentially useful CVR data, the off-intercom conversations between the two pilots towards the end of the flight, could not be recovered due to the bad quality of the record taken from the cockpit ambient microphone.
+It was established that the 44 year-old Captain had been employed by Yemenia since 1989 and had qualified as an A310 Captain in 2005. He had 7,936 hours total flying experience including 5,314 hours on type and had made 25 trips to Moroni since January 2008. The 49 year-old First Officer had been employed by Yemenia since 1980 and had qualified on type in 2004. He had 3,641 hours total flying experience including 3,076 hours on type and had made 13 trips to Moroni since January 2008. 
+It was established that the flight had proceeded normally until the approach at Moroni was under way. Prior to flight departure from Sana'a, the destination TAF had indicated that although weather conditions were good, the strength of the southerly surface wind was probably going to mean that a straight in ILS approach to runway 02 would be prevented by a tailwind component in excess of the aircraft type landing limit of 15 knots. En route however, the crew had received an initial destination weather report giving the wind as 190°/15 knots and had been briefly able to anticipate an ILS approach. After this though, the wind speed had picked up and as they reached the visual overhead at 8,000 feet, the controller passed a clearance for an initial approach on the ILS to runway 02 followed by a break left to complete the visual circling approach to runway 20 as per the chart reproduced below for a Cat C aeroplane. 
+There followed an exchange between the crew and the controller about the serviceability of lights relevant to the 20 visual approach which it was suspected had been the subject of a misunderstanding, the crew meaning the flashing guidance lights to be kept on the left when turning from circling base leg onto final approach to avoid terrain (see the Jeppesen chart reproduced below) but the controller believing they were asking about the flashing runway 20 threshold lights which had been notified as unserviceable by NOTAM. The controller replied that "the lights" were unserviceable which it was suspected that the crew took to refer to the Ntsaoueni and Domoni guidance lights, which their Company brief required to be on. In fact these were both off without notification and it was found that ATC had no remote switching capability for them, so that there was no way to activate them quickly. 
+
+ The Jeppesen Chart showing the Circling Procedure for Runway 20. [Reproduced from the Official Report]
+The Investigation noted that there were indications from both the continued wind checks requested from ATC prior to breaking left and the fact that the crew did not appear to have prepared adequately for the circling approach that the crew had been keen to take up to the allowable tailwind component for runway 02 in clear preference to circling for runway 20. Also, it was found from the FDR data that the break left to begin the circling manoeuvre had been delayed for 16 seconds beyond the prescribed point overhead the 'HA' beacon by over a mile - see position 1 on the ground track depiction in the annotated illustration below - whilst after a short pause at 1,000 feet, already below the 1,230 feet MDA, descent continued. The Investigation considered that the procedural non-compliance of turning late could have been related to the crew preference for 02 but alternatively may have been partly a consequence of having failed to reduce speed down the ILS which had been 180 knots and the ground speed around 210 knots. 
+The late break left was followed by manipulations of the selected altitude knob that left no relevant height in the selected altitude window and which was suspected may have been indicative of unintended action. The consequence was that with V/S mode now engaged, the descent initiated at 500 fpm was not limited and the action to level off was dependent on the crew without any alerting. 
+
+ The aircraft ground track on arrival overhead (green) and during final approach (other colours). [Reproduced from the Official Report]
+What then happened was that on this transition towards the downwind leg, descent continued with the AP being disconnected passing 800 feet. The FD, which continued to show a 500 fpm rate of descent as the target, remained on. As a turn to align with the downwind leg was commenced, a GPWS 'SINK RATE' (twice) followed by 'PULL UP' (twice) occurred. The crew responded with a short pitch up but not the prescribed full recovery actions and the lowest height reached over the sea was 350 feet (position 2 on the illustration). The descent was subsequently allowed to resume and shortly after the auto callout of '300', a GPWS 'TOO LOW TERRAIN' Alert prompted a pitch up to 17°. The lowest recorded height over the sea this time was 160 feet (position 3 on the illustration). The Investigation surmised that both these inadvertent descents had been a consequence of the continuing presentation of an FD 'fly down' command on the PFD with the crew, in particular the PF, quite possibly passively 'blending' this (incorrect) command indication with the primary task of maintaining positional by external visual reference in difficult dark night conditions. As the aircraft climbed through 400 feet and finally joined the 3.5nm-long downwind circling leg, the beginning of the base leg turn (position 4 on the illustration) was approaching. The previously-lowered landing gear was stowed and ATC were advised that a report would be made on "long final", the latter action considered by the Investigation to be no more than a 'holding response' in what was clearly becoming a high workload situation. It was noted that by this time, the aircraft has already passed abeam the runway which may well have no longer been visible.
+The subsequent actions of the crew, which included selecting LVL/CH mode and re-engaging the AP and, subsequently a call for flap retraction and the setting of a speed of 180 knots, were further considered by the Investigation as evidence that the decision to abandon the approach and climb away had been made. However, the FDR data shows that the selected altitude was then, in what was suspected was "probably a manipulation error", changed from 2,000 feet to 0000 which caused the A/T to begin to retard the thrust levers slowly to idle. It was suspected that "the crew probably did not perceive the progressive descent of the aircraft in this phase of the flight", and had not noticed either the slowly moving thrust levers or the reduction in engine speed audible on the CVR. However, the lack of sufficient intelligibility of the CVR record of inter-pilot communications meant it was impossible to fully understand what was going on and why. 
+As the aircraft descended back through 750 ft (position 5 on the illustration) the 'TOO LOW GEAR' EGPWS Alert was triggered which was followed by disconnection of the AP and a pitch up. With the aircraft configuration clean, thrust low and the speed below the Vls, this activated the Alpha Floor protection followed one second later by the conditions for stall warning/stick shaker activation. Actual activation was not detected in the recorded data but stall buffet was evident in the FDR data. It was noted that the audible AP disconnect warning "had priority over the audible stall warning" and the former was not cancelled by the crew for 46 seconds. Crew response to the situation was to set TOGA thrust but there was no action to lower the nose after the resulting pitch up then followed and the pitch attitude was allowed to increase to 27 ° with no crew intervention. As a result, the aircraft "stalled at an altitude of about 1,000 feet" and then remained stalled until impact with the sea. The Investigation speculated that crew inaction in this respect could have been because of "fear of putting the aircraft into a descent and striking the sea" and noted that "it is also possible that they were unaware that the attitude of the aircraft had become excessive because their attention was focused on controlling the aircraft in roll". The last recorded FDR parameters at 65 feet above the sea surface were 15° nose-up, bank 21° to the right and speed 185 knots. Impact occurred just one minute after the alpha floor protection had been activated with TOGA thrust still set.
+The controller subsequently stated that he had the aircraft in sight as it began the circling procedure and that two minutes after his last radio contact with it, "he had seen a circular wave of a red or pink colour around the impact area to the north west of the airport". After failing to re-establish radio contact, he had immediately raised the alarm in accordance with procedures.
+
+Related Matters
+
+ In respect of the inoperative guidance lights at the turn onto final approach on the runway 20 circling procedure and the non-notification of this status, it was noted that subsequent to the accident and whilst the Investigation was in progress, ASECNA, the inter-governmental agency responsible for the circling procedure and its charting, had removed references to both obstacle lights due to a lack of spare parts for them and had "added a reference to a VOR radial which must not be exceeded during the last turn". It was therefore considered that "it is no longer necessary to issue recommendations concerning the approach chart and the operation of flashing lights". 
+
+ It was noted that Part 'C' of the Yemenia Operations Manual stated that Moroni was a category 'C' airport which meant that each crew member had to undergo specific training and briefing before flying there. However, the crew files, which were made available to the Commission of Inquiry, did not contain any mention of this specific qualification.
+
+ Concern at the inadequacy of the sea rescue response after the accident was also registered. The rescue boats were general purpose boats which had to be requisitioned and the first one did not leave Moroni - 20 nm by sea from the accident site until about 2½ hours after the accident. It was considered that "the existence of material and human means of rescue at sea dedicated to and based in proximity to the aerodrome would probably have permitted a more efficient search and thus a faster arrival at the scene of the accident". It was noted that the only survivor had not been rescued until 9 hours after the accident after being found clinging to a piece of wreckage. She reported having "heard some people screaming around her but did not see them because of the darkness" and then fell asleep. On waking up in the early morning "she could still see some debris from the plane but could not hear any more screams". 
+
+
+The Cause of the accident was formally documented as follows:
+
+
+"The accident was due to inadequate actions by the crew on the flight controls that caused the aircraft to be stalled and not recovered. These actions occurred during an unstabilised visual manoeuvre (circling approach), in which numerous and varied alerts relating to the proximity of the ground, the configuration of the aircraft and the approach to a stall were triggered.  The crew, whose attention was focused on aircraft navigation and the relative position of the landing runway probably did not have sufficient mental resources available in this stressful situation to respond adequately to the various alerts which occurred."
+
+
+Four Contributory Factors were also identified:
+
+
+ the weather conditions present at the airport (wind gusting to near 30 knots).
+
+ relative to the pilot's hesitation to perform the circling approach, the absence of crew training or any briefing of the crew in accordance with the Yemenia Operations Manual prior to the flight to Moroni (none of the documents submitted to the Investigation illustrated this procedure).
+
+ the failure of the crew to correctly fly the circling approach (the aircraft left the axis of the ILS LOC after the published point which is 5.2 nm) which suggests that the crew had intentionally delayed the turn to join the downwind right leg.
+
+The failure of the crew to apply the prescribed response to a GPWS 'PULL UP' warning.
+
+
+Three Safety Recommendations were made at the conclusion of the Investigation as follows:
+
+
+ that the Yemen Authorities ensure that all crews operating to Moroni are properly trained to perform the (runway 20) visual circling procedure.
+
+ that the Yemen Authorities review the conditions for training of Yemenia pilots, particularly in respect of their ability to respond to emergencies. 
+
+ that the Comorian Authorities put in place permanent rescue facilities suitable for search and rescue following an aircraft accident occurring in the sea near an aerodrome. 
+
+
+The Final Report available only in French, was completed on 25 June 2013, subsequently published by the Comorian Government and later made available online by the BEA France. This summary article is based on that Report.
+
+
+Editor’s Note: In the absence of a published English language translation of the Official Report, this summary has been prepared on the basis of an informal translation and no responsibility can be taken for any errors that may have resulted from this.
+
+
+Related Articles
+
+ Controlled Flight Into Terrain (CFIT)
+
+ Loss of Control
+
+ Terrain Avoidance and Warning System (TAWS)
+
+ Circling Approach
+
+ Cross-checking Process
+
+ Pilot Flying (PF) and Pilot Monitoring (PM)
+
+ SOPs
+
+ Recovery from Unusual Aircraft Attitudes
+
+ Stall
+
+ Stall Warning Systems
+
+ Night Visual Approaches
+
+ Rescue and Fire Fighting Services
+
+
+
+
+
+

@@ -1,0 +1,211 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+3 Cause
+4 Safety Action
+5 Safety Recommendations
+6 Related Articles
+7 Further Reading
+
+
+Description
+On 24 May 2013, an Airbus A319 [G-EUOE] being operated by British Airways on a scheduled passenger flight from London Heathrow to Oslo lost the fan cowl doors on both engines at take off in day VMC. During the subsequent return to land, an external fire began on the right engine which could not be extinguished even after it had been shut down. A 'MAYDAY’ was declared to ATC and after stopping on the runway, the fire on the right hand side was put out and an emergency evacuation took place on the left hand side. None of the 80 occupants were injured during evacuation but the aircraft sustained extensive debris impact and fire damage mainly to the right hand engine and wing.
+
+Investigation
+An Investigation was carried out by the UK AAIB. FDR and CVR data were successfully downloaded from the aircraft as was relevant engineering data from the Digital Access Recorder (DAR). Additional data was obtained from the NVM in the Centralised Fault Display System (CFDS), the Brake and Steering Control Unit (BSCU), the Fire Detection Units (FDUs) and the Engine EECs. 
+It was established at an early stage from photographic evidence supplied to the Investigation that the fan cowl doors on both engines had been unlatched prior to aircraft pushback from the parking gate.  
+A Special Bulletin was published on 31 May 2013 to report initial findings and this included one Safety Recommendation as follows:
+
+
+that Airbus formally notifies operators of A320-family aircraft of the fan cowl door loss event on A319 G-EUOE on 24 May 2013, and reiterates the importance of verifying that the fan cowl doors are latched prior to flight by visually checking the position of the latches. [2013-011]
+
+
+It was established that during the take off from runway 27L with the First Officer (who had also conducted the first flight of the day external pre-flight check) as PF, the fan cowl doors from both engines had almost entirely detached during rotation. A number of passengers had seen these doors "flapping" during the take off and their subsequent detachment but, although a series of ECAM fault messages began to occur, the flight crew were unaware what had happened until later. The pilot of another aircraft lining up on the same runway soon after the A319 had departed "observed a significant amount of debris on the runway, prompting them to transmit a PAN call to air traffic control".
+Some passengers pressed their cabin call buttons or shouted to the cabin crew to attract their attention and the Senior Cabin Crew Member (SCCM), considering this "highly unusual" attempted to call the flight deck by interphone. Although this was noticed by the aircraft commander, procedures at that stage of the flight did not require a response and the assumption was made by the SCCM that the pilots must be busy dealing with a problem. Early indications of an EPR mode fault on the right engine and loss of the yellow hydraulic system were in fact being actioned.
+When the aircraft levelled at 6000 feet, he First Officer advised the aircraft commander that he thought something had hit the right wing. Four minutes after take off, a PAN was declared to ATC advising of an engine and hydraulic system problem and that a return to land would be made. 
+Two minutes later, after "several agitated passengers" had drawn her attention to the visibly-damaged right engine, the SCCM reported this to the commander using the interphone. The SCCM had not sought or otherwise gained information from the passengers that some had observed a fuel leak and so had not been able to tell the commander of this. ATC then advised that "You've left multiple engine parts and there was smoke as you left the runway at Heathrow" and shortly afterwards, the SCCM came back on the interphone to report that the left engine fan cowl was also missing and that the right engine cowl had struck the right over-wing emergency exit. 
+With the aircraft approximately 27 nm east of Heathrow, an ECAM fuel imbalance message was annunciated (this occurs when a 1500 kg imbalance is reached) and was recognised as a sign of a likely fuel leak. ATC were advised of this and that it appeared that about 5 tonnes of fuel remained (the aircraft had departed with 7.6 tonnes on board). The First Officer estimated that the leak rate was about 100 kg/minute. Then, with the aircraft established on the ILS for runway 27R at Heathrow and 9.4nm from touchdown, the right engine fire warning activated  and, without any advice to or confirmation from the First Officer, the Commander immediately carried out (correctly) the corresponding memory drill which included shutting the engine down and discharging the first engine fire extinguisher shot. The CVR recording showed that he had stated his attention to shut this engine down anyway just before the fire warning occurred following an earlier crew discussion about the possibility of fuel starvation due to the leak. An un-commanded AP disconnect occurred and the First Officer transitioned to flying the aircraft manually. The commander declared a MAYDAY to ATC. The second engine fire extinguisher shot was discharged after the requisite interval but the fire warning continued.
+
+ The right engine on fire during the landing roll (Reproduced from the Official Report)
+The commander took control at about 500 feet agl. An EGPWS Alert for "Too Low Flaps" occurred at 236 feet agl because the landing configuration was not in the normal 'CONFIG 4' position at a pre-determined distance from the runway and the system override switch was selected. An uneventful touchdown was followed by a non-standard selection by the aircraft commander of reverse thrust on the left engine and then, as it slowed, the aircraft was turned so that the right engine was on the downwind side of the fuselage and stopped. The total airborne time was 27 minutes. 
+ATC advised that they could "still see flames" and then that "flames coming still" but that the AFRS were "putting it out". Contact with the fire crew chief was established on 121.6 and, in answer to a question from the Commander as to whether an emergency evacuation was required, the fire crew chief observed that the left engine had not been shut down and told him to "hold". The Commander began a PA to the passengers to "remain seated" and whilst this was in progress, the fire chief then "asked the crew to shut down the left engine". The First Officer did so, which had the effect of removing electrical power from the COM 2 radio which was the one set to 121.6 and thus temporarily interrupted communications. Once they were restored, the fire chief "instructed the commander to evacuate the aircraft on the left side, away from the fire" and the commander ordered this by PA. Despite some mishaps, no serious injury resulted and the evacuation was complete just over a minute after fire chief's instruction to initiate one. It was considered unusual for the decision to evacuate to have been "transferred to the fire chief, although he had no authority to order an evacuation". It was also considered that, in respect of the delay in the shutting down the left engine in the presence of clear evidence that the aircraft was on fire, had highlighted that leaving an engine running whilst determining whether an evacuation was necessary "can hazard rescue and evacuation activities" and that "the risk of injury to passengers during an evacuation.......has to be balanced against the risks of (their) remaining on board the aircraft".
+It was established that the operating crew had both been experienced on the aircraft type, the aircraft commander and the First Officer respectively having 6600 and 4100 hours on it. The investigated event involved flying the aircraft for much of the time without an A/T and it was noted that the Commander stated to the Investigation that "he had last flown the A320-series aircraft using manual thrust seven years before the accident" and  the First Officer that "apart from simulator training, he had never flown the A320-series aircraft using manual thrust".
+Damage to the Aircraft was confirmed by inspection that the inboard and out board fan cowl doors had detached from both engines, three of them separating by de-lamination of the composite structure. The majority of the remnants were recovered from the departure runway. An examination of the aircraft found that the right engine had been extensively fire-damaged and that a low pressure fuel pipe on this engine had been punctured by a piece of the inboard fan cowl that had remained attached to engine. 
+
+ A view of inboard side of the right (No 2) engine (Reproduced from the Official Report)
+It was concluded that, on the evidence available, the engine fire had probably started when the yellow system hydraulic fluid, which had been liberated within a 2 minute period beginning immediately after take off, had been ignited by electrical arcing of an adjacent damaged wiring loom which was generating a temperature above the 470° C required for auto-ignition of the fluid. Although fuel leakage had commenced at about the same time, it was suspected that it was changes in the airflow around the exposed engine as the flight progressed which had allowed the leaking fuel to 'take over' as the  source of fuel for the fire, eventually allowing the fire to become sufficiently aggressive to trigger the engine fire warning four minutes prior to landing. Although further fuel supply to the fire would have ceased once the engine was shut down, it was clear that there had still been a sufficient accumulation to sustain the fire until it was extinguished by AFRS action after landing.
+It was found that at the calculated actual fuel leak rate, which had increased after thrust had been reduced at the top of climb and which had been slightly higher than the First Officer's in-flight estimate, had the engine not been shut down when it was, it was likely that it's fuel supply would have been exhausted prior to touchdown. Nearly 3 tonnes of fuel was found to have leaked from the right engine during the flight.    
+The inoperative systems by the time the aircraft landed included the following:
+
+
+ A/T
+
+ Spoilers 2 and 4
+
+ Thrust Reverser 2
+
+ Yaw Damper 2
+
+ PTU
+
+ Engine 2 Bleed, Gen2, Pack 2
+
+ Wing anti-ice
+
+ Normal Braking
+
+ Normal speed flap deployment
+
+ Alternate braking (braking in accumulator pressure only)
+
+ Autobrake
+
+ Antiskid
+
+ Normal Left Engine Control (only N1 rated mode available)
+
+
+Structural damage caused by impact from the released cowl doors was found to the:
+
+
+ Inboard leading edge slats
+
+ Fuselage skin close to both wing roots
+
+ Over-wing fairings
+
+ Inboard flaps
+
+ Left belly fairing
+
+ Right wing leading edge damaging part of slats 3 and 4
+
+ Outboard flap track fairing on the right wing
+
+ Left horizontal stabiliser leading edge and lower skin
+
+ Left main landing gear - damage to the landing gear bay door and a hydraulic pipe
+
+
+The right main landing gear outer tyre was also found to be fully deflated after manual braking without anti skid protection during the landing.
+It was noted that the investigated event was the first instance where fan cowl door loss had resulted in such extensive damage or in any way led to the elevation of the level of resultant risk to that seen in this case.
+The response of the Aircrew was examined and in respect of the Commander and SCCM it was noted to have been less than optimal. In the case of the Commander, it was also noted that his actions had, at times, been in conflict with SOPs beyond the extent which might have been expected and had been explicitly contrary to training. However it was considered that "it is impossible within the training environment to fully replicate the complexities and cognitive and emotional loading that a real emergency produces and there does not appear to be any Safety Recommendation which could realistically address this".  
+The release of the aircraft to service in an un-airworthy condition was examined in detail. It was found that after minor overnight maintenance on a terminal gate by two Line Maintenance Technicians working together, the unlatched fan cowl doors had been a consequence of an interrupted routine which had required them to be opened to accomplish an IDG oil check and possible oil replenishment, a significant failure to follow the prescribed AMM procedures for this task and the inadvertent completion if the interrupted task on an A321 parked nearby on which they had completed similar minor maintenance earlier in the same shift. The failure to follow the AMM procedures involved in opening fan cowl doors was found to be widespread and regularly tolerated rather than an exception to normal practice. It was discovered that findings of unsecured cowl doors were not being reported as safety risk events within Engineering if the condition was rectified prior to release to service in a remotely-signed Aircraft Technical Log. The operational risk of such situations was not detected before release to service was therefore unappreciated. It was also found that "aircraft swap errors" had previously occurred in the operator's line maintenance operation at Heathrow but that no reports had been raised about these either "and therefore no mitigating actions had been taken to prevent their recurrence". 
+It was concluded that both Technicians had been working in accordance with their employer's working time policy and that "the quantity and scope of planned work" for their shift was achievable, not excessive or unusual and within the scope of their Licensed Maintenance Authority (LMA) approval. It was additionally noted that "adverse weather conditions were not a factor in the sequence of events". However, it was noted that both Technicians were working an overtime shift which was part of a "significant level of planned and overtime working" which was  attributable to staff shortage. It was considered that the risk of fatigue when the normal shift pattern was augmented by overtime working "was not (being) accounted for or measured in an objective way". The applicable EASA Regulation under Part 145.A.47(b) was noted to require that "the limitations of human performance in the context of safety-related tasks are accounted for when planning work and shifts" but that "there is currently no additional guidance material provided to assist maintenance organisations in assessing whether their working time policies are effective or compliant". It was also noted that since British Airways' working time policy was "closely aligned with the AMC material proposed by EASA as published in NPA 2013-01(C)" then had they been implemented, these  AMCs would not have prevented the Technicians’ working as they had and therefore the potential context of fatigue disclosed in this event.
+The failure to detect the unlatched fan cowl door status once the aircraft was on the parking gate after release to service and prior to flight was accepted to be problematic. The relative difficulty of detecting unlatched doors during a flight crew pre flight inspection was acknowledged. The pictures below reproduced from the Official Report were, entirely co-incidentally, taken whilst the aircraft was on the gate prior to the investigated departure. The first one shows the gap between the outboard fan cowl door and the nose cowl on the right engine which provides  evidence that the doors are not secure and the second shows the two open latches protruding visibly below the fan cowl doors of the left engine:
+
+ Right engine, outboard fan cowl door, showing gap with nose cowl (Reproduced from the Official Report)
+ Left engine fan cowl door latches visible in unlatched condition (Reproduced from the Official Report)
+It was noted that the fluorescent paint which should have been visible on the protruding open latches was hardly visible, but nevertheless it was found that flight crew type conversion training and documented SOP did draw attention to the need to positively check that doors were latched. In this connection, it was noted that there was no provision for regular checking of the correct conduct of an aircraft external inspection by the operator's pilots, nor was this required. The fact that the tug driver who had performed the pushback from the gate had also not noticed the unlatched doors during the inspection he was required to carry out was also noted but it was found that no meaningful training had been provided.
+A longstanding history of A320-family aircraft fan cowl doors loss events was noted. It was found that prior to the investigated event, there had been 34 previously recorded instances of such fan cowl door loss on these aircraft - 21 events to aircraft fitted with IAE V2500 engines like G-EUOE and 13 events to aircraft fitted with CFM-56 engines. Three further instances of fan cowl door losses were known to have occurred whilst the Investigation was in progress. The response to a questionnaire sent by Airbus to selected operators during the Investigation showed that 69% of previous events had followed the opening of the fan cowl doors in order to check and or top up IDG oil level. It was also found through this survey that there was "a marked correlation between fan cowl door loss and whether the fan cowl door latches were positioned on the inboard or outboard side of the fan cowl" and noted that the two engine options had the latches fitted to opposite doors and that "across both engine types, engines with fan cowl latches positioned on the inboard side of an installed engine were approximately three times as likely to be the subject of a fan cowl loss than the corresponding engine on the other side of the aircraft".
+A series of actions taken by Airbus over many years in an attempt to mitigate both aircraft release to service and aircraft departure with unlatched cowl doors was noted, including amendments to manuals and publication of awareness-raising literature, much of the latter having been circulated within MROs and aircraft operators including British Airways.  
+The Airworthiness and Design context of the event was considered at length. It was concluded that although various measures had been take to address the continuing occurrence of departures with unlatched fan cowl doors, these had been only partially effective. It was noted that the event investigated had been "by far the most serious fan cowl door loss event to date because it was the first recorded event in which the departing fan cowls damaged an engine’s fuel system, causing a significant fuel leak and a subsequent uncontained fire".
+It was considered that "the nature of the fan cowl opening and closing tasks renders them vulnerable to the limitations of human performance" and that "procedurally-based safety actions are limited in their effectiveness and are likely to remain so". An earlier (2000) AAIB Investigation into a fan cowl door loss event was noted to have recommended a flight deck warning to alert crew to unlatched fan cowl doors which had not been considered necessary by the French DGCA.
+Whist it was noted that enhanced methods of open fan cowl door detection "through design solutions" were being considered by Airbus, it was also noted that under the EASA CS 25 Type Certification process, the fan cowl doors are classified as a structure. This meant that there was no requirement under engines installation in accordance with CS 25.901 and fan cowl doors in particular in accordance with CS 25.1193 for a System Safety Assessment (SSA) of the type which is required for fuselage doors, hatches, access panels and covers under CS 25.783(a)(2). EASA was stated to have advised the Investigation that "until the G-EUOE event, fan cowl loss was not perceived to be a potentially catastrophic failure mode". However, it was noted that "no formal risk assessment had been undertaken to support this conclusion". 
+It was considered as a result of the Investigation that “this event has shown that the consequences of fan cowl door detachment are unpredictable and can present a greater risk to flight safety than previously experienced”. This was considered to warrant a change in the CS25 certification process to include fan cowl doors in the System Safety Assessment for engine installation during both initial type certification and in service modifications.
+
+Cause
+The Investigation formally identified the following Causal Factors:
+
+
+ The technicians responsible for servicing the aircraft’s IDGs did not comply with the applicable AMM procedures, with the result that the fan cowl doors were left in an unlatched and unsafe condition following overnight maintenance.
+
+ The pre-departure walk-around inspections by both the pushback tug driver and the co-pilot did not identify that the fan cowl doors on both engines were unlatched.
+
+
+In addition, the Investigation also identified the following Contributory Factors:
+
+
+ The design of the fan cowl door latching system, in which the latches are positioned at the bottom of the engine nacelle in close proximity to the ground, increased the probability that unfastened latches would not be seen during the pre‑departure inspections.
+
+ The lack of the majority of the high-visibility paint finish on the latch handles reduced the conspicuity of the unfastened latches.
+
+ The decision by the technicians to engage the latch handle hooks prevented the latch handles from hanging down beneath the fan cowl doors as intended, further reducing the conspicuity of the unfastened latches.
+
+
+Safety Action
+The following actions were note to have been taken during the Investigation:
+
+
+ by EASA to introduce a new generic Special Condition in which requires that under new aircraft type CS 25.1193(f)(3) approvals, an aircraft must have "a reliable means for effectively verifying that the cowling is secured prior to each take-off".
+
+ by Airbus in introducing a range of amendments to the AMM, the FCOM, the FCTM and the applicable Maintenance Planning Document (MPD). Medium and long term feasibility studies have also been launched to respectively add a mechanical lock/key and streamer flag arrangement the fan cowl latch which would prevent the key being removed when the door is unlatched and to investigate provision of either a flight deck indication of fan cowl latch position or the addition of a light to the fan cowls which would flash if they were open.
+
+ by the Fan Cowl Door manufacturer in amending the instructions for repainting the high visibility cowl latch paint and moving them from the Structural Repair Manual (SRM) to the Component Maintenance Manual (CMM).
+
+ by British Airways in introducing a range of practical, procedural and training/competency check changes to improve "maintenance task management and work structure", in particular but not only to prevent the recurrence of "aircraft swap errors" and also in taking action to improve the effectiveness of external aircraft pre-flight checks by it's  pilots.
+
+
+Safety Recommendations
+Five Safety Recommendations were made at the conclusion of the Investigation as follows: 
+
+
+ that the European Aviation Safety Agency publishes amended Acceptable Means of Compliance and Guidance Material in Part 145.A.47(b) of European Commission Regulation (EC) No 2042/2003, containing requirements for the implementation of an effective fatigue risk management system within approved maintenance organisations. [2015-001]
+
+that the European Aviation Safety Agency requires Airbus to modify A320-family aircraft to incorporate a reliable means of warning when the fan cowl doors are unlatched. [2015-002]
+
+ that the European Aviation Safety Agency amends Certification Specification 25.901(c), Acceptable Means of Compliance (AMC) 25.901(c) and AMC 25.1193, to include fan cowl doors in the System Safety Assessment for the engine installation and requires compliance with these amended requirements during the certification of modifications to existing products and the initial certification of new designs. [2015-003]
+
+ that British Airways Plc reviews, and amends as appropriate, its pilot and cabin crew training, policies and procedures regarding in-flight damage assessments and reporting by cabin crew in light of the lessons learned from the G-EUOE fan cowl door loss event. [2015-004]
+
+ that British Airways Plc reviews its evacuation procedures and training to take account of the potential risks of leaving engines running during on-ground emergencies. [2015-005]
+
+
+The Final Report of the Investigation was published on 15 July 2015.
+
+Related Articles
+
+ Flight Crew Pre Flight External Check
+
+ Maintenance Error
+
+ Maintenance Workload
+
+ Captain's Aircraft Acceptance
+
+ In-Flight Fire: Guidance for Flight Crews
+
+ Fuel - In-Flight Management (Abnormal Operations)
+
+ Engine Fire Protection
+
+ Fatigue Risk Management System (FRMS)
+
+ Maintenance Error Management System
+
+ Human Factor in Emergencies
+
+ Decision Making
+
+ Crew Resource Management (OGHFA BN)
+
+ Unexpected Events Training (OGHFA BN)
+
+
+Further Reading
+
+ Preventing Fan Cowl Door Loss, X Jolivet and S Ramon, pps 18-21 in the Airbus “Safety First” Magazine issue 14, July 2012
+
+
+
+
+
+

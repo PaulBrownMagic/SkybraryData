@@ -1,0 +1,172 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 15 March 2012, a Lockheed-Martin C130J-30 Hercules being operated by the Royal Norwegian Air Force on a positioning transport flight from Harstad/Narvik Airport, Norway to Kiruna, Sweden flew into the side of the highest mountain in Sweden near its summit shortly after crossing the Swedish border and making a daylight descent to FL070 which took it into IMC in uncontrolled airspace. The aircraft was immediately destroyed by the violent impact, consequent explosion and fire and all five occupants were killed. 
+
+Investigation
+An Investigation was carried out by the Swedish AIB. The DFDR and CVR were recovered and their data successfully downloaded and recorded radar data was also gathered and used. The ELT did not transmit and was found to have sustained major damage at impact. It was found that the response on the ground to the accident had been “characterised by very good access to resources from both Sweden and abroad” and noted that “operations lasted for a relatively long time and were carried out under extreme weather conditions in difficult alpine terrain”. However, the Investigation did identify “the importance of further developing management, collaboration and training (in respect of response to remote area accidents) in several areas”. 
+It was noted that the aircraft commander had 758 hours experience on the ‘J‘ model  of the C130 after accumulating almost all his considerable previous experience on older Hercules variant(s) with considerably less automation than the ‘J’. He was accompanied by a Co-Pilot who had been acting as PF for the accident flight who had just 91 hours on the ‘H’ model and only 293 hours on all Hercules variants. The significantly increased level of automation on the ‘J’ Variant was noted to have led to the removal of a crew position for a Navigator as carried on all earlier variants. Several of the Air Force personnel interviewed by the Investigation “stated that the (accident aircraft) commander was considered to be the most experienced commander by far on the C-130” and that whilst the co-pilot was considered to have “little” experience, he was “competent”, had “respect for the commander” and that it was “difficult to surpass the co-pilot with regard to knowledge of systems on the aircraft”. It was additionally noted that the aircraft commander had a lower military rank than the Co-Pilot and that the Co-Pilot was his immediate superior, although no direct evidence that this situation had an effect on the conduct of the flight was found by the Investigation. Also on board the aircraft were two loadmasters and one passenger, the latter being an Air Force helicopter pilot.
+An aftercast provided by the Swedish Meteorological and Hydrological Institute stated that there had been a thick and continuous layer of cloud in the area where the accident occurred with a base of between 1000 feet and 4000 feet and a top at between FL090 and FL100. By contrast, the METAR for Kiruna issued 7 minutes before the accident gave “CAVOK”.
+It was established that after departing from Harstad/Narvik on an IFR FPL, the aircraft had climbed to FL 130 and taken up a holding pattern south of the airport for an hour before continuing on an easterly track towards the VOR at destination. Bodo Control had radar contact before handing the aircraft over to Sweden Control where it was cleared for descent to FL 100 “when ready” and instructed to contact TWR at destination to make their request for a visual approach. Having acknowledged the clearance, the crew then immediately commenced the descent from FL130 towards FL100 and, on checking in with Kiruna TWR, advised that they were 50 nm to the west and requested a visual approach. Kiruna TWR further cleared the aircraft which by then had descended below FL 125, the base of controlled airspace in the area, to FL 70 and the aircraft continued to descend towards that level, in the process descending below both MSA and into IMC. The aircraft reached FL70 and, based on DFDR data, it was found that 30 seconds later, in level flight and at a ground speed of approximately 280 knots, it had collided with the terrain just below the highest parts of the west side of the highest mountain in Sweden,  ‘Kebnekaise’ some 42 nm from Kiruna. CVR data showed that the crew had been unaware of their proximity to terrain.  The illustration below shows the format of the annotated 1:500,000 chart provided for the flight, on which the proximity of the intended track is clearly shown as passing over Kebnekaise. As can be seen, this chart only had “maximum elevation” figures for Norwegian airspace. On the Instrument Flying Charts carried on board, the MSA for the route was shown as 9300 feet.
+
+ Chart prepared for the accident flight by the Air Force showing the planned route with Maximum Elevation Figures (MEF) only on the Norwegian side of the border. (illustration reproduced from the Official Report)
+
+Whilst it quickly became clear that the accident had been attributable to the way in which the aircraft was operated by the crew concerned, the Investigation identified the root cause of it to be deficiencies in the RNAF procedures which supported the operation of the aircraft. It was also found that there had been “shortcomings” in the ATC clearances issued to the aircraft. Clearances and flight information given to the accident aircraft were found not to have been in accordance with the applicable regulations. This was considered to have been a direct consequence of the ANSP “not having…ensured that the air traffic controllers in question had sufficient experience and knowledge to guide air traffic from the west in towards Kiruna Airport in a safe manner under the present circumstances”.
+
+ The airspace and terrain profile along the route. Showing the official position on Swedish ATC radar coverage “in optimal conditions”. The broken red line shows the route of the accident aircraft in schematic form (the altitude scale exaggerated. The terrain profile is derived from Google Earth (illustration reproduced from the Official Report)
+Controllers at Sweden Control interviewed by the Investigation reported that the accident aircraft had not been visible on radar, and that the base of radar cover in the area varied on a day-to-day basis between FL070 and “slightly above” FL100 - a somewhat different view to the official position of the ANSP illustrated above. Kiruna ATC was a one-man TWR operation without radar.  
+Clearly one of the major questions for the Investigation to answer was why no warnings were given of the approach of the aircraft to the steeply rising mountainside which the aircraft hit. The primary - and usually very reliable - equipment which does this is the GCAS/TAWS (Ground Collision Avoidance System / Terrain Awareness Warning System). The GCAS system was activated only on the basis of downward looking radio altimeter input, which at any alert setting would not have provided a useful warning as the aircraft approached the very steep side of the mountain. The database-driven TAWS, on the other hand, would normally have been capable of generating sufficient warning of terrain ahead for a successful escape manoeuvre to be facilitated.  However, as a military aircraft, the TAWS could be selected to utilise one of a choice of two databases, a commercial database provided by Honeywell when selected to the default ‘Normal’ Mode and a higher resolution tactical database provided by the US National Geospatial Intelligence Agency (NGA) when selected to ‘Tactical’ Mode. However, the latter database was not available north of 60° North and, therefore, not available over most of the land area of both Norway and Sweden (although the separate Obstacle database was available worldwide from both sources - but there were no obstacles on Kebnekaise). 
+Early on, the accident crew had decided to select the TAWS Tactical Mode thereby, because of the high latitude, completely disabling the TAWS function. Whilst such action was contrary to the pertinent SOP, which stated that the Tactical Mode was “most suited for modified contour flight and approaches at low altitudes in accordance with Visual Flight Rules”, the commander was left with absolute discretion and no mention was made of the fact that most of the Scandinavian land area is north of 60° where this mode has no terrain database. The Investigation concluded on the basis of interviews and the wording of a pilot alert on the subject following the accident that “awareness of the (C130J) TAWS system function and limitations north of 60° N….was low”.  
+The Investigation sought possible explanations for the conscious choice of TAWS Tactical Mode by the accident aircraft crew and concluded that there were “a number of partial explanations” for this action, the most significant of which appeared likely to be “lack of understanding of the system's function”. 
+In respect of other equipment which might have supported the use of the paper charts carried in informing proactive terrain avoidance, it was also noted that the aircraft had an advanced  radar which was capable of both weather detection and, in ‘ground map’ mode, terrain detection with ground contour display for up to 250 nm ahead. It was also equipped with a Moving Map display that could be presented on the EFIS screens and could show current aircraft position in relation to terrain and indicate terrain elevation, obstacles, latitude/longitude and obstacle-free altitudes to an accuracy of 200 feet. 
+The Investigation concluded that the Cause of the accident was “the crew of the accident aircraft not noticing the shortcomings in the clearances issued by the air traffic controllers and to the risks of following these clearances, which resulted in the aircraft leaving controlled airspace and being flown at an altitude that was lower than the surrounding terrain”. 
+It was also concluded that the following Organisational Shortcomings in safety rendered the accident possible: 
+
+
+ The Norwegian Air Force has not ensured that the crews have had sufficiently safe working methods for preventing the aircraft from being flown below the minimum safe flight level on the route. 
+
+ LFV has not had sufficiently safe working methods for ensuring, partly, that clearances are only issued within controlled airspace during flight under IFR unless the pilot specifically requests otherwise and, partly, that relevant flight information is provided. 
+
+
+Safety Action was noted to have been taken following the accident and during the course of the Investigation by the Royal Norwegian Air Force, The Swedish ATC Regulator, the Swedish ANSP and the aircraft manufacturer Lockheed Martin. Action reported by the latter included:
+
+
+The addition to the AFM limitations of information on the TAWS. 
+
+The addition of QRH entry for a previously unmentioned TAWS Caution
+
+The addition of a new restriction on TAWS use in the Flight Manual description of the system in respect of the non availability of both databases at latitudes greater than 60°N latitude or less than 56°S. 
+
+
+A total of 22 Safety Recommendations were made as a result of the Investigation as follows - the first 11 related to the operation of the aircraft and the provision of ATC service and the remaining 11 related to shortcomings found in the processes for ensuring effective accident response in such a remote area:
+
+
+ that The Royal Norwegian Air Force ensures that procedures are used that prevent aircraft from being flown below the minimum safe altitude or flight level en route in IFR flight. [RM 2013: 02 R1]
+
+
+
+ that The Royal Norwegian Air Force ensures that flight crew knowledge and routines means that the system for ground collision avoidance is used in a safe manner. [RM 2013: 02 R2]
+
+
+
+ that The Royal Norwegian Air Force further examines whether, and where necessary take measures to ensure that, the current crew configuration on the C130J attends to all aspects of the safe implementation of planning and flight. [RM 2013: 02 R3]
+
+
+
+ that The Royal Norwegian Air Force develops clear rules, manuals and procedures, which make it easier for flight crews to conduct safe air operations. [RM 2013: 02 R4]
+
+
+
+ that The Swedish Transport Agency ensures that an investigation of the safety culture within LFV is carried out with the aim of creating the conditions for maintaining and developing operations from an acceptable aviation safety perspective. [RM 2013: 02 R5]
+
+
+
+ that The Swedish Transport Agency further examines whether, and where necessary take measures to guarantee that, the controlled airspace is so designed that it encompasses an area large enough to contain the published routes for outgoing and incoming aircraft under IFR for which air traffic control is to be exercised, so that aircraft can execute all manoeuvres in controlled air, taking into account the aircraft's performance and the aids to navigation that are normally used in the area.  [RM 2013: 02 R6]
+
+
+
+ that The Swedish Transport Agency ensures that air traffic controllers possess sufficient expertise and aids to manage situations that do not frequently occur. [RM 2013:02 R7]
+
+
+
+ that The Swedish Transport Agency ensures that the discrepancies between the provisions regarding the use of QNH below the lowest usable flight level and the provisions regarding the use of flight levels above 3,000 feet (900 metres) MSL in airspace class ‘G’ are eliminated. [RM 2013: 02 R8]
+
+
+
+ that The Swedish Transport Agency takes measures to remove the ambiguity of having different applications of (the Lowest Useable Flight Level). [RM 2013: 02 R9]
+
+
+
+ that The Swedish Transport Agency ensures that the English translation of “lägsta användbara flygnivå” in AIP Sweden is changed to “lowest usable flight level” so as to be in accordance with international regulations. [RM 2013: 02 R10]
+
+
+
+ that The Swedish Transport Agency act so that ICAO reviews its regulations with respect to “lowest usable flight level” in order to ensure that they also satisfy the circumstances in an area-type controlled airspace, or clarifies in guidance material how the regulations are to be applied in such airspace. [RM 2013: 02 R11]
+
+
+
+ that The Swedish Transport Agency ensures that regulations and general advice for airborne rescue units are issued that cover helicopter crew training and exercises in a mountainous environment, with requirements for special training and exercise programmes and that completed training and exercises be documented. [2013: 02 R12]
+
+
+
+ that The Swedish Transport Agency ensures that a management model is developed by the Swedish Maritime Administration for the air rescue services at JRCC (Joint Rescue Coordination Centre) that encompasses system management and operation management, including local management within the likely area of a crash involving an aircraft, and that the personnel are trained and drilled in accordance with the established management model. [RM 2013: 02 R13]
+
+
+
+ that The Swedish Transport Agency ensures that the Swedish Maritime Administration develops, trains and drills the personnel at JRCC  in a staff model adapted for air rescue services and the established management model at the air rescue centre. [RM 2013: 02 R14]
+
+
+
+ that The Swedish Transport Agency ensures that the Swedish Maritime Administration develops documented liaison procedures for air rescue services in a mountainous environment. [RM 2013: 02 R15]
+
+
+
+ that The Swedish Transport Agency ensures that the Swedish Maritime Administration develops planning in collaboration with concerned authorities and organisations for appropriate resources regarding search from the ground in a mountainous environment and how these are to be alerted. [RM 2013: 02 R16]
+
+
+
+ that The Swedish Transport Agency ensures that the Swedish Maritime Administration develops and uses an objective for helicopter SAR operations that is possible to evaluate with respect to each individual operation. [RM 2013: 02 R17]
+
+
+
+ that The Swedish Transport Agency ensures that the Swedish Maritime Administration trains and drills JRCC personnel in collaboration with air rescue services and mountain rescue services and develops procedures for this. [RM 2013: 02 R18]
+
+
+
+ that The Swedish National Police Board ensures that police authorities with responsibility for mountain rescue services plan and organise activities in such a way that rescue operations are commenced within an acceptable time of receiving an alert and implemented with adequate resources. [RM 2013: 02 R19]
+
+
+
+ that The Swedish Civil Contingencies Agency, in consultation with the Swedish Maritime Administration, the Swedish Transport Agency, the Swedish National Police Board, the Swedish National Board of Health and Welfare and SOS Alarm, ensures that the alerting of rescue and healthcare resources is carried out within an acceptable time, even in the case of events where there is only an imminent danger of an aircraft accident. [RM 2013: 02 R20]
+
+
+
+ that The Swedish Civil Contingencies Agency examines measures necessary for guaranteeing that rescue operations are commenced within an acceptable time without delay and are executed in an effective manner, even in the event of parallel (simultaneous) operations with the participation of national rescue services, and thereafter inform central and local government authorities responsible for rescue services. [RM 2013: 02 R21]. 
+
+
+
+ that The Swedish Civil Contingencies Agency within the Nordic cooperation for rescue services, acts so that knowledge of the different countries' rescue service organisations becomes sufficiently familiar to the parties that may be subject to participation in rescue operations. [RM 2013: 02 R22]. 
+
+
+The Final Report was published on 22 October 2013 and made available in English translation on 31 October 2013.
+
+
+Further Reading
+
+Controlled Flight Into Terrain
+
+Minimum Safe Altitude
+
+Terrain Awareness
+
+Terrain Avoidance and Warning System (TAWS)
+
+CFIT Precursors and Defences
+
+Flight in Mountainous Terrain
+
+Perception in ATC
+
+Airspace and Procedure Design
+
+AIRBUS FOBN – Operating Environment: Enhancing Terrain Awareness
+
+
+
+
+
+

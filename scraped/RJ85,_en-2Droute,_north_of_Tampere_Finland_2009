@@ -1,0 +1,79 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+3 Safety Action
+4 Further Reading
+
+
+Description
+On 17 December 2009, an Avro RJ85 being operated by Blue 1 on a scheduled domestic passenger flight at night from Vaasa to Hesinki was climbing above FL200 when the first of a succession of fuel feed warnings was annunciated. Contrary to the applicable QRH drill, the flight was completed as planned without actual fuel starvation occurring. 
+
+Investigation
+An Investigation was carried out by the Finnish Safety Investigation Authority. FDR data was recovered and successfully downloaded but the relevant CVR data had been overwritten because the related CB was not tripped after the flight. It was noted that both pilots were similarly experienced on the aircraft type and that the aircraft commander had been PF for the incident flight. It was also noted that the temperature on the day of the occurrence was cold, with surface temperatures of -23°C at Vaasa and -14°C at Helsinki. 
+It was established that approximately 11 minutes after take off whilst climbing above FL200, an MWP Fuel System Alert had directed crew attention to a right engine feed tank low level warning (R FEED TANK LO LEVEL) near to which the right inner (number 3) engine fuel feed tank contents gauge was seen to be indicating well below the normal ‘full’. Crew completion of the prescribed QRH drill for this indication was found to have been subject to various interruptions which had led to some lines/items on the checklist being entirely omitted. The final line, which states that unless the warning clears arrangements should be made to 'land as soon as possible’, was specifically not actioned. The Investigation considered that, given its prevailing weather and runway conditions, “Tampere….would have been a suitable en route alternate”. This had also been the crew’s nominated alternate prior to departure from Vaasa.
+The Investigation noted that in this aircraft type, each of the four engines is supplied from its own ‘feed tank’ which will remain constantly full of fuel unless there is an interruption to fuel supply from the main fuel tanks. It was further noted that the checklist instruction to land as soon as possible had been included in the checklist in recognition of the fact that the cause of an interruption to the fuel feed to one engine might subsequently also affect the supply to one or more of the remaining engines.  
+As the aircraft subsequently passed Tampere, the same warning as that had previously been annunciated for the right inner (number 3) engine feed tank occurred for the left inner (No.2) engine feed tank and although it initially cleared, it had returned again after approximately two minutes. The flight crew also detected that the fuel level had dropped in the right outer (number 4) engine feed tank. After this, a request to ATC for a “priority clearance” to land at the planned destination Helsinki was granted as requested but no emergency was declared. 
+In response to this situation, Helsinki ATC issued an ‘emergency alert’ to the airport RFFS. For the subsequent arrival, the flight crew were found to have intentionally made a normal 33 flap landing instead of the abnormal 24 flap landing prescribed in the warning-specific checklist because of invalid concerns about landing performance. It was note that the 24 flap requirement existed as a means to maintain an increased airframe pitch angle during the approach and guarantee the maximum possible fuel flow to the feed tanks should a go around become necessary.
+On the basis of the assembled evidence, the Investigation concluded the Probable Cause of the FEED LO LEVEL warnings was “frozen water in the fuel system” which “disturbed the operation of the ejector pumps and their fuel lines and obstructed the free flow of fuel from the main wing tanks to the engines' feed tanks”. 
+Type Certificate holder BAE Systems advised the Investigation that 45 cases of ice accumulation-related fuel feed failures on Avro RJ aircraft had occurred between October 2005 and February 2010. It was noted that the frequency of such occurrences decreased when operators carried out fuel tank water drain operations more often, provided that the manufacturer-recommended minimum fuel temperatures were also observed during draining. However, they advised being unaware that other operators had also found the use of anti-icing additives to be a good way to prevent FEED LO LEVEL failures when conducting flight operations in cold conditions.
+The Investigation considered that “the cockpit culture on the occurrence flight manifested a very low cockpit authority gradient. The result was that, from time to time, the cockpit was bereft of leadership and good airmanship did not fully materialise”. In particular, in respect of failure to execute the failure-specific QRH checklist properly, the Investigation considered that when encountering abnormal situations, it was particularly incumbent on crew members to adhere strictly to the their instructions, noting that “checklist action is unconditional because the actual cause of an annunciated warning may be concealed behind a chain of events unknown to the flight crew”.
+The Investigation formally concluded that the Probable Cause of the event was “frozen water in the fuel system. This obstructed the transfer of fuel from the wing tanks to the engine feed tanks. As a result, the fuel level in three out of the four feed tanks began to drop”. It was noted that “the flight crew ignored the item on the warning check-list which commands the pilots to land as soon as possible”. 
+Two Contributing Factors were identified as:
+
+
+ the flight crew's action and decision-making style which demonstrated poor airmanship.
+
+ the layout of the emergency checklist concerning the failure is complex and verbose.
+
+
+Safety Action
+It was noted that following the incident, Blue 1 had considered introducing a policy of always keeping the main fuel tanks as full as possible but had considered this impractical because of the additional expense and potential operational limitations of such a practice.  Instead, it was decided that all refuelling of their Avro RJ fleet at Helsinki during the months between November and March inclusive should include the systematic use of an anti-icing additive. Blue 1 also introduced additional water draining to supplement the ones already being carried our during Weekly Checks 
+It was also noted that BAE Systems has changed the minimum recommended fuel temperature for fuel tank water draining in the AMM to -1°C from the previous value of -5°C and had carried out a review of the failure-specific check-list involved in the investigated event in recognition of an opportunity to improve its clarity. 
+One Safety Recommendation was made as a result of the Investigation as follows:
+
+
+ that the EASA oblige BAE Systems Limited, the aircraft manufacturer, to make the Feed Tank Low Level checklist easier to use. 
+
+
+It was also considered (although it was not the subject of a formal safety recommendation) that “pursuant to ICAO Annex 6, Operators must see to it that the Cockpit Voice Recorder (CVR) recording is stored for the purpose of safety investigation after each occurrence related to the safety of aviation.”
+The Final Report C1/2010L was completed on 4 October 2012 and an ‘abridged’ English language version was subsequently made available by the Safety Investigation Authority.
+It was noted that operation of this aircraft type by Blue 1 had ceased as previously planned in September 2011.
+
+
+Further Reading
+
+Icing
+
+Ice Formation on Aircraft
+
+Airworthiness
+
+Adherence to SOPs (OGHFA BN)
+
+Crew Resource Management (OGHFA BN)
+
+Decision-Making (OGHFA BN)
+
+Discipline (OGHFA BN)
+
+
+
+
+
+

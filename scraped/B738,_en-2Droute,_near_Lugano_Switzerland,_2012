@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 4 April 2012, a Boeing 737-800 (MSN 33546) being operated by an Irish carrier on a scheduled passenger flight from Bergamo to East Midlands and in the climb approaching FL310 in day VMC declared a MAYDAY and made an emergency descent after loss of pressurisation control occurred  before making an en route diversion to Frankfurt Hahn without further event. Some minor passenger injuries attributable to the sudden pressure changes were reported.
+Investigation
+The Swiss Accident Investigation Board delegated the Investigation to the German Federal Bureau of Aircraft Accident Investigation (BFU). Data from the SSFDR and the SSVCR were successfully downloaded, as were NVM data from the Cabin Pressure Controllers. Relevant ATC radar recordings were also available. The flight crew consisted of a Commander with 5800 hours of his 6000 total flying hours on type and a First Officer with 120 hours of his 820 total flying hours on type.  
+About 13 minutes after take-off, the aircraft was in the climb above the Swiss Alps when a sudden change in cabin pressurisation was detected. The cabin pressure rate of change was observed to be indicating the maximum climb indication of 4,000 fpm and cabin altitude had exceeded 10,000 feet. Both pilots donned their oxygen masks and the commander requested completion of the Cabin Altitude Warning/Rapid Depressurization checklist. Manual control was not effective and, one and a half minutes after the first indication of a pressurisation problem,  an emergency descent was commenced and a MAYDAY declared to ATC. 
+The crew initiated an emergency descent from FL308, initially to FL130 and eventually to FL100 and informed ATC of a turn to the left. The Investigation found that soon after the emergency descent began, separation was lost against an Airbus A319 also flying north at FL300 with the CPA 4.5 nm horizontally and about 325 ft vertically. On reaching FL100, it was decided to divert to Frankfurt Hahn and this was accomplished uneventfully.
+The Purser reported that "a few passengers had had brief problems putting their masks on" and it was reported that one of the 134 passengers had suffered a ruptured ear drum and twelve others had been treated for earaches.
+An external examination of the two Cabin Pressure Controllers (CPCs) after the flight found that the static port sensor of the No 1 CPC was covered with a black shipping plug. It was found that after the completion of flying at East Midlands the previous day, this CPC had been replaced as a precautionary action after no fault could be found to explain problems reported with the cabin pressure control. Earlier on the day of the event under investigation, the aircraft involved had flown from East Midlands to Bergamo at FL 370 with the No 2 CPC in control. 
+It was noted that when both CPCs were removed and replaced with new units after the event flight, the replacement units had been equipped with shipping plugs which were yellow and larger than the black one found still in place on the removed CPC and also carried a yellow tag with the sign: IMPORTANT – Remove these CAPS after installation. The diagram below compares the two.
+
+ The black shipping plug unintentionally left in place on the removed No 1 CPC compared with the tagged yellow ones fitted to both the replacement CPCs (Reproduced from the Official Report)
+It was determined that when the active No 2 CPC experienced a transmission error climbing through FL 305 during the investigated flight, it reverted to stand-by mode and the No 1 CPC took over. Since this was not functioning normally, the Outflow Valve opened fully as soon as Manual Mode was selected in the initial response to the problem encountered and the valve was not then manually controlled.   
+The Investigation noted that the maintenance engineer who had failed to remove the No 1 CPC shipping plug before fitting the unit on the aeroplane stated that, having carried out CPC procedures and tests several times during troubleshooting of the reported fault before fitting a new unit, he had been "over-familiar with the procedure". It was considered that this meant that installation had not been carried out in full accordance with the applicable procedure and instead, some parts of the task were done from memory, during which a "memory lapse" occurred.
+It was noted that the black shipping plug fitted would not have stood out from the black surface of the CPC housing and that the colour and shape of the shipping plug were very similar to the thumbscrew hold-down used to secure the unit in position on the aircraft. The OEM involved stated that the drill hole in the side of the shipping plug was meant to hold a tag and since it was reported not to have been there, it was "likely that the tag had fallen off". It was noted that both the CMM and the AMM made clear reference to the need to remove the shipping plug before fitting the CPC to the aircraft.
+However, the Investigation took the view that "the shipping plug should be designed in a way that it stands out from its surroundings" which, whilst this could be achieved shape and colour, would be best supplemented by "a tag which is noticeable and long enough to cover the keys of the CPC which the maintenance personnel needs to use for the pressurisation system ground test". It was also considered that  the pressurisation system ground test which was conducted after CPC installation as required was "not suited" to detect the error made.
+The formally stated Conclusions of the Investigation were as follows:
+The Immediate Causes were that:
+
+
+ Due to an omission during the installation of the cabin pressure controller the shipping plug was not removed from the static port as required by written procedure.
+
+
+
+ During the flight a pressure difference was measured and the OFV opened which resulted in rapid decompression.
+
+
+The Systemic Causes were that:
+
+
+ The shipping plug was not clearly noticeable and did not carry a tag.
+
+
+
+ The pressurisation system ground test after installation was not suitable to detect the error.
+
+
+One Safety Recommendation was issued during the course of the Investigation, on 18 June 2012, as follows:
+
+
+ that the Federal Aviation Administration (FAA) should require Boeing to re-design the shipping plugs in a way which makes them more recognisable. The shipping plugs should also be coupled with an eye-catching tag. Maintenance and Repair Organisations should only cover the static ports of a cabin pressure controller with a shipping plug which is clearly visible coupled with a tag. [No 24/2012]
+
+
+The Final Report was completed on 13 March 2015 and published the following month.
+
+Further Reading
+
+Loss of Control
+
+Aircraft Pressurisation Systems
+
+Emergency Communications
+
+Rapid Depressurisation
+
+Loss of Cabin Pressurisation
+
+Pressurisation Problems: Guidance for Flight Crews
+
+Pressurisation Problems: Guidance for Controllers
+
+Hypoxia
+
+Decompression Sickness
+
+Loss of Separation
+
+Maintenance Error
+
+Maintenance Workload
+
+Complacency
+
+Component Maintenance Manual
+
+Maintenance Error Management System
+
+Aircraft Certification and Production Standards
+
+
+
+
+
+

@@ -1,0 +1,76 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 24 August 1999, a Boeing 767-300 being operated by SAS on a scheduled passenger flight from Copenhagen to Tokyo was unable to get airborne from the take off roll on Runway 22R in normal daylight visibility and made a rejected take off from high speed. The aircraft was taxied clear of the runway and after a precautionary attendance of the RFFS because of overheated brakes, the passengers were disembarked and transported to the terminal. There was minor damage to the aircraft landing gear and rear fuselage. 
+
+Investigation
+An Investigation was carried out by the Danish AAIB. It was noted that the damage to the aircraft was limited to the main landing gear and wear to the Tail Skid Pad beyond limitations. A runway inspection found marks from the Tail Skid Pad. 
+The Investigation noted that the aircraft had been at close to the maximum permitted take off weight and that a cruise relief pilot had been present in the flight deck for the departure but was not assigned any duties during take-off or landing. It also noted that electrical power to the 30 minute CVR had not been interrupted after the incident and that consequently, no useful recording from it was available to the Investigation.
+It was found that the First Officer was near to completing line training on type and was designated as PF for the flight. This flight was the first for which he had set up the aircraft FMS. When this was started, the load sheet was not available and so the actual weights could not be entered. After subsequently receiving and accepting the load sheet, the aircraft commander entered the correct Zero Fuel Weight (ZFW) into the FMS. The First Officer then entered ZFW into the ACARS in the space where the Actual Take Off Weight should have been entered. The input data was then transmitted to a land based computer to make the take-off performance calculation with the result then transmitted back to the ACARS where it was printed out. Upon receipt, the cruise relief pilot noticed that the MAC was 7.0%, the default value, and commented that this value was not correct for the flight. According to the load sheet, the MAC was 19.0%. The print out was not checked further and instead the First Officer initiated a new take-off data computation by entering MAC 19% as input. The flight crew checked the new printout and considered the data to be correct so the aircraft commander entered the computed take-off speeds into the FMS and they were then displayed on the flight instruments. None of the flight crew actually checked the take-off data during the short taxi to the departure runway holding point.
+After the Vr call on the take off roll, the control column was moved rearwards and the nose gear left the ground at 143 KIAS. After this, the aircraft failed to become airborne and the aircraft continued to roll down the runway with a pitch of 9° and the Tail Skid Pad in contact with the runway. Seven seconds after the nose gear left the ground the aircraft commander called “stop and my controls”, lowered the aircraft nose and began to slow the aircraft from a maximum speed of 158 KIAS.
+Once the aircraft was clear of the runway and stopped on an adjacent taxiway, the cruise relief pilot re calculated the take-off data using a portable Take-off Data Computer (TODC). The results from the recalculation, with the values actually used following in brackets were: 
+Take Off Weight 186, 800kg (123,500)
+V1 = 166 knots (133 knots)
+Vr = 166 knots  (133 knots)
+V2 = 172 knots  (139 knots)
+The Investigation concluded that the take-off performance calculation was based on a too low a take off weight so that the values used for V1, Vr and V2 were too low. The wrong value of Vr resulted in the aircraft being rotated at too low a speed. The check of the take-off performance data was not sufficient. 
+The Final Report of the Investigation may be seen in full at SKYbrary bookshelf" HCL 49/99
+Three Safety Recommendations were made as a result of the Investigation and are reproduced as published in the Report below: 
+REK-01-2000
+That the Danish Civil Aviation Administration ensures that the commander makes an estimate of the flight performance data and flight planning data. The estimate shall as a minimum cover: 
+
+
+a. Estimated en route time. 
+
+b. Trip fuel. 
+
+c. Zero Fuel Mass. 
+
+d. Take-off Mass. 
+
+e. Take-off Speeds. 
+
+f. Landing Mass. 
+
+g. Landing Speeds. 
+
+
+REK-02-2000
+That the Danish Civil Aviation Administration ensures that the layout of flight data reduces the possibility of mistakes. 
+REK-03-2000
+That the Danish Civil Aviation Administration, when approving operators FOM, complies with ICAO Standard 6.3.10. 
+
+Further Reading
+
+ Rejected Take Off
+
+ Deceleration on the Runway
+
+ Use of Erroneous Parameters at Take-Off
+
+ Aircraft Load and Trim
+
+ Takeoff Weight Entry Error and Fatigue (OGHFA SE)
+
+ Adherence to SOPs (OGHFA BN)
+
+ Flight Preparation and Conducting Effective Briefings (OGHFA BN)
+
+ ATSB Safety Study: Take-off performance parameter errors: A global perspective
+
+
+
+
+
+

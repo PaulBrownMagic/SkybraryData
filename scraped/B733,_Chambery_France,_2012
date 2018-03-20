@@ -1,0 +1,74 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 14 April 2012, the crew of a Boeing 737-300 being operated by Titan Airways on a passenger flight from Chambery to London Gatwick found that the aircraft did not become airborne from runway 36 at Chambery following rotation at the calculated speed and when it eventually did, a tailscrape occurred.
+
+Investigation
+An Investigation was carried out by the UK AAIB. CVR data had been overwritten but FDR data was successfully downloaded and QAR data was also available.
+It was found that damage to the aircraft had been confined to a 1.9 metre long “deep longitudinal scoring of the rear fuselage skin” within the pressurised section of the fuselage, beneath the aft end of the rear baggage hold. It was found that “this damage created a small leak path for pressurised cabin air to escape to atmosphere, although the rate of leakage was small and insufficient to affect cabin pressurisation during the (subsequent) flight.” It was noted that in the 737-300 variant, this area is not protected by a ‘tail bumper’.
+It was found that prior to the departure from Chambery, the aircraft had positioned empty from London Stansted. The EFB had remained in Standby mode during this flight and was in that mode when the 34 year old aircraft commander began to use it for the take off performance calculations. During this process, he failed to enter the aircraft take off weight into EFB used for take off performance calculations and the weight used defaulted to the take off weight input for the previous positioning flight, which had been much lower on account of the absence of passengers and baggage. He noted that although he normally entered Flap 5 into takeoff performance calculations, at airports such as Chambery where he considered that performance was more critical, he would select ‘optimum flap setting’, which had given Flap 1. He stated that at the time he had not considered either this or the computed takeoff speeds unusual and when the output allowed for a reduced thrust takeoff, he did not think that the calculated assumed temperature was unreasonable either - although with hindsight, he did think it had been too high for the aerodrome and the prevailing conditions. 
+The commander stated that he had written the speeds he had computed using the EFB on the flight paperwork and then entered them into the FMC, thus overwriting the FMC-generated speeds. He stated that this was “standard practice” and that he did not take notice of any difference between the two sets of speeds. At no stage had there been any cross-checking of the EFB calculations.
+The subsequent take off with the commander as PF had occurred in benign weather conditions and during takeoff both pilots reported noticing “a slight judder” which they considered was due to turbulence from the preceding aircraft. Shortly afterwards, they received a call on the intercom from the rear cabin crew informing them that they had also felt a judder - this call had been intended for the senior cabin crew member at the front of the cabin, but had been mistakenly made to the flight deck. In the absence of any flight deck indications of abnormal status, the flight crew proceeded to complete the intended flight uneventfully. After engine shut down at Gatwick, they were informed by ground personnel that there was damage to the rear fuselage consistent with a tail strike. This led the crew to review their take off performance data and the error made became apparent. 
+FDR data showed that rotation had commenced at 126 KCAS, 3 knots below the calculated VR and 14 knots below the correct VR. The nose gear left the ground and approximately four seconds later, pitch attitude increased through 10.8°, the documented threshold for a tail strike with landing gear compressed, increasing further as the main gear left the ground. The achieved mean pitch rate from the time of rotation to 10° pitch attitude was calculated to have been 2.3° per second, which is within the FCTM recommended range. 
+The Investigation compared the data used for the Chambery take off with correct data and found that the effect of using a weight 6.6 tonnes less than it actually was were reference speeds up to 12 knots too low and an N1 of 88.6% based on an assumed temperature of 47°C rather than the correct 92.8% based on an assumed temperature of 30°C.
+The EFB software involved was found to be in widespread use. The Titan Airways Operations Manual did not state that the performance program must be shut down between uses and it was established that the Operator’s pilots routinely left the EFB in Standby Mode so that the program remained active. It was noted that for regulatory purposes, this EFB system was classified as a ‘Type B’ application running on ‘Class 1’ hardware. It therefore required Operational but not Airworthiness regulatory approval. 
+The Investigation examined in some depth both the EFB arrangements in place at Titan Airways and the external oversight of their use. It also noted that “there have been a number of previous incidents and accidents resulting from incorrect calculation of takeoff performance” in which the outcome can range from a perception of a "‘sluggish’ takeoff, a tail strike, a runway overrun, reduced obstacle clearance, degraded climb performance or, in the worst case, a catastrophic takeoff accident”. It was also considered that since it is often the case that takeoff underperformance is subtle, “it is possible that events have also occurred but have not been noticed”.
+The Investigation noted that EASA NPA No 2012-02, proposing the integration of the extant guidance on EFB oversight and use contained in JAA TGL 36 into the EASA regime had led to the issue of AMC 20-25 ‘Airworthiness and operational consideration for the approval of Electronic flight Bags (EFBs)’ which did not include any reference to the recommendations in JAA Safety Information Communication No 7 which had been issued by JAA as supplementary guidance to TGL 36 in 2006 for the specific purpose of reducing the chances of flight crews inadvertently using performance data retained in an EFB. It was noted that “the AMC does not detail any equivalent detailed checklists such as those used by the UK CAA for an operational evaluation, nor do the EASA publish any” and that “at the time of this report, AMC 20-25 was due for final release in early 2013”.  
+During the initial stages of the Investigation, it was reported that the pitch forces on the aircraft involved were particularly light. Although no aircraft technical log defect entries concerning this had been made prior to the accident, shortly after the aircraft had been repaired and returned to service, an entry was made reporting that the elevator feel force was “light”. Trouble shooting actions for ‘Low Control Forces’ prescribed in the ATM resulted in the discovery that a spring in the elevator feel and centring unit had broken. A strip inspection of the unit was then undertaken as part of the Investigation and it was found that the outer main spring in the unit had fractured. It was established that the unit had last been inspected during a ‘C’ Check in June 2011. An analysis performed by the aircraft manufacturer “showed that a broken outer main spring would reduce the control column pull force during aircraft rotation from approximately 30 lb.ft. with intact springs, to approximately 20 lb.ft. with the broken spring". 
+At the conclusion of the account of the Investigation the following summary was provided:
+“The use of computers in the calculation of performance requirements has brought about improvements in the accuracy and ease with which they can be made. There remains, however, a continued vulnerability to the use of incorrect data in making these calculations, a solution to which remains outstanding. This accident serves to demonstrate that, given these circumstances, the existence of and adherence to robust procedures, and appropriately designed software and hardware, are essential”.
+Two Safety Recommendations were made as a result of the Investigation as follows:
+
+
+ that the Civil Aviation Authority update their criteria for the operational approval of Electronic Flight Bags (EFBs) to ensure operators have procedures in place for the use of any ‘standby modes’ and on-screen keyboards, and to prevent the inadvertent use of outdated EFB performance data. [2012-035]
+
+
+
+ that the European Aviation Safety Agency establish a set of detailed guidelines for the operational evaluation and approval of Electronic Flight Bags. These should be more specific than the proposed Acceptable Means of Compliance (AMC) 20-25 and include information such as provided in the Federal Aviation Authority document ‘Electronic Flight Bag Authorization for Use’ and Joint Aviation Authorities Safety Information Communication No 7. [2012-036]
+
+
+In respect of the exacerbation of deficiencies identified in the EFB system involved by the nature of the Operator’s corresponding SOPs, it was noted that “the Operator was sufficiently small that the relevant managers believed all pilots knew what was expected of them despite these shortcomings”. Since it was stated by both pilots that they were aware of the need to check the EFB performance calculations, the Investigation considered that “the problem came in identifying exactly what was expected and in this the SOPs were, in parts, out of date, insufficiently comprehensive and lacking in clarity”. It was noted that the Operator had acknowledged this and “will be carrying out a review of the relevant SOPs as part of a larger review of their Operations Manual”. 
+The Final Report was published on 11 April 2012. 
+
+
+Further Reading
+
+Loss of Control
+
+Electronic Flight Bag
+
+Aircraft Load and Trim
+
+Pilot Workload
+
+Organizational Threat Management (OGHFA BN)
+
+EASA NPA No 2012-02 ‘Airworthiness and operational criteria for the approval for Electronic Flight Bags
+
+FAA Advisory Circular 120-76B: "Guidelines for the certification, airworthiness and operational approval of Electronic Flight Bag computing devices", 2003
+
+FAA Advisory Circular 91-78 2007: "Use of Class 1 or Class 2 Electronic Flight Bags", 2007 
+
+Transport Canada Advisory Circular 700-020: Electronic Flight Bags
+
+JAA SIC No.7 Information on findings and recommendations related to the use of an Electronic Flight Bag, 2006 
+
+JAA Temporary Guidance Leaflet  36: "Approval of Electronic Flight Bags (EFBs)", 2004
+
+
+Note: Some of the information in the JAA documents may not be current due to the rapid development of EFBs
+
+
+
+
+

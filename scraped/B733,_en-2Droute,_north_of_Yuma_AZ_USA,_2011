@@ -1,0 +1,61 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 1 April 2011, a Boeing 737-300 being operated by Southwest Airlines on a scheduled passenger flight from Phoenix to Sacramento was climbing through FL 340 in day VMC when sudden depressurisation occurred. An emergency was declared, an emergency descent actioned and an off track diversion was successfully completed to Yuma where it was discovered that the crown of the fuselage at mid cabin had ruptured leaving a hole approximately 1.5metres long by 0.2 metres across. There were no injuries except to one of the cabin crew who failed to get onto oxygen before becoming temporarily unconscious and sustaining minor impact injuries during their subsequent fall and an off duty company employee who tried to assist him and who suffered in the same way.   
+
+ Damage to aircraft (reproduced from Official Report)
+Investigation
+An Investigation was carried out by the NTSB. Data from the SSFDR and the two hour SSCVR were successfully downloaded. It was found that the pilot in command had announced the sudden loss of pressure within 2 seconds of a noise recorded on the CVR CAM which it was deduced would have been the sound of the hole opening up. Thereafter, the emergency descent to 11000 feet was achieved “within five minutes”. The response of the experienced flight crew to the sudden depressurisation was considered by the Investigation to have been “timely and effective”. In respect of the two injuries, it was established that “one of the cabin crew had attempted to make either an interphone call or a PA announcement to passengers before obtaining oxygen, leading to his loss of consciousness and fractured nose”. It was noted that his decision to act in this way “was inconsistent with Southwest Airlines’ training materials, which clearly indicated that flight attendants should first obtain oxygen and secure themselves in the event of a decompression”. In an interview for the Investigation, the person involved had stated that he thought he “could get a lot more done” before donning his oxygen mask. It was concluded that the actions of the injured member of cabin crew (and by implication the person attempting to assist him) had probably been attributable to “an incorrect assessment of (the) time of useful consciousness”.
+The majority of the Investigation centred on trying to establish the origin of the structural failure. It was established that the aircraft had been completed in May 1996, and delivered new to Southwest Airlines the following month. At the time of the accident, the aircraft had flown 48748 hours in 39786 cycles. Records showed that the fuselage involved had been manufactured by Boeing at its then facility in Wichita, Kansas from where it was then taken by rail in two pieces to the final assembly facility in Renton, Washington, where it was delivered on 8 April 1996. There, in accordance with normal processes, the forward and aft fuselage sections were joined at BS 727. It was found that work to install the accident aircraft crown skin panel above the hole was shared between Wichita and Renton site. 
+The damage was found to be limited to a joint in the fuselage side skin (see diagram below showing a cross section of this assembly) between Body Stations (BS) 663 and 727 in the fore-aft direction and stringers S-4L and S-5L in the circumferential direction. It was found that S-4L was the location of a lap joint with three rows of rivets from where there was evidence of fatigue cracking. 
+
+
+ Cross section of the lap joint in the fracture area at the fuselage upper skin panel (reproduced from Official Report)
+It was noted that:
+“The entire section of skin remained attached along the lower edge and was deformed outward. There were some abrasion marks on the fuselage skin below the forward edge of the hole that matched the shape of the forward edge of the attached section. The fracture along the upper edge was through the lower rivet row of the lap joint. The forward edge was fractured about 1/2 inch aft of the edge of the bonded doubler at BS 663. The aft edge was fractured along the forward rivet row of the BS 727 butt joint. There was some deformation to the intercostal installed between the BS 663 and BS 685 frames. There was no visible damage to the surrounding frames, stringers, and stringer clips. Some insulation was missing from the location around the hole. During the post-accident skin repair, two cracked stringer clips were found along S-4L (at BS 685 and at BS 706).”
+Further detailed examination of the physical evidence, limited by the lack of detailed manufacturing records for both Wichita and Renton (which the FAA did not require to be kept for the elapsed time involved), together with the fact that Southwest Airlines had not carried out any work in the fracture area, led to the conclusion that “the crown skin panel from BS 540 to BS 727 had been replaced during fuselage manufacture, although it was not possible to determined if this had occurred at Wichita or Renton.” The same absence of detailed manufacturing records meant that the Investigation “could not determine why the crown skin panel was replaced or how the poor repair was not identified in the QA process”. 
+It was concluded that:
+“The pressurization loads on the fuselage skin initiated fatigue cracking at rivet hole 85 almost immediately after manufacture (with) fatigue cracking subsequently initiated in adjacent rivets along the skin panel (growing) over time with each application of pressurization loads.” Eventually, on the accident flight, “the cumulative amount of fatigue cracking reached a critical length, and the panel’s residual strength was not sufficient to carry the loads, which resulted in the hole flapping open and rapid depressurization of the airplane”. However, it was determined that the material properties involved had not contributed to the skin fracture. 
+The Probable Cause of the event was determined as:
+“The improper installation of the fuselage crown skin panel at the S-4L lap joint during the manufacturing process, which resulted in multiple site damage fatigue cracking and eventual failure of the lower skin panel.”
+Contributing to the injuries was the incorrect assessment of the time of useful consciousness by one of the cabin crew which led to his failure to follow procedures requiring immediate donning of an oxygen mask when cabin pressure is lost.
+The Final Report of the Investigation was adopted by the Board on 24 September 2013. 
+No new Safety Recommendations were made but it was noted that a previous Recommendation (A-00-109) which invited the FAA to “revise existing guidance and information about high-altitude operations to accurately reflect the time of useful consciousness and rate of performance degradation following decompression and to highlight the effect of hypoxia on an individual’s ability to perform complex tasks in a changing environment” had not resulted in AC  61-107 text, (see the corresponding AC 61-107B issued 29 March 2013) to which adequately addressed the Board’s concern with the result that the outstanding Recommendation was assigned “Closed - unacceptable action” on 18 September 2013.
+Safety Action taken during the course of the Investigation included inspections of the fuselage integrity of airframes assembled in the same period (which found no evidence of an extant systemic issue) and the revision of requirements for the retention of manufacturing records so that quality control findings “for the products and articles manufactured under the approval” were retained for at last 5 years and those for “critical components” for at least 10 years. Prior to this action, it was noted that “there were no regulatory requirements for the retention of manufacturing records, just a policy agreed upon between the manufacturer and the FAA”.
+
+Further Reading
+
+Loss of Cabin Pressurisation
+
+Pressurisation Problems: Guidance for Flight Crews
+
+Pressurisation Problems: Guidance for Controllers
+
+Time of Useful Consciousness
+
+Emergency Descent: Guidance for Controllers
+
+Maintenance Error
+
+FAA Advisory Circular No: 61-107B: Aircraft Operations at Altitudes Above 25,000 Feet Mean Sea Level or Mach Numbers Greater Than .75, 29 March 2013
+
+
+
+
+
+

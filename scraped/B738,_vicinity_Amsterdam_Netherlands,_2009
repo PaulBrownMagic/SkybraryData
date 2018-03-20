@@ -1,0 +1,182 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 25 February 2009, a Boeing 737-800 operated by Turkish Airlines crashed, following a loss of control, into a field at a distance of 1.5 km0.81 nm 1,500 m 4,921.26 ft from the threshold of Runway 18R at Amsterdam Schipol, (also known locally as the “Polderbaan” runway), during a daylight coupled ILS approach to an intended landing on that runway in VMC. The flight crew consisted of three pilots, a Training Captain in the left hand seat, a First Officer under line training and operating as PF in the right hand seat and a Safety Pilot of First Officer rank occupying the Supernumerary crew seat as designated observer because of the line training detail. Out of a total of 135 occupants, all three pilots, one member of the cabin crew and five passengers were killed in the accident and the other three cabin crew and 117 passengers sustained injuries. Six passengers were uninjured.
+
+The Investigation
+During the course of the accident investigation conducted by the Dutch Safety Board it was established that a faulty left hand radio altimeter had led to an erroneous and visible radio height reading of -8 ft-2.438 m being fed (as an intentional consequence of system design dating back to early models of the aircraft) to the autothrottle, which was engaged. This resulted in a flight idle thrust command by the autothrottle but this initially went unnoticed because the ILS GS was being captured from above and no thrust above Flight Idle was required. With the autopilot remaining engaged following the capture of the ILS GS, the aircraft tracked the ILS without any of the crew appearing to realise, despite the indications of low thrust, increasing pitch and decreasing airspeed that a stall and potential loss of control were rapidly becoming inevitable. 
+The Investigation Report notes that whilst the faulty left hand radio altimeter displayed an erroneous indication, the First Officer’s radio altimeter displayed the correct Radio altimeter indication. It further notes that "The manuals for use during the flight did not contain any procedures for errors in the radio altimeter system. In addition, the training that the pilots had undergone did not include any detailed system information that would have allowed them to understand the significance of the problem.”
+However, a fault affecting a single radio altimeter is a minor occurrence and whilst the investigation concluded that the direct consequences of the fault which occurred were unlikely to have been understood by the crew, their failure to notice any of the subsequent effects of allowing the autopilot to fly a coupled ILS with a correctly indicated Flight Idle thrust setting could not be explained. All flight crew members present could have been expected to routinely detect decreasing IAS and an increasing and highly abnormal aircraft pitch attitude, the latter either by instrument scan or by external visual reference but did not do so. There was no restoration of thrust until the stick shaker activated at just below 500 ft152.4 m agl.
+According to the Investigation “The First Officer responded immediately to the stick shaker by pushing the control column forward and also pushing the throttle levers forward. The Captain however, also responded to the stick shaker commencing by taking over control. Assumingly the result of this was that the First Officer’s selection of thrust was interrupted. The result of this was that the autothrottle, which was not yet switched off, immediately pulled the throttle levers back again to the position where the engines were not providing any significant thrust. Once the Captain had taken over control, the autothrottle was disconnected, but no thrust was selected at that point. Nine seconds after the commencement of the first approach to stall warning, the throttle levers were pushed fully forward, but at that point the aircraft had already stalled and the height remaining, of about 350 ft0.0576 nm 106.68 m 0.107 km, was insufficient for a recovery.”
+At an early stage in the Investigation, the Dutch Safety Board advised Boeing of their concern that crew and engineering awareness of the LH Radio Altimeter as the source of autothrottle radio height input on the Boeing 737 and therefore the operational consequences of a LH radio altimeter malfunction might not have been adequately addressed by Boeing-promulgated procedures. As a result, Boeing commenced a series of corrective actions which are summarised on Page 79 of the Investigation Final Report: Section 5.17. The Boeing Multi Operator Message (MOM), MOM-09-0063-01B referred to there is included (See: Further Reading).
+
+Probable Cause(s) and Contributory Factors
+The Dutch Safety Board reaches the following “main conclusion” and several “sub conclusions” which indirectly contain the cause(s) and contributory factors leading to the accident (Note: The Final Report is not fully compliant to the provisions given in ICAO Annex 13, i.e. there is no section in the report dedicated to Cause and Contributory factors)
+
+Main Conclusion
+“During the accident flight, while executing the approach by means of the instrument landing system with the right autopilot engaged, the left radio altimeter system showed an incorrect height of -8 feet on the left primary flight display. This incorrect value of -8 feet resulted in activation of the ‘retard flare’ mode of the autothrottle, whereby the thrust of both engines was reduced to a minimal value (approach idle) in preparation for the last phase of the landing. Due to the approach heading and altitude provided to the crew by air traffic control, the localizer signal was intercepted at 5.5 nm10,186 m 10.186 km 33,418.635 ft from the runway threshold with the result that the glide slope had to be intercepted from above. This obscured the fact that the autothrottle had entered the retard flare mode. In addition, it increased the crew’s workload. When the aircraft passed 1000 ft304.8 m height, the approach was not stabilised so the crew should have initiated a go around. The right autopilot (using data from the right radio altimeter) followed the glide slope signal. As the airspeed continued to drop, the aircraft’s pitch attitude kept increasing. The crew failed to recognise the airspeed decay and the pitch increase until the moment the stick shaker was activated. Subsequently the approach to stall recovery procedure was not executed properly, causing the aircraft to stall and crash.”
+
+Sub Conclusions
+Technical aspects
+"The problems with radio altimeter systems in the Boeing 737-800 fleet had been affecting several airlines, including Turkish Airlines, for many years and were known to Boeing and the Federal Aviation Administration of the United States of America.
+Several airlines, including Turkish Airlines, regarded the problems with radio altimeter systems as a technical problem rather than a hazard to flight safety. As a result, the pilots were not informed of this issue.
+It has become clear that the existing procedures, tests and routines applied by several airlines, including Turkish Airlines, were not sufficient in order to resolve the problems with erroneous radio altitude values.
+The investigation failed to find a single cause for the origin of the erroneous radio altitude values.
+Tests showed that the Rockwell Collins Enhanced Digital Flight Control System (EDFCS) uses radio altitude values that are characterised as ‘non computed’ (unusable,) whereas this characterisation should have prevented this. The operating software designed to compare the two radio altimeter systems cannot be applied in the entire Boeing 737 NG fleet. The introduction of operating software capable of making comparisons has failed to fully eliminate the undesired activation of the retard flare mode.
+Not all certified Boeing 737 operating software versions for the autothrottle and flight control computers respond to an erroneous radio altitude signal in the same way. This situation is undesirable,especially in cases where an airline is using several versions that respond differently and without having informed its pilots.
+
+Reports
+Despite the fact that Boeing and the Federal Aviation Administration of the United States of America had been aware for many years that the radio altimeter system was causing many problems and was affecting the operation of other systems, this situation was not designated as a safety risk. Reports of problems with the radio altimeter system that could not be resolved by Boeing justified an effort to analyse the radio altimeter system and other related systems. Boeing and the Federal Aviation Administration of the United States of America could have recognised the fact that the problems caused by the radio altimeter system, especially the potential for activating the autothrottle retard flare mode, posed a safety risk.
+Most of the problems regarding the radio altimeter system were not reported. If the manufacturer had received more reports, Boeing might have recognised the need for renewed analysis.
+All radio altimeter components (antennas, cabling and radio altimeter computers) are certified in accordance with the applicable standard.
+With regard to certification in situations related to a specific flight phase, such as the approach, it could be useful to calculate the risk based on the actual exposure time of the flight phase (in this case the approach) instead of the total flight time. This could yield a more accurate assessment of the actual risks.
+
+Air traffic control
+There are no indications that wake turbulence caused by the Boeing 757 scheduled to land before flight TK1951 had effect on the sequence of events of flight TK1951.
+The line-up of flight TK1951 took place at a distance of between 5 and 8 nm before the runway threshold without prior ‘offer’ to the crew, and without instruction to descend to an altitude lower than 2000 ft609.6 m. This is not in accordance with the Rules and Instructions air traffic control applied by Air Traffic Control the Netherlands, which are based on the International Civil Aviation Organization guidelines. This method of lining up the aircraft is used for over 50% of all approaches on this runway.
+A turn-in, whereby interception takes place at between 6.2 and 5 nm, with no instruction to descend to an altitude below 2000 feet is in deviation of the International Civil Aviation Organization guideline specifying that the aircraft must be flying level on its final approach course before the glide slope is intercepted.
+
+Operational
+Due to the fact that the localizer signal was intercepted at 5.5 nm10,186 m 10.186 km 33,418.635 ft from the runway threshold at a altitude of 2000 feet, the glide slope had to be intercepted from above. As a result, the crew were forced to carry out a number of additional procedures, resulting in a greater workload. This also caused the landing checklist to be completed during a later moment in the approach than standard operational procedures prescribe.
+The cockpit crew did not have information regarding the interrelationship between the (failure of the) left radio altimeter system and the operation of the autothrottle. Of all the available indications and warning signals, only a single indication referred to the incorrect autothrottle mode, namely the ‘RETARD’ annunciation on the primary flight displays. With the knowledge available to them at that time, the crew had no way of understanding the actual significance of these indications and warning signals and could not have been expected to determine the pending risk accurately.
+Within the Turkish Airlines pilot corps was no clarity on calling out flight mode annunciations, while it has been demonstrated that calling out these annunciations raises the pilots’ awareness of the automatic flight system status.
+As a result of intercepting the glide slope signal from above, the incorrect operation of the autothrottle was obscured for the crew.
+In accordance with Turkish Airlines’ standard operating procedures, the approach should have been aborted at 1000 feet followed by a go-around, as the approach had not yet been stabilised at this time. However, this procedure was not carried out.
+Despite the indications in the cockpit, the cockpit crew did not notice the too big decrease in airspeed until the approach to stall warning.
+With the cockpit crew - including the safety pilot - working to complete the landing checklist, no one was focusing on the primary task: monitoring the flight path and the airspeed of the aircraft. It can thus be concluded that the system based around the presence of a safety pilot on board flight TK1951 did not function effectively.
+The total time between the activation of the stick shaker and the moment the throttle was set to the maximum thrust position was nine seconds. Simulator tests have shown that the situation could have been recovered and the flight continued if the crew immediately after stick shaker activation had moved the thrust levers to maximum thrust as part of the approach to stall recovery procedure.
+The aircraft entered a stall situation with the autopilot engaged. The autopilot was disengaged at an altitude of between 400 and 450 feet above ground level.
+Test flight data by Boeing and subsequent analysis of this data have demonstrated that when the aircraft has stalled the altitude loss for recovering from the stall situation after selection of maximum thrust is approximately 500 to 800 feet. When the aircraft arrived in the stall situation the remaining altitude of 400 to 450 feet was not sufficient to recover the situation.
+The fact that the thrust levers were not immediately moved to their maximum thrust positions in accordance with the approach to stall recovery procedure indicates that the crew were not sufficiently trained to deal with a situation of this type.
+The information featured in the Quick Reference Handbook regarding the use of the autopilot, the autothrottle and the need for trimming in the approach to stall recovery procedure is unclear and insufficient.
+Crew resource management and crew communications during the approach were not in accordance with the standard operating procedure of Turkish Airlines regarding cockpit communication.
+
+Turkish Airlines safety programme
+In accordance with Joint Aviation Requirements - Operations 1, Turkish Airlines has a programme for the prevention of accidents and to enhance flight safety.
+As a part of its quality assurance programme, Turkish Airlines has drawn up an internal auditing schedule. None of the audits conducted up until the time of the accident yielded any findings as regards adherence to the standard operating procedures described in the Operations Manual or the application of crew resource management procedures.
+In 2008, the Flight Safety department received 550 aviation safety reports from cockpit crews.
+None of these reports concerned problems with radio altimeter systems, unintended warnings relating to the landing gear, ground proximity warnings or autothrottle ‘RETARD’ mode indications during approach.
+Each year, the Flight Safety department conducted approximately fifteen incident investigations. No investigation was ever conducted with regard to problems involving radio altimeter systems.
+
+Turkish Directorate General of Civil Aviation
+The requirements with regard to stall training set out in the Joint Aviation Requirements - Operations 1 (as applied by Turkish Airlines) and Joint Aviation Requirements - Flight Crew Licensing are too limited. This limited amount of training is insufficient, as automatic flight systems and procedures cannot always ensure that the crew does not encounter a stall situation. Recovery from a stall situation should also be included in recurrent training programmes.
+
+Transport and Water Management Inspectorate
+The Transport and Water Management Inspectorate tests whether procedures published in the Aeronautical Information Publication Netherlands are in line with national and international regulations.
+The audits conducted by the Transport and Water Management Inspectorate have not provided insight as to whether individual air traffic controllers act in accordance with the Rules and instructions air traffic control. The Transport and Water Management Inspectorate has not assessed whether the procedures set out in the Rules and instructions air traffic control are in line with the recommendations of the International Civil Aviation Organization.
+
+Survival aspects
+The exploratory study yielded a sufficiently large quantity of data to warrant further studies on the relevant survival aspects by the certification authorities and/or the manufacturer of the Boeing 737-800"
+
+Safety Recommendations
+The Board has formulated the following 11 recommendations addressing the areas of technology, operations, reports, safety management and air traffic control:
+
+Technology
+The investigation revealed that the response to an incorrect radio altimeter value can have far-reaching effects on related systems. The Board has thus formulated the following recommendations:
+
+To Boeing
+1. Boeing should improve the reliability of the radio altimeter system.
+
+To the USA Federal Aviation Administration (FAA) and the European Aviation Safety Agency (EASA)
+2. The FAA and EASA should ensure that the undesirable response of the autothrottle and flight management computer caused by incorrect radio altimeter values is evaluated and that the autothrottle and flight management computer is improved in accordance with the design specifications.
+The investigation revealed that the available indications and warnings in the cockpit were not sufficient to ensure that the cockpit crew recognised the too big a decrease in speed at an early stage. The Board has thus formulated the following recommendation:
+
+To Boeing, FAA and EASA
+3. Boeing, FAA and EASA should assess the use of an auditory low-speed warning signal as a means of warning the crew and - if such a warning signal proves effective - mandate its use.
+
+Operational
+The investigation revealed the importance of having an appropriate recovery procedure for stall situations and the importance of recurrent training. The Board has thus formulated the following recommendations:
+
+To Boeing
+4. Boeing should review its ‘Approach to stall’ procedures with regard to the use of autopilot and autothrottle and the need for trimming.
+
+To the Turkish Directorate General of Civil Aviation (DGCA), the International Civil Aviation Organization (ICAO), FAA and EASA
+5. DGCA, ICAO, FAA and EASA should change their regulations in such a way that airlines and flying training organisations see to it that their recurrent training programmes include practising recovery from stall situations on approach.
+
+Reports
+The investigation revealed that reporting on problems concerning radio altimeter systems was limited. This situation was not limited to Turkish Airlines. Failure to report such problems limits the effectiveness of existing safety programmes. This can result in an inaccurate assessment of risks by both airlines and aircraft manufacturers, limiting their ability to manage risks. The Board has thus formulated the following recommendations:
+
+To the FAA, EASA and the Turkish DGCA
+6. FAA, EASA and DGCA should make (renewed) efforts to make airlines aware of the importance of reporting and ensure that reporting procedures are adhered to.
+
+To Boeing
+7. Boeing should make (renewed) efforts to ensure that all airlines operating Boeing aircraft are aware of the importance of reporting.
+
+To Turkish Airlines
+8. Turkish Airlines should ensure that its pilots and maintenance technicians are aware of the
+importance of reporting.
+
+Safety Management
+The investigation revealed that Turkish Airlines has a programme for the purpose of preventing accidents and improvement of flight safety but that this programme showed some deficiencies in actual practice. The Board has thus formulated the following recommendation:
+
+To Turkish Airlines
+9. In light of the deficiencies uncovered in this investigation, Turkish Airlines should adjust its safety programme.
+
+Air Traffic Control
+The investigation revealed that the way in which the aircraft was lined up on approach obscured the fact that the autothrottle was not operating properly and increased the crew’s workload. The Board has thus formulated the following recommendations:
+
+To the ANSP, Air Traffic Control the Netherlands (LVNL)
+10. LVNL should harmonise its procedures for the lining up of aircraft on approach - as set out in the Rules and instructions air traffic control (VDV) - with ICAO procedures. LVNL should also ensure that air traffic controllers adhere to the VDV.
+
+To the Dutch Transport and Water Management Inspectorate (IVW)
+11. IVW should monitor LVNL’s compliance with national and international air traffic control
+procedures.
+
+Related Articles
+Human Factors
+
+
+ Human Factors
+
+ CRM
+
+ Crew Resource Management (OGHFA BN)
+
+ Assessment and Feedback of Non-Technical Skills (OGHFA BN)
+
+
+Loss of Control
+
+
+ Loss of Control
+
+ Go-around from Low Airspeed/Low Thrust
+
+ DGAC Publications on Non-Stabilised Approaches
+
+
+General
+
+
+ Autopilot
+
+ Radio Altimeter
+
+
+Further Reading
+For further information see:
+
+
+ Final Report on the accident published by Dutch Safety Board on 06 May 2010: "Crashed during approach, Boeing 737-800, near Amsterdam Schiphol Airport, 25 February 2009", 
+
+ Boeing Multi Operator Message (MOM), MOM-09-0063-01B, issued to all operators 4 March 2009.
+
+
+
+
+
+

@@ -1,0 +1,131 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 9 February 2014, a Royal Air Force-operated Voyager (ZZ333), the UK military designation of the Airbus Multi Role Tanker Transport derivative of the Airbus A330-200, was on a passenger flight from RAF Brize Norton, UK to Camp Bastion, Afghanistan and in the cruise in day VMC at FL 330 when it suddenly and very violently pitched down very rapidly losing over 4000 feet of altitude before recovery to controlled flight occurred. Almost all of the 198 occupants who were unrestrained at the time were thrown towards the ceiling with a considerable number of minor injuries and damage to cabin fittings resulting. After recovery to controlled flight, a MAYDAY was declared and a diversion to the Turkish airbase at Incirlik, near Adana was completed.
+
+Investigation
+An independent Technical Investigation of the event was carried out by the UK Military AAIB (MilAAIB) in support of the wider remit of the corresponding Service Inquiry. Data from the DFDR, QAR and CVR were downloaded and successfully read and were crucial in establishing the cause of the upset. It was noted that the CVR data had only been preserved because its CB had been tripped by an attending ground engineer when the aircraft arrived at Incirlik. Had this not happened, it was observed that the Investigation would have been very significantly hindered. No external or significant other damage was found to have been caused to the aircraft but the Captain's side-stick was determined by the aircraft manufacturer to have been subjected to abnormal forces and was required to be replaced. An Interim Report on the progress of the Investigation was completed on 17 March 2014 and published on 19 March 2014.
+It was demonstrated from the available evidence that the Captain, who was PF and had been alone in the flight deck for 18 minutes prior to the investigated incident, had placed his personal camera directly behind his side-stick, in the space between the side-stick and the left arm rest of his seat. Prior to this, he had been using it to take photographs. One minute and 44 seconds prior to the beginning of the upset, it was found that his seat had been moved forwards "creating a slight physical jam between the front of the arm rest and the rear base of the side-stick" which the Captain had been unaware of. Then, concurrently with the onset of the event, the Captain's seat was moved forward again, this time forcing the camera against the side stick and moving it quickly to a jammed fully-forward position. Again the Captain was unaware what had happened. The timeline and the initial and final positions of the camera, based on these findings are shown below. The effect of the pitch down command was the immediate transition to negative 'g' which caused unsecured objects, passengers and members of the crew throughout the aircraft to be propelled to the ceiling, many sustaining minor impact injuries.
+No immediate corrective action was possible since the Captain was still alone in the flight deck and found himself unable to move his side-stick rearwards to any significant extent. He continued to attempt to disconnect the AP without appreciating that automatic disconnection had already occurred and was being annunciated. The Inquiry concluded that these actions confirmed that he had not detected the obstruction to side-stick movement caused by the camera. It was considered unsurprising that the Captain, having been in an extremely low workload phase for some time, remained lacking in situational awareness and unable to transition readily to a heightened state of alertness.
+
+ Timeline immediately prior to the upset (reproduced from the Inquiry Report)
+ A reconstruction of the Captain's camera behind the side-stick (reproduced from the Inquiry Report)
+ Side-stick locked in fully forward position (substitute camera) (reproduced from the Inquiry Report)
+The Co-pilot reported that following the upset, his initial focus was on gaining access to the flight deck. He reported "pushing off from the galley ceiling, entering the flight deck and travelling across the ceiling to his seating position". Based on instructions from the Captain, he attempted to move his side-stick rearwards and disconnect the already disconnected AP. 
+FDR data showed that automatic pitch down protection had been activated approximately three seconds after the upset began and that it had led to a pitch limit of approximately 17° nose down being imposed and that once this attitude was reached, "the position of the elevators was automatically reduced to zero". High speed protection was activated approximately 13 seconds after the upset began, almost simultaneously with the annunciation of the overspeed warning which began to sound as the airspeed exceeded 330 KIAS / Mach 0.86. It led to an automatic pitch upwards at a sustained positive 'g' force of approximately 1.75. It was found that "although the thrust levers were moved to idle by a pilot input, the engine thrust had already been automatically reduced to idle prior to this by the 'Flight Envelope Protection System' in order to facilitate the recovery". It was noted that by the time recovery from the dive had begun, no sustained or meaningful pitch-up commands had been made by either the Captain or the Co-pilot and that therefore, "the initial recovery from the dive was the result of the aircraft's own protection measures and not the product of pilot inputs". The timeline of the period from the beginning of the upset to the arresting of the dive after a height loss of 4400 feet showing key data from the DFDR trace is shown on the diagram below.
+In respect of side stick movements by the two pilots when attempting recovery themselves, it was noted that there was no formal handover of control to the Co-pilot and he had not taken control by using the button which would have allowed his rearward movement on the side-stick to 'lock out' the opposite position of the Captain's side stick. The effect of this was that the two inputs were, as per the design of the system, summed which resulted in very little change in the pitch command being generated.
+It was reported by the Captain that when trying to recover control, he had considered switching off the ADIRUs so as to put the aircraft in 'Direct Law' which would have had the effect of disabling the Flight Envelope Protection System which is only available on this aircraft type when in [[Flight Control Laws#Normal Law|'Normal Law'. The Inquiry assessed that without Flight Envelope Protection, "significant (structural) damage to the aircraft" would have been likely and it was considered by the Convening Authority for the Service Inquiry that in such circumstances, the loss of the aircraft had been "not an unrealistic possibility".
+
+ Selected FDR data between onset and cessation of the dive (reproduced from the Official Report)
+The available evidence indicated that the Captain's side-stick "became free" quite suddenly some 33 seconds after the uncommanded pitch down had begun with the aircraft back under positive 'g' and in an approximately straight and level attitude and that this was the result of the now-dented camera becoming free from its jammed position. No information on this subject was reported as coming from the Captain (although small parts of the report are shown to have been redacted ahead of external publication). However, extensive analysis of the circumstances which might have prevailed concluded that it was "unlikely that the camera could have become free without a positive movement of the armrest, the seat or the camera itself (or some combination of the three)". A careful examination of CVR and FDR data and the use of a simulator to replicate some of these was then undertaken. This, together with the fact that "the camera was eventually retrieved from the back of the flight deck" was considered to "suggest strongly that the camera was removed from behind the side-stick by means of a physical manipulation and possibly ejected to an area aft of the Captain's seat". 
+The situation which had been created in the cabin following the upset was reviewed by the Inquiry. It was found that 24 of the passengers and all 7 cabin crew had sustained physical injuries, mainly bruising, cuts, neck or back injuries and head injuries, mostly whilst not wearing a seatbelt or wearing one fastened only loosely. These injuries were mainly the result of impact with the ceiling or with overhead fittings but "some cabin crew injuries were the result of being struck by flying loose articles in the galley or burned by hot liquids". One further passenger was recorded as suffering from a "minor mental injury" and various cabin fittings were found to have sustained impact damage. Overall, it was concluded that "the situation in the passenger cabin was managed effectively" and that "the actions of the Purser were particularly noteworthy in bringing the situation under control". It was, however, also noted that in addition to the minor physical injuries recorded, "a number of personnel were admitted to hospital in the days or weeks following the incident suffering from acute stress".      
+The selection and planning of the post incident diversion by the pilots was also reviewed. It was found that, contrary to Operations Manual requirements, there had been no continual en route monitoring and discussion of possible diversions and their weather, so that "there was no scope for a planned diversion location to be used as part of the decision making process" when one became necessary. ATC suggested Trabzon (60nm distant) and it was found that in addition to Trabzon, information was available on board for Samsun (142nm), Tbilisi (242nm), Ankara (331nm) and Istanbul (500nm). The crew requested Istanbul as diversion but on the subsequent recommendation of Turkish ATC accepted a diversion to Incirlik, which was 340 nm distant at the time. It was noted that as a result of the negative 'g' episode, the crew did not have ready access to approach plates for any of the diversions for which they were carried but that in the event, the benign weather conditions, the availability of ATC primary radar and the lack of challenging terrain around Incirlik had led to a simple solution which had not, on this occasion, compromised flight safety. It was noted that the Captain had "elected not to inform ATC" about the dumping of 20 tonnes of fuel during the diversion and had not recorded this action on his post flight report as required.
+
+ The track of the aircraft (reproduced from the Official Report)
+The formally stated Cause of the Incident was determined as "an inadvertent physical input to the Captain's side-stick by means of a physical obstruction (a camera) that jammed between the left armrest and the side-stick unit when the Captain's seat was motored forward".
+The following 15 Contributory Factors were "assessed to have made the incident more likely":
+
+
+ normalised behaviour regarding the carriage and treatment of loose articles
+
+ the carriage of the camera in the flight deck
+
+ the use of the camera in the flight deck
+
+ low workload
+
+ boredom and low arousal
+
+ the presence of only a single person on the flight deck for an extended period of time
+
+ the armrest setting
+
+ the design of the side-stick area
+
+ the placing of the camera behind the side-stick
+
+ a widespread lack of awareness regarding the risk of side stick interference
+
+ a lack of reporting regarding inadvertent operations of the side-stick
+
+ the RAF Brize Norton Occurrence Safety Investigation into loose articles
+
+ the lack of an identified Duty Holder risk regarding flight deck control interference
+
+ distraction and cognitive lack of expectation
+
+ the movement of the Captain's  seat
+
+
+The following 5 Aggravating Factors were assessed to have made the outcome worse:
+
+
+ the presence of only a single person on the flight deck
+
+ competing control inputs on the flight deck
+
+ the absence of flight deck inputs in accordance with the overspeed drill
+
+ the lack of seatbelt restraint amongst some of the passengers and crew
+
+ the presence of loose articles and hot liquids in the galley
+
+
+A total of 24 Safety Recommendations were made to 11 different RAF post holders "in order to enhance Defence Air Safety". Many were RAF-specific but those which were not included the following:
+
+
+ implement a comprehensive strategy to effect a positive change in the safety culture with respect to loose articles on the flight decks of (transport) aircraft. The strategy should promote awareness of the risks that loose articles pose to flight safety and improve behaviours and accountability
+
+ review the rules governing crew members at their station to minimise the risks associated with having a single pilot on the flight deck
+
+ examine methods of enhancing seatbelt use amongst air transport passengers, including (but not limited to) policy, the content and frequency of briefings and publicity
+
+ amend the policy on Cabin Crew restraint to reduce the risk of Cabin Crew injury during in-flight upsets. Specifically, Cabin Crew should wear a seatbelt during controlled rest periods
+
+ examine and, if possible, implement measures that could help prevent the placing of loose articles in close proximity to the side-stick of aircraft so equipped.
+
+ issue advice for Duty Holders on the preservation and handling of CVRs post-incident
+
+ examine ways of managing low in flight pilot workload to minimise boredom and underload
+
+ take steps to ensure that Voyager crews are fully conversant with the overspeed recovery drill, as stipulated in the Voyager Flight Crew Operations Manual
+
+ ensure that the critical importance of a clear handover of control in side-stick equipped aircraft is emphasised throughout type-specific training. 
+
+
+The Final Report of the Service Inquiry (with limited redactions) was made available on 23 March 2015.
+
+Related Articles
+
+Loss of Control
+
+Recovery from Unusual Aircraft Attitudes
+
+Situational Awareness
+
+Level of Arousal
+
+Pilot Workload
+
+Flight Control Laws
+
+The Human Factors "Dirty Dozen"
+
+C30J, Jalalabad Afghanistan, 2015
+
+
+
+
+
+

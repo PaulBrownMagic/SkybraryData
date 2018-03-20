@@ -1,0 +1,124 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 13 April 2010, a Rolls Royce Trent 700-powered Airbus A330-300 being operated by Hong Kong-based Operator Cathay Pacific on a scheduled passenger flight from Surabaya, Indonesia to Hong Kong experienced difficulties in controlling the thrust from both engines whilst en route and as the initial difficulties worsened, a PAN and then a MAYDAY was declared. A successful high speed landing was subsequently made in normal daylight visibility on runway 07L with asymmetric thrust settings which could not be altered resulting in minor damage to the aircraft and a landing gear fire which prompted an emergency evacuation in which 62 of the 322 occupants sustained minor injuries and one sustained serious injuries.
+
+Investigation
+An Investigation into the Accident was carried out by the Accident Investigation Division (AID) of the Hong Kong SAR Civil Aviation Department with assistance from the French BEA and the UK AAIB.
+Three Interim Bulletins were issued during the course of the Investigation, on 6 May 2010, 11 August 2010 and on 20 January 2011. Three Interim Statements on the progress of the Investigation were also issued in April 2011, May 2012 and April 2013.
+It was noted that the accident aircraft and crew had operated into Surabaya the previous day prior to a night stop there. Prior to departure, the aircraft commander had carried out the pre flight external inspection of the aircraft and noted that a fuel sample had been taken by the fuel dispenser operator and that it was “clear and bright” and that the water check was clean. During the subsequent refuelling, it was established that there had been several instances of fuel hose vibration which the dispenser operator assumed were attributable to air trapped inside the recently disturbed hydrant piping. On each occasion, refuelling was temporarily stopped before resumption free of vibration. The post refuelling visual and water check of the fuel was carried out in the presence of an engineer working for the aircraft operator and was normal. The fuel uplift was 22400 kg and the total fuel on board after this uplift was 33400 kg. 
+The First Officer was designated as PF for the flight. Departure and climb were uneventful except for indications of minor but nevertheless abnormal EPR fluctuations on both engines. Shortly after levelling at FL390, ECAM messages in respect of engine 2 control began to appear and advice was sought from Company engineering following which, in conjunction with reference to the FCOM, it was decided that the flight should continue with engine control in EPR mode. Almost immediately after an adjustment of the cruise level to FL380, further ECAM messages relating to engine control appeared but after a second consultation with Company engineering, it was considered that as only engine 2 was showing significant signs of abnormal control function and both engines were otherwise performing normally, continuation of the flight remained an appropriate response. The next two hours were uneventful but during descent to FL230 and about 110 nm southeast of destination, ECAM messages relating to engine 1 control and engine 2 stall were annunciated. The required responses - setting the engine 2 thrust lever to flight idle and the engine 1 thrust lever to MCT (Maximum Continuous Thrust) - were accomplished but the response from no 1 thrust lever movement was abnormal and the selected thrust was not obtained. A PAN was declared to ATC and the aircraft commander then took over as PF.
+Ten minutes later, as the aircraft was about to level at an altitude of 8000 feet still in IMC and about 45nm southeast of destination, an engine 1 stall was annunciated. The required flight crew response followed and a MAYDAY was declared to ATC. It was eventually found that forward movement of both engine thrust levers produced just over 70% N1 from engine 1 but only 17% N1 (sub idle) from engine 2. The aircraft commander disconnected the AP and FD and began to fly the aircraft manually. Once descent was recommenced, it was possible to maintain airspeed in the vicinity of the “green dot” speed for engine out clean configuration. The APU was started and VMC was attained with the aircraft on base leg.  
+A visual final approach was made with engine 1 thrust stuck at 70% despite the corresponding thrust lever being selected to idle. The attempt to manage the necessary descent whilst remaining on track was accompanied by EGPWS activations and by over speed warnings associated with flap deployment. Touchdown occurred at approximately 680 metres from the beginning of runway 07L at a speed of 231 knots and with an ELW of 174 tonnes. During a slight bounce of the right MLG, the lower cowling of engine 1 made contact with the runway surface and sustained slight damage. The aircraft came to a final stop with its NLG just over 300 metres from the end of the runway after a landing roll from the initial touchdown of approximately 2630 metres. Automatic ground spoiler deployment occurred and the effect was supplemented by manual braking and the successful deployment of just the engine 1 thrust reverser.
+Both engines were shut down and, after RFFS advice that the brakes were, as indicated on the flight deck, hot and that “smoke and small fire” was visible from the vicinity of the main landing gear, an emergency evacuation was ordered by the aircraft commander. This was completed in 2 minutes and 15 seconds using all 8 exits with all slides deployed normally. It was observed that cabin baggage was taken by some passengers contrary to cabin crew instructions.   
+No evidence of prior airworthiness issues was found and it was established that the Main Metering Valves (MMVs) of the Fuel Metering Units (FMUs) of both engines had seized at positions consistent with the corresponding final engine power. The Variable Stator Vane Controller (VSVC) of the No. 2 engine was also found seized. Contaminant particles were found in the FMU, the VSVC and the Variable Stator Vane Actuator (VSVA) of both engines. Similar contaminant was also present elsewhere in the fuel system and in the aircraft fuel tanks. It was found that it was the effect of the contaminant in the FMUs which had caused the MMVs to seize.
+It was found that the contaminant involved - “super absorbent polymer (SAP) spheres" - was not included in the list of potential fuel contaminants considered by the certification requirement applicable to the Trent 700 engine. This requirement was “JAR-E 670 Contaminated Fuel” which specified continued normal engine operation in the presence of contaminants specified in accordance with MIL-E-5007E. Whilst the precise mechanism by which SAP spheres had been generated during the refuelling operation could not be established, the sequence had been replicated and this was considered to demonstrate that the presence of salt water in the fuel, a low rate of fuel flow as had occurred at Surabaya was capable of generating this contaminant in the Filter Monitors which formed part of the refuelling equipment. 
+It was established that the salt water-contaminated fuel system from which the dispenser had drawn the fuel pumped into the aircraft had recently been returned to service following a project to extend it without adequate inspection. The requirements of the Indonesian CAA in respect of inspection, both routinely and as part of re-commissioning after alterations were found to be ineffective because of a failure to specify the expectation of the applicable regulation in sufficient detail. 
+The use of the unserviceable fuel supply system by a fuel company operative who had failed to respond appropriately to evidence of abnormality during the fuel upload process was attributed at least in part to inadequate training by their employer. 
+The Investigation also found that the fuel supply installation at Surabaya had not been subject to routine and independent external audit and that this was a consequence of the fact that there are no universally applicable ICAO SARPs which require such periodic inspection of aircraft fuel supply at the airport of supply. The reliance on an incomplete coverage of such inspections through schemes run by fuel supplier trade associations and/or for airports used by carriers who are members of the IATA Fuel Quality Pool (IFQP) by the Technical Fuel Group (TFG) of that body. However, in response to a safety recommendation issued at an early stage of the Investigation, it was noted ICAO had since issued guidance material in the form of Doc 9977 “Manual on Civil Aviation Fuel Supply” in June 2012. 
+The Investigation noted that the presence of SAP spheres in an aviation fuel system “was unheard of before this accident.”  It was established during the Investigation that similar SAP spheres could only be generated under specific operating condition and that in the investigated case, there had been a succession of failures resulting from a combination of lapses in the fuel supply system at Surabaya in respect of the re-commissioning process, the monitoring of relevant fuel quality indications, the low flow refuelling operation and the lack of alertness of personnel. It was considered that the risk of SAP spheres entering an aircraft fuel system could be controlled by compliance with procedures in the fuel delivery process. In the light of this finding, and whilst it was recognised that the consequences of aircraft fuel contamination could evidently be very significant, it was concluded that because “the likelihood of the presence of SAP spheres as contaminant is very remote….. the existing certification test…using the MIL-E-5007E specification” is appropriate. 
+In respect of the handling of the emergency by ATC, the Investigation concluded that from the time the accident aircraft first established radio contact prior to entering the FIR until the aircraft switched frequency to communicate with the Rescue Leader after landing, “clear and effective communication was maintained between the flight crew and the ATC” and that “ATC also provided efficient air navigation services…to the accident aircraft” at all times. 
+The formal statement of the Causes which led to the accident was as follows:
+
+
+ The accident was caused by fuel contamination. The contaminated fuel uplifted at Surabaya which contained SAP spheres subsequently caused the loss of thrust control on both engines of the aircraft during approach to Hong Kong.
+
+
+
+ The following chain of events and circumstances led to the uplift of contaminated fuel: 
+
+ The re-commissioning of the hydrant refuelling system after the hydrant extension work at Surabaya had not completely removed all contaminants in the affected hydrant refuelling circuit. Salt water remained in the affected hydrant refuelling circuit.                                                                                                              ** The re-commissioning of the hydrant refuelling system after the hydrant extension work at Surabaya was not properly coordinated which led to the premature resumption of the hydrant refuelling operations while the hydrant system still contained contaminant.  
+
+ The refuelling operation at Surabaya, in particular low flow-rate refuelling, differential pressure recording and monitoring, did not fully comply with the latest guidance provided by the international fuel industry.
+
+ A number of unscheduled replacements of filter monitors after the premature resumption of hydrant refuelling operation were not investigated by the fuel supplier and hydrant operator at Surabaya.
+
+ The unusual vibration observed during the refuelling was not stopped immediately and properly investigated by the fuel supplier personnel. 
+
+
+
+ The Investigation also identified the following deficiencies and contributing factors that may cause possible fuel contamination:   
+
+There were no established international civil aviation requirements for oversight and quality control on aviation fuel supply at airports.     
+
+There were no established international civil aviation requirements for refuel operational procedures and associated training for aviation fuel supply personnel.
+
+The manual monitoring of differential pressure changes in a fuelling dispenser during refuelling was not effective. 
+
+
+
+
+Four Safety Recommendations were made as a result of the Investigation. Two were issued on 11 August 2010 as follows:
+
+
+ that (the Project Owner for the hydrant fuel extension project at Surabaya) should, using personnel suitably experienced in aviation fuel hydrant operation and re-commissioning, conduct an extensive review of the re-commissioning procedures for the hydrant refuel system (at Surabaya) in accordance with the best practice in aviation fuel industry. [2010-1]
+
+
+
+ that (the Project Owner for the hydrant fuel extension project at Surabaya) should ensure that (appropriate) re-commissioning procedures are completed before hydrant refuelling operation at Stands No. 1 to 10 at Surabaya is resumed. [2010-2]
+
+
+A third was issued on 20 January 2011 as follows:
+
+
+ That the International Civil Aviation Organisation should establish requirements for the oversight and quality control of aviation fuel supply at airports. Such requirements should also cover the operational procedures for refuelling and the necessary training of personnel. [2011-1]
+
+
+A fourth was issued upon completion of the Investigation as follows:
+
+
+ that the International Civil Aviation Organisation should specify the requirements for installation of a device in equipment used for refuelling civil aircraft which can automatically alert the equipment operator and stop the refuelling process when the differential pressure across the equipment filtration system is outside the equipment design value or range. [2013-2]
+
+
+Safety Action taken in response to issues raised during the course of the Investigation was noted to have been taken by the Indonesian DGCA, the Surabaya Fuel Supplier, the Hong Kong Civil Aviation Department, ICAO, Airbus, the Aircraft Operator and the manufacturer of the fuel filters in the ground equipment used for the accident aircraft fuel uplift.   
+The Final Report of the Investigation was presented to the Chief Executive of the Hong Kong SAR on 3 July 2013 and subsequently made publicly available.
+
+Further Reading
+
+Fuel Contamination
+
+Refuelling and Defuelling Risks
+
+Fuel - Regulations
+
+Aircraft Fuel Systems
+
+Emergency Communications
+
+Guidelines for Dealing with Unusual/Emergency Situations in ATC
+
+Engine Failure: Guidance for Controllers
+
+Brakes
+
+Hydraulic Fluid as a Fire Source
+
+Post Crash Fires
+
+Emergency Evacuation on Land
+
+Rescue and Fire Fighting Services
+
+Aviation Fuels Technical Review, Chevron, 2004
+
+Alternative Jet Fuels, A supplement to Chevron’s Aviation Fuels Technical Review, 2004
+
+
+
+
+
+

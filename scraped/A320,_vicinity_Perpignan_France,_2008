@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+3 Safety Recommendations
+4 Related Articles
+5 Further Reading
+
+
+Description
+On 27 November 2008, an Airbus A320-200 was being operated by XL Airways Germany on a non revenue flight from Perpignan to Frankfurt during which it was planned to carry out airworthiness system testing in the vicinity of the departure aerodrome before routing to Germany. When it was at 3000 ft914.4 m in day VMC before setting out en route, the flight crew attempted a low level check of the angle of attack protection in normal control law during which they lost control of the aircraft which crashed into the sea and was destroyed, killing all 7 occupants.
+
+Investigation
+An Investigation into the Accident was carried out by the French BEA. It was established that the flight was being conducted as part the procedures for validation of the airworthiness of the aircraft prior to hand back to the owner, Air New Zealand, the following day at the end of a period of dry lease. The aircraft had been ferried to Perpignan three weeks earlier for maintenance and painting work and the responsible MRO, EAS Industries, had issued a Certificate of Release to service shortly before the accident flight had commenced. 
+It was established that the aircraft commander had been PF for the flight and the passengers on board had been a pilot (occupying the flight deck supernumerary crew seat) and three engineers from Air New Zealand, together with a representative of the New Zealand CAA. As a result of some ATC concerns about the form of prior notification of the intention to conduct flight trials at various altitudes and configurations prior to the return to Frankfurt as GAT, which became apparent soon after the flight had taken off, it was found that  the flight crew, in association with the observing Air New Zealand pilot, had “adapted the programme of checks in an improvised manner”.
+The flight proceeded uneventfully until level at FL320. FDR data then showed that Angle of Attack (AOA) sensors 1 and 2 had stopped moving and had remained inoperative until the end of the flight at almost identical fixed angles of attack consistent with the actual cruise angle of attack. However, this was not appreciated by the crew.
+In view of this finding, the records of the maintenance carried out on the accident aircraft at Perpignan prior to the flight were examined and it was found to have been performed and / or checked in accordance with an approved maintenance programme and carried out by Part 66 qualified personnel. However, the work carried out had involved a repaint, and it was noted that painting and external finish activity is not included in the classes and categories for Part 145 MRO approvals.
+It was noted that AOA sensors are not designed to be subjected to jets of fluids such as those encountered during de-icing, washing and cleaning operations and that, although the applicable stripping and cleaning procedures associated with repainting of the aircraft three days prior to the accident flight had included protection of these sensors, this action had not been taken. As a result, water had penetrated inside two of the three AOA sensors and remained there, rendering angle of attack protection inoperative in normal law.
+After about an hour of flight, the aircraft returned to the Perpignan area and the aircraft was cleared to carry out an ILS procedure to runway 33, followed by a go around and a departure towards the flight planned destination. At an altitude 3000 ft914.4 m and having descended below cloud whilst positioning, as cleared, to join the ILS LLZ, the flight crew decided to do the low speed handling check in landing configuration and thrust was set to fight idle accordingly. This altitude was noted to have been substantially lower than that routinely used by trained manufacturer test pilots during their customer acceptance flights of new aircraft.
+An MDCU message to check gross weight, which had been displayed because of a discrepancy between the weights calculated using AOA data and those using takeoff weight and fuel consumption was not noticed by the crew. The limit speeds corresponding to angle of attack protections displayed on the EADI speed tape were found to have been incorrect because of the sensor failure. As the crew waited for the triggering of the expected stall protection while allowing the speed to fall to that of a stall, the auto-trim system was found to have gradually moved the horizontal stabiliser to a full nose-up position where it remained until the end of the flight. It was found that the triggering of an initial stall warning in normal law, at an angle of attack close to that expected, indicated that the third AOA sensor was working at that time.
+When an initial stall warning triggered, it was found that the response had been as prescribed. As the flight control system had passed to direct law due to the loss of normal law operating conditions, the auto-trim system was no longer available and so the auto-trim system could not move the stabiliser from the nose-up position. There was no reaction from either of the flight crew or the observing pilot to the appearance of the ‘USE MAN PITCH TRIM’ message and there was no input on the manual trim wheel at any time or any consistent reduction in engine thrust so that ultimately a combination of the stabiliser set at full pitch-up and the pitch-up moment generated by the high thrust from the engines led to a terminal loss of control.
+The Investigation noted that end-of-lease airworthiness check flights, although not exceptional, were not included in the list of non-revenue flights detailed in the EU-OPS 1.1045 and that there was no extant overall framework for non-revenue flights either within the EU or outside it which could be used to set constraints on these flights or establish the skills required of the pilots involved in them. It was noted that Operators therefore have to define for themselves the programme and operational conditions for these flights in their Operations Manual  and may not have fully evaluated the specific risks that these flights may present. In the case of the accident flight, Air New Zealand and XL Airways Germany were found to have agreed a programme of in-flight checks based on an Airbus programme used for customer acceptance flights which are performed by specially trained Airbus acceptance pilots and engineers. Three Safety Recommendations relating to these facts were issued in the Interim Factual Report, the content of which is subsumed by the Final Report 
+It was concluded that the accident was caused by:
+“The loss of control of the aeroplane by the crew following the improvised demonstration of the functioning of the angle of attack protections, while the blockage of the angle of attack sensors made it impossible for these protections to trigger. The crew was not aware of the blockage of the angle of attack sensors. They did not take into account the speeds mentioned in the programme of checks available to them and consequently did not stop the demonstration before the stall.”
+It was additionally concluded that the following factors contributed to the accident:
+
+
+ The decision to carry out the demonstration at a low height.
+
+ The crew’s management, during the thrust increase, of the strong increase in the longitudinal pitch, the crew not having identified the pitch-up stop position of the horizontal stabiliser nor acted on the trim wheel to correct it, nor reduced engine thrust.
+
+ The crew having to manage the conduct of the flight, follow the programme of in-flight checks, adapted during the flight, and the preparation of the following stage, which greatly increased the work load and led the crew to improvise according to the constraints encountered.
+
+ The decision to use a flight programme developed for crews trained for test flights, which led the crew to undertake checks without knowing their aim.
+
+ The absence of a regulatory framework in relation to non-revenue flights in the areas of air traffic management, of operations and of operational aspects.
+
+ The absence of consistency in the rinsing task in the aeroplane cleaning procedure, and in particular the absence of protection of the AOA sensors, during rinsing with water of the aeroplane three days before the flight. This led to the blockage of the AOA sensors through freezing of the water that was able to penetrate inside the sensor bodies.
+
+
+And additionally that the following factors also probably contributed to the accident:
+
+
+ Inadequate coordination between an atypical team composed of three airline pilots in the cockpit;
+
+ The fatigue that may have reduced the crew’s awareness of the various items of information relating to the state of the systems.
+
+
+Safety Recommendations
+In respect of the fact that the accident occurred to a non revenue flight and based upon the initial factual information gathered during the investigation, the following three Safety Recommendations were issued on 23 February 2009 that EASA should:
+
+
+ Detail in the EU-OPS the various types of non-revenue flights that an operator from a EU state is authorised to perform.
+
+ Require that non-revenue flights be described precisely in the approved parts of the Operations Manual, this description specifically determining their preparation, programme and operational framework as well as the qualifications and training of crews.
+
+ As a temporary measure, require that such flights be subject to an authorisation, or a declaration by the operator, on a case-by-case basis.
+
+
+The BEA also noted the Safety Recommendations made by the UK AAIB following its investigation into a Serious Incident involving temporary loss of control during a similar airworthiness check flight which occurred on 12 January 2009 (see B737, en-route, west of Norwich UK 2009 (LOC HF AW) ) and expressed support for them. These Recommendations included four to EASA in respect of their guidance for and regulatory oversight of both the airworthiness and aircraft operator processes associated with airworthiness check flights.  
+At the conclusion of the Investigation, the following three further Safety Recommendations were made to EASA that:
+
+
+ In liaison with the other regulatory authorities, ensures that, in order to certify the adequacy of an item of equipment in relation to the regulatory requirements as well as to the specifications defined by a manufacturer, the equipment installation conditions during tests performed by equipment manufacturers are representative of those on the aeroplane.
+
+ Undertake(s) a safety study with a view to improving the certification standards of warning systems for crews during reconfigurations of flight control systems or the training of crews in identifying these reconfigurations and determining the immediate operational consequences.
+
+ In cooperation with manufacturers improve training exercises and techniques relating to approach-to-stall to ensure control of the aeroplane in the pitch axis.   
+
+
+The Final Report of the Investigation was released in September 2010.
+
+Related Articles
+Loss of Control
+
+
+ Loss of Control
+
+ Flight Envelope
+
+ Recovery from Unusual Aircraft Attitudes
+
+ Non Revenue Flights
+
+ Mitigating Risk for Non Standard Flights
+
+
+Further Reading
+
+ UK CAA Check Flight Handbook, Issue 2.2, 22 April 2009
+
+ Aircraft Protection, during Washing and Painting - an article from Airbus magazine Safety First, Issue 17, January 2014
+
+ Maintenance Briefing Notes: Invisible Protection by Airbus
+
+
+
+
+
+

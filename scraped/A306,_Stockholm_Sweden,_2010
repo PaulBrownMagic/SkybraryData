@@ -1,0 +1,101 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 16 January 2010, an Airbus A300-600 being operated by Iran Air on a passenger flight from Stockholm to Teheran departed the left side of take off runway 19R at a low speed during a daylight take off in normal visibility after signs that the left engine, a GE CF6-80C2, had malfunctioned. There was some minor damage to both the aircraft and ground installations but no significant obstacle impact occurred during the excursion. An emergency evacuation of the 172 occupants was not deemed necessary and external stairs were subsequently brought to the aircraft to allow their disembarkation to board ground transport.
+
+Investigation
+An Investigation was carried out by the SHK, the Swedish Accident Investigation Authority. Data from the FDR was downloaded and used to support the Investigation. The 30 minute CVR, for which the crew had tripped the circuit breaker about 8 minutes after the engine failure, was also successfully downloaded and although found to be of intermittent quality, the recording was time-synchronised with that from the FDR.
+It was found that aircraft had rolled approximately 250 metres along the runway and reached a speed of approximately 54 knots when the engine failure occurred with a subsequent maximum speed of 59 knots. A private video recording submitted to the Investigation showed that the engine failure had been followed by a puff of smoke and the appearance of three flames of varying size within less than a second. 
+It was noted that the operating crew were both experienced on the aircraft type and established that their departure from Stockholm was the second and final sector in a 14hour 45 minute duty day for which an augmented crew of two were on board and present in the flight deck for take off. It was noted that this length of duty was well within international regulations in respect of crew duty time for the applicable maximum was 24 hours and that the maximum FDP was similarly well within the corresponding maximum FDP limits. 
+It was established that the First Officer had been designated as PF. The take-off had proceeded normally until TOGA thrust was reached and confirmed, immediately after which a muffled bang had been heard. Almost immediately the aircraft had begun to veer left and, in the absence of any call or intervention from the Captain, the First Officer had commenced a rejected take off by retarding both thrust levers before the Captain then took over the controls. Directional control was not re-established and the aircraft left the runway approximately 150 metres further on and seven seconds after the failure had occurred. The nose wheel dug into soft ground and the aircraft came to a stop after a further 200 metres in a position approximately 40 metres from the edge of the runway. A short video comparing relevant FDR parameters to the aircraft ground track and a video of the excursion made available to the Investigators was prepared and may be seen below:
+
+/*<![CDATA[*/var so = new SWFObject("/extensions/wikiFlvPlayer/player.swf","player","280","220","9");so.addParam("allowfullscreen","true");so.addParam("allowscriptaccess","always");so.addParam("wmode","opaque");so.addVariable("file","/solutions/video/iranairanimation.flv");so.addVariable("image","/solutions/video/iranairanimation.jpg");so.addVariable("backcolor","0x000000");so.addVariable("frontcolor","0xCCCCCC");so.addVariable("lightcolor","0xFF9900");so.addVariable("screencolor","0x333333");so.addVariable("height","220");so.addVariable("width","280");so.addVariable("autostart","false");so.addVariable("bufferlength","3");so.addVariable("logo","http://www.skybrary.aero/extensions/wikiFlvPlayer/logo.png");so.addVariable("quality", "true");so.addVariable("repeat","true");so.addVariable("volume","50");so.write("flvpid-z3g0q8kcxjq374ikrwgqfazg0");/*]]>*/
+Although the accident take off occurred in mid morning, it was noted that it was the first of the day on that runway. The runway surface was reported at the time to have been damp but cleared of snow and water. The runway temperature is estimated to have been below the freezing temperature of water but anti icing fluid had been applied and measurements of runway friction both before and after the event indicated that normal braking action was likely to have prevailed. However, analysis during the Investigation showed that runway surface friction “may have been lower than that stated and that patches of ice and slush may have been present on a larger section of the runway than stated” given that measurement of friction at Stockholm is only carried out along the runway centreline and approximately 7.5 metres either side of it. In this respect, it was noted that ICAO Annex 14 requires that measurements of runway surface friction should be carried out 3-5 metres either side of the runway centreline and that although the Swedish AIP prescribes that the measuring shall be performed at a distance of 5-10 metres either side of the centreline, the difference from Annex 14 does not appear to be documented or notified.
+It was found that no ECAM or audio alert had been annunciated in respect of the failure until after crew action to shut down the malfunctioning engine had occurred and that neither pilot had, at that stage, any idea what had happened, believing that the aircraft may have collided with something or that an explosive tyre failure might have occurred.
+
+ The excursion track to the final stopping position (reproduced from the Official Report)
+It was considered that despite the prompt reaction of the First Officer, who had retarded the thrust levers after just over a second whilst also applying appropriate nosewheel steering inputs and opposite rudder, “the veer left could not be corrected and the aircraft ran off the runway, mainly caused by the forces from the moment in combination with the slippery surface”. It was concluded that “the chances of stopping the continued veer were probably reduced by the fact that the pilots did not apply any differential braking in the opposite direction”. Right engine reverse thrust was not used during the deceleration, but no reason for this was advised to the Investigation. 
+It was found that the Operator’s procedures stated that in the circumstances which prevailed during the investigated event, the Captain should have called “STOP” and immediately taken over control as well as retarding the thrust levers to Ground Idle, disconnecting the A/T, selecting reverse thrust and beginning manual braking with the First Officer monitoring the braking and thrust reverser deployment and acknowledging any audio warnings. 
+The aircraft commander reported that he had received no training for engine loss at low speeds although he knew that there were specifically applicable procedures in the Airbus manuals.
+The Investigation noted that the general requirements for aircraft controllability of the aircraft during the take-off phase in the case of an engine failure are covered in CS25.143 with “control” defined as meaning that the aircraft may not deviate by more than 30 feet (9.1 metres) from the runway centre line upon a loss of power from the most critical engine. These requirements assume that the aircraft can be stopped/controlled with the combined use of brakes, steering and rudder and (over 80 knots only) reverse thrust although it was noted that there are no specific certification requirements in respect of any aspect of control following a sudden loss of engine power when the speed is below Vmsg is the lowest speed at which an aircraft can be controlled with rudder alone in the event of sudden loss of engine power on the most critical engine, a natural consequence is that the crew must resort to other methods in order to maintain control – with reasonable, established deviations – within the speed range from application of take off thrust up to Vmgc as in this case where Vmgc was around 113 knots. 
+
+ Disembarkation from the aircraft in final stopping position (reproduced from the Official Report)
+The Investigation encountered some difficulty in establishing the cause of the engine malfunction. It was noted that the engine trend monitoring process using the engine manufacturer’s proprietary software had not indicated that any of the analysed Engine 1 parameters might be outside of the permissible interval.
+Initially, the failed engine was sent for examination to Lufthansa Technik (LHT) in Hamburg. Based on a completed damage analysis, LHT expressed the view that the probable cause of the engine failure was that the diffuser aft air seal had come loose because of micro cracks in the nine attachment lugs that hold the seal against the diffuser. However, neither GE nor the Investigation were in agreement with the LHT assessment and it was decided to have a further assessment of the evidence made by the metallurgical laboratories of the Volvo Aero Corporation. This analysis indicated that the engine failure had “probably been caused by fatigue damage in a different part of the diffuser aft air seal” with the engine failure following the separation of the aft air seal from the diffuser assembly. This conclusion was based on fragments of the failed air seal increasing the amount of debris until the seal material “fractured a six bolt section of the Stage 1 HP Turbine blade retainer, liberating pieces of bolt threads, nuts and retainer material”. This debris would have quickly entered the engine gas path leading to downstream damage and causing the engine stall clearly visible in the films taken by onlookers. The passage of liberated debris along the gas path would then have led to LP Turbine blades being broken and / or separated and as the amount of this damage increased, “NI (fan speed) had begun to decrease since the LP Turbine didn’t have enough blades to drive the fan”.
+It was considered that the fatigue which had been at the root of this failure sequence had started in a repaired seam at the diffuser aft air seal teeth and noted that all documented cases of CF6-80C2 diffuser aft air seal failures have occurred in seals that had been previously repaired, as this one had.
+The Investigation identified the following Causal Factors:
+Operational
+
+
+ Deficiencies in the certification process for large aircraft with wing-mounted engines with regard to requirements for yaw stability in the event of sudden loss of engine power in the speed range below Vmsg.
+
+ Deficiencies in the pilot training with regard to training for sudden losses of engine thrust in the speed range below Vmsg.
+
+
+Technical
+
+
+ Deficiencies in the approval and follow-up of the Dabbler TIG Weld repair on the engine’s diffuser aft air seal.
+
+
+Six Safety Recommendations were made as a result of the Investigation:
+
+
+ that ICAO should take measures in order for authorities that issue certification directives - the FAA and EASA - to adopt the safety requirements issued by ICAO in Annex 8 concerning safety in large aircraft, so that these are applied during the entire take-off sequence of a flight. [RL 2012: 21 R1]
+
+
+
+ that the FAA should investigate, in consultation with EASA, the prerequisites for introducing requirements concerning yaw stability in large aircraft in the event of sudden loss of engine thrust below Vmcg under the anticipated operating conditions. [RL 2012: 21 R2]
+
+
+
+ that the FAA should review and revise processes and permissions issued for the Dabber TIG Weld repair method regarding concerned parts in engines that have FAA type certification. [RL 2012: 21 R3]
+
+
+
+ that the FAA  should improve processes to expedite safety of flight considerations in granting export licenses and waivers so that political sanctions do not unnecessarily delay civil aviation safety investigations concerning aircraft - or parts thereof - which are manufactured in the USA. [RL 2012: 21 R4]
+
+
+
+ that EASA should investigate, in consultation with the FAA, the prerequisites for introducing requirements concerning yaw stability in large aircraft in the event of sudden loss of engine thrust below Vmcg under the anticipated operating conditions. [RL 2012: 21 R5]
+
+
+
+ that EASA should ensure that initial and recurrent pilot training includes mandatory rejected takeoff exercises that cover events of a sudden loss of engine thrust below Vmcg. [RL 2012: 21 R6]
+
+
+The Final Report was published on 28 December 2012
+
+
+Further Reading
+
+Runway Excursion
+
+Crew Resource Management
+
+Deceleration on the Runway
+
+Rejected Take Off
+
+Absence of Procedure
+
+Cross-checking Process
+
+Aircraft Certification and Production Standards
+
+
+
+
+
+

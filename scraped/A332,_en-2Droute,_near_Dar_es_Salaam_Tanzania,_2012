@@ -1,0 +1,100 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 27 February 2012, the crew of an Airbus A330-200 (F-GZCG) being operated by Air France on a scheduled passenger flight from Antananarivo, Madagascar to Paris CDG in dark night conditions entered IMC and encountered unanticipated severe turbulence. They briefly lost control of their aircraft as it rapidly climbed 2000 feet at a high rate before full recovery was achieved as the worst of the turbulence passed. One member of the cabin crew and one passenger sustained minor injuries during the excursion. The aircraft was undamaged. 
+
+Investigation
+An Investigation was carried out by the French BEA using recorded data from the FDR and QAR and weather satellite imagery. The CVR record of the event was overwritten. The aircraft commander was PF for the flight.
+The Captain reported to the Investigation that "he was surprised by the strong turbulence, which made all flight instruments unreadable, as well as by the intensity of the noise in the cockpit, which resulted in a failure to communicate between the crew". He also reported a startle effect followed by a "state of shock" and "sensory illusions which, according to him, made the (First Officer) think that the aeroplane was descending while he thought it was climbing".  The First Officer "said he was surprised not to have noticed a level bust of more than 2000 feet because he thought the Captain had managed to maintain the pitch attitude".
+It was established that soon after take off from Antananarivo, the crew had received an ACARS message describing current satellite images and realised that avoiding the worst of the convective activity depicted on the significant weather chart provided prior to flight would require attentive navigation. As they approached the coastline after the over water crossing from Madagascar in VMC, lightning was seen but, with the weather radar settings in use, there were no weather returns ahead and the seat belt signs were off. Soon afterwards, the speed began to increase and then a lightning flash ahead was seen and the sudden turbulence episode began. 
+Uncommanded AP disconnection occurred due to the high angle of attack and flight envelope protection (Alpha Prot) was activated three times for a total of eight  seconds as the aircraft rapidly climbed 2000 feet. The episode lasted approximately 40 seconds during which time:
+
+
+ pitch attitude varied between -6° and +11°; 
+
+ Mach varied between 0.77 and 0.83; 
+
+ angle of attack was between -0.7 ° and +10.2 °; 
+
+ roll angle was between -16° and +31°; 
+
+ vertical speed reached a maximum value of about +8,500 ft/min; 
+
+ vertical load factor was between +0.02 g and +2.28 g; 
+
+ lateral load factor was between -0.16 g and +0.17 g; 
+
+ the FD cross bars disappeared and reappeared several times; 
+
+ the PF mainly applied nose-down inputs, especially for 10 consecutive seconds after the AP disconnected.
+
+
+Analysis of the prevailing meteorological situation led to the conclusion that the turbulence had been a consequence of penetrating an isolated thunderstorm cell which had developed particularly rapidly and that "strong updraughts and severe turbulence" were to be expected because of the dynamics rather than the size of the cell. Satellite images recorded soon after the event are shown below.
+
+ Meteosat 9 image infrared image with the aircraft track superimposed (reproduced from the Official Report)
+The Investigation noted that the manually controlled weather radar installed in the aircraft was serviceable and that the crew were using it. However, it was concluded that the crew's manipulation of the tilt control and selection of range had not been optimum. It was concluded that by selecting a 160nm range - reduced to 80nm just before the encounter with tilt set to 1.5° - the isolated cell would not have shown returns on the radar. In respect of the range selected, it was considered that if it had been reduced from 160nm to 80nm with a corresponding adjustment to the tilt when 80 nm (and ten minutes) from the turbulence, detection of the developing cell may have been possible. Five minutes before the turbulence, when the aircraft was approximately 40nm from the centre of the cell, it was concluded that reduction in the selected range from 80nm to 40nm "would have been necessary to have a reasonable chance of detecting the cell".
+It was concluded that the incident had shown that "the type of (weather) radar used is also an important criterion for the detection of convective cells, especially when their development is rapid" and that, had a more technologically advanced model been installed  in the aircraft, "it would probably have helped the crew to detect this type of cell, though without eliminating the need for active monitoring of the meteorological situation".
+The Investigation noted that as a result of a previous investigation into a serious incident to an Air France Airbus A340 in 2011, Safety Recommendations in support of improving crew use of weather radar had been made.
+It also noted the potential value for avoidance of severe turbulence due to convective weather which the now-feasible graphical display on the flight deck of recent lightning strikes in the vicinity of an aircraft can provide. 
+The formal Conclusion of the Investigation was that:
+“The incident was due to the non-detection of a convective zone during the rapid development of a cumulonimbus cloud in a tropical zone. This zone was all the more difficult to detect because of the extremely rapid development of the cell. 
+The lack of any onboard means or tools available to the CCO [Operations Control Centre], which would allow more reliable and effective detection of cells that are forming, contributed to the incident. Inappropriate adjustment of the range on the ND meant that the crew did not have optimal detection conditions. Taking into account the extremely rapid development of the storm cell, it is not certain whether such detection may have been possible without active monitoring of the onboard weather radar when approaching the turbulent area. 
+The crew’s appropriate inputs on the flight controls helped maintain control of the aeroplane in flight conditions that had suddenly become very difficult.” 
+It was also concluded that “crossing a convective zone with very severe turbulence leads to changes to many parameters (pitch attitude, angle of attack, attitude, speed, vertical speed, load factors, altitude) which, combined with inappropriate actions by a startled crew, can take the aeroplane out of its flight envelope” and that the event had shown that “installation of a technologically more advanced type of radar would probably have helped the crew detect the convective cell without, however, neglecting the need for  (their )active monitoring of the meteorological situation”. 
+Two Safety Recommendations were issued as a result of the Investigation as follows:
+
+
+ that the DGAC and EASA request that operators study the possibility of deploying existing equipment to their entire fleets [FRAN 2013 055]
+
+
+
+ that EASA and the FAA ensure that aeronautical manufacturers continue their efforts to develop more effective means of detecting convective cells [FRAN-2013-056]
+
+
+The Final Report was published in English translation on 24 July 2014 having been initially released in French on 10 September 2013.
+
+Further Reading
+
+Loss of Control
+
+Weather Radar: Storm Avoidance
+
+Weather Radar
+
+Cumulonimbus
+
+Inter Tropical Convergence Zone (ITCZ)
+
+Turbulence
+
+SE040: Envelope Protection – New Designs
+
+Automation Dependency
+
+Recovery from Unusual Aircraft Attitudes
+
+Airbus Adverse Weather Briefing Note - Optimum Use of Weather Radar
+
+UK AIC: P 056/2010, "The Effect of Thunderstorms and Associated Turbulence on Aircraft Operations", 12 Aug 2010.
+
+
+
+
+
+

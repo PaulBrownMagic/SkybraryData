@@ -1,0 +1,109 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 2 April 2011, a Gulfstream G650 being operated by the manufacturer on a pre type-certification test flight failed to become properly airborne when attempting a take off from Roswell for a local flight in normal daylight visibility with one engine intentionally inoperative. The right wing had been observed to touch the runway before the aeroplane impacted ground obstacles and caught fire with the resultant deaths of all four Gulfstream employee occupants and destruction of the airframe.  
+
+Investigation
+An Investigation was carried out by the NTSB. It was found that the aeroplane had stalled whilst lifting off the runway and still in ‘ground effect’ and that the SPS had not operated prior to the stall. It was noted that ground effect results in increased lift and reduced drag at any given angle of attack (AOA) as well as reducing the AOA at which an aerodynamic stall will occur. It was found that this had been considered during the preparations for G650 field performance test flights but the effect on the stall AOA in ground effect had been over-estimated so that SPS activation and the corresponding PFD pitch limit indicator had been set too high. In the investigated event, the flight crew of two pilots and two flight test engineers had also not had any tactile or visual warning before the actual stall occurred.
+
+ The reconstructed accident flight trajectory reproduced from the Official Report
+It was noted that the investigated event was the third time that an outboard right wing stall had occurred during take offs as part of G650 flight testing (although without wing tip ground contact) and that the manufacturer had failed to determine the cause of two previous uncommanded roll events before continuing with the test programme. It was concluded that “if Gulfstream had performed an in-depth aerodynamic analysis of these events shortly after they occurred, the company could have recognised before the accident that the actual in-ground-effect stall AOA was lower than predicted”. Instead, and under perceived pressure to meet take off performance targets and a projected type certification date, a response based on a modification of piloting procedure had been introduced which had not been validated using a simulation or any scientifically-based dynamic analysis.
+It was noted that the manufacturer’s “Flight Test Standard Practice Manual” had not been “required to be enforced or updated as circumstances warranted”. It was considered that “the Company’s key engineering and oversight errors” that led to the accident might have been prevented had the Company “better designed the organisational processes used during G650 developmental flight testing….codified those processes in a flight test standard operations manual and trained its personnel” accordingly.
+It was noted that since the FAA did not have any direct oversight of the policies and procedures used during developmental flight testing, it could not require the use of an approved flight test operations manual. It was therefore considered that formal guidance to assist manufacturers in the development, implementation and maintenance of an effective flight test operations manual would be appropriate.
+On a point relating to post crash response, it was considered that the airport RFFS would have benefited from prior awareness of a (relatively) high risk flight departure and that the onus for this lay with the aeroplane operator.
+The NTSB determined that the Probable Cause of this accident was:
+“an aerodynamic stall and subsequent uncommanded roll during a (one engine inoperative) takeoff flight test, which were the result of:
+
+
+ Gulfstream’s failure to properly develop and validate takeoff speeds for the flight tests and recognize and correct the V2 error during previous G650 flight tests, 
+
+
+
+ the G650 flight test team’s persistent and increasingly aggressive attempts to achieve V2 speeds that were erroneously low, and 
+
+
+
+ Gulfstream’s inadequate investigation of previous G650 uncommanded roll events, which indicated that the Company’s estimated stall AOA while the airplane was in ground effect was too high.” 
+
+
+The Board also concluded that
+“contributing to the accident was Gulfstream’s failure to effectively manage the G650 flight test program by pursuing an aggressive program schedule without ensuring that the roles and responsibilities of team members had been appropriately defined and implemented, engineering processes had received sufficient technical planning and oversight, potential hazards had been fully identified, and appropriate risk controls had been implemented and were functioning as intended”.
+Ten Safety Recommendations were issued as a result of the Investigation as follows:
+
+
+ that the Federal Aviation Administration inform domestic and foreign manufacturers of airplanes that are certified under 14 Code of Federal Regulations Parts 23 and 25 about the circumstances of this accident and advise them to consider, when estimating an airplane’s stall angle of attack in ground effect, the possibility that the airplane’s maximum lift coefficient in ground effect could be lower than its maximum lift coefficient in free air. [A-12-54]
+
+
+
+ that the Federal Aviation  Administration work with the Flight Test Safety Committee to develop and issue detailed flight test operating guidance for manufacturers that addresses the deficiencies documented in this report regarding flight test operating policies and procedures and their implementation. [A-12-55]
+
+
+
+ that the Federal Aviation  Administration work with the Flight Test Safety Committee to develop and issue flight test safety program guidelines based on best practices in aviation safety management. [A-12-56]
+
+
+
+  that  the Federal Aviation  Administration, after the Flight Test Safety Committee has issued flight test safety program guidelines, include these guidelines in the next revision of Federal Aviation Administration Order 4040.26, Aircraft Certification Service Flight Test Risk Management Program. [A-12-57]
+
+
+
+ that the Federal Aviation Administration inform 14 Code of Federal Regulations Part 139 airports that currently have (or may have in the future) flight test activity of the importance of advance coordination of high-risk flight tests with flight test operators to ensure that adequate aircraft rescue and fire fighting resources are available to provide increased readiness during known high-risk flight tests. [A-12-58]
+
+
+
+ that the Flight Test Safety Committee, in collaboration with the Federal Aviation Administration, develop and issue flight test operating guidance for manufacturers that addresses the deficiencies documented in this report regarding flight test operating policies and procedures and their implementation, and encourage manufacturers to conduct flight test operations in accordance with the guidance. [A-12-59]
+
+
+
+ that the Flight Test Safety Committee, in collaboration with the Federal Aviation Administration, develop and issue flight test safety program guidelines based on best practices in aviation safety management, and encourage manufacturers to incorporate these guidelines into their flight test safety programs. [A-12-60]
+
+
+
+ that the Flight Test Safety Committee encourage members to provide notice of and coordinate high-risk flight tests with airport operations and aircraft rescue and fire fighting personnel. [A-12-61]
+
+
+
+ that the Gulfstream Aerospace Corporation commission an audit by qualified independent safety experts, before the start of the next major certification flight test program, to evaluate the Company’s flight test safety management system, with special attention given to the areas of weakness identified in this report, and address all areas of concern identified by the audit. [A-12-62]
+
+
+
+ that the Gulfstream Aerospace Corporation provide information about the lessons learned from the implementation of its flight test safety management system to interested manufacturers, flight test industry groups, and other appropriate parties. [A-12-63]
+
+
+The Final Report NTSB/AAR-12/02 of the Investigation was adopted on 10 December 2012
+
+
+Further Reading
+
+Loss of Control
+
+Take Off Stall
+
+Crew Training for Airworthiness Function Flights
+
+Aerodynamic Stall Awareness and Avoidance
+
+Mitigating Risk for Non Standard Flights
+
+Pilot Workload
+
+Absence of Procedure
+
+Crew Resource Management
+
+
+
+
+
+

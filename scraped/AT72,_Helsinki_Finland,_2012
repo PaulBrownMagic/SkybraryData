@@ -1,0 +1,116 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 19 August 2012, an ATR 72-200 (OH-ATH) being operated by Flybe Finland on a scheduled domestic passenger flight from Tampere to Helsinki under callsign FCM992T departed the right hand side of the 60 metre-wide runway 22L after a daylight touchdown in benign weather conditions. Damage to the aircraft was only minor and it subsequently regained the runway without impacting any ground installations with none of the 31 occupants sustaining any injuries.
+
+ Wheel marks showing the departure of the aircraft from the runway (reproduced from the Official Report)
+Investigation
+The event was investigated by the Safety Investigation Authority Finland (SIAF). Information to support the Investigation was obtained from the aircraft FDR and CVR, from ATC radar, radio and telephone recordings and interviews.
+It was determined that a malfunction of the rudder Travel Limitation Unit (TLU) had prevented it changing from the restricted high speed mode to the unrestricted low speed mode as airspeed decreased below 180 knots. The failure was found to have been caused by an inoperative electrically-powered actuator. This failure had been evident to the crew when the aircraft reached approximately 6nm from the landing runway threshold. FDR and CVR data showed that an aural and visual Master Caution (the latter displayed separately to each pilot) had been accompanied by ‘FLT CNTL’ annunciation on the CAP and a corresponding amber fault annuciation on the overhead system panel as the aircraft passed 1760 feet aal. In addition to these indications, the green ‘RUD TLU LO SPD’ located next to the landing gear status lights did not illuminate as usual. These indications left no room for doubt that the rudder limiter remained in restricted mode.
+However, despite the fact that continuing the approach would result in a landing less than three minutes later and the crew were not familiar with the required response to the situation, the aircraft commander, acting as PF decided to continue the approach whilst the First Officer searched in the QRH for the relevant drill and he completed the normal pre-landing checks on his own, keeping the AP engaged until the prescribed minimum height for an instrument approach.
+As the aircraft approached 700 feet aal, the First Officer eventually found the correct page in the QRH (see below) and at 250 ft “the flight crew noted that the normal landing criteria required by the QRH (for the absence of the green TLU low speed annunciation) were being met and continued the approach all the way to the runway”.
+
+ The QRH Drill for a TLU Fault (reproduced from the Official Report)
+It was noted that although this was correct, the crew had failed to notice that the first relevant checklist action was to manually select the low speed TLU mode. It was also concluded that they were evidently unaware of the reasons for the restrictions which were imposed (and met) by the absence of the green TLU LO SPD annunciation - the fact that, instead of the full range of ± 28.5 degrees rudder travel, this travel would be mechanically limited to ±4 degrees.
+When the Captain reduced engine power to below flight idle immediately upon the first contact with the runway, the aircraft rapidly swung 14.5° to the right because of an abnormal degree asymmetry in the way the Power Levers were moved below Flight Idle. Whilst the effect of this would normally have been correctable by rudder input, the effect of the mechanical restriction meant that this was not possible and the aircraft departed the right hand side of the runway onto the adjacent grass some 550 metres from the first ground contact. 
+As aircraft ground speed decreased, the Captain used the Nose Wheel Steering to return the aircraft to the paved surface, reduced Power to Ground Idle and “continued to taxi normally in accordance with ATC instructions”. In respect of the fact that there was no positive move to select Ground Idle (GI) once the aircraft had landed with Flight Idle (FI) selected (see the FDR trace below), the aircraft manufacturer was noted to have commented that “it is preferable to go from FI to GI at reasonable speed (within 2 or 3s) and not to stay too long in (an) intermediate position”.
+
+ FDR data from just before touchdown to just after it showing significant and subsequently uncorrected difference in selected Power Lever Angle (PLA) just prior to touchdown (reproduced from the Official Report)
+During the taxi in, the Captain noticed the TLU system panel fault annunciation for the first time and observed that the adjacent TLU manual selection switch had remained in the ‘AUTO’ position. He then “set the switch to the low speed (LO SPD) mode” but “after approximately 10 seconds the Captain noted that the system was inoperable and switched it back to AUTO” being unaware of the fact that the transition actually takes 33±5 seconds.  
+The Investigation also disclosed that:
+
+
+ neither of the flight crew had advised the cabin crew of any potential consequences of the abnormal situation they had been dealing with. 
+
+
+
+ upon realising from the “aircraft’s oscillation, the shaking and the passengers’ reactions” that the landing roll was irregular, the senior member of Cabin Crew on the aircraft, located at the main passenger door to the rear of the passenger cabin for landing, had, before the end of the landing roll, released themselves from their seat harness and gone into the cabin “to find out what was going on” before returning to their crew seat. 
+
+
+It was noted that whilst the aircraft commander was experienced, the First Officer had very little pilot experience, although the majority (448 hours) had been obtained on the incident aircraft type. The potential effect of the prevalent authority gradient on crew responses was noted but not explored further.
+A number of observations were made by the Investigation in respect of flight crew actions including that:
+
+
+ the haste caused by the decision to continue the approach allowed too little time for the flight crew to correctly action the QRH
+
+
+
+ the Captain was unaware of any limitation to rudder travel before touchdown because he chose to control the aircraft through the AP as long as permitted - until the applicable approach procedure DA
+
+
+
+ inadequate system awareness can further increase the probability of misinterpreting abnormal drills because without proper system knowledge, pilots are ill-equipped to recognise whether the initial consequences of a malfunction have been corrected.
+
+
+
+ the completion of the landing checks by one pilot whilst the other simultaneously attempted to identify the appropriate response was a departure from SOP which “may have resulted in a cursory reading of the (QRH) instructions once located.
+
+
+
+ the continuation of the approach was contrary to Operations Manual requirements for a stabilised approach and suggested that “plan continuation bias” was involved.
+
+
+On the subject of pilot training at Flybe Finland, the Investigation considered that:
+“Judging from discussions and interviews it appears that the flight crews’ system awareness is not at an acceptable level with regard to the TLU system. It is the opinion of the investigation group that Flybe’s flight crews did not possess sufficient knowledge or awareness of the TLU fault’s consequences upon the controllability of the aircraft. Moreover, flight crews have suffered from an evident lack of TLU system awareness as well as its special characteristics when the standby system is switched on.”
+In respect of Probable Cause and Consequence, the Investigation found that:
+
+
+ The Serious Incident was caused by the mechanically centred rudder’s insufficient authority for directional control, which resulted in the aircraft veering off the runway. 
+
+
+Contributory Factors were identified as:
+
+
+ The rudder’s Travel Limitation Unit (TLU) electric actuator broke and the TLU was left in the high speed (HI SPD) mode for the approach and landing, jamming the rudder.
+
+
+
+ Due to inadequate system awareness and the fact that the QRH did not clearly enough provide instructions for using the TLU’s standby system, the flight crew did not switch on the TLU’s standby system.
+
+
+
+ The right engine’s propeller blade angles transitioned sooner into the BETA zone following the reduction of engine power at landing, which resulted in a large directional oscillation.
+
+
+Safety Action taken by Flybe Finland during the Investigation to improve their pilot training provision in respect of the TLU system was noted.
+Four Safety Recommendations were issued as a result of the Investigation as follows:
+(1) that the Manufacturer of the ATR aircraft should include instructions for the manual selection of the TLU’s standby system in the FCOM and in other relevant instructions.
+(2) that the Manufacturer of the ATR aircraft should include in the FCOM the length of time it takes for the TLU’s standby system to change from the HI SPD mode to the LO SPD mode.
+(3) that the Manufacturer of the ATR aircraft should include in the FCOM and other relevant instructions a TLU FAULT warning [CAUTION] of limited rudder travel and of the considerably reduced directional controllability during the approach and landing when the TLU system is in the HI SPD mode.
+(4) that the Manufacturer of the ATR aircraft should include in the FCOM further information on the TLU system including the limitations on the controllability of the aircraft caused by its malfunctioning. 
+The Final Report of the Investigation was completed on 13 October 2013, published on 1 November 2013 and subsequently made available in English translation.
+
+Further Reading
+
+Runway Excursion
+
+Continuation Bias
+
+Energy Management during Approach
+
+Situational Awareness
+
+Cross-checking Process
+
+Pilot Workload
+
+Emergency or Abnormal Situation
+
+Emergency and Abnormal Checklist
+
+
+
+
+
+

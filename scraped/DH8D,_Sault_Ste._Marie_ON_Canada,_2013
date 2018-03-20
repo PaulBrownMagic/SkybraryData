@@ -1,0 +1,88 @@
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 26 May 2013, a Bombardier DHC8-400 (C-GLQO) being operated by Porter Airlines, on a scheduled domestic passenger flight from Toronto City Airport to Sault Ste. Marie sustained a tail strike during a night landing at destination off a visual approach in benign weather conditions. The aircraft sustained 'substantial' damage but none of the 61 occupants were injured.  
+
+Investigation
+An Investigation was carried out by the Canadian TSB. Recorded data relevant to the Investigation was recovered from the FDR.  It was noted that damage caused by the tail strike required the replacement of an area of fuselage skin and a number of structural stiffeners and longerons prior to return to service. 
+The PF for the flight was the First Officer. It was found that he had been on line less than two months in his first airline job after considerable experience flying light aircraft as single pilot and light twins as a co pilot. He had 134 hours experience on the aircraft type involved, including training time and had flown on only 4 other days in the month of May prior to the accident. The Captain was experienced both generally and on the aircraft type and was one of Porter Airlines' Training Captains, although he was not operating in that capacity on the investigated flight.
+It was established that the aircraft had been cleared for a visual approach to Runway 30 at destination. The applicable Vref calculated by the crew for the approach was 121  KIAS. The normal approach briefing was given prior to descent and as the PF had limited experience on the aircraft, he was reminded by the PM that the DHC-8-400 is a (relatively) heavy aircraft compared to those on which he had done most of his flying until very recently and that "there was a need to slow the aircraft down and get it stabilised on the approach". Checklist action was completed throughout in accordance with Company SOPs.
+Once the PAPI (3°) was visible, it was used to guide the descent and it was noted that there had been minor oscillation about the PAPI-indicated glide path which were actively corrected using a combination of slight pitch and power changes. As the approach continued, the PM divided his attention between monitoring the aircraft instruments and the visual approach. At the 500 feet stabilised approach gate, the 'stabilised' call was correctly made by the PM. Soon afterwards, the aircraft began to get high. A slight nose-down pitch was applied and the indicated airspeed began to increase, but the aircraft continued to drift above the glide path.
+As the aircraft passed 250 feet, the indicated airspeed had reached Vref +10 and the aircraft was about to go sufficiently high to enter the '4 whites' PAPI zone. In response, the  power was reduced to Flight Idle, the nose pitched slightly down and as a result airspeed began to decrease rapidly and the descent rate increased. The PM "did not notice the power reduction, the rapid airspeed reduction, or the increasing descent rate". As the aircraft passed 90 feet, airspeed went below Vref and the PF reacted by beginning to pitch up and marginally increased the power to 7% torque - just 2% above the Flight Idle setting.
+The EGPWS automated countdown of height began at 50 feet with the aircraft descending rapidly. At 40 feet, airspeed was decreasing through Vref - 5 and "the PM noticed that the power had been reduced to near flight idle and that the aircraft was descending rapidly (approximately 900 feet per minute)". He "called for the addition of engine power seconds before the aircraft touched down" but the PF only did this after rapidly pitching nose up first. The pitch attitude during touchdown at 3.05g exceeded the value at which a tail strike could be expected to occur with the landing gear oleos depressed and thus fuselage/runway contact occurred.
+It was found that the Operator's pilot training already covered pitch awareness in relation to arresting excessive descent rates below 100 feet agl and that the generalised requirement to maintain a stabilised approach as defined below the specified 'gate' was clearly stated in relevant SOP. The DHC8 -400 Aircraft Operating Manual was also noted to specifically include the statement "DO NOT exceed 6° nose up during landing flare to avoid the fuselage contacting the runway".
+However, it was noted that whilst Porter Airlines' SOP defined call-outs to be made by both the PF and the PM, it did not outline PM duties or what the PM should be monitoring throughout the different stages of flight. It was also found that SOP at the time did not make it clear what  approach angle should be flown on a visual approach if it is to qualify as stabilised when using visual glide slope indicators such as the PAPI. It was noted that the only defined parameter that made the accident approach unstable below 500 feet was when the indicated airspeed dropped below Vref at 90 feet. It was considered that "if SOP do not clearly define the requirements for a stabilised visual approach, there is an increased risk that continued flight could result in a landing accident".
+It was noted that as a result of a previous investigation into a 2011 fatal accident at Resolute Bay the Board had identified the need to reduce the incidence of unstable approaches that are continued to a landing and made a corresponding recommendation (A14-01) to Transport Canada (TC). It was noted that TC's response relied on existing SMS requirements to effectively mitigate the risk yet indicated that OFDM would not be mandated. It was noted that SMS had already been in place for several years and that "the incidence of unstable approaches has not (yet) been effectively addressed".
+A review of past similar events found that this occurrence was Porter Airlines' second aft fuselage strike on landing. The previous one at Ottawa in 2009 had also followed a mishandled landing of a DHC8-400 by a very low experience First Officer at night, although in this case, he was still undergoing line training with a Company Training Captain. 
+The Investigation also noted that even though the DHC8-300 is 7 metres shorter than the DHC8-400, their risk of sustaining a tail strike if over-rotated during landing was similar. Bombardier awareness of the problem for both variants was considered to  have been evidenced by their production of a dedicated pilot training video. This not only highlights the importance of controlling an excessive rate of descent near the ground by increasing power, it also points out that "an increase in power will increase airflow over the wings directly behind the propellers and, therefore, increase lift even if forward velocity does not change".
+In respect of Causes and Contributing Factors' it was formally concluded that: 
+
+
+ Neither crew member identified that the airspeed had dropped below landing reference speed; the flight no longer met the requirements of a stabilised approach, and an overshoot was required.
+
+ The pilot monitoring did not identify the decreasing airspeed and increasing descent rate in time to notify the pilot flying or intervene.
+
+ In response to the warning by the Pilot Monitoring to add power, the pilot flying pitched the nose up beyond the limits stated in the standard operating procedures and the manufacturer's pitch awareness training.
+
+ The high rate of descent coupled with the high nose-up attitude of the aircraft resulted in the hard landing that compressed the struts and allowed the tail to strike the runway.
+
+
+In respect of Risk, it was concluded that:
+
+
+ If standard operating procedures do not clearly define the requirements for a stabilised visual approach, there is an increased risk that continued flight could result in a landing accident.
+
+ If standard operating procedures do not clearly define the duties of the pilot monitoring, there is an increased risk that unsafe flight conditions could develop.
+
+
+Safety Action taken by Porter Airlines as a result of the accident was noted to have included the following:  
+
+
+ a revision to pilot training in respect of pitch awareness so as to emphasise the need to arrest high descent rates with power and not pitch
+
+ an overall review of training for training captains and line pilots
+
+ a review of the use of flap settings on approach
+
+ the provision of further clarification on the stabilised approach procedure
+
+ a re-emphasis to crews of the hazards associated with night-time operations
+
+
+The Final Report was authorised for release on 28 January 2015 and officially released on 12 February 2015. No Safety Recommendations were made.
+
+
+Further Reading
+
+Loss of Control
+
+Tail Strike
+
+Stabilised Approach
+
+Situational Awareness
+
+Energy Management during Approach
+
+Dangers of Flight with Power Below Flight Idle
+
+Crew Resource Management (OGHFA BN)
+
+Cross-checking Process
+
+CRM Skills Training (OGHFA BN)
+
+
+
+
+
+

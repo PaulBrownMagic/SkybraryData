@@ -1,0 +1,111 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+3 Related Articles
+4 Further Reading
+
+
+Description
+On 16 August 2005, a Boeing MD82 being operated by Colombian Company West Caribbean AW on a passenger flight from Tocumen Airport in Panama to Martinique in night IMC was unable to maintain the chosen cruise altitude and shortly after beginning a descent, control was lost and the aircraft was destroyed by impact with terrain at a high rate of descent in which all 152 occupants were killed.
+
+Investigation
+An Investigation was carried out by the Venezuelan Junta Investigadora de Accidentes de Aviación Civil (JIAAC), the national Civil Aviation Accident Investigation Board with assistance from the NTSB and the French BEA. The latter successfully downloaded the recovered FDR and CVR. However, it was found that a number of potentially useful parameters were not recorded on the FDR and due to impact damage to the CVR, the quality of its recording was poor although still usable.
+Although it was concluded that “no account was taken either in the flight planning or in the flight dispatching of the limits laid down in the performance tables with regard to take-off weight, planned flight level, aircraft weight throughout the flight, or propulsion ceiling” it was noted that the flight had proceeded normally with the aircraft commander as PF and the AP and autothrottle (A/T) engaged to reach FL310 in 26 minutes. At that level, recorded data indicated that the aircraft had accelerated to reach a cruise speed of M0.74 with engine bleed anti icing systems selected on. This performance was found to be broadly compatible with the AFM nominal performance which indicated that in the prevailing circumstances, a speed of M0.75 should be possible.
+After 13 minutes at FL310, during which clearance for some track deviations around thunderstorm cells had been obtained, climb to FL330 was sought and obtained from ATC. FL330 was reached after a slow climb during which the engine anti icing was switched off at one point to improve climb performance. Once at FL330 and still in IMC, the First Officer took a toilet break and delivery of crew food followed. However, eventually, the aircraft was flying behind the power curve, which meant that the thrust required for the aircraft to maintain its speed was greater than that which the engines were producing. CVR data showed that the steadily decreasing speed indications were not properly monitored and that neither the continuing loss of airspeed nor the significance and reason for it were identified by the crew. The increase in pitch attitude which occurred as the angle of attack increased as the AP attempted to maintain level flight was also either not noticed or its significance was not appreciated. It proved impossible to maintain FL330 and when the airspeed had dropped to M0.62 after 13 minutes instead of accelerating in level flight as expected by the crew, it became obvious that a descent would have to be commenced.  
+Clearance back to FL310 was requested and with the airspeed continuing to reduce further to M0.60 in the following 11 seconds, the AP was disengaged a descent commenced. After 29 seconds of descent, passing FL 317, there was a sudden un-commanded reduction in engine thrust and the Stall Protection System (SPS) was activated with both tactile (stick shaker) and aural warnings of an impending aerodynamic stall. None of the appropriate and necessary actions were taken in order to recover the aircraft’s energy state, the aircraft commander’s attention being focused on the engine instrument displays, even when the First Officer said that he had identified the stall. The only recorded flight control input from this point on was a series of manual stabiliser trim inputs to increase pitch attitude which continued until the pitch-up stop was reached. Within a minute of the SPS activation, the First Officer, without reporting any emergency, told ATC that the aircraft was continuing descent to FL 240 and when ATC then asked if there was any problem on board the First Officer, on instruction from the commander stated that they had suffered a flame-out in both engines. With the rate of descent increasing through 7000 fpm, ATC cleared the aircraft for further descent at own discretion. Over the next minute, the A/T was disconnected which was followed by a significant increase in indicated EPR but with the aircraft fully stalled, the rate of descent continued to increase and as the aircraft passed FL 124, ATC were informed that the aircraft was out of control. Ground impact followed shortly afterwards.
+It was concluded that when SPS activation occurred, both the inaction (failure to follow the memory actions for SPS activation) and inappropriate action (manual pitch up inputs whilst stalled) combined to lead the aircraft into a deep stall condition in which the angle of attack became so great that the airflow over the horizontal stabiliser was disrupted by interference from the wing and rendered ineffective. However, this situation was a result of the loss of control created rather than a reason for the failure to recover from it in a timely and appropriate manner. 
+The overall conclusion of the Investigation was that the lack of knowledge of the flight crew about the performance of the aircraft at high altitudes led them to attempt to climb to and cruise at a flight level which could not be sustained in the prevailing conditions because available engine thrust was insufficient. The failure to recognise and respond appropriately to this led to a progressive loss of airspeed and eventually to activation of the aircraft stall protection system but this was ignored and subsequent crew action in seeking to arrest the stalled descent by increasing pitch led to a complete loss of control, apparently without any crew understanding of what was happening. A detailed analysis of the human factors aspects of the pilots’ performance was carried out as a means to providing a behavioural understanding for the evidence of poor situational awareness and deficient CRM which formed the context for the lack of technical knowledge demonstrated.  
+It was noted that in 2002, Boeing had issued a Flight Operations Bulletin warning operators of MD-80s that the aircraft could decelerate to the point of stalling before the autopilot disengaged if the thrust required to maintain flight level was greater than that available. The Investigation was unable to find evidence that this Bulletin or the content thereof had been disseminated or incorporated into pilot training at the Operator as a means of ensuring understanding of, and appropriate response to, loss of lift at high altitudes. The existence of a NASA Report issued in 2005 containing details of various examples of situations similar to the investigated event which had affected MD-80 series aircraft and providing recommendations for improved pilot simulator training in dealing with loss of lift at high altitudes was also noted.
+It was also considered that the persistent financial crisis which had been affecting the Operator and had involved pilots, including those of the accident flight, working without pay for six months, had without question “generated an unfavourable climate for (safe) air operations by creating an environment characterised by uncertainty and stress”. 
+Ten Safety Recommendations were made as a result of the Investigation: 
+
+
+that the Aeronautical Authorities require effective training of flight crew in the use of the performance tables, focusing on a knowledge of the limits applicable when operating an aircraft in flight, in order to ensure that the altitude margins laid down in the operations manuals are not exceeded, thereby averting high altitude stalls. We also recommend that dispatchers and all staff involved in the preparation of flight plans be instructed in the aspects associated with their specific working roles and the implications or effects on the performance of aircraft in the various flight phases. [058/2005-AA1]
+
+that the Aeronautical Authorities require the inclusion in flight crew training of recovery from high-altitude stalls. This is justified on the grounds that in simulator training, low-altitude stalls are induced, from which the aircraft can recover more quickly, because it can increase power in order to maintain altitude in a more accelerated manner, whereas at high altitudes, the behaviour of aircraft is different, calling for more precise manoeuvres in terms of time of execution. [058/2005-AA2]
+
+that the Aeronautical Authorities update and assess the financial statements of the airlines operating the public air transport service, not only during the certification process but also as a process of permanent oversight or continuous monitoring, with a view to verifying that airlines' finances are sufficient to cover the operations for which they are authorised, and with a view to taking appropriate action in the event of deterioration in those finances, in order to guarantee safe provision of services and maintenance of airworthiness. [58/2005-AA3]
+
+that the Aeronautical Authorities in those countries in which there are air operators certified to operate MD-80 series aircraft, require the inclusion in the flight crew training programme of a review of the accident and incident statistics in relation to the operation of this aircraft type, especially those linked to the configuration of the autopilot and autothrottle modes. We also recommend that it be ensured that the content referring to the description of MD-80 series aircraft autopilot modes in the flight operations bulletin (FBO) issued by Boeing be included in the corresponding training manuals and programmes. [58/2005-AA4]
+
+that the Aeronautical Authorities in those countries in which there are air operators certified to operate MD-80 series aircraft, increase and optimise the requirements in the flight crew training programmes in the presence of buffeting at high altitudes, and also those with regard to the various configuration modes for the autothrottle system (ATS), the anti-ice system, and the monitoring of altitude and speed and their relation to aircraft power status. [58/2005-AA5]
+
+that the Aeronautical Authorities consider the implementation of a cockpit resource management (CRM) programme as part of the procedures to be assessed in simulator and flight training, via its inclusion in the memory items required in any emergency. For that purpose, controlled training situations similar to this case could be generated, in which appropriate reactions are considered or required in order to maintain or recover an appropriate state of alertness or situational awareness in order to verify what is happening and subsequently carry out the desired decision-making process in an appropriate manner. [58/2005-AA6]
+
+that the Aeronautical Authorities require aircraft operators and aeronautical training centres to step up training in relation to situational awareness, assertiveness and effective communication within the topics scheduled for cockpit resource management (CRM) in order to bring about a definitive change in operational culture in flight crew, in the course of which open consideration should be given, with the professional maturity this aspect requires, to the establishment of specific measures or procedures to improve the interchange of ideas (communication) between flight crew, so that the decision-making processes can be carried out in a timely and appropriate manner without producing obstacles or conflicts of competence during flights, and so that agreements and clear, precise and positive rules can be established before take-off for the purpose of ensuring appropriate planning and execution of those flights. [58/2005-AA7]
+
+that Boeing study the possibility of designing a new algorithm or of reviewing (with a view to improving) the existing algorithms in these aircraft or systems to provide alarms or warnings in sufficient time for flight crew, firstly to recognise in good time aural and/or visual indications of any abnormal or hazardous situation, and secondly also to react in time to such alarms or warnings and then carry out a rapid and appropriate analysis and decision-making process. In this particular case, the present Civil Aviation Accident Investigation Board suggests that an additional alarm, both aural and visual (e.g. lights and a voice saying "Warning: Performance", "Warning: Performance Conflict", etc.), in what is determined to be sufficient time, could alert the crew and put it in a state of situational awareness in a more appropriate manner, and initiate more timely corrective action in order to avert this type of accident. We therefore recommend analysis of the inclusion of an additional audiovisual warning appropriate to the situation detailed here and to the causal factors of this accident. [58/2005-ODF1]
+
+that the Manufacturers of Flight Data Recorders (FDRs) include or add the parameter relating to changes of angle of attack (AOA) during a flight, which was not recorded on the FDR equipment of the aircraft involved in this accident. [58/2005-OTR1]
+
+that the Manufacturers of Flight Data Recorders (FDRs) verify that the current FDR equipment already includes this angle of attack (AOA) parameter, which, when a flight simulation was carried out, proved to be very useful in attempting to determine with greater precision the events which actually took place in the sequence which culminated in the accident being investigated here. [58/2005-OTR2]
+
+
+
+The Investigation published its Final Report in Spanish on 13 August 2010 and  a French Translation was subsequently made available. Both of these and an Unofficial English language translation of the Final Report have been used to prepare this summary. Note that both the Spanish and French versions of the Final Report contain Annexes 3, 6 and 7 which are completed in English.
+
+Related Articles
+
+Loss of Control
+
+Recovery from Unusual Aircraft Attitudes
+
+Aerodynamic Stall Awareness and Avoidance
+
+Cross-checking Process
+
+Attention and Vigilance (OGHFA BN)
+
+Situational Awareness
+
+Pilot Handling Skills
+
+Pilot Perception
+
+Pilot Workload
+
+Pilot judgment and expertise (OGHFA BN)
+
+Loss of Control and In-Flight Upset After Loss of Engine Power (OGHFA SE)
+
+
+Other Accidents and Incidents on SKYbrary related to high altitude performance stalls on different aircraft types include:
+
+
+DC86, en-route, Narrows VA USA, 1996
+
+GALX, en-route, North East of Newfoundland, Canada, 2007
+
+MD10, en-route, Raymond PA USA, 2008
+
+CRJ2, en-route, Jefferson City USA, 2004
+
+
+Further Reading
+
+ICAO Amendment No.3 to PANS-TRG (Doc 9868) - Chapter 7, Upset Prevention and Recovery Training, April 2014.
+
+FAA AC 120-111 Upset Prevention and Recovery Training, April 2015.
+
+
+
+
+
+

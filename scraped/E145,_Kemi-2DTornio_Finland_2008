@@ -1,0 +1,49 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 11 December 2008 an EMB 145 being operated by Finnish Commuter Airlines on a scheduled passenger flight caught fire during the taxi in after a normal visibility night landing when the APU failed to start and a major electrical power failure occurred simultaneously. The fire was not detected until after the aircraft arrived on stand when, with the passengers still on board, a member of the ground crew saw signs of fire at the back of the aircraft. The aircraft’s own fire suppression system was successfully used to extinguish the fire, the passengers left the aircraft and there were no injuries and only minor damage to the aircraft.
+
+Investigation
+A Serious Incident Investigation was carried out by the Accident Investigation Board Finland on the basis that the occurrence was a ‘multiple malfunction of one or more aircraft systems seriously affecting the operation of the aircraft.’
+The Investigation established that when the APU was started after landing, the generator did not couple to the aircraft electrical system despite a reset attempt. The pilots decided to shut down and restart the APU in order to couple the generator to the electrical system.  At the same time as the second start attempt, a fire broke out in the APU. However, no fire warning was displayed in the cockpit. The APU did not start on the second attempt. As the left engine was being shut down the electrical system’s over current protection feature activated, leaving some of the bus bars without power. After the right engine was shut down the aircraft lost almost all electrical power. The pilots did not notice a ground crew loadmaster trying to inform them using correct hand signals of the fire. Immediately after the cabin door was opened the loadmaster came into the flight deck to report the fire. Since no fire warning was displayed in the cockpit, the captain went out to inspect the situation. After having returned to the cockpit the captain discharged the APU fire extinguisher bottle, which put the fire out. Neither the cabin attendant nor the passengers were informed by the pilots of the fire. The passengers left the aircraft in a nearly normal fashion during the fire.
+Once the fire was out, the pilots had concentrated on the electrical problem. The air traffic controller was not informed of the fire, nor did the controller notice it. After the fire had been extinguished the aerodrome’s rescue unit came to the aircraft to observe the situation. The burned APU was not inspected before the aircraft was towed to hangar for the night. The pilots reported the events to the Operator and requested technical assistance for the following day. The pilots did not record all of the faults or occurrences in the aircraft technical log. The mechanics restored the electrical system, made a visual inspection of the APU and deactivated the APU in accordance with the manner prescribed in the aircraft Minimum Equipment List (MEL). After this, the aircraft was pronounced airworthy again and a ferry flight to Helsinki followed. There, inspections were made in accordance with regulations. Heat induced damage was found and the aircraft was grounded. The aircraft manufacturer was asked for repair instructions to restore airworthiness and these were duly received. Only on arrival in Helsinki did the pilots filed an Occurrence Report with the Operator and with the authorities. No other flight safety reports were filed. AIB Finland was informed of the incident over three days after its occurrence. 
+The Investigation noted that in 2007 the aircraft manufacturer had published an AOM revision which included changes and instructions for pilots in respect of the activation of the over current protection system. The airline had informed its pilots of this information but no corresponding change had been made to the applicable volume of the Operation Manual. 
+Since the APU fire detection system did not trigger a fire warning even though the flames made contact with the fire detector sensing element, tests were carried out. These showed that the APU fire detector sensing element met all of the authorities’ requirements and, apart from one test, it passed all tests included in the element manufacturer’s testing regime. It was concluded that the insufficient exposure of the sensing element to the flames was probably the cause of the absent fire warning. Inspection of the APU indicated that it had already been in poor condition and partly damaged before the fire. Its performance was also degraded. The investigation was not able to associate the poor condition of the APU with the indicated failure (APU GCU FAIL), the failed second start attempt or the fire.
+The Investigation concluded that several simultaneously occurring circumstances exacerbated the severity of the incident. The pilots were occupied with the APU generator’s coupling failure, the unexpected activation of the over current protection feature and the failed APU start. These held their attention and slowed their response to the fire. The power failure also made the cabin attendant’s work more difficult, slowing down passenger exit as the normal cabin lighting was inoperative. Also, the pilots did not comply with the aircraft manufacturer’s instructions in respect of the over current protection warning. With airport closing time imminent, ATC did not notice the fire and was not informed of its occurrence. No airport alarm was given, nor did the airport RFFS unit on site react to the situation during the fire.
+The Final Report of the Investigation as issued on 2 February 2010 and may be seen in full at SKYbrary bookshelf: C8/2008L Airliner fire at Kemi-Tornio aerodrome on 11 December, 2008
+It contained four Safety Recommendations, one to the Aircraft Manufacturer and three to the Aircraft Operator:
+
+
+ The APU fire detection system did not trigger a fire alarm even though the fire detector sensing element was exposed to flames. The aircraft manufacturer is advised to ensure that the APU fire detection systems on the E-145 aircraft display fire alarms in a sufficiently precise and reliable manner in different kinds of fire situations.
+
+ The airline had not included the aircraft manufacturers over current protection feature AOM revisions in its E-145 OM-B. The airline is advised to always ensure that the manufacturer’s AOM revisions are included in its OM-B.
+
+  The mechanics did not receive all pertinent information with regard to the aircraft’s faults and airworthiness after the incident. The airline is advised to ensure that the pilots record all appropriate information in the aircraft technical logbook with regard to faults, incidents and observations that may impact flight safety or an aircraft’s airworthiness.
+
+ There were shortcomings in Multi-Crew Coordination as well as in compliance with Standard Operating Procedures and the OM-B. The airline is advised to guarantee their aircrews’ Multi-Crew Coordination competence as well as their capability to operate in accordance with company manuals.
+
+
+Further Reading
+
+ Fire Smoke and Fumes
+
+ Aircraft Fire Detection Systems
+
+ Situational Awareness
+
+
+
+
+
+

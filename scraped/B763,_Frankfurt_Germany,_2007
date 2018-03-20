@@ -1,0 +1,89 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Synopsis
+3 The Investigation
+4 Safety Recommendations
+5 Related Articles
+6 Further Reading
+
+
+Description
+On 20 August 2007, at Frankfurt, while a Boeing 767-300 was taxiing to its parking position, thick smoke developed in the passenger cabin. All passengers and the crew were able to leave the aircraft at the gate without further incident.
+
+Synopsis
+The official Report of the Serious Incident by BFU Germany states:
+"Five and a half hours after departure, while still in flight, the electronic monitoring system (EICAS) indicated AFT CARGO OVHT. […]
+[…] After recycling AFT CARGO HEAT switch in accordance with the Check List, warning message remained. 
+The aircraft landed at its destination without further incident at 11:21. While taxing to the allocated parking position (gate) the pilot started the gas turbine auxiliary power unit (APU). Shortly afterwards, he received a report of smoke and smell arising in the passenger cabin. The cabin crew reported that the smoke continued to increase rapidly until the aircraft arrived at the gate."
+After the crew and passengers disembarked the aircraft, fire fighters with the help of a thermal imaging device located smoldering fire in the insulation material in the freight hold.
+
+The Investigation
+An Investigation into the occurrence was carried out by BFU, who determined that:
+"The smoldering fire in the insulation material was located below defective strap of molten cables."
+The Primary cause of this incident was motion between the wire loom and strap (relative motion), resulting in wear to the insulation material on both parts (electrical cable/strap). The abrasion, and the fact that that this was repeated incident, could be taken as an indication that the cable straps were unsuitable for cable straps routeing in this area.
+The consequences arising from wear could be avoided by limiting strap service life, by periodic inspections, or fitting a plastic strap. The preferred solution would be a design change. In this aircraft, it would be sufficient to replace the existing cable straps at this location with plastic fittings.
+The immediate causes of this serious incident were identified as:
+
+
+ "A short-circuit caused by the circuit breakers to trip in the rear freight hold temperature monitoring circuit, and the electrical power supply circuit to the APU gas turbine.
+
+ An electrical short-circuit took place between cables, cause by abraded insulation on a wire loom strap. This was located behind the cladding on the rear freight hold forward bulkhead and resulted in fire.
+
+ Following the landing, further electrical systems were activated automatically, resulting in a second short-circuit fire.
+
+ This-short circuit fire started a smouldering fire in the insulation mats behind the freight hold cladding, generating a lot of smoke.
+
+
+The systematic causes of the incident were identified as:
+
+
+ Since the protection of the electrical system was suboptimal a short-circuit was the result, allowing cables to melt and catch fire, resulting in damage to the electrical system and a smouldering fire in the insulation mat.
+
+ The aircraft maintenance schedule did not specify regular inspections or a maximum service life for the insulated cable straps.
+
+
+Safety Recommendations
+The BFU Report produces the following recommendation:
+"The Federal Aviation Administration (FAA) should instruct the aircraft manufacturer Boeing to conduct the following on all Boeing B767 models:
+
+
+ Assess the protection of the electrical system (circuit breakers) which run through the area in front of the aft freight hold and make any necessary changes.
+
+ Exchange the existing insulated cable straps with plastic straps in the area in front of the rear freight hold."
+
+
+Related Articles
+FIRE
+
+
+ Smoke Gases
+
+ Fire in the Air
+
+ Aircraft Fire Detection Systems
+
+ Ageing Aircraft - Electrical Wiring
+
+
+Further Reading
+
+ The full BFU Germany Report (Investigation Report EX009-0/07 published February 2009)
+
+
+
+
+
+

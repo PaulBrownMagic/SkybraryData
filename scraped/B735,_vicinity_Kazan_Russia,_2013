@@ -1,0 +1,194 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+3 Related Articles
+4 Further Reading
+
+
+Description
+On 17 November 2013, a Boeing 737-500 ( VQ-BBN) being operated by Tartarstan Airlines on a scheduled domestic passenger flight from Moscow Domodedovo to Kazan as TAK 363 commenced a go around from 900 feet aal after failing to establish on the ILS to runway 29 at destination in night IMC. The aircraft crashed within the airport perimeter and was destroyed by the high speed impact and post crash fire. All 50 occupants were killed.
+
+Investigation
+An Investigation was carried out by the Air Accident Investigation Commission of the Interstate Aviation Committee (MAK).  Both the FDR and the 30 minute CVR were recovered from the wreckage in a damaged condition (in the case of the CVR extremely damaged). The data from both were eventually downloaded and together proved crucial to establishing the circumstances which had led to the accident. No evidence was found which indicated that any airworthiness issues had played a part in the accident and most of the Investigation was focussed on the performance of the pilots.
+Prior to obtaining a professional pilot licence, the 46 year-old Captain had worked as a navigator for 19 years on various Russian transport aircraft types. He had completed pilot training at a Training Organisation whose approval had been withdrawn shortly afterwards and cleared to fly as a First Officer on the AN-2. However, it was found that a corresponding Commercial Pilot Licence had not been issued and that such certification issued later was, on the evidence available, "not legitimate". It was found that there was no evidence that the Captain had ever undergone initial pilot training at a certified training organisation and that "the documents confirming his conversion training were fake" and "his Commercial Pilot Licence (CPL) was issued unreasonably". He joined Tartarstan Airlines as a navigator-instructor whilst privately recording flights in a "Piper M" at a Parachute Club to maintain his piloting skills - although after the subsequent closure of this Club, no independent corroboration of this could be found. Then, on the basis of his CPL, he was sent on a Boeing 737 type rating course and had obtained this rating 18 months prior to the accident. He obtained his release from line training after a further six months. Having accumulated around 1,300 hours as a 737 First Officer, he was issued (contrary to the prevailing regulations in the view of the Investigation) with an ATPL and began flying in command, accumulating 527 hours in that role in the 8 months prior to the accident. His (self-recorded) total flying experience as a pilot was 2,784 hours. 
+The First Officer, also 46 years old, had been working as a ground engineer for the airline and had then been retrained as a flight engineer, briefly operating in that role on a Yak-42 before being sent for Commercial Pilot Licence training in 2010 and obtaining that licence in October 2010. His total flying experience as a pilot was 2,093 hours, which included 1,943 hours on type. 
+It was established that both pilots were familiar with Kazan, being based there. The flight from Moscow proceeded uneventfully and the expected destination weather was unremarkable - a cloudbase of 890 feet aal and a surface wind from 220° at 17-23 knots. En route, a change of the selected AP indicated that the Captain had taken over as PF.  
+During descent to FL70, Area ATC advised that the aircraft was tracking 4 km to the left of the flight plan which the flight crew acknowledged. The aircraft was then transferred to Kazan Radar and received clearance to make an ILS approach to runway 29. The aircraft remained in Single AP mode for the approach. Having discussed the subject of 'map shift', the Captain selected HDG mode in place of LNAV mode with the aim of correcting the (self-positioning) track to final but the HDG change made was insufficient. The flight crew call "turning base", resulted in ATC, having observed that the aircraft was inside the expected circuit to final, responding with "make base to final turn" (now). The aircraft was transferred to TWR who advised that the aircraft was right of the Final Approach Track (FAT), which was acknowledged. The selected heading did not ensure that the aircraft, being flown in ALT hold at 1,700 feet aal, was established on the ILS LOC before intercepting the GS and a full scale fly left and fly down indication continued. Two minutes later, with the aircraft still level at 1,700 feet aal, approximately 2.7nm from touchdown and with both the LOC and GS indications still at full scale deflection, ATC transmitted "Tartarstan 363, ready?" and having received the response "on glide path, gear down, ready to land" issued a landing clearance despite being aware from radar that the aircraft was not in a position to land. On receipt of the clearance, the crew selected VS mode and a rate of 1,200 fpm to descend to and level at 900 feet aal. Passing 1,000 feet agl, the EGPWS auto callout of that height received a response from the Captain of "One thousand, stabilised, no flags" - noted by the Investigation to have been untrue in respect of the inclusion of "Stabilised". One minute after the receipt of the landing clearance, the ILS LOC was captured with the aircraft approximately 1nm from touchdown. Reaching 900 feet aal with half a mile to go, the First Officer, made visual contact with the PAPI showing 4 whites and the runway "beneath the aircraft". 
+The diagram reproduced below provides a comparison of the track actually flown with the ILS FAT and with the incorrect INS-based version of the track flown attributable to map shift.
+
+ The track flown in red and the 'map shift' IRS-based version of it in blue overlaid on the STAR track from waypoint MISMI [Reproduced from the Official Report]
+The First Officer called a go around and the Captain commenced it by selecting TO/GA. This action automatically disconnected the AP because only a single AP was in use. The Investigation confirmed that just a single press of the TO/GA button was made which (correctly, given the relatively light weight) resulted in 'Reduced GA Thrust' rather than Full TO/GA Thrust. Flaps were retracted one position soon afterwards and the First Officer advised TWR that the aircraft was "going around, non landing position". TWR instructed the aircraft to climb to 500 metres aal (1,640 feet) and contact Radar Control. This was not correctly read back initially and was repeated to achieve this, the whole exchange taking about 20 seconds. The AP disconnect warning (aural and visual) occurred but was not cancelled or discussed. The missed approach altitude, normally set once established on the GS, was still at 900 feet as it had never been reached. 
+From the time at which the TO/GA button was pressed, 43 seconds remained until impact. FDR data were examined to establish why the intended go around was not completed. For the first 25 seconds "there were almost no column or control wheel inputs" but the aircraft performed broadly as it would have done during an auto go around with the First Officer fully occupied communicating with TWR and unlikely to have been monitoring the flight path until the pitch attitude was excessive (25/26°), speed 120 KCAS and falling and height in excess of 2,100 feet aal, above the (belatedly) reset stop height of 1700 feet. Once back to 'aviating' instead of 'communicating', the First Officer did remind the Captain that the gear had not been retracted and reset the stop height but he did not react to the primary flight path issues - pitch attitude, speed and cleared height. From around 25 second after TO/GA selection, flight data showed that the Captain began to control the aircraft manually, although the trigger for this could not be established from any of the available recorded data. Initially, he made a pitch down input which stopped the climb and, had it been trimmed out would have been about what was needed to descend from 2,300 feet to the confirmed and now set missed approach height of 1,700 feet.
+However, instead a further pitch down input was made which achieved a 20° nose down pitch and a rate of descent of over 5,000 fpm. Although there was some evidence that the First Officer was rapidly realising that all was not well, it was surmised that the Captain had become "totally disoriented" and no longer able to unable to control the aircraft. There was no response to the EGPWS 'SINK RATE' Alert or the PULL UP Warnings which followed and it was found that the direct opposite had occurred with the control column pushed forward to the maximum stop. It appeared that the First Officer's attempts to communicate the situation with the Captain in these final seconds were unsuccessful and "further control actions were chaotic". A violent impact within the airport perimeter at a recorded airspeed of approximately 240 KCAS and a recorded negative pitch attitude of 75° followed. This impact and a post crash fire completely destroyed the aircraft killing all 50 occupants. It was concluded that sufficient height above terrain to achieve "the safe recovery of the flight profile without even exceeding the operational limitations" had existed until approximately nine/ten seconds prior to impact - three/four seconds before EGPWS activation.
+The Investigation found evidence that there was a widespread lack of understanding amongst Tartarstan pilots on how the 737 AP, FD and A/T worked and no evidence that the PF of the accident flight had been an exception to this. It was noted that as soon as a climb at 300 fpm has been reached, the FD command, having initially shown 15° up, then adjusts to the pitch attitude required to maintain the appropriate airspeed for the prevailing flap position. In most cases where the missed approach stop altitude has been selected, it will be above the point where a 300 fpm rate of climb is achieved and the pitch attitude command then changes automatically as the selected altitude is reached. However, if when 300 fpm rate of climb is reached the altitude is already above the missed approach altitude - which applied for the accident go around - then if climb is continued, the pitch command will stay in a position which will maintain the current airspeed. If for any reason the aircraft starts to descend, the pitch command will initially target the required climb profile and if the aircraft descends through the set missed approach altitude, TO/GA FD mode will automatically disconnect and the FD will transition to acquisition of the selected altitude. It was also noted that movement of the FD pitch command bars is damped when in TO/GA mode so as to avoid excessive rates of change and that in the investigated case, they did not exceed +/- 5/6° until the mode transitioned to acquisition of the selected altitude. It was concluded that "most probably, the Captain considered pressing the TO/GA pushbutton as an end-all solution" and was unprepared for the AP disconnection which came with it.
+It was noted that the UK AAIB had used a method which they had successfully applied in other Investigations to determine whether somatogravic illusions may have been relevant to the Captain's inappropriate pitch inputs and his failure to respond to the EGPWS activations. This enabled them to model the possible perception of the pilot relative to its reality as shown on the diagram below. However, it was only possible to establish that sensory illusions, specifically somatogravic illusions may have been a factor. It was noted that Full Flight Simulators cannot realistically represent such sensory illusions during training.
+
+ The UK AAIB sensory perception modelling method as applied to the investigated accident [Reproduced from the Official Report]
+Various other findings were definitely considered relevant, including that:
+
+
+ The overall effectiveness of pilot training at Tartarstan was poor in relation to the underlying skill levels of their pilots. Go around training was identified as a particular case in point and it was noted that Tartarstan SOPs did not distinguish between a two engine go around from DA/MDA and one from a higher altitude. It was also noted that since promotion to command, the records indicated that the Captain had never previously performed an actual go around.
+
+ The English Language Proficiency (ELP) of both pilots was questionable and that although routine flight deck communications were in English until the problems encountered during the go around, there was evidence that their actual ELP was in both cases equivalent to ICAO Level 2 although both had been granted ELP Level 4 in the applicable documentation. It was concluded that an important consequence of this was that "neither of them was able to completely understand documentation critical for safe operations of Boeing 737 type aircraft", a conclusion that was supported by independent evidence of the way in which both pilots' pass marks had eventually been recorded during the computer-based testing of required theoretical knowledge for the type rating after initial inability to pass.
+
+ In respect of the origin of the unstabilised approach which had led to the failed attempt to compete a go around, it was found that map shift had been present during departure from Moscow. Analysis of a large sample of flight departures showed that a "significant deviation of the actual position from the IRS position" occurred more often than it did not, which indicated that "the coordinates entered by the crews during pre-flight IRS alignment were not accurate enough".
+
+ The accident Captain had encountered similar map shifts during previous positioning for a runway 29 approach at Kazan but more timely correction to the flight path had been made. It was not determined whether these previous arrivals had been in IMC or VMC.
+
+ There had been no attempt by the flight crew to make use of bearings from the VOR and NDB at Kazan when attempting a timely capture of the ILS LOC in IMC nor any request for assistance from ATC. 
+
+ Given their awareness of the failure of the aircraft to establish on the ILS in accordance with the promulgated procedure, ATC could reasonably have been expected to have provided more assistance and specifically to have desisted from issuing a landing clearance when, despite the flight crew call, it was clear that a safe landing could not be achieved. 
+
+
+The overall Conclusion of the Investigation was that:
+
+
+ During the go-around the crew failed to identify the disconnection of the Autopilot and let the aircraft get into nose-up upset. As the Captain (PF) lacked upset recovery skills, he created significant negative loads, lost spatial orientation and made the aircraft pitch nose down steeply (nose down pitch angle reaching 75 degrees) until it impacted the ground. 
+
+ A go-around was needed because of the unstabilised condition of the aircraft as it approached the landing runway, resulting from map shift of about 4 km, the failure of the crew to apply complex airmanship skills and navigate with required accuracy, as well as lack of active assistance from the ATC who were watching the long-term deviations of the aircraft from the established pattern.
+
+
+The Cause of the Accident was formally stated as "systemic deficiencies in hazard identification and risk management, inoperability of airline SMS and lack of oversight over flight crew training from authorities of various levels - the aircraft operator and Federal Air Transport Agency - which resulted in authorizing an unduly trained crew for flights". 
+The failure of the various addressees of Safety Recommendations made after previous investigations to follow them as a means to mitigate identified hazards and manage known risks which had been found again in this Investigation was also noted.
+A total of 35 Safety Recommendations were made at the conclusion of the Investigation as follows:
+
+
+that the Russian Aviation Authorities inform flight personnel, training organisations personnel and ATM personnel about the results of this investigation during special briefings. 
+
+that the Russian Aviation Authorities conduct an analysis of how safety recommendations after investigations of accidents involving heavy transport aircraft for the (past) 10 years have been considered. Consider the possibility of resuming the practice of developing departmental and interdepartmental action plans to be approved by heads of federal executive bodies that would include the consideration of practicability for any recommendation, assignment of responsible organizations and deadlines. 
+
+that the Russian Aviation Authorities, after consideration of ICAO Annex 19 and ICAO Docs on safety management and safety assurance oversight, develop and implement guidance for assessing civil aviation organisations for compliance with existing requirements, and for development and approval/acceptance of operators’ safety management systems and flight crew training programs. 
+
+that the Russian Aviation Authorities revise FAR-23 “Certification of Aviation Training Centres” with reference to ICAO Annex 1 and Annex 19, as well as ICAO Docs on safety management and approval of training organisations; develop and implement departmental regulations for the organisation of ground, simulator and flight training, as prescribed by FAR-23, that would ensure, among other issues, guidance for aviation training centres activities and training quality control and, in order to improve personnel qualification level and avoid reductionism, consider the practicability of developing typical flight crew training and type rating programs that would include a minimum set of standard provisions for each aircraft type. 
+
+that the Russian Aviation Authorities introduce a unified database to control the licences issued to aviation personnel, that would contain data enabling determination when and where the licence was issued, as well as a copy of the application for the licence and copies of qualification evidence for the application. Define a procedure to verify data in the provided qualification evidence. 
+
+that the Russian Aviation Authorities draw the attention of qualification board members of all levels to the mandatory control of compliance with applicable civil aviation regulations when authorising flight crews for relative functions (and) establish personal accountability of qualification board chairs for unjustified (issuing) of authorisations.
+
+that the Russian Aviation Authorities consider the practicability of amending FAR-147 with provisions specifying the revocation of aviation personnel licenses from persons conducting intentional violations of regulatory requirements. 
+
+that the Russian Aviation Authorities revise regulatory documents that regulate the ATM in terms of setting quantitative criteria of what a “significant” deviation from established flight routes and patterns is at various flight phases, and establishing a procedure for offering assistance from ATM to aircraft flight crews who experience significant deviations. 
+
+that the Russian Aviation Authorities, taking into account modern aircraft performance, conduct an analysis in cooperation with representatives of airlines and ATM services of existing missed approach patterns to check the (consistency) of the established missed approach altitude with the crew ability to follow the SOP without any need to hurry. 
+
+that the Russian Aviation Authorities, (after) consideration of ICAO Doc 10011, Manual on Aeroplane Upset Prevention and Recovery Training requirements arrange and conduct a study of conditions for flight crews' spatial disorientations and aircraft upset to work out practical safety recommendations. Based on the findings of the study, develop and implement a special recurrent training course (like upset recovery training) including theoretical and practical training. 
+
+that the Russian Aviation Authorities revise initial flight training programs to include pilots’ familiarisation with stall and spin modes as well as zero gravity and negative loads (and) consider the practicability of revising FAR-128 to include provisions on regular training (e.g. once every 3 years) of pilots to practice aircraft operation in the above-mentioned conditions. If such (a) decision is taken, determine of the aircraft types appropriate for such training and the development of pertinent training programs with consideration of safety requirements should be undertaken (with the participation of test pilots) 
+
+that the Russian Aviation Authorities develop and implement qualification requirements for English language proficiency for flight personnel operating aircraft with operational and technical documentation in English, as well as for maintenance personnel who conduct maintenance of the mentioned aircraft. 
+
+that the Russian Aviation Authorities conduct a quality check of training organisations operation and qualification of teaching staff who act as (facilitators or assessors) for ICAO ELP testing as well as the tests used (to check if they comply with the provisions of ICAO Doc 9835 “Manual on the Implementation of ICAO Language Proficiency Requirements”). 
+
+that the Russian Aviation Authorities, in order to provide guidance to airlines as to identification of deviations with the help of flight data records, implement guidance on the contents of Flight Data Analysis Programs prescribed by Para 5.7 of FAR-128 “Preparation and Conduct of Flights in Civil Aviation of the Russian Federation”. 
+
+that the Russian Aviation Authorities ensure, when selecting personnel to undergo training for new types of aircraft, that medical certification and airline psychologists pay attention to personal traits of the applicants related to emotional reactions to and behaviour in abnormal conditions (excessive workload, stress), and, in case they detect any unfavourable signs, provide recommendations if applicants are fit for type rating training and/or if they need (an) individual approach during the training. 
+
+that the Russian Aviation Authorities consider the possibility of resuming regular conferences and workshops to share in-service experience with participation of representatives of airlines and test pilots. 
+
+that the Russian Aviation Authorities consider the possibility of conducting a joint conference for flight operations management personnel of airlines and ATM management personnel to facilitate sharing of experience. Ensure special attention is paid to radio communications and the Aviate – Navigate – Communicate concept at various flight phases. 
+
+that the Russian Aviation Authorities consider the practicability of equipping aircraft with GPS to ensure required navigation accuracy and correction of data received from IRS. 
+
+that the Russian Aviation Authorities consider the applicability of safety recommendations of the specific safety study conducted by the BEA relating to aeroplane state awareness during go-around] (ASAGA) .
+
+that the airlines of the States of Agreement evaluate the need to revise their safety management systems and flight crew training programs (in the light of) the Investigation findings. 
+
+that the airlines of the States of Agreement, in order to assess the quality of training undertaken by the airline pilots in training organisations, request the complete set of training evidence including copies of training tasks with instructor comments. 
+
+that the airlines of the States of Agreement evaluate the need to arrange additional training for flight crews with respect to the operation of flight automation systems (A/P, A/T, FD), missed approach procedures, including conduct of go-around from an intermittent height with two engines operative, as well as upset recovery. Ensure special attention is paid to manual control skills, attention allocation and switch skills, especially during critical phases of flight (like missed approach) and in complicated situations including pilot incapacitation. 
+
+that the airlines of the States of Agreement ensure available recorded simulator data analysis is used to assess the quality of task performance during simulator training (especially when upset recovery is trained). 
+
+that the airlines of the States of Agreement conduct extra checks of flight crews’ compliance with the SOP during various types of approaches (precision and non-precision) and during missed approaches. Ensure special attention is paid to compliance with the Aviate – Navigate – Communicate concept. 
+
+that the airlines of the States of Agreement evaluate the sufficiency of ELP of pilots conducting flights on foreign-made aircraft to understand the manufacturer’s documentation required for flight operations (including guidance, like Cold Weather Operations etc.). The same recommendation is applicable to personnel conducting maintenance and ground handling of foreign-made aircraft. 
+
+that the airlines of the States of Agreement amend airlines’ FOMs and SOPs for various aircraft types with additional sections containing recommendations as to the conduct of flight along routes and to aerodromes with insufficient radio and navigation aids. Introduce training of approaches with map shift effect into simulator sessions scenarios. 
+
+that the airlines of the States of Agreement determine “aerodromes of concern” for each airline (with relevance to the map shift effect), ensure the flight methodological departments of airlines develop recommendations as to the conduct of flight to such aerodromes and recurrently train pilots to conduct approaches by using raw data during simulator training (without using automatic systems or FD guidance). 
+
+that the airlines of the States of Agreement conduct an inspection of compliance with flight personnel duty time and rest period requirements and make them use the unutilized leaves. 
+
+that the State ATM Corporation considers the possibility of revising some sections of ATM personnel operation procedures in terms of providing more active assistance (if technically possible) to flight crews if seeing significant deviation of aircraft from established routes and patterns at various flight stages, for example, by offering radar vectoring, as well as determining flight phases when instructions or advice to flight crews cannot be provided unless there is a safety threat. 
+
+that the State ATM Corporation draws attention of ATM personnel to the need to make a complex assessment of all available information before clearing aircraft for landing. 
+
+that the State ATM Corporation eliminates other shortcomings in this Report and the ATM investigation group report. 
+
+that S7 Training, taking into account the Investigation findings, considers revising documents regulating the training process, paying special attention to the (ELP standard) of candidates for type rating training, availability of regular staff instructors to assure the declared training amount and methodological guidance for the training process, as well as to taking measures to prevent personnel with inappropriate qualification level from passing final qualification tests. 
+
+that the Boeing Company considers the necessity of introducing changes or/and clarifications to the QRH section containing nose up upset recovery procedures to exclude misinterpretation of the provisions contained therein by pilots. 
+
+that the ICAO defines the minimum English language proficiency requirements to understand aircraft manufacturer’s documents or other English-language materials used for flight crew training and flight operations. 
+
+that within their respective competence, the Civil Aviation Authorities of States of Agreement, the State ATM Corporation, Aircraft Design companies, Airlines and Aviation Training Organisations, analyse the applicability of (the) recommendations (made) to prevent accidents and incidents during go-around, developed by the BEA based on the safety study related to Aeroplane state awareness during go-round (ASAGA) (and) depending on the results of the analysis, take applicable safety measures. 
+
+
+The Investigation was completed on 23 December 2015 and the Final Report was subsequently published and additionally made available in English as a “Courtesy Translation”, which is the basis for this summary article. 
+
+Related Articles
+
+Loss of Control
+
+Controlled Flight Into Terrain (CFIT)
+
+Post Crash Fires
+
+Inertial Navigation System (INS)
+
+Stabilised Approach
+
+Missed Approach
+
+SOPs
+
+Recovery from Unusual Aircraft Attitudes
+
+English Language Proficiency Requirements
+
+Somatogravic and Somatogyral Illusions
+
+Spatial Disorientation
+
+Terrain Avoidance and Warning System (TAWS)
+
+Cross-checking Process
+
+Hazard Identification
+
+Risk Management
+
+Go-around Execution
+
+Flying a Manual Go-around
+
+ATM Contribution to Go-around Safety
+
+Go-around Training
+
+
+Further Reading
+
+Study on Aeroplane State Awareness during Go-Around, BEA France, August 2013.
+
+
+
+
+
+

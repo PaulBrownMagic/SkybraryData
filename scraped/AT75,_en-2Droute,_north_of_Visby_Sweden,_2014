@@ -1,0 +1,95 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+3 Related Articles
+4 Further Reading
+
+
+Description
+On 30 November 2014, an ATR 72-500 (SE-MBD) being operated by Braathens Regional on a scheduled domestic passenger flight from Stockholm Bromma to Visby as DC 929 was descending through 7,000 feet in day VMC when severe vibrations of apparent propeller origin suddenly began. The crew concluded that the source of these was the right engine and after feathering the propeller, that engine was shut down and the vibrations ceased. An emergency was declared to ATC and the flight to destination was completed without further event.
+
+Investigation
+An Investigation was carried out by the Swedish Accident Investigation Authority (SHK). FDR and CVR data relevant to the event were successfully downloaded.
+It was noted that the 50 year-old Captain had accumulated 7,074 total flying hours which included 2,920 hours on type and was acting as PF for the flight during which the incident occurred. The 36 year-old First Officer had accumulated 2,381 flying hours which included 2,162 hours on type.
+It was established that the flight had been uneventful until the power was reduced to flight idle for the descent when it was reported that small vibrations were felt as the aircraft passed approximately 7,000 feet some 16 nm from Visby whilst descending at 3,200 fpm and 250 KIAS with the power levers set to flight idle. Based on his previous experience of such vibration, the Captain reported that he had moved each power lever a little forward of the idle position in turn to no effect. He then stated that the vibrations had increased in intensity and Propeller Electronic Control (PEC) fault had been annunciated. The rate of descent had been reduced to 2,500 fpm but "the vibrations were so severe that the cabin crew had difficulties moving in the cabin and that there were difficulties reading the instruments in cockpit". The Captain stated that in response, he had then feathered the right propeller and then shut the engine down after which the vibrations "subsided". He noted that he had been unable to move the lever from the feather position to the fuel shut-off position on the first attempt but after taking the lever out of the feather position, a second attempt at feather and fuel cut-off was successful. In the absence of any evidence of any relevant malfunction, the initial difficulty was attributed to the lever movement release trigger "unintentionally being in its upper position as the control reached the feather position" which would have prevented continued movement to the fuel shut-off position.
+FDR data showed that there had been an 80 second interval between the setting of the power levers to flight idle and the onset of severe vibrations and that airspeed had remained in the range 241-254 KCAS. Although not reported by the Captain, FDR data also showed that prior to the reported action to feather the right propeller and shut that engine down, "the left propeller was first feathered momentarily". It was also found from the CVR data that during the period of vibration "communication between the pilots did not include confirmation of which engine’s power levers were manoeuvred" and that "a number of warning signals activated […] were not reset during the acute phase of the event". 
+Once the right engine had been shut down, the flight continued to destination without any further problems with the left engine in operation. An emergency was declared to ATC and the Cabin Crew were kept informed. The landing was accomplished without use of reverse pitch on the remaining engine. The Captain stated that "the landing, which was performed using visual references, was prioritised over reading through the checklists for abnormal procedures”.
+The Investigation concluded that "clearer communication between the pilots, in terms of which power lever were manoeuvred, would likely have contributed to solving the task even quicker". It was specifically noted that the annunciation of a PEC fault, which would have indicated which side the vibrations had originated from, was not used as the basis for the crew response.
+Damage to the aircraft right propeller assembly and engine as a result of the event was recorded at initial inspection as follows:
+
+
+ The eccentric trunnion pin on blade no. 2 was broken.
+
+ The front actuator plate was severely bent on all six positions.
+
+ The engine mounts had received damage from contact with metal.
+
+ The engine's compressor housing was cracked along half of its circumference.
+
+ The shaft of the AC generator was ruptured.
+
+
+Subsequent examination of the propeller assembly after disassembly using non-destructive testing methods disclosed cracking on both sides of five other trunnion pins. The already-identified broken trunnion pin was found to be showing evidence of "multiple bilateral overloads" and play in the bearings for all six trunnion pins was found to be in the range 0.4-0.8 mm. Examination of the ball bearings and their separators from the blade retentions were found to be in an airworthy condition. The crack in the engine compressor housing "was found to have occurred as a result of the overloads produced by the propeller during the event". The Investigation concluded that all damage found to the engine and the engine mounts had been a consequence of the high level of vibrations that occurred during the incident.
+It was found that six other similar incidents involving the same aircraft type have been recorded in the period 2007-2014 of which two remain under investigation by other safety investigation authorities (BEA France and NTSC Indonesia). The others were found not to have been independently investigated by any safety investigation authority although they had been "addressed" by the aircraft and propeller type certificate holders. It was noted that BEA France had directed four Safety Recommendations to the EASA arising from their findings and that the EASA had subsequently published a Safety Information Bulletin (SIB) on the subject which had since been revised and re-issued as SIB 2015-3R1.
+It was noted that as an interim measure, ATR had issued an Operations Engineering Bulletin (OEB) on the subject to provide a recommended operator response to the occurrence of sudden and severe vibrations on the engine installation originating from mechanical damage to the propellers. This states that all known events have occurred to No. 2 (right hand) engines during descent at speeds close to 250 KIAS when the power levers were reduced to flight idle. The bulletin contains a procedure for identifying and shutting down the affected engine and it is considered that this will allow pilots to systematically "identify and rectify severe propeller vibrations".
+It was found that the propeller type certificate holder "is of the opinion that the damage to the propeller mechanism occurred by means of the friction in the blades' retention bearings becoming too high and that the force of the hydraulic actuator caused the damages (and that) the magnitude of the friction increase results in high actuator pitch change forces applied to the blade trunnion pins and actuator plates". 
+It was noted that the assessment of the investigated event as one in which "there was a high probability that an accident would occur" (i.e. a Serious Incident) was based on "damages (that) were of such a nature that they could have developed into structural damages in the engine installation" and that "the fact that the incident occurred under visual weather conditions has likely allowed for control of the aircraft to be maintained despite the pilots' difficulties reading the instruments".
+The formal statement of Findings from the Investigation included the following:
+
+
+ There was no specific procedure for handling engine vibrations.
+
+ The sequence starting with the vibrations and ending in the feathering of the propeller lasted just over a minute.
+
+ Six similar incidents have occurred, two of which are under investigation by foreign safety investigation authorities.
+
+ The mechanisms that caused the propeller damage could not be established.
+
+ Information on the situations in which similar incidents can occur and how they should be handled has been communicated to the concerned operators.
+
+
+The Investigation was unable to establish the cause of the Serious Incident. Whilst it was accepted that the aircraft manufacturer's interim procedure to deal with the issue pending resolution of the underlying cause was accepted, evidence assembled during the Investigation meant that the SHK "did not share the propeller type certificate holder's opinion on what caused the incident". It is therefore unlikely that their current response will address the outstanding airworthiness risk. The Investigation "has established that both the aircraft type and propeller type have undergone a number of small changes since their original certification" and that whilst "there is nothing to suggest that any particular change has constituted the cause of the (incident), it would however be valuable to investigate in greater detail whether the combined effect of the changes which have been made are such that they have a negative impact on the aircraft type's properties".
+Accordingly, the Investigation was "unable to establish the Cause of the Serious Incident". It was concluded that "additional extensive engineering initiatives are necessary in order to find the cause of the incident and that such initiatives should be the responsibility of the aircraft and propeller type certificate holders, under supervision of the certifying authorities" and noted that it has become clear that "incidents of a similar nature have taken place under similar circumstances".  
+In the light of this conclusion, the following Safety Recommendation was issued:
+
+
+ that the EASA should consider introducing temporary limitations in the manoeuvring envelope, or limitations of the power ranges within the latter, until the problem is resolved and rectified. [RL 2016:07 R1]
+
+
+The Final Report of the Investigation was published on 19 October 2016
+
+Related Articles
+
+Airworthiness
+
+Continuing Airworthiness
+
+Propeller
+
+Engine Failure: Guidance for Controllers
+
+
+Further Reading
+
+SIB No. 2015-03R1: ATR 42-400, 42-500 and 72-212A aeroplanes - Propeller / Engine Vibrations In Flight, EASA, 19 Jan 2016
+
+
+
+
+
+

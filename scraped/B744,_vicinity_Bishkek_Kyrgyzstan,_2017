@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 16 January 2017, a Boeing 747-400F (TC-MCL) being operated for Turkish Airlines by ACT Airlines as TK 9491, an international cargo flight from Hong Kong to Istanbul Ataturk via a planned transit stop at Bishkek, failed to land following a night ILS approach at Bishkek conducted in IMC and crashed and caught fire just beyond the end of the intended landing runway. The aircraft was destroyed and its four occupants killed. 35 local residents were also killed and 37 others were seriously injured.
+
+Investigation
+An Investigation is being carried out by the Air Accident Investigation Commission of the Interstate Aviation Committee (MAK). Both the DFDR and the CVR were recovered from the wreckage and their data were successfully downloaded. No evidence has yet been found which might suggest that the aircraft was not airworthy prior to the crash.
+The 58 year-old Captain had accumulated 10,808 total flying hours of which 820 hours were on type under training for and as commander. It was noted that seven years earlier when he was an Airbus A300 First Officer, he had been involved in a landing accident involving the collapse of the left hand main gear. The available evidence indicated that he had been PF. The 59 year-old First Officer had accumulated 5,894 total flying hours of which 1,758 hours were on type. Both pilots had formerly been in the Turkish Air Force and both had had three days off in Hong Kong prior to commencing the accident flight. A Loadmaster and an Aircraft Technician were also on board.
+It was established that towards the end of the en route cruise with the AP engaged, the crew had anticipated the likelihood of fog at Bishkek and had conducted a briefing for a low visibility ILS Cat 2 approach to and automatic landing on the 4,204 metre-long, 55 metre-wide runway 26 there. The ILS had a standard 3° glideslope and was Cat 2 approved. The corresponding 99 feet Cat 2 DH and the runway threshold elevation of 2,055 feet were noted. 
+Descent from FL340 was commenced 130 nm from Bishkek. As the aircraft continued towards the final STAR waypoint at approximately 16nm from touchdown, the aircraft began to gain altitude and crossed this position over 3,000 feet above the minimum crossing altitude. Shortly after this, the QNH of 1023 hPa was given by ATC and set by the crew and the aircraft was cleared for the ILS approach with descent to the procedure 'platform' of 3,400 feet QNH. At 12.5 nm range, the aircraft was at 250 KCAS and the first stage of flap was selected. CVR data showed that by this stage the crew were monitoring altitude and aware that they were high. 
+Descending through 5,700 feet with FLC mode selected and 3,400 feet (from which ILS GS descent should then begin at 3.2 nm) as the associated target altitude, the DFDR recorded LOC capture. At this point, there was just under 3 nm to go to the final descent point. All three APs were engaged at LOC capture followed by gear down and flap 20 with speed continuing to reduce through 190 KCAS. As the 3.2nm final descent point was reached, the aircraft was still 600 feet above the charted altitude, which it only reached - and levelled at with 'ALT HOLD' mode engaged - nearly 2 nm further on (see the achieved vertical profile in the illustration below). The ILS GS indication was showing a maximum fly-down deflection and although the GS mode was armed, the GS was not captured. Soon after the aircraft passed over the Outer Marker (approximately 2.1 nm from the threshold) whilst still level at 3,400 feet QNH, the charted procedure altitude for this position being 2,800 feet QNH. TWR passed the final RVRs as 400/325/160 metres, gave the Vertical Visibility as 160 feet aal and issued landing clearance.  
+About 10 seconds after this and with approximately 1.1nm to go to the threshold, "a glideslope signal was captured (and) the aircraft automatically initiated descent with a vertical speed of up to 1,425 fpm". The aircraft began to follow an approximately 9° descent at 160 KCAS which took it along the extended and actual runway centreline.  The Investigation concluded that once this descent began, "the glideslope pointer was fluctuating within +/- 4 dots" and that "15 seconds after the glideslope had been captured ... 'AP CAUTION' and 'FMS FAULT 2' annunciations began". These annunciations were thereafter continuously recorded until almost the end of the flight. The Investigation noted that the FAULT 2 annunciation meant that, as the aircraft approached the intended landing runway threshold, the AFDS had determined that it could no longer be tracking the ILS GS. This would not only have led to the EICAS 'AP CAUTION' but also to an aural MASTER CAUTION, the removal of the FD command bars from both PFDs and the appearance of a yellow line through the FMA GS annunciation on both PFDs. In this situation, in common with all other Boeing types, the AP remains engaged and the aircraft follows an inertial flight path which defaults to a 3° descent profile. This continues until either a valid GS signal is detected, the crew activates TOGA or ground proximity triggers the 'FLARE' mode. 
+As the aircraft approached the upwind end of the runway, five activations of the EGPWS Mode 5 'GLIDESLOPE' were recorded within a 7 second period and soon after this, the aircraft overflew the upwind runway threshold at about 110 feet agl. The 100 feet EGPWS auto callout was followed by the First Officer calling 'Minimums' and the Captain responding that there was no visual reference and announcing a go around. DFDR data indicated that at 58 feet agl and half a second after 'FLARE' mode had activated, the TOGA switch was pressed and thrust began to increase. Some 3½ seconds later, ground/obstruction impact began 930 metres beyond the end of the runway. Impact at up to 6g led to aircraft break up and a post crash fire which began in the central fuselage area and subsequently consumed most of the structure.
+
+ The vertical flight path of the final approach [reproduced from the Official Report]
+A total of six Safety Recommendations have been made as a result of the Investigation so far as follows:
+
+
+ that Flight Crews pay attention to following approach charts, monitoring distance and altitude during reference points (FAF, LOM, LMM) overflight when conducting ILS approaches, especially when conducting ICAO CAT II and CAT III approaches. 
+
+ that Flight Crews should be informed that in the event that ground references are not visible, go-around shall be initiated at no lower than the established decision height. 
+
+ that Air Traffic Controllers who have pertinent equipment available should inform flight crews of any significant altitude deviations from that established by the (applicable) approach charts, especially for ICAO CAT II and CAT III approaches (conducted under) Low Visibility Procedures and (to support this, corresponding) amendments to the procedures and job descriptions of air traffic control personnel should be considered. 
+
+ that Senior Management of Airlines operating Boeing aircraft (all models) should arrange theoretical and (if needed) practical training to cover awareness, procedures and aspects of flight operations when Autopilots switch to inertial mode during a glideslope descent. Also, the applicability of this recommendation to the aircraft of other manufacturers should be considered. 
+
+ that the FAA in cooperation with the Boeing Company consider the practicability of changing the Autopilot logic to prevent occurrences in which the inertial glideslope descent (in LAND 3 or LAND 2 mode) is followed in cases where the approach path does not (lead to) a landing in the appropriate area on the runway. It is recommended that other certification authorities and aircraft manufacturers consider the applicability of this recommendation taking into account actual Autopilot algorithms. 
+
+ that Airport Administrations analyse the acceptability of construction in the immediate vicinity of aerodromes and, in case findings are raised, take appropriate decisions in cooperation with pertinent authorities.
+
+
+A Preliminary Report in the form of a “Courtesy Translation” into English detailing initial progress in the collection of factual information in respect of the Accident was released on 24 March 2017 and has provided the basis for this summary article. It is noted that if additional factual information becomes available, this Report as initially issued may be "clarified and updated".
+
+Related Articles
+
+Controlled Flight Into Terrain (CFIT)
+
+Post Crash Fires
+
+Low Visibility Procedures (LVP)
+
+Instrument Landing System (ILS)
+
+Autoland
+
+Decision Altitude/Height
+
+
+
+
+
+

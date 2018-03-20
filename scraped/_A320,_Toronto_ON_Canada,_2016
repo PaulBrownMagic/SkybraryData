@@ -1,0 +1,115 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 30 January 2016, an Embraer 190-100 (C-FNAW) being operated by Air Canada on a scheduled passenger flight from Toronto to New York La Guardia as ACA 726 entered runway 24R at night in normal ground visibility at the same time as an Airbus A320 (C-FZQS) being operated by Air Canada on a scheduled passenger flight from Puerto Vallarta, Mexico to Toronto as ACA 1259 was about to land on it. The A320 crew advised ATC of this at 270 feet agl and initiated a go around. The Embraer 190 was subsequently cleared to take off and the A320 subsequently landed on its second approach.
+
+Investigation
+An Investigation was carried out by the Canadian Transportation Safety Board (TSB). Sufficient relevant recorded data and testimony was available to enable a detailed reconstruction of the events leading up to the incursion. It was noted that the prevailing weather conditions had been benign and had played no part in the incursion.
+It was found that the E190 Captain who was PF at the time of the incursion had approximately 10,000 total flying hours which included 1,259 hours on type and a total of 8,524 hours on "Airbus-type aircraft". The First Officer, had approximately 8,200 total flying hours which included 2,500 hours on type. The flight departure which led to the incursion was noted to be the Captain's first and only flight in his period on duty that day. For the First Officer, it was the third of three flights in the day’s duty period. The TWR controller involved was also the shift supervisor and had been a controller at Toronto since 2005 and a shift supervisor since 2008. Prior to the incursion, traffic had been relatively light with only runway 23 (departing traffic) and 24R (arriving traffic) being open (see the aerodrome chart below) and the two available tower positions, north and south, had been combined. However, shortly before the incursion occurred, it had been decided that both runways would be used for arriving and departing traffic and the two positions had reverted to individual control with the shift supervisor taking the south tower position covering runway 24R and the north tower position covering runway 23.
+It was established that after the E190 crew had encountered a problem with the FMS which became apparent after engine start and which had resulted in a clearance to taxiway DV where they would be able to stop and resolve it, and they had reported ready for departure to GND aware that a departure from runway 24R could be expected. However, the controller thought the call had been from Air Georgian (GGN) 7286, a Beech 1900 which would also be departing from 24R and responded to that aircraft. On subsequently repeating their call, GND instructed the E190 to "...give way to that Georgian and taxi into the holding bay" - see the second illustration below.
+
+ The Toronto Airport Taxi Chart applicable at the time of the incursion. [Reproduced from the Official Report]
+Whilst this was happening, TWR cleared the A320 to land on Runway 24R. GND asked if the E190 was ready to go and on receiving an affirmative reply, advised that as the Beech 1900 on the left side of the runway 24R holding bay was not yet ready, the E190 could "go to the right side" and change to the TWR frequency 118.35. It was subsequently found "this transmission was interpreted by ACA726’s flight crew as authorisation to go to the right runway (i.e. Runway 24R) and the crew had read back "Over to the right side, eighteen thirty-five...""
+As the E190 taxied forward, both pilots reported seeing an aircraft on final approach and believing it to be approaching parallel runway 24L. While planning the release of the E190, the TWR controller saw on the A-SMGCS display that it was approaching the hold line and then looked away towards final approach to ensure that it would be possible to have the E190 taxi into position on the runway in preparation for take-off between the A320 about to land and the next approaching aircraft. Whilst he was doing this, the E190 continued taxiing over the hold line and 12 seconds later crossed the edge of Runway 24R which activated a RIMCAS (Runway Incursion Monitoring and Conflict Alert System) Stage 1 visual alert on the A-SMGCS display which "went unnoticed".
+
+ The route taken by the E190 to reach the Runway 24R holding bay next to the Beech 1900. [Reproduced from the Official Report]
+Approximately 5 seconds later, as the E190 was turning onto the Runway 24R centreline, the crew of the A320 on final approach, which was descending through 270 feet agl transmitted on TWR that there was an aircraft on the runway and that they were commencing a go around. As this transmission was in progress, a Stage 2 aural RIMCAS Alert was activated. The A320 subsequently over flew the E190 as it climbed through 580 feet agl. The TWR controller "could not visually see (the E190) on the runway from the south tower controller work position" and when asked where they were, the E190 crew reported that they were on runway 24R to which the controller responded that they had not been given authorisation to line up on Runway 24R and requested that they hold position. Take-off clearance was subsequently given to the E190 and the A320 landed off its second approach.
+After the crew's night stop at La Guardia, the E190 Captain "discussed the occurrence with the Chief Pilot and it was agreed to continue with flight operations for that day and after completion of his flying duties, an ASR was submitted to the Company".
+The Investigation reviewed a number of safety issues which it considered that the incursion had highlighted as follows:
+
+
+Controller Phraseology
+
+
+ANSP NavCanada's 'Air Traffic Control Manual of Operations' content on controller use of phraseology at the time of the incursion was found to permit controllers to “issue taxi authorizations and instructions in plain, concise language to aircraft taxiing on the manoeuvring area". It also required a controller "to instruct an aircraft to taxi, cross or hold short of any runway/taxiway it will cross while taxiing". However, it was found that it did not "require an air traffic controller to instruct an aircraft taxiing for departure to hold short at the departure end of a runway that will be used for takeoff" since in this case pilots "must not cross a hold line on a taxiway leading to a departure runway that will be used for takeoff unless they have received either an authorisation to line up on the runway in preparation for takeoff, or an authorisation to take off". It was noted that "under normal circumstances, an airport (TWR) controller, not a ground controller, will authorise an aircraft to line up on the runway in preparation for takeoff". The Investigation also found GND controllers at Toronto used differing phraseology when issuing taxi instructions into a holding bay with the variations including “go to the right/left”, “stay to the right/left” and “stay west/east”.
+
+
+Non-use of Stop Bars
+
+
+The fact that the available in-pavement illuminated stop bars were not in use at the time of the incursion was also reviewed. It was noted that Safety Regulator Transport Canada's publication 'Aerodromes Standards and Recommended Practices' (TP 312) was "the authoritative document that dictates airport requirements in Canada" and that requires that “a stop bar is provided at every runway-holding position serving a runway operating in visibility conditions below RVR 1200 feet" (366 metres). It was found that at Toronto, "stop bar lights are illuminated at the hold line across taxiways that cross an active runway, (but) they are not illuminated at the hold line across a taxiway or in a holding bay at the departure end of an active runway unless the airport is operating under reduced visibility", the latter defined as being when RVR is less than 2,600 feet (792 metres) but greater than 1,200 feet (366 metres).  
+The statement in ICAO Annex 14 Volume 1 that runway incursions “may take place in all visibility or weather conditions (and that) the provision of stop bars at runway-holding positions and their use at night and in visibility conditions greater than 550 metres (1800 feet) Runway Visual Range can form part of effective runway incursion prevention measures” was also noted, as was ANSP NavCanada's action to draw attention to it. However, it was found that "some controllers reported that turning the stop bar lights on and off was cumbersome and time consuming, and that their use at the departure end of a runway could impede airport operations".
+
+
+RIMCAS effectiveness
+
+
+It was noted that the RIMCAS installed at Toronto had two distinct modes of operation, stop bar overrun monitoring and runway incursion monitoring. It was found from the NavCanada publication describing the system that "the stop bar overrun monitoring function of the RIMCAS assesses aircraft and vehicle target position reports and generates an aural alert to the air traffic controller whenever any target reported by the A-SMGCS crosses an illuminated stop bar that is associated with a hold line and that has not been disabled first" unless the target is an aircraft that has landed or a vehicle leaving the runway. This source also stated that the runway incursion monitoring function of the RIMCAS "assesses aircraft and vehicle target position reports from the A-SMGCS in order to warn the air traffic controller of a runway area incursion by aircraft or vehicles when an aircraft is due to land or take off on an active runway" with the "runway area" described as "normally comprising the entire active runway and associated sensitive areas". These functions of the system were noted as being "designed to inform an air traffic controller that a runway incursion has occurred and allow for alternate instructions to be issued by the air traffic controller to the aircraft or vehicles involved".
+It was noted that given the prevailing visibility conditions, there was no requirement for the stop bar co-located with the hold line in the holding bay leading to Runway 24R in use and so the RIMCAS stop bar overrun monitoring function was not active. It was found that the RIMCAS runway incursion monitoring function was configured to monitor the final approach area of Runway 24R and configured to provide a Stage 1 visual alert 30 seconds ahead of a landing aircraft conflict and a Stage 2 aural alert 20 seconds ahead of a landing aircraft conflict, a conflict being defined as another aircraft or vehicle crossing the runway edge. In the investigated incursion, the RIMCAS Stage 1 alert was activated when the E190 crossed the edge of the runway by which time the A320 was less than 30 seconds from the threshold. The RIMCAS Stage 2 Alert occurred about 5 seconds later as the E190 was turning onto the centreline.
+
+
+Visibility of the runway 24R threshold from the TWR at night
+
+
+It was noted that the threshold of Runway 24R was approximately 1.4 nm from the TWR and that when it is dark, the view of the area from the south tower position "is saturated with various lights from Terminal 1" part of which lies between the TWR cabin and the runway threshold (see the aerodrome chart above). The A-SMGCS display is therefore routinely used to confirm the positions of aircraft which was done in this case before the E190 crossed the hold line but not afterwards. 
+The Investigation also considered whether fatigue might have affected the performance of the E190 pilots but concluded that on the evidence available this had not been a factor for either pilot. It was nevertheless concluded that because of commuting from his home in Winnipeg to begin work out of Toronto on the day of the incursion, "it is likely that the First Officer was fatigued at the time of the occurrence". However, it was considered that the fact that both pilots had had "a common understanding" of the GND controller’s instructions as being an authorisation to taxi onto the active runway mitigated against his fatigue having been a relevant factor.
+Finally, it was noted that risk-bearing Runway Incursions, and in particular the risk of high speed runway collisions as a result, remained an ongoing national safety concern and that Runway Incursions had been on the TSB’s "Watchlist" of key safety issues since 2010. It was noted that NavCanada had recorded over 2000 runway incursions at Canadian Airports from 2011 to 2015, with 27 of these being recorded as serious events.
+The formally-stated Findings as to Causes and Contributing Factors were as follows:
+
+
+ The plain-language taxi instruction issued by the ground controller was misinterpreted by the flight crew, and the flight crew’s readback using the same phraseology was ineffective in confirming that the ground controller and the flight crew had a common understanding. 
+
+ Due to a misinterpretation of the taxi instruction, ACA726 taxied across the hold line and onto Runway 24R without an authorisation from the (runway) controller to line up on the runway or take off. 
+
+ Given that the airport controller’s attention was directed toward the arriving aircraft, the controller did not detect ACA726 crossing the hold line and taxiing onto the runway. 
+
+ When the runway incursion monitoring and conflict alert system (RIMCAS) stage 1 visual alert displayed on the tower advanced surface movement guidance and control system (A-SMGCS) display, the airport controller’s attention was directed toward the aircraft on final approach, resulting in the stage 1 alert being undetected on the A-SMGCS display. 
+
+ Five seconds later, the RIMCAS stage 2 alarm sounded in the tower at the same time that the ACA1259 flight crew reported to the airport controller that there was an aircraft on the runway and that they were overshooting the runway. The RIMCAS stage 2 aural alarm did not provide a timely warning to the airport controller to provide alternate instructions to the flight crews.
+
+
+Four formally-stated Findings as to Risk were as follows:
+
+
+ If air traffic controllers are not required to use standard phraseology that reinforces the need to hold short of a departure runway, there is an increased risk of miscommunication leading to runway incursions. 
+
+ If plain-language phraseology used by air traffic controllers is not explicit, there is a risk of miscommunication between air traffic control and flight crews. 
+
+ If airport lighting system stop bars are not illuminated at a hold line across a taxiway or in a holding bay leading to a departure runway and the RIMCAS stop bar overrun monitoring function is not used, there is an increased risk that an airport controller will not be alerted to an unauthorised movement of an aircraft or vehicle across a hold line. 
+
+ If required commuting flights are not included as part of the pilot’s duty day, there is an increased risk of pilots operating while fatigued due to prolonged periods of wakefulness.
+
+
+Safety Action taken as a result of the occurrence was noted as having included:
+
+
+ Nav Canada made a number of modifications to the configuration of the A-SMGCS RIMCAS functions to improve their effectiveness.  
+
+ Air Canada formulated changes to their Flight Operations Manual in respect of air traffic clearances classified in that Manual as "critically important" requiring crews to "reconcile, using standard phraseology, any critically important clearance issued using non-standard phraseology, whether the crew believes they fully understand the instruction or not".
+
+
+The Final Report of the Investigation was authorised for release on 29 March 2017 and it was officially released on 24 May 2017. No Safety Recommendations were made.
+
+Related Articles
+
+Runway Incursion
+
+Active Ground Lighting Control
+
+Non-Standard Phraseology
+
+Standard Phraseology
+
+Radio Discipline
+
+Advanced Surface Movement Guidance and Control System (A-SMGCS)
+
+Controller Detection of Manoeuvring Area Conflicts
+
+
+
+
+
+

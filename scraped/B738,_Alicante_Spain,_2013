@@ -1,0 +1,144 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 27 March 2013, a Boeing 737-800 (EI-DLE) being operated by Ryanair on a scheduled passenger flight (9054) from Alicante to Baden-Baden reached FL220 before reporting a suspected tailstrike during the daylight VMC take off to ATC and requesting a return. During the subsequent descent, inappropriate crew selections affecting cabin pressurisation led to an almost instant depressurisation at FL130 whilst the aircraft was descending at 3000 fpm and the flight crew temporarily donned their oxygen masks. The approach and landing followed without further event and the damage to the aircraft was found to be only superficial. Only transient pain and or discomfort was suffered in the passenger cabin during the depressurisation and its aftermath.
+
+Investigation
+An Investigation was carried out by the CIAIAC. Recorded data relevant to the Investigation was recovered from the FDR, QAR and CVR. Conversation between the pilots was in both English and Dutch and assistance was obtained from the Dutch Safety Board to translate the Dutch into English. 
+It was found that whilst the 49 year old aircraft commander was experienced both generally and on the aircraft type, the 24 year old First Officer, who had been PF for the flight, had just over a year of experience on the aircraft type and that this constituted almost all his total flying experience. 
+During rotation from runway 28 in the presence of a light crosswind, both pilots had "felt something strange" and had realised that the normal rotation to achieve a 7° pitch angle had reached 15°. The possibility of a tailstrike had subsequently  been discussed and during the initial climb after take off, the Purser had informed the Captain by interphone that her crew members at the rear of the cabin  had reported hearing "a strange noise at the end of the take off run".
+An uninterrupted climb was continued as cleared but after further conversations with the cabin crew, the commander "decided to stop the climb at FL 220" and return to Alicante.   
+ATC were informed of the situation and were recommended to carry out a runway inspection for possible debris. However, after receipt of this message, another aircraft was cleared to take off from the same runway before it had been inspected - without consequence.
+Passing FL136 in the descent to return with a 4.9 psi pressure differential, the Captain changed the cabin pressure control from automatic to manual and selected the outflow valve to its fully open position. This resulted in an immediate rapid depressurisation with recorded data showing that the cabin pressure altitude had risen from 2160 ft to 13320 ft in around 30 seconds. The pilots donned their oxygen masks pending the return of a safe cabin altitude. Activation of the Cabin Pressure Warning followed and continued for a little over 2 minutes until the cabin altitude was approaching 9000  feet. On removing their masks, the CVR recorded the Captain saying (in Dutch) "[expletive] We shouldn't have done that" followed by the First Officer saying (also in Dutch) "No, I have no idea what’s going on with this".
+Forty seconds after manual mode was selected, automatic mode was re-selected but by then, the pressure differential was zero and the system initially commanded the valve to close to reduce the cabin altitude from the 13,000 feet it was at the time. With the aircraft descending at around 3000 fpm, the negative differential pressure was increasing  and this caused the outflow valve to return automatically to its fully open position to maintain zero differential pressure. This protective measure, operating as designed, overrode the normally automatic limit on the rate of change of cabin pressure so that this became close to that of the aircraft. A slight lag in the cabin pressure following the outside pressure resulted in a slight negative differential pressure, maximum -0.37 psi.
+When the aircraft levelled at 6000 ft and the outside pressure stopped increasing so quickly, the pressure controller working in automatic was able to pressurise the cabin again by closing the outflow valve and re-instating the normal cabin pressure regime for further descent and the cabin differential pressure remained positive and less than 1 psi for the rest of the flight. 
+The Cabin crew received reports from passengers complaining of "earache" and reported these to the Captain who subsequently made a PA to the passengers apologising for any discomfort the sudden change in pressure may have caused. The Purser, who advised having "a lingering sinusitis due to a cold", reported that she had experiencing severe and persistent pain in her ears and sinuses. 
+The approach and landing were made without further incident and although a subsequent inspection of the aircraft confirmed runway contact, only minor damage had occurred and no maintenance intervention was required for release to service.
+The recorded data showed that during the take off roll, the First Officer had made a modest left bank input to the control column commensurate with the light cross wind component but this had increased to 48º during rotation which resulted in deployment of the left wing roll spoilers and a reduction in lift. The ground-air transition signal from the MLG was recorded first on from the left side when the pitch angle was approximately 10º and then from  the right side with a pitch angle of 11.7º, in excess of the 11º needed for the tail to strike the ground with the oleos extended. At the same time, the initial rotation rate of 3º/second increased to 5º/second, in excess of the recommended value and the recorded vertical acceleration reached a local maximum, indicative in itself of a tailstrike.
+It was noted that the Checklist which the crew eventually used in response to their conclusion that a tailstrike had occurred did not mention the effects that the achieved flight level might have on its execution nor did it recommend stopping the climb as a priority after take off.
+The Conclusion of the Investigation was that:
+
+
+
+ The tailstrike took place during take-off as a result of an excessive rate of rotation during the final phase of this manoeuvre, accompanied by a partial loss of lift caused by rotation during a wind gust that contributed to a change in the headwind component and the deployment of the spoilers on the left wing, which deployed due to the magnitude of the control wheel by the pilot flying in an effort to offset the effects of the gust of wind
+
+
+
+
+
+
+The manual opening of the outflow valve by the crew as per the applicable procedure but not promptly following the tailstrike led to the sudden depressurisation of the cabin at an altitude of 13,600 feet.
+
+
+
+
+
+
+ Even though the crew reported the tailstrike to ATC, the tower controller did not recognise the nature of the event and authorised two movements on the runway before it was checked and verified to be free from foreign objects.
+
+
+
+
+Contributing Factors in this event in respect of the operation of the aircraft were determined as :
+
+
+
+ The flight crew delay in performing the QRH procedure for Tail Strike which per the Boeing Flight Crew Training Manual should be performed when a tail strike is suspected or known.
+
+
+
+
+
+
+ The uninterrupted climb during the time it took the crew to conclude that the airplane had in fact struck the runway.
+
+
+
+
+
+
+ The failure of the relevant non-normal checklist in the QRH to mention the importance of the flight altitude.
+
+
+
+
+Contributing Factors in this event in respect of the response of ATC to the report of a tailstrike were determined as :
+
+
+
+ Deficient communications between ATC and the aircraft.
+
+
+
+
+
+
+ The lack of knowledge of the tailstrike phenomenon by the ATC personnel involved.
+
+
+
+
+Four Safety Recommendations were made as a result of the Investigation as follows:
+
+
+
+ that Boeing revise the “Tailstrike” Checklist in the B737 QRH and evaluate the suitability of explicitly mentioning the implications of the flight level at which the procedure is carried out and the explicit recommendation to interrupt the climb. [REC 27/14]
+
+
+
+
+
+
+ that Ryanair, as part of its training program, emphasise and reinforce the importance of avoiding an increase in flight level insofar as possible whenever a tailstrike is suspected during take-off, as well as the implications that the flight level has on the execution of the associated procedure. [REC 28/14]
+
+
+
+
+
+
+ that AENA Air Navigation, as part of the procedure and training on emergency and abnormal situations, include known as “tailstrike events” and explicitly include the implications that this type of event can have on the presence of foreign objects on the runway. [REC 29/14]
+
+
+
+
+
+
+ that AENA Air Navigation, as part of the procedure and training on suspected birdstrikes during take-offs and landings, underscore the hazard associated with the presence of (any) foreign objects on the runway and the need to immediately check the affected runway before authorising new operations on it. [REC 30/14]
+
+
+
+
+The Final Report was approved on 28 May 2014 and subsequently made available in English translation. 
+
+
+Further Reading/Related Articles
+
+Tail Strike
+
+Loss of Control
+
+Aircraft Pressurisation Systems
+
+Loss of Cabin Pressurisation
+
+Situational Awareness
+
+Absence of Procedure
+
+Information Processing
+
+
+
+
+
+

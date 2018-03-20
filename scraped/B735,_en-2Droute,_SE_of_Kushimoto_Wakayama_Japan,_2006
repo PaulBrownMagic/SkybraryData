@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 The Investigation
+3 Safety Actions
+4 Related Articles
+5 Further Reading
+
+
+Description
+On 5 July 2006, during daytime, a Boeing 737-500, operated by Air Nippon Co., Ltd. took off from Fukuoka Airport as All Nippon Airways scheduled flight 2142. At about 08:10, while flying at 37,000 ft approximately 60 nm southeast of Kushimoto VORTAC, a cabin depressurization warning was displayed and the oxygen masks in the cabin were automatically deployed. The aircraft made an emergency descent and, at 09:09, landed on Chubu International Airport.
+Of the 46 persons on board the aircraft, including the Pilot in Command, 4 other crewmembers and 41 passengers, no one was injured.
+
+The Investigation
+The investigation came to the following probable cause:
+It is estimated that this serious incident would have occurred through the following process: the aircraft encountered turbulence when flying at FL370, quickly reduced the engine power in order to avoid excessive airspeed, and this in turn caused a change of the source of bleed air, which resulted in bleed air with higher temperature flowing into the pre-coolers, but the bleed air was not cooled sufficiently, and the overheat switches activated, closing the bleed valves for both systems and thus preventing the air supply necessary for pressurization of aircraft, ultimately resulting in an abnormal cabin depressurization.
+It is estimated that the overheat switches activated because the operation of the control valves (PCVs) was sluggish due to contamination. 
+It is estimated that contamination deposits on the bleed related valves and other components resulted from incomplete draining of water and detergent which entered these components in large quantities during water washing conducted for engine gas path cleaning.
+No Safety Recommendations were made.
+
+Safety Actions
+The report contains a section with the actions that were taken:
+
+
+Actions taken by the company to prevent the recurrence
+
+
+After this serious incident, the company issued an AMM Bulletin (Aircraft Maintenance Manual), which has higher priority than the TSI (Technical Service Information), to implement improvements including measures to ensure complete removal of water after water washing of the engines on aircraft of the same type as the aircraft involved in this serious incident. In addition, the company decided to carry out engine water washing at its own facilities.
+
+
+Actions taken by the aircraft manufacturing company to prevent the recurrence
+
+
+The aircraft manufacturing company’s AMM issued before this serious incident had stipulated in one item of the procedure that the anti-ice switches and bleed switches should be in
+the OFF position as a preparation work performed prior to the water spraying of the water washing. However, after this serious incident, taking into account the importance of this work, the aircraft manufacturing company amended the AMM as of July 12, 2007 and stipulated each switch operation as two independent items.
+
+Related Articles
+
+Jet Stream
+
+Clear Air Turbulence
+
+Loss of Control
+
+Airworthiness
+
+
+Further Reading
+
+ ARAIC Japan Aircraft Serious Incident Investigation Report AI2008-3
+
+
+
+
+
+

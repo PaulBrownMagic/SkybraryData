@@ -1,0 +1,331 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+3 Causes of the Accident
+4 Related Articles
+
+
+Description
+On 20 August 2008, a McDonnell Douglas  MCDONNELL DOUGLAS MD-82 being operated by Spanair on a domestic scheduled passenger flight from Madrid Barajas to Gran Canaria crashed on departure immediately after becoming airborne from runway 36L in day VMC and impacted terrain to the east of the runway. The aircraft was destroyed by the impact and subsequent fire and 154 of the 172 occupants were killed with the remainder being seriously injured.
+
+Investigation
+An Investigation was carried out by the Spanish Accident Investigation Board, the CIAIAC. FDR and CVR data were available to aid reconstruction of the event, but some of the FDR data was corrupt due to a recorder fault. 
+It was noted that prior to the accident take off attempt, the aircraft had taxied out for departure but had returned for engineering attention to a faulty Ram Air Temperature (RAT) probe heating which had been functioning on the ground contrary to design intent. It was found that release to service based upon an incorrect application of the MEL had occurred, but that this could not be linked to the subsequent accident. 
+It was established that the takeoff, with the aircraft commander as PF had been unintentionally attempted without the flaps/slats being set to the required and intended position. Four seconds after becoming airborne over the runway, the stick shaker had activated and both pitch and roll control were lost as a stall occurred. The crew did not realise that the incorrect configuration was causing their problem and after 14 seconds airborne, the aircraft, having taken up a northeasterly track, impacted terrain at a position some 60 metres from the runway centerline. It continued for a further 1093 metres before coming to a final stop. It briefly became airborne again on reaching the edge of the elevated runway strip before further final impact led to break up and an intense fire. A maximum height of 40 ft12.192 m was reached.  
+It was found that there had been no activation of the take off warning system (TOWS) during the take off roll and it proved impossible to establish reliably what caused the TOWS to malfunction. However, it was found that there had been many previous instances in the world fleet where inoperative TOWS had been linked to faults with RAT probe heating like the one which had led to the accident aircraft returning to the gate after its initial departure. This association was attributed to a ground sensing relay which was by design common to both the airborne-only RAT probe heating and the on-ground only TOWS.  However, in the specific case of the accident aircraft, no such association could be proved.  
+Breach of SOPs during the taxi phases of the flight in respect of both the use of personal phones and in respect of the principle of a sterile flight deck had occurred. However, the key indiscipline was a failure by the crew to complete various Normal Checklists properly. Some items had been omitted and / or required items not actioned or checked. Conversations with a third person in the flight deck on topics that were irrelevant to the pilots’ duties were also noted and were considered to have contributed to a degree of crew distraction from their primary tasks.
+The Investigation noted that the TOWS was required to be operational prior to dispatch of a flight but that whereas at Spanair, a check of the system was only specified for the first flight of the day, the corresponding recommendation in the Boeing FCOM was a check on the first flight of the day and on “through flights”, a term that was not clearly defined. The accident aircraft had no provision for the annunciation of TOWS failure to the crew and it  was noted that the design criteria for TOWS like the one installed in MD 80 series aircraft were those of a back-up system rather than those of an essential system as required for certification of newer aircraft types based on more demanding reliability standards. This was allowable because ‘grandfather rights’ dating to the original DC9 family certification applied.
+The Investigation found several factors potentially related to pilot knowledge and training deficiencies which it was considered were the basis for human errors at various stages of the operation. It was considered that although Spanair CRM training was in compliance with regulatory requirements, “the circumstances of the accident pointed to bad coordination and improper CRM that failed to mitigate the individual errors made by both pilots”.
+The failure of training to include recognition and recovery from a take off stall was also noted, as were concerns in respect of use of the MEL, including generic concern that EASA guidance did not require that the source of a malfunction be identified as a precondition to the raising of an ADD - in the case of the accident aircraft the one for the faulty RAT probe heating activation - and other airworthiness issues. Inadequate regulatory oversight of both flight operations and continuing airworthiness at Spanair was also highlighted in the particular context of the pace of change in the Spanair operation and the case for enhanced regulatory oversight at such times.
+Various issues relating to the effectiveness of the Madrid Airport RFFS function were also noted during the Investigation. 
+The Investigation considered the record of prior accidents and incidents involving inappropriate take off configuration and subsequent stall for which the TOWS did not provide a warning including an MD82 at Detroit (1987), a Boeing 737 at Medan, Indonesia (2005) and an MD83 at Lanzarote, Spain (2007).
+Various Safety Action taken during the course of the Investigation, including by Boeing to improve the clarity of various documentation which was found to be open to mis-interpretation, was also noted.
+
+Causes of the Accident
+The Investigation found that the accident occurred because: 
+
+
+“the crew lost control of the airplane as a consequence of entering a stall immediately after takeoff due to an improper airplane configuration involving the non-deployment of the slats/flaps following a series of mistakes and omissions, along with the absence of the improper takeoff configuration warning”.
+
+
+It was also concluded that:
+
+
+“The crew did not identify the stall warnings and did not correct said situation after takeoff. They momentarily retarded the engine throttles, increased the pitch angle and did not correct the bank angle, leading to a deterioration of the stall condition. The crew did not detect the configuration error because they did not properly use the checklists, which contain items to select and verify the position of the flaps/slats, when preparing the flight”.
+
+
+And that specifically, that the flight crew:
+
+
+ did not carry out the action to select the flaps/slats with the associated control lever (in the ‘After Start’ checklist);
+
+
+
+ did not cross check the position of the lever or the status of the flap and slat indicating lights when executing the ‘After Start’ checklist;
+
+
+
+ omitted the check of the flaps and slats during the ‘Takeoff Briefing’ item on the ‘Taxi’ checklist;
+
+
+and that “the visual check done when executing the ‘Final Items’ on the ‘Takeoff imminent’ Checklist was not a real check of the position of the flaps and slats as displayed on the instruments in the cockpit”.
+The following Contributing Factors were also identified:
+
+
+ The absence of an improper takeoff configuration warning resulting from the failure of the TOWS to operate, which thus did not warn the crew that the airplane’s takeoff configuration was not appropriate. The reason for the failure of the TOWS to function could not be reliably established.
+
+
+
+ Improper crew resource management (CRM), which did not prevent the deviation from procedures in the presence of unscheduled interruptions to flight preparations.
+
+
+A total of 33 Safety Recommendations were made by CIAIAC as a result of the Investigation of which 8 were issued whilst the Investigaton was in progress as follows:
+
+
+ That the Federal Aviation Administration (FAA) of the United States and the European Aviation Safety Agency (EASA) require the manufacturer, the Boeing Company, to include in its Aircraft Maintenance Manual (AMM) for the DC-9 and MD-80 series, in the Troubleshooting Manual (TSM) for the MD-90 series, and in the Fault Isolation Manual (FIM) for the 717 series, specifically identified instructions to detect the cause and to troubleshoot the fault involving the heating of the RAT temperature probe while on the ground. 
+
+
+[REC 01/09]
+
+
+ That the Federal Aviation Administration (FAA) of the United States establish mandatory airworthiness instructions to modify the procedures contained in the aircraft flight manuals for the Boeing DC-9, MD-80, MD-90 and B-717 series so as to include a functional check of the TOWS prior to each flight. 
+
+
+[REC 07/09]
+
+
+ That the European Aviation Safety Agency and the Federal Aviation Administration (FAA) of the United States require the Boeing Company to evaluate the operating conditions, in-service life, reliability and failure modes of relays in position R2-5 of the ground sensing system in the DC-9, MD-80, MD-90 and B-717 series of airplanes and that it specify a maintenance program for this component based on the results of said evaluation. 
+
+
+[REC 08/09]
+
+
+ That the European Aviation Safety Agency and the Federal Aviation Administration (FAA) of the United States (should review the design of Takeoff Warning Systems (TOWS) be reviewed in transport airplanes whose certification standards did not require the installation of such systems or which, if they did require it, did not apply to them the guidelines and interpretation provided by AMC 25.703 in the case of the EASA, or circular AC 25.703 in the case of the FAA. The goal of this review should be to require that the TOWS comply with the applicable requirements for critical systems classified as essential in CS 25.1309 and FAR 25.1309. 
+
+
+[REC 09/09]
+
+
+ That the European Aviation Safety Agency and the Federal Aviation Administration (FAA) of the United States revise regulations CS-25 and FAR 25, respectively, on the certification of large transport airplanes to add a requirement that ensures that Take Off Warning Systems (TOWS) are not disabled by a single failure or that they provide the crew with a clear and unequivocal warning when the system fails. 
+
+
+[REC 10/09]
+
+
+ That the European Aviation Safety Agency revise the accompanying guidelines and the clarifying material for the CS-25 certification regulations for large transport airplanes so as to consider the human errors associated with faults in takeoff configurations when analytically justifying the safety of the TOWS, and to analyse whether the assumptions used when evaluating these systems during their certification are consistent with existing operational experience and with the lessons learned from accidents and incidents.
+
+
+[REC 11/09]
+
+
+ That the International Civil Aviation Organization (ICAO), the Federal Aviation Administration (FAA) of the United States and (the) European Aviation Safety Agency (EASA) jointly promote the holding of an international conference, to be attended by every civil aviation representative organisation, such as authorities, industry, academic and research institutions, professional associations and the like, for the purpose of drafting directives on good industry practices in the area of aviation operations as they apply to checklist design, personnel training and improved procedures and cockpit work methods so as to ensure that crews properly configure aircraft for takeoffs and landings.  
+
+
+[REC 12/09]
+
+
+ That the European Aviation Safety Agency (EASA) compile the results of studies and works done, as well as of any instructions and directives issued by civil aviation authorities to date, concerning the principles and guidelines relative to the:
+
+ design of checklists and
+
+ working methods in the cockpit
+
+
+
+
+
+so as to allow European operators and manufacturers and national authorities to have clear references on the state of the art in the design and application of checklists. 
+
+
+[REC 13/09]
+A further 25 Safety Recommendations were then published in the Final Report:
+
+
+   That the United States Federal Aviation Administration (FAA) and European Aviation Safety Agency (EASA) require takeoff stall recovery as part of initial and recurring training programs of airline transport pilots. 
+
+
+[REC 18/11]
+
+
+   That the United States Federal Aviation Administration (FAA) and European Aviation Safety Agency (EASA) study and assess the stall recovery procedure in the Aircraft Flight Manuals (AFM) of large transport airplanes to include a check of the flap/slat lever and its adjustment, if required. 
+
+
+[REC 19/11]
+
+
+  That the European Aviation Safety Agency (EASA) establish requirements for flight simulators so as to allow simulator training to cover sustained takeoff stalls that reproduce situations that could exceed the flight envelope limits. 
+
+
+[REC 20/11]
+
+
+ That the European Aviation Safety Agency (EASA), in keeping with ICAO initiatives, introduce in its regulations the concept of critical phases of flight and define those activities considered acceptable during said phases. 
+
+
+[REC 21/11]
+
+
+ That the European Aviation Safety Agency (EASA) and national civil aviation authorities, when evaluating operator training programs, expressly ensure that:
+
+the concept of sterile cockpit is stressed,
+
+the importance of adhering to said concept is stressed, along with the consequences of even minor distractions, and
+
+examples of accidents are included in which non-compliance with regulations involving the sterile cockpit was a relevant factor. 
+
+
+
+
+[REC 22/11]
+
+
+ That the European Aviation Safety Agency (EASA) ensure that national authorities require commercial air transport operators to prohibit their crews from using personal portable electronic devices on the flight deck. 
+
+
+[REC 23/11]
+
+
+  That the European Aviation Safety Agency (EASA) develop guidance material for the preparation, evaluation and modification of checklists associated with normal, abnormal and emergency procedures that is based on the criteria that govern safety management systems. 
+
+
+[REC 24/11]
+
+
+ That the European Aviation Safety Agency (EASA) clarify whether or not checklists are subject to the acceptance of national authorities and, if so, that it draft instructions so that said authorities apply uniform criteria and methodologies, such as methods for assessing the systems and procedures in use at the operators for managing checklists and quality assurance systems in general. 
+
+
+[REC 25/11]
+
+
+  That the European Aviation Safety Agency (EASA) perform investigations or studies intended to know the status of application and the real effectiveness of the current (EU) requirements applicable to Crew Resources Management (CRM). The results of these studies should permit to identify the weak points existing in this field and should contain proposals on how to strengthen them. 
+
+
+[REC 26/11]
+
+
+  That the European Aviation Safety Agency (EASA) standardise the CRM training that must be provided to the operations inspectors of national authorities, and define the criteria that must be met by said inspectors in order to exercise their duties as inspectors in the area of CRM. 
+
+
+[REC 27/11]
+
+
+  That Spanair expand its operations and instructional procedures to clearly specify the methodology and tasks sharing to be used by flight crew members when executing and verifying critical actions, like selecting the position of the flaps and slats. 
+
+
+[REC 28/11]
+
+
+  That Spain’s Aviation Safety Agency (AESA) ensure that the operational and instructional procedures at companies that operate MD-80 series airplanes clearly specify the methodology and tasks sharing to be used by flight crew members when executing and verifying critical actions, like selecting the position of the flaps and slats. 
+
+
+[REC 29/11]
+
+
+ That the European Aviation Safety Agency (EASA) undertake regulatory initiatives intended to require commercial air transport operators to implement a program of line operations safety audits, as part of their accident prevention and flight safety programs. 
+
+
+[REC 30/11]
+
+
+  That the United States Federal Aviation Administration (FAA) and the European Aviation Safety Agency (EASA) clarify the definition of an inoperative element that is contained in the preamble to all Master Minimum Equipment Lists (MMEL), so as to avoid interpretation errors in its application. 
+
+
+[REC 31/11]
+
+
+  That the United States Federal Aviation Administration (FAA) modify the Boeing DC-9, MD-80 and MD-90 Master Minimum Equipment List (MMEL) items 30.8, 34.9 and others that may be related to RAT probe heating on the ground so that said items include maintenance (M) and/or operating (O) instructions to check the TOWS. [REC 32/11]
+
+
+
+  That the European Aviation Safety Agency (EASA) issue an interpretation regarding the need to identify the source of a malfunction prior to using the MEL, and that it assure that national authorities accept and apply the same standards with regard to their procedures for overseeing operators in their respective States. 
+
+
+[REC 33/11]
+
+
+  That Spanair revise its maintenance procedures and draft instructions for relevant personnel so that any maintenance tasks performed are adequately described in maintenance records and provide sufficient details. 
+
+
+[REC 34/11]
+
+
+  That Spain’s Aviation Safety Agency (AESA) ensure that all of the maintenance tasks performed by Spanair be described adequately and with sufficient detail in the aircrafts’ technical records. 
+
+
+[REC 35/11] 
+
+
+  That Spanair revise its quality assurance system so that the implementation of any corrective measures adopted by its maintenance organisation is effectively monitored. 
+
+
+[REC 36/11]                                                                                             
+
+
+ That Spain’s Aviation Safety Agency (AESA) ensure that the Spanair quality assurance system provides effective monitoring of any corrective measures that are adopted by its maintenance organisation. 
+
+
+[REC 37/11]
+
+
+  That that Spanish Airports and Air Navigation (AENA) evaluate the need to retain the internal fence surrounding runway 36L, and if it is retained, that modifications be made to said fence to ensure more expeditious access to all areas of the airport situated beyond the fence. 
+
+
+[REC 38/11]
+
+
+  That Spanish Airports and Air Navigation (AENA) enhance the assistance provided by control tower personnel to Rescue and Firefighting Services (RFFS) in the event of an accident at an airport. 
+
+
+[REC 39/11] 
+
+
+ That Spanish Airports and Air Navigation (AENA) inform all the persons and groups involved in carrying out emergency plans and who are not under its authority, or to instruct them when under its authority, of the importance of respecting the decision-making process and to promote the flow of information. 
+
+
+[REC 40/11]
+
+
+It is recommended that Spanish Airports and Air Navigation (AENA) enhance the training of Rescue and Firefighting Services (RFFS) personnel in the area of first aid, and that it complement their training with courses on water search and rescue at those airports with water environments in which the use of special rescue services external to the airport is not anticipated. 
+
+
+[REC 41/11]
+
+
+ That the European Aviation Safety Agency (EASA) draft orientation texts and guidelines and instructions so that national authorities are better able to assess the general situation of commercial air transport operators that undergo notable changes, such as rapid expansions, a significant growth in their resources, or the opposite situation, a reduction in their activity or resources, such as through personnel layoffs, the purpose being for authorities to constantly adapt their monitoring plans to consider their evaluation of these changes so as to proactively detect and assess risk factors that point to a possible degradation in safety level. 
+
+
+[REC 42/11]
+The Final Report: A - 032/2008 of the Investigation was approved by the CIAIAC on 26 July 2011 and subsequently made available in  English translation on 31 October 2011. During the course of the Investigation, the CIAIAC issued a ‘Preliminary Report’ on 6 October 2008, an ‘Interim Report’ on 17 August 2009 and a ‘Progress Note’ on 17 August 2010. The Final Report incorporates the content of the earlier ones.
+
+Related Articles
+
+ Loss of Control
+
+ Take Off Stall
+
+ Interruption or Distraction
+
+ Managing Interruptions and Distractions (OGHFA BN)
+
+ Sterile Flight Deck (OGHFA BN)
+
+ Standard Operating Procedures
+
+ Minimum Equipment List (MEL)
+
+Takeoff Configuration Warning Systems (TOCWS)
+
+
+Similar Accidents and Serious Incidents on SKYbrary
+
+
+ MD82, Detroit MI USA, 1987: An almost identical accident when an MD82 being operated by Northwest Airlines took off from Detroit Metropolitan Airport with the flaps/slats retracted and a resultant loss of control and ground impact. In this case, the TOWS was also inoperative and so provided no warning of the incorrect configuation.
+
+ MD83, Lanzarote Spain, 2007
+
+ B732, Medan Indonesia, 2005
+
+ B732, Pekanbaru Indonesia, 2002
+
+
+
+
+
+

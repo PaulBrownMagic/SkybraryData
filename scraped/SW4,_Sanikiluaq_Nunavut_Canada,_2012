@@ -1,0 +1,210 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 22 December 2012, a Swearingen SA227-AC Metro lll (C-GFWX) being operated by Perimeter Aviation on a passenger charter flight from Winnipeg to Sanikiluaq as PAG993 crashed into terrain during an attempted late go-around in night VMC following an unstabilised tailwind non-precision approach. One of the nine occupants, an unsecured infant, was killed, one passenger and both pilots were seriously injured and the remaining five passengers sustained minor injuries. The aircraft was destroyed but there was no fire. 
+
+ The aircraft in its final resting position (reproduced from the Official Report)
+Investigation
+An Investigation was carried out by the Canadian TSB. The 2 hour CVR was recovered but the aircraft was not fitted with a FDR nor was it required to be. Both the installed GPS and the GPWS provided useful data.
+It was noted that the Captain had 2330 hours experience on type out of 5700 hours total flying experience and had originally joined the Operator as a First Officer in 2006, being promoted to Captain the following year. Soon after this, he had left to work for a series of other operators of heavier aircraft but had been re-employed by Perimeter as a Captain two months prior to the accident after being laid off from a previous job. Since returning, he had been to Sanikiluaq twice, once during the day and once at night, both in VMC. The First Officer had been employed by the Operator as a ramp worker whilst completing his multi-engine and instrument ratings before commencing work as a pilot on type in July 2011. It was the first time the two pilots had flown together. Both pilots reported having felt rested prior to their duty which was rostered as a return flight that would have taken them up to the maximum allowable crew duty time.   
+It was found that the accident flight was being operated in place of a scheduled flight which would normally have been flown the previous day by Keewatin Air, a "sister company" to Perimeter Aviation, but had been cancelled due to adverse weather at Sanikiluaq. It was noted that Perimeter did not operate scheduled flights to Sanikiluaq and also that the crew had been unable to obtain copies of AIP Charts required for their trip whilst at their fight planning office and were told to collect these at Keewatin Air prior to departure. They subsequently forgot to do this before getting airborne and rather than turn back to get them, had obtained information over the radio en route - although this had not included the direction for the procedure turn required for the only available instrument approach at Sanikiluaq - to runway 27 - nor the MDA (620 feet QNH) for the circling approach to Runway 09 which forecast conditions had indicated may be required.
+The crew pre-flight inspection of the assigned aircraft disclosed a faulty door warning indication and the necessary rectification accounted for most of the eventual 4 hour delay to the departure of the flight. The CVR recording showed that the Captain had "felt frustrated as a result of the pre-flight preparation issues" and that this had continued "during the non-emergency, non-stressful, 2-hour period" prior to descent. The cabin load consisted of freight in the rear half and passengers in the front half with the recorded weight being just a few kg below the permitted 7257kg maximum take-off weight. However, an additional 90 kg of fuel had also been loaded, which, it was calculated, would at normal consumption rates have allowed for an additional 20 minutes of flight beyond the 5 hours available using the declared fuel load.  
+The First Officer was designated as PF and a cruise level of FL230 was eventually reached to avoid some light turbulence. Shortly before starting descent on what was expected to be a flight of about 3 hours, a weather check of destination and nominated alternate (Kuujjuarapik - 90 nm from destination) disclosed that conditions at the latter were worse than forecasted. Weather for La Grande Rivière, some 260 nm south southeast of the destination, was therefore also obtained but it was then found that there was insufficient fuel to reach it. Although the conditions at Kuujjuarapik meant that a diversion there might not be practical, it was assessed that "there was sufficient fuel on board to conduct several approaches at destination before needing to consider diverting" and the flight was continued, with the Captain taking over as PF because of a Company Requirement that landings on gravel runways such as that at Sanikiluaq must only be made by Captains.
+The wind velocity at destination as the flight approached was given as 040º/15-20 knots. The published MSA was 1600feet QNH and sufficient reference for a straight-in approach to runway 09 was not available (see the diagram below which shows with numbered annotations the ground track for the remainder of the flight included as [n]). The aircraft continued towards the NDB [1] and then completed a procedure turn [2] (to the south rather than to the north as promulgated but terrain-safe due to it being flown at MSA) onto the NDB final approach to runway 27 [3] which had a touchdown zone elevation of 110 feet. GPS was used to determine distance from the NDB. There were no approach lights but runway identification lights - unidirectional flashing strobe lights - were installed and working.
+As the approach continued, "visual contact with the runway environment was made approximately 0.6 nm from the threshold of Runway 27" when just above the procedure MDA of 560 feet QNH. A left-hand circling for Runway 09 was then initiated [4] and the aircraft descended to an indicated altitude of approximately 500 feet - below the published minimum circling altitude of 620 feet QNH which had not been obtained - and 30 seconds later, "visual contact with the ground was lost and the circling manoeuvre was continued in IMC". A go-around was not called and the published missed approach procedure (turn right 10º and climb to 1600 feet QNH before turning right to return to the NDB) was not flown.
+
+ The ground track flown from the initial arrival from the west up to final impact - the numbered positions are cross referenced in the text (reproduced from the Official Report)
+Whilst continuing to circle IMC, "the aircraft descended to an indicated altitude of 400 feet, at a speed of 140 knots" [5] with the north east wind "pushing the aircraft south of the Runway 09 centreline" into an area with terrain up to 223 feet - which was noted as equating to a height of 155 feet agl with cold temperature correction applied. Runway 09 was eventually sighted but it was not possible to land and a second ad hoc "circling manoeuvre" for Runway 09 was commenced [6] with visual contact with the runway soon lost again and the aircraft was turned to the north and then climbed to around MSA in a continuing left turn so that a return to the NDB was made from the south. The Captain stated that a further approach to runway 27 would be the last attempt to land at Sanikiluaq and that if it was unsuccessful, they would proceed to Kuujjuarapik, which was about 30 minutes away and for which there would be sufficient fuel. The latest wind velocity was obtained - little changed at 050° 15-20 knots - but still equivalent to a 14 knot tailwind component against the maximum permitted 10 knots.
+The approach made use of the GPS to carry out the NDB RWY 27 (GNSS) overlay approach in order to benefit from distance to go and more precise tracking. Visibility was advised as 1½ sm (2400 metres) as "the aircraft was established at an indicated altitude of 400 feet, 3 nm from the airport, 197 feet below the published MDA, without having established the required visual references". Visual contact with the runway was subsequently acquired just beyond the MAP at approximately 0.7 nm from the runway threshold and "the decision to land was made". Full flap was selected, power was set to idle and descent at an excessive 140 knots (Vref + 30) was commenced. As the rate of descent exceeded 1500 fpm, a GPWS ‘SINK RATE' Alert occurred, followed immediately by the first of a series of 'PULL UP' Warnings as the rate of descent exceeded 1800 fpm – which both pilots subsequently stated that they had "not heard". The runway threshold was crossed at approximately 180 feet agl and the PULL UP Warnings continued until the aircraft was approximately 60 feet agl and approximately 900 feet past the threshold. The runway mid-point was passed still airborne and two seconds later, the Captain called a go-around. Ten seconds later, "the aircraft collided with terrain beyond the departure end of Runway 27 and south of the runway centreline". It then continued to slide and rotate right before coming to rest on an easterly heading. 
+An evacuation was initiated by the First Officer using the forward right overwing emergency exit whilst the Captain made a MAYDAY call on the airport radio frequency. A rapid response "reduced the exposure of passengers and crew to the elements". The one fatality was an infant restrained only in the parent's arms which failed to hold the infant secure during the impact.      
+An annotated reconstruction of the vertical profile during this final approach is shown below. 
+
+ The vertical profile of the final approach	 (reproduced from the Official Report)
+A comparison of the approach as actually flown by descent from the MDA at the MAP (the NDB) with a 3º [Continuous Descent Final Approach|CDFA]] (referred to by the Investigation as a Stabilised Constant Descent Approach - SCDA) is shown on the diagram below.
+
+ The actual descent profile versus an optimal CDFA one (reproduced from the Official Report)
+Having established the facts, the Investigation then focused on some specific aspects including but not limited to:
+
+
+ Flight Crew Performance
+
+A deterioration in crew adherence to SOPs was evident from the termination of the initial approach. Prior to this "the crew made standard deviation calls and corrections and completed other required checks". Thereafter, "standard calls, checks, and corrections began to be omitted" It was concluded that "these omissions indicate task saturation and a breakdown of situational awareness for both crew members". It was noted that during the occurrence of the GPWS SINK RATE alert and the successive PULL UP Warnings which were annunciated during the final approach, neither crew member had acknowledged the Alert or reacted to the GPWS Warnings. Over the runway and one second after the GPWS Warnings had ceased, the First Officer had "indicated field conditions looked good" without any mention of "the aircraft altitude, high rate of descent and the airspeed being too high". It was concluded that during this period, "a lack of assertiveness on the part of the First Officer" had also been evident. Many other failures to follow SOPs and a number of violations were to be seen including failure to follow circling and missed approach procedures, descent below MDA without having acquired visual reference, carriage of fuel not declared on the loadsheet and conducting an approach in circumstances where any resultant landing would have been almost certain to be made with a tailwind component in excess of AFM limitations. 
+
+
+
+ The Operator and Operational Safety
+
+It was noted that:
+
+
+
+Perimeter’s SMS, which included a requirement for the completion of proactive 'Safety Cases' to be carried out in a wide range of circumstances including "prior to new destination areas and/or airports" had been "finalised and accepted by Transport Canada (TC) in May 2010". The number of company flights into Sanikiluaq was found to have increased considerably during January, "initially starting with just a few flights per month going up to 11 flights per month for both November and December 2012". It was noted that "TC had not required that a safety case be completed for other Sanikiluaq charter flights prior to this occurrence" and that "the possible risk factors associated with flights conducted to it, whether by day or by night, had not previously been identified by TC or Perimeter".
+
+Prior to the occurrence, Perimeter had not incorporated the use of the SCDA technique in its training or operations, nor was it mandated to do so by TC, although the accident flight crew was familiar with the technique. 
+
+Perimeter SOPs did not provide detailed criteria for stabilised approaches or guidance for action to take in the event of an unstable approach. The final approach flown was unstable in a number of conventionally-used criteria including the rate of descent, speed and power setting.
+
+
+
+ The NDB Approach Procedure at Sanikiluaq
+
+It was noted that the approach was "designed such that a descent from the MAP at MDA results in a steeper-than-optimum descent path" since the MAP was "located beyond the 3-degree descent path". It was considered that "if visual references are not acquired until close to the MAP, at MDA, crews may be tempted to initiate a steep, unstable descent to the threshold in order to land". 
+
+
+
+ Infant Passenger Restraint
+
+The infant passenger who was the only fatality as a result of the crash was not restrained in a Child Restraint System (CRS) nor was one required by the prevailing regulations. As a result, the 6 month old infant "was ejected from the mother’s arms during the impact sequence and contact with the interior surfaces of the aircraft contributed to the fatal injuries". The Investigation indirectly quoted work by the NTSB from 2004 that reiterated their experience of individual accident investigations which found that "arm strength is not sufficient to protect even a small child" since survivable accident g-forces could easily result in an effective force of 3 or 4 times the weight held when attempting to hold onto it during sudden deceleration in accidents that are otherwise survivable. The subject was considered to be of particular concern in the context of operations in northern Canada, where data for a ten year period provided to the Investigation by Perimeter and three other operators showed that infants under 2 years of age constituted over half of all passengers up to the age of 12 – an age group which had consistently formed around 14% of all passengers carried.
+
+
+
+ Regulatory Oversight
+
+Neither the ineffective implementation of the approved SMS nor its failure to detect non-compliant practices had been captured by Transport Canada's three oversight mechanisms: SMS Assessments, 'Process Inspections' (PIs) and Program Validation Inspections' (PVIs). It was noted that these "are conducted to identify any non-conformity to regulatory requirements (and) are also meant to identify any hazards that could affect the safety of a flight or that could cause injury or death". In this latter respect, it was specifically observed that the post-accident PI "did not produce any findings or conclusions regarding the seating of the mother and infant in the exit row, or make any recommendations regarding the safety issue of the non-use of CRS for the infant".  
+
+
+
+
+The formally documented Findings of the Investigation were as follows:
+Causes and Contributing Factors
+
+
+ The lack of required flight documents, such as instrument approach charts, compromised thoroughness and placed pressure on the Captain to find a work-around solution during flight planning. It also negatively affected the crew’s situational awareness during the approaches at Sanikiluaq.
+
+ Weather conditions below published landing minima for the approach at the nominated alternate Kuujjuarapik and insufficient fuel to make the alternative, La Grande Rivière, eliminated any favourable diversion options. The possibility of a successful landing at Kuujjuarapik was considered unlikely and put pressure on the crew thoroughness and placed pressure on the crew to land at Sanikiluaq. 
+
+ Frustration, fatigue, and an increase in workload and stress during the instrument approaches resulted in crew attentional narrowing and a shift away from well-learned, highly practised procedures. 
+
+ Due to the lack of an instrument approach for the into-wind runway and the unsuccessful attempts at circling, the crew chose the option of landing with a tailwind, resulting in a steep, unstable approach. 
+
+ The final descent was initiated beyond the missed approach point and, combined with the 14-knot tailwind, resulted in the aircraft remaining above the desired 3-degree descent path. 
+
+ Neither pilot (reported hearing) the GPWS Warnings; both were focused on landing the aircraft to the exclusion of other indicators that warranted alternative action. 
+
+ During the final approach, the aircraft was unstable in several parameters. This instability contributed to the aircraft being half-way down the runway with excessive speed and altitude. 
+
+ The aircraft was not in a position to land and stop within the confines of the runway, and a go-around was initiated from a low-energy landing regime. 
+
+ The Captain possibly eased off on the control column in the climb due to the low airspeed. This, in combination with the configuration change at a critical phase of flight, as called for in the company procedures, may have contributed to the aircraft’s poor climb performance. 
+
+ A rate of climb sufficient to ensure clearance from obstacles was not established, and the aircraft collided with terrain. 
+
+ The infant passenger was not restrained in a child restraint system, nor was one required by regulations. The infant was ejected from the mother’s arms during the impact sequence, and contact with the interior surfaces of the aircraft contributed to the fatal injuries. 
+
+
+Risk
+
+
+ If instrument approaches are conducted without reference to an approach chart, there is a risk of weakened situational awareness and of error in following required procedures, possibly resulting in the loss of obstacle clearance and an accident. 
+
+ If additional contingency fuel is not accounted for in the aircraft weight, there is a risk that the aircraft may not be operated in accordance with its certificate of airworthiness or may not meet the certified performance criteria. 
+
+ If Transport Canada CRM training requirements do not reflect advances in CRM training, such as threat and error management and assertiveness training, there is an increased risk that crews will not effectively employ CRM to assess conditions and make appropriate decisions in critical situations. 
+
+ If a person assisting another is seated next to an emergency exit, there is an increased risk that the use of the exit will be hindered during an evacuation. 
+
+ If a person holding an infant is seated in a row with no seatback in front of them, there is an increased risk of injury to the infant as no recommended brace position is available. 
+
+ If young children are not adequately restrained, there is a risk that injuries sustained will be more severe. 
+
+ If a lap-held infant is ejected from its guardian’s arms, there is an increased risk the infant may be injured, or cause injury or death to other occupants. 
+
+ If more complete data on the number of infants and children travelling by air are not available, there is a risk that their exposure to injury or death in the event of turbulence or a survivable accident will not be adequately assessed and mitigated. 
+
+ If temperature corrections are not applied to all altitudes on the approach chart, there is an increased risk of controlled flight into terrain due to a reduction of obstacle clearance. 
+
+ If the missed approach point on non-precision instrument approaches is located beyond the 3-degree descent path, there is an increased risk that a landing attempt will result in a steep, unstable descent, and possible approach-and-landing accident. 
+
+ If there is not sufficient guidance in the standard operating procedures, there is a risk that crews will not react and perform the required actions in the event that ground proximity warning system warnings are generated. 
+
+ If standard operating procedures, the AFM and training are not aligned with respect to low-energy go-arounds, there is a risk that crews may perform inappropriate actions at a critical phase of flight. 
+
+ If non-compliant practices are not identified, reported, and dealt with by a company’s safety management system, there is a risk that they will not be addressed in a timely manner. 
+
+ If Transport Canada’s oversight is dependent on the effectiveness of a company’s safety management system’s reporting of safety issues, there is a risk that important issues will be missed. 
+
+
+Other
+
+
+ The quick response of the people on the ground reduced the exposure of passengers and crew to the elements. 
+
+
+Safety Action taken by Perimeter Aviation as a consequence of the accident included the following: 
+
+
+ All Operational Planning functions have been centralised in a new Systems Operations Control Centre at their Winnipeg main base. 
+
+ Improved flight crew access to AIP instrument approach charts has been provided and Charter Route Packages similar to those already available for Scheduled Routes have been created. The existing 'Charters Checklist' has been improved.
+
+ Passenger briefings have been changed to ensure uniformity and the First Officer now reads the briefing verbatim from special Cards placed in each aircraft.
+
+ Operating Procedures have been supplemented by the definition of separate conditions for a stabilised [[Visual Flight Rules (VFR)|VFR[[ or IFR approach and any deviation from a stabilised approach profile must now result in a missed approach.
+
+ SOPs have been modified to include a section defining Stabilised Constant Descent Angle (SCDA) non-precision approach criteria and their use. 
+
+ More detailed GPWS training and procedures have been introduced.
+
+ The flight training department has enhanced the focus in the correct execution of a go around and SOPs have been revised to improve crew coordination during this manoeuvre.
+
+ CRM training has been enhanced.
+
+
+Two Safety Recommendations were made as a result of the Investigation as follows:
+
+
+ that the Department of Transport require commercial air carriers to collect and report, on a routine basis, the number of infants (under 2 years old), including lap-held and young children (2 to 12 years old) travelling. (A15-01)
+
+ that the Department of Transport work with industry to develop age-and-size-appropriate child restraint systems for infants and young children travelling on commercial aircraft and mandate their use to provide an equivalent level of safety compared to adults. (A15-02)
+
+
+The Final Report of the Investigation was authorised for release on 10 June 2015 and released on 29 June 2015. 
+
+Related Articles
+
+ Controlled Flight Into Terrain
+
+ Stabilised Approach
+
+ Non-Precision Approach
+
+ Continuous Descent Final Approach
+
+ Tailwind Operations
+
+ Missed Approach
+
+ SOPs
+
+ Violation
+
+ Minimum Safe Altitude
+
+ Altimeter Temperature Error Correction
+
+ Cabin Safety - Child Restraint Systems
+
+ Safety Oversight
+
+ Energy Management during Approach
+
+ Go-around Decision Making
+
+
+
+
+
+

@@ -1,0 +1,374 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+
+2.1 The Flight Crew
+2.2 What Happened
+2.3 The Conclusions of the Investigation
+
+2.3.1 Poor Performance of the Legacy Flight Crew
+2.3.2 Operational Deficiencies in ATC service
+2.3.3 Insufficient Training for the Legacy Ferry Flight
+2.3.4 Organisational deficiencies in the provision of ATS
+2.3.5 Poor flight deck coordination on the Legacy
+2.3.6 Poor Legacy Pilot Judgement
+2.3.7 Inadequate Legacy pre flight preparation
+2.3.8 Inadequate ExcelAire operational oversight
+
+
+2.4 The Direct Causes of the Collision
+
+
+3 Related Articles
+
+
+Description
+On 29 September 2006, a Boeing 737-800 (PR-GTD) being operated by Gol on a scheduled domestic passenger flight from Manaus to Rio de Janeiro with a technical stop in Brasilia as GLO 1907 was level at FL370 when it collided in Class 'A' RVSM airspace with an opposite direction Embraer Legacy (N600XL), a variant of the Embraer 135. The Legacy was being operated by ExcelAire on a delivery flight from São José dos Campos to Fort Lauderdale FL USA with an overnight technical stop at Manaus. Following the collision, the 737 crew were unable to keep control of their aircraft and it crashed killing all 154 occupants but the Legacy was able to divert without further event to the military airport at Cachimbo and there were no injuries to its 7 occupants. 
+
+ Reconstructed collision geometry and the resultant damage - the Embraer left winglet struck the 737 left wing & its left horizontal stabiliser/elevator was then struck by the 737 left winglet. [Reproduced from the Official Report]
+Investigation
+An Investigation was carried out by an Aeronautical Accident Investigation Commission (CIAA) constituted within the Brazilian Armed Forces 'Aeronautical Accident Investigation and Prevention Centre' (CENIPA). The SSFDR and SSCVR from the Legacy were removed and their data were successfully downloaded. The same units from the 737 were located at the wreckage site separated from their normal mountings which would have been a consequence of a break up of the aircraft structure which it was found had occurred at about 8000 feet. The SSCVR was found on the surface after striking a tree and the SSFDR was found beneath the surface after almost a month of work on site with metal detectors. Their memory was removed and inserted in serviceable units for download and good data was recovered in both cases. The NVM from a number of relevant components on the Legacy including the TCAS, both Radio Communication Units (RMUs) and both Radio Management Units (RMUs) was also downloaded and read.
+After a detailed review of all the available evidence, it became clear that both the aircraft involved had been airworthy in respect of anything that could have had a bearing on the risk or occurrence of the collision and that there was also no evidence that any of the pilots involved had been aware of the impending conflict.
+
+
+NB: The Investigation examined relevant aspects of the provision of air traffic services in Brazil in considerable depth. Although the Official Report includes a 5 page glossary which decodes most of the abbreviations used, it is considered that many will find a short outline of the Brazilian ATS system useful.
+
+
+
+The Brazilian Airspace Control System (SISCEAB) is run by the military through the Department of Airspace Control (DECEA). The Department plans and approves the deployment of the necessary infrastructure and oversees the technical and operational delivery of ATS. Its responsibilities include all related ATC related services including SAR, Aviation Meteorological Service, Aviation Telecommunications and Aviation charting. Airspace management is delivered through four Integrated ATC and Air Defence Centres - Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo (CINDACTA)s. The Legacy flight began in airspace controlled by Brasilia ACC (CINDACTA 1) and at the time of the collision had just entered airspace controlled from Manaus by Amazonas ACC (CINDACTA IV) as the 737 was about to leave it.  
+
+
+The Flight Crew
+It was noted that the 737 Captain, who had been employed by the airline since it started operations in 2001 and was a Training Captain, had accumulated 15,498 flying hours including 13,521 hours on 737 variants. The 737 First Officer had begun pilot training with the airline in 2002 and had accumulated 3,981 total flying hours including 3,081 hours on 737 variants including, initially, the -700 and -800, after which he was assigned to the -300 before returning to the -800 just prior to the accident flight which formed part of his re-qualification procedure. He had flown 1978 hours on the 737-800. The Investigation found that the aircraft had been operated in accordance with ATC instructions and Gol SOPs.
+The Embraer Legacy Captain had been employed by ExcelAire for almost 5 years. He had accumulated a total of 9,388 flying hours of which just 5 hours were on type. Much of his experience had been gained on aircraft fitted with electro mechanical instruments and without the latest FMS-type capabilities found on the Legacy aircraft and he had no previous experience on any other Embraer 145 family aircraft. The First Officer had joined ExcelAire two months prior to the accident and had accumulated a total of 6,400 flying hours including 3 hours on the Embraer 135 Legacy variant and around 300 hours recent experience on Embraer 135/140/145 family aircraft - some in command - with a previous airline employer. It was his first job in an 'on demand' operation.
+
+What Happened
+It was found that the Legacy was on the first leg of a delivery flight after being purchased new from Embraer for use by US on-demand passenger transport operator ExcelAire. The flight crew allocated this duty were not experienced in the acceptance and delivery process nor had they any prior experience of flight operations in Brazil. The accident flight commenced soon after the formal handover of the aircraft and it was considered that "the ceremony and protocols degraded their attention to the details of the flight planning" with the consequence that "the operational needs of a long distance ferry flight were underestimated", especially as the aircraft needed to be refuelled to maximum immediately after completion of the acceptance formalities. In particular, it was noted that the flight to Manaus would be the first time either pilot had used the fuel system installed in the aircraft they were to fly, which was different from the one they had both encountered during type conversion training in the simulator. Evident concern over the weight and balance of the loaded aircraft was also noted as was the fact that although at the request of ExcelAire, the flight plan for the first leg of their flight had been filed by Embraer, contrary to most delivery flight crews departing on flight plans filed on their behalf, they had not asked to see it in advance. However, overall, the Investigation concluded that "it seems to be evident that the pilots did not deliberately fail to plan their flight, but (rather that) they considered the mission as routine" and as a result underestimated the task. It was concluded that the pilots' unfamiliarity with the aircraft found them "trying to solve doubts up to the last moment before departure, to the detriment of the time necessary for (proper pre-flight planning)". As context for this situation, it was also concluded that ExcelAire had no previous experience of an international delivery flight like the accident flight and had failed to formulate appropriate procedures or provide relevant guidance for the flight crew selected for the task.  
+Based on the requested flight plan routing submitted by Embraer, the active flight plan held by ATC involved the Legacy climbing to FL 370 via POL to join airway UW2 and then proceeding to the BRS VOR where it would turn left onto airway UZ6 and descend to FL 360. However, the clearance issued by BRS ACC to São José dos Campos ATC and passed on to the Legacy crew by the GND controller there prior to departure was "incomplete" and did not include a clearance limit for the level to which the flight was cleared to climb and maintain after takeoff. In the absence of any wider understanding of ATS route levels in Brazil, the crew had therefore assumed that this level would apply throughout their cruise en route to Manaus.
+With the aircraft at FL 370 and working Brasilia ACC, a sector frequency change was given 52 nm south of the BRS VOR. During this handover, no mention was made to either the Legacy flight crew or the receiving controller of the level change to FL360 which would be needed at the VOR. The transfer was also premature, since it was made to a sector which did not cover the flight route until it had crossed over the BRS VOR and was approximately 13 nm to the north west of it. When the aircraft subsequently passed over the VOR having previously checked in on the new frequency, the controller received a visual alert of this required level change but took no action and the alert was removed after seven minutes. He also failed to transfer the aircraft from the frequency he had originally accepted it on to the only one which was available to maintain contact for the track along airway UZ6 towards the Brasilia/Amazonas ACC boundary.
+At almost the same time as the controller's level change alert disappeared, so did the transponder data from the aircraft which crucially included its altitude - still FL370. It was established conclusively during the Investigation that the transponder had still been fully serviceable and that it had been unintentionally switched off without the subsequent awareness of either pilot. CVR data at this time indicated that the attention of the crew was focused on solving issues relating to the landing performance of the aircraft at Manaus after they had belatedly learned of a NOTAM advising of a temporarily reduced LDA there.
+The controller did not notice the alerts which followed the loss of Mode 'C' and "did not take the prescribed corrective actions for this circumstance in RVSM airspace". It was not clear how much credence he may have attached to 3D height information which would still have been available but even so, contact with the aircraft to confirm its level would still be required. Still without any controller intervention, the position was then handed over to relieving controller who was told that the Legacy was "at FL 360". Just over half an hour after the last recorded contact between the Legacy and the previous controller, the new controller attempted to contact it on the originally-assigned frequency but without success. Six further attempts to make contact on the same frequency prior to the moment of the collision 32 minutes later were also unsuccessful. No attempt was made by the Legacy crew to call ATC prior to the collision despite not having heard from ATC for almost an hour and it was established that the reason why its crew had not responded to these calls was that it was no longer in radio cover for the frequency which had been given. The Investigation also found that out of the four frequencies allocated to the sector which the 135 was by now in, only one was actually available because the others were either not connected to the console in use or not connected to the audio centre. The emergency frequency was available but neither it nor the only functioning normal frequency were used to attempt to re-establish contact. A further sector frequency included on the Jeppesen Chart carried on board the Legacy was found to be incorrect.
+As the Legacy approached the handover point between the Brasilia and Amazonas ACCs, the Assistant Controller for the Brasilia sector handed the aircraft over stating that it was at FL 360 and failed to also mention that it had been out of radio and Mode 'C' contact for a considerable time and remained so. At this time, the Gol 737-800 was at FL 370 flying in the opposite direction as cleared and approaching the Amazonas ACC side of the boundary with Brasilia ACC. Shortly afterwards, with no sign that either crew had seen the opposing traffic, the two aircraft closed in VMC at a speed of around 860 knots - equivalent to in excess of 14 nm per minute - and the collision occurred. 
+
+ The track of the E135 towards and after the BRS VOR showing the location of the collision near the Amazonas/Brasilia ACC boundary. [Based on part of the ATS sector illustration included in the Official Report]
+It was found that as a result of almost 7 metres of the outer left wing of the 737 detaching soon after and as a result of the impact, an explosion and fire had subsequently occurred in that area. It was clear that it would have been impossible to retain control in these circumstances and evident that, having "entered a left spiral dive at an abnormal attitude known as a 'spin'", the 737 airframe had broken up before ground impact, probably about 8000 feet agl just under a minute after the collision. Despite damage to its left winglet and left horizontal stabiliser/elevator, the Legacy remained controllable and after switching the transponder back on, mode 'C' data reappeared on Amazonas ACC radars and a change to the emergency squawk 7700 was almost immediately observed. The diversion to Cachimbo, which was approximately 100 nm northwest of the collision location, was completed without significant handling difficulty with the crew reporting that an "unidentified object" had been struck.
+Since no evidence was found that the transponder had not been fully serviceable throughout the flight, the Investigation explored the ways in which an unintended de-selection may have occurred. It was concluded that whilst there could be no certainty, the most likely explanation was that whilst referring to the pages on his RMU, the Captain had unintentionally set the Transponder to 'STANDBY' by pressing the RMU button twice in less than 20 seconds. This possibility was observed to be compatible with CVR data at the time the transponder was selected on again after the collision, since this followed the pilots' noticing that the transponder was off and then responding by modifying its status on the RMU.  
+It was noted that whilst such de-selection would not have created a master caution or warning, "there were several conspicuous indications of the TCAS/Transponder status on the aircraft instrument panel - eight visible indications in all" one on each pilot's RMU and PFD, another two on the MFDs when set to display TCAS, and a flashing amber transponder reply light in the 'ATC window' boxes on both RMUs. No firm reason why all these cues were missed could be advanced but a plausible scenario for unintended de-selection was identified which involved unintended selections on the Captain's RMU.
+
+The Conclusions of the Investigation
+A summary of the main points of the narrative on Contributory Factors is as follows:
+
+Poor Performance of the Legacy Flight Crew
+
+ Active failures of the flight crew included:
+
+the lack of adequate pre-flight planning
+
+an insufficient knowledge of the flight plan prepared by Embraer
+
+the lack of a briefing prior to departure
+
+the unintentional change of the transponder setting
+
+a failure to prioritise their attention
+
+the failure to realise that the transponder was not transmitting
+
+the delay in recognising a problem in communications with air traffic control
+
+non-compliance with the procedures prescribed for communications failure.
+
+
+
+ Low situational awareness of the flight crew (airmanship) was evidenced during their preparation for the flight which was considered by them as “routine”. This attitude then permeated their behaviour during the flight and, in conjunction with several other identified factors, aggravated the lowering of their situational awareness:  
+
+The non-performance of adequate planning for the flight, a behaviour that was influenced by the habitual procedure of the operator, an aspect not favourable for the construction of a mental model to guide the conduct of the flight.
+
+The haste to depart (so as to achieve flight over the Amazon basin in daylight) and pressure from the passengers which hindered assimilation of the flight plan and negatively influenced the sequence of actions during the pre-flight and departure phases.
+
+The crew dynamics which were characterised by lack of division of tasks, lack of an adequate monitoring of the flight and by informality. It was influenced by the lack of knowledge of the weight and balance calculations and by the predominantly low aircraft type experience of the pilots.
+
+The lack of specific aircraft operating Standard Operational Procedures (SOPs) set by the aircraft operator for the aircraft type involved. 
+
+
+
+
+
+Within this context, the inadvertent switch-off of the transponder may have occurred on account of the pilots’ limited experience in the aircraft and its avionics. They did not notice the transponder switch off because of a reduction in their situational awareness relative to indications of the changed TCAS status. This lack of situational awareness also contributed to them not recognising the likelihood that they had an ATC communication problem. Although they were maintaining the last flight level authorised by the Brasilia ACC, they spent almost an hour flying at a non-standard flight level for the heading being flown without asking for any confirmation from ATC. The performance deficiencies shown by the flight crew have a direct relationship with the organisational decisions and processes adopted by the operator:
+
+
+
+The inadequate designation of the pilots for the operation. 
+
+The insufficient training for the conduct of the mission.
+
+The routine procedures relating to the planning of the flight in which the crew did not fully participate.
+
+
+Operational Deficiencies in ATC service
+
+CENIPA CAVEAT: "It is important to point out that the refusal of the Brasilia ACC controllers involved in the accident to participate in the interviews hindered the precise identification of the individual aspects that contributed to the occurrence of the non-conformities. Some of these aspects were kept in the field of hypotheses."
+
+
+
+ The Route Clearance issued to the Legacy - the transmission of the Legacy flight clearance by the assistant controller of the São Paulo Region of Brasilia ACC and by the Ground controller of the Airspace Control Detachment of São José dos Campos Airport (DTCEA-SJ) was not in accordance with procedures. To the extent that it was incomplete, the clearance given favoured the understanding by the pilots that they had to maintain FL 370 all the way to Manaus. This deviation had become a routinely informal procedure pattern for the transmission of clearances originated by Brasilia ACC and disseminated by DTCEA-SJ, replacing the procedure prescribed by the legislation. 
+
+ The Brasilia ACC sector 5/6 controller did not provide the sector 7/8/9 controller with the necessary information, when coordinating and handing off the Legacy. The incomplete information transmitted by the former is an indication that he had low situational awareness in respect of the Legacy in his sector. It is possible that he considered that his priority in relation to this aircraft would be an early transfer to the next sector, since traffic in his own sector was increasing at that moment (9 aircraft), although it was below the limits prescribed for this grouped-sector position.
+
+ The Brasilia ACC sector 7/8/9 initial controller did not call the Legacy to change its flight level or to give a frequency change from sector 9 to sector 7 (which meant the aircraft eventually went out of coverage), did not notice the indicated loss of its mode 'C' signal on their radar display, assumed that it was at FL 360 and did not carry out the procedures prescribed for the loss of transponder data in RVSM airspace. He also failed to advise the supervisor of the situation and finally did not properly hand over the position to a relief controller 23 minutes prior to the collision, in particular giving the altitude of the Legacy as FL 360. This false information could not be subsequently corrected because the aircraft was no longer in radio contact.
+
+ The Brasilia ACC sector 7/8/9 relieving controller did not carry out the procedures prescribed for loss of transponder data in RVSM airspace or for communications failure and failed to properly brief his assistant controller, the latter allowing an incorrect hand-off of the Legacy to be made to Amazonas ACC.
+
+ Lack of Brasilia ACC supervisory personnel involvement in the Legacy problems - because the supervisors were not advised by controllers about the problems with the control of the Legacy, the decisions made and actions taken/not taken in relation to it were individual and without the due monitoring and guidance prescribed for air traffic control. 
+
+ Amazonas ACC performance - the controller in position at the Manaus sub centre of the ACC who accepted the Legacy from Brasilia ACC deviated from standard procedure during both in this and in the hand-off of the 737. Also, having not been informed on handover that the Legacy had been without secondary radar and RTF contact for some time, he had not performed the procedure prescribed for a loss of radar contact and had not considered the Legacy control situation as critical or even as a matter of concern.
+
+ Personnel shortages - lack of staff hindered the provision of recurrent training for controller recurrent operational and TRM training and English language courses. It was observed that the annual theoretical evaluation was not identifying controllers’ performance deficiencies and thus assisting in the determination of their training needs. This personnel shortage was also complicating controller rostering and this was contributing to degraded controller performance and/or to insufficient technical qualification.
+
+
+Insufficient Training for the Legacy Ferry Flight
+The training provided to the Legacy pilots by Flight Safety International (FSI) on behalf of the Operator proved insufficient for the conduct of the positioning flight from Brazil to the USA. The lack of interaction between the pilots was apparent in the difficulties with the division of tasks and in the coordination of flight deck duties with both pilots devoting their attention to the calculations of the aircraft weight and balance during the flight. Their lack of theoretical knowledge became evident from the CVR data which showed that they had difficulty operating some aircraft systems, including the fuel system. The gaps in the training they had received favoured a lack of the pilots’ attention to other aspects during the flight, to the detriment of aircraft operation. Such distraction allowed the cessation of the transponder transmission to go unnoticed and this led directly to the incorrect maintenance of the FL370 on the UZ6 airway and the lack of TCAS RA. It was noted that upon completion of their type training at FSI, both pilots were entitled on an individual basis to act as operating flight crew on both domestic and international flights in accordance with 14 CFR Part 91 under which the ferry flight was being conducted. Since these regulatory requirements had been fully complied with, it was apparent that they were not adequate to meet the minimum required levels for a safe operation of high performance jet aircraft in acceptance and positioning flights. 
+
+Organisational deficiencies in the provision of ATS
+The clearance to the Legacy flight crew to maintain FL370 was given as the result of a clearance transmitted in an incorrect manner and as a direct consequence, the vertical navigation performed by the crew ended up being different from the one filed in their flight plan. The Brasilia radar controllers assumed that the Legacy was at the expected flight level without even being in two-way radio contact with it and perpetuated the resultant hazardous situation as the aircraft was handed to the Amazonas ACC. This meant that the need for traffic separation as prescribed in the "Provisions for the Separation of Controlled Traffic" in ICAO PANS-ATM, Doc 4444 was ignored. Since neither function nor design failures were found in any air traffic infrastructure equipment that might have contributed to the accident, it could be concluded that organisational deficiencies were present in the provision of ATS.   
+
+Poor flight deck coordination on the Legacy
+The attention of both of the Legacy pilots during the period when communication with ATC began to progressively fail was directed at their landing at Manaus, since they had become aware at a late stage of a NOTAM advising that the length of the runway of that airport was limited. This detracted from the routine of monitoring the progress of the flight because both pilots got involved in this distraction at the same time, creating an environment in which the interruption of the transponder transmission was not noticed. More generally, there was a poor division of flight management tasks, culminating with a prolonged (sixteen minute) absence of the Captain from the flight deck which overburdened the First Officer when he tried to re-establish ATC contact. The use of both pilots' screens to show the fuel system meant that neither was looking at the TCAS display which reduced the chances of them noticing the visual alert of an inoperative TCAS.  
+
+Poor Legacy Pilot Judgement
+The Legacy pilots judged that they would be able to conduct the flight without any special preparation despite their lack of previous work together and their incomplete knowledge of the aircraft fuel system and the calculations of the weight and balance. They believed they could speed up their departure without prejudicing verification of their flight plan and other relevant documents, such as the NOTAM on the reduction of runway length at Manaus. This led to them both concentrating on the calculations of the weight and balance in flight which allowed the non-functioning of the Transponder and TCAS to go un-noticed. They also failed to recognise the need to avoid a prolonged absence of communication with ATC - more than 43 minutes elapsed without such communication with Brasilia ACC.
+
+Inadequate Legacy pre flight preparation
+The planning of the flight was inadequate. Before the departure, there was no checking of the flight plan prepared by Embraer and the pilots had no previous knowledge of the proposed route and flight levels even though, in accordance with the ExcelAire Operations Manual, the Captain was required to open and close the flight plan at the nearest FAA Flight Service Station or ATC office. The lack of sufficient flight crew interest in details of the pre-flight planning was repeatedly evident from conversations recorded on the CVR. An example of this was that it was only in flight that they became aware of the NOTAM about the reduction of runway length at their first en route stop. This diverted attention from the monitoring of aspects relevant to the operation of the aircraft in flight and allowing the inoperative transponder and TCAS to go un-noticed.
+
+Inadequate ExcelAire operational oversight
+The oversight of preparations for the flight was inadequate. The composition of the crew - two pilots that had never flown together before - to receive, in a foreign country, an aircraft in which they had little experience, with air traffic rules different from those which they were used to, favoured a lack of good adjustment between the pilots which amplified the already-mentioned difficulties in flight deck coordination. There was no specific Operator SOP for the acceptance and delivery of a new aircraft from a manufacturer so that on-site decisions were made according to the individual experience of the pilots. ExcelAire failed to recognise that the acquired knowledge of the flight crew was not sufficient for the safe conduct of the intended flight. The deficient performance of the two pilots was directly attributable to the decisions and organisational processes adopted by the Operator, in particular "the culture and attitudes of informality". All of this was considered as constituting "a chain of errors" rather than as a result of any explicit violations by the Operator.
+
+The Direct Causes of the Collision
+In effect, the Investigation found that the collision would not have happened under the prevailing airspace management processes if any one of the following had not occurred:
+
+
+ The Legacy flight crew had familiarised themselves with their flight plan to the extent of noticing that there was a change of flight level from the initial FL370 to FL360 at the point where the route made a left turn onto a different airway.
+
+ The Legacy flight crew had not inadvertently turned off their selected transponder and then not noticed that they had done so over a prolonged period.
+
+ The São José dos Campos ATCO had not passed the Legacy flight crew an incomplete route clearance that specified neither a clearance limit nor any required en route level changes which implied by omission that the cruising level given would apply all the way to Manaus.
+
+ The responsible Brasilia ACC controller had issued the level change instruction to descend from FL 370 to FL 360 at the BRS VOR.
+
+ Several Brasilia ACC controllers had not failed to respond to the observed loss of secondary radar returns from the Legacy and assumed that the aircraft was at its active flight plan level.
+
+ The responsible Brasilia ACC controller had not failed to issue a routine frequency change to the Legacy before it went out of radio contact.
+
+ The Legacy crew had not failed to initiate contact with ATC after what they might reasonably have perceived was an abnormally long period of time not to have received any ATC calls.
+
+ The handover of the Legacy by Brasilia ACC to Amazonas ACC had not been made without mentioning that the aircraft was only visible as a primary radar return, that it was no longer in radio contact and that its flight planned level had not been verified.
+
+
+In effect it was also found that the context for these Direct Causes of the Collision was a combination of:
+
+
+ Outstandingly poor preparation for the ferry flight by both the Operator and its flight crew.
+
+ Evidence of an endemic lack of professionalism in various parts of the air traffic control system at the operational, managerial and regulatory levels. 
+
+
+A total of 65 Safety Recommendations were issued as a result of the Investigation on four successive dates whilst it was being conducted:
+On 22 December 2006, 9 Safety Recommendations were issued as follows:
+
+
+ that the DECEA (Airspace Control Department, Brazil) shall immediately revise the AIP BRASIL, aiming at its updating, with an emphasis on the process of inclusion of the Brazilian air traffic rules and procedures. [RSV (A) 260/A/06]
+
+ that the DECEA shall immediately instruct air traffic controllers, as to the compliance with the prescribed procedures regarding the air traffic clearances to be transmitted to pilots, according to items 8.4.8, 8.4.9 and 8.4.10 of ICA (Instructions for the Control of Aeronautics 100 -12 - Rules of the Air and Air Traffic Services). [RSV (A) 261/A/06]
+
+ that the DECEA shall immediately ensure that all controllers in the SISCEAB (Brazilian Airspace Control System) have the required level of English language proficiency, as well as provide the necessary means for that purpose, so as to comply with the prescribed SARP, as defined in ICAO Doc 9835 and Annex 1. [RSV (A) 262/A/06]
+
+ that the DECEA shall immediately ensure that all air traffic controllers fully comply with the prescribed air traffic handoff procedures between adjacent ATC units and/or between operational sectors within the unit. [RSV (A) 263/A/06]
+
+ that the DECEA shall immediately ensure that the prescribed procedures for air-ground communication failure are fully complied with by the ATC units. [RSV (A) 264/A/06]
+
+ that the DECEA shall immediately ensure that all DECEA air traffic controllers participate in specific refresher courses on SISCEAB regulations, also taking into account the recommendations of letters b, c, d and e of this document. [RSV (A) 265/A/06]
+
+ that the DECEA shall immediately regulate for and introduce operationally the use of lateral off-set flight procedures in regions which present communication/radar coverage deficiencies. [RSV (A) 266/A/06]
+
+ that the DECEA shall immediately implement, in the software used by SISCEAB, a new presentation (an effective alert system) on ATC radar screens for information concerning the loss of the mode “C”, so as to increase the situational awareness of air traffic controllers. [RSV (A) 267/A/06]
+
+ that the CENIPA shall conduct a Special Flight Safety Inspection of the following organisations: GOL Transportes Aéreos, Embraer (São José dos Campos and Gavião Peixoto), DECEA (ATCCs CINDACTA 1 and 4, SRPV-S (Regional ATC São Paulo), DTCEA-SJ (ATC -São José dos Campos), DTCEA-SP (ATC - São Paulo), DTCEA-CC (ATC – Cachimbo) and GEIV (the Special Group of In-Flight Inspection). [RSV (A) 268/A/06]
+
+
+On 24 September 2007, 42 Safety Recommendations were issued as follows:
+
+
+ that the DECEA (Airspace Control Department, Brazil) shall immediately make provisions so that the Brazilian aeronautical publications, including the AIP Brasil, AIP Brasil Map, AIP Supplement, the ROTAER (Air Routes Directory) and NOTAMs be made available through electronic media to improve access to information via the internet. [RSV (A) 97/A/07]
+
+ that the DECEA shall immediately ensure the development of quality management programs for air traffic control services in the various control units pertaining to SISCEAB. [RSV (A) 100/A/07]
+
+ that the DECEA shall immediately ensure that the procedures prescribed for the loss of transponder signal and radar contact, especially within RVSM airspace, be complied with by the ATC units. [RSV (A) 101/A/07]
+
+ that the DECEA shall immediately ensure that the procedures prescribed for the transfer of position responsibility be complied with by the ATC units, and to analyse the possibility of setting up oversight and record protocols, through real time monitoring by means of audio and video recording of the relief and relieved controllers, which can be stored for more than 30 days to complement the action in RSV (A) 263/A/06. [RSV (A) 102/A/07]
+
+ that the DECEA shall immediately make an analysis of the duties assigned to the regional supervisor, aiming at a redefinition of the activities to be performed and supporting the adequate management of the traffic control operations both in the control sectors and in the region under his/her responsibility. [RSV (A) 103/A/07]
+
+ that the DECEA shall immediately ensure that the air traffic control units systematise and monitor the processes and records on instruction and technical qualification. [RSV (A) 105/A/07]
+
+ that the DECEA shall immediately make sure that all the frequencies listed in the aeronautical charts in force are duly activated in the pertinent consoles of the sectors. [RSV (A) 107/A/07]
+
+ that the DECEA shall immediately ensure the adequate utilisation of the emergency frequency, through its correct configuration in the consoles, including specific procedures in the Operational Model and in the training of air traffic controllers. [RSV (A) 108/A/07]
+
+ that the DECEA shall immediately ensure that the air traffic controllers be trained in the utilisation of the audio centre and in the paging of its frequencies. [RSV (A) 109/A/07]
+
+ that the DECEA shall immediately assess the current systematisation of the operational routine, relative to the oversight of the compatibility of frequencies assigned to each sector, and listed in the charts, and the ones effectively selected for use in the consoles. [RSV (A) 114/A/07]
+
+ that the DECEA shall immediately ensure that initial and recurrent training in the STVD (Data Treatment and Visualisation System) are conducted with the objective of maintaining the minimum operational level required by SISCEAB and ICAO. [RSV (A) 120/A/07]
+
+ that the DECEA shall immediately ensure that preventative maintenance records are kept by the sectors concerned, so as to confirm that the maintenance activities were executed in accordance with the prescribed procedures and verified by the pertinent inspectors. [RSV (A) 123/A/07]
+
+ that the DECEA shall immediately ensure that the procedures for the recovery of transportable radars are duly recorded and kept in their respective sites. [RSV (A) 124/A/07]
+
+ that the CENIPA shall ensure that the work of SIPAER (the Aeronautical Accident Investigation and Prevention System) includes the participation of a Human Factors accredited physician in the Team assigned for the Initial Action of Investigation of Aeronautical Accidents and Serious Incidents. [RSV (A) 88/A/07]
+
+ that ExcelAire should re-assess the criteria for the selection and assignment of flight crews for ferry flights both within the USA and abroad, giving priority to the technical-operational knowledge of the crew members, their experience of the aircraft type and their understanding of the flight rules in force. [RSV (A) 69/A/07]
+
+ that ExcelAire should re-evaluate their Company CRM Training Program and include a plan for systematic recurrent training. [RSV (A) 70/A/07]
+
+ that ExcelAire should set up protocols to be executed by the pilots and supervised by their Flight Operations Department aiming at the strict compliance with the requirements of the Company’s General Operations Manual relative to flight planning. [RSV (A) 71/A/07]
+
+ that ExcelAire should set up protocols to be executed by the pilots, and supervised by their Flight Operations Department aiming at the strict compliance with the standards of flight deck performance prescribed for all the flights conducted by the Company. [RSV (A) 72/A/07]
+
+ that ExcelAire should re-evaluate the organisational structure of the Company to optimise the work of the Flight Safety function while ensuring that it has independence in the accomplishment of its tasks. [RSV (A) 73/A/07]
+
+ that ExcelAire should revise and update the General Operations Manual of the Company, as well as the ExcelAire Operations Specifications, in view of the acquisition of Embraer 135 aircraft. [RSV (A) 74/A/07]
+
+ that ExcelAire should re-assess its criteria for the operational evaluation of pilots, relative to the application of the principles of Crew Resource Management (CRM) to flight planning and all other phases of flight. [RSV (A) 75/A/07]
+
+ that ExcelAire should re-evaluate the criteria for the operational training of pilots assigned to flights outside the USA, especially within airspace under the ICAO rules, concerning the preparation, planning and execution of the flight, aiming at keeping an adequate situational awareness through all the phases of the operation. [RSV (A) 76/A/07]
+
+ that the DEPENS (Department for Education) and DECEA shall ensure, by means of a revision of the criteria used in the evaluation of the performance of air traffic controllers (BCT- Basic Training) relative to both basic professional foundation and radar specialisation courses, that they meet the proficiency levels required for the exercise of their duties. [RSV (A) 81/A/07]
+
+ that the Institute of Aeronautical Psychology (IPA) shall re-assess the criteria and the threshold point in the process of psychological selection for the air traffic controller basic training. [RSV (A) 82/A/07]
+
+ that the ANAC (Brazilian Civil Aviation Agency) should conduct a Technical Inspection of Embraer, so as to verify the execution of procedures relative to the composition of crews and the activities of the Operational Flight Dispatch (the qualification and certification of Operational Flight Dispatchers - DOV) in accordance with the prescriptions of the legislation in force, in the process of aircraft delivery/receipt. [RSV (A) 83/A/07]
+
+ that the ANAC should ensure conformity of the certifications of pilots working for aircraft operators purchasing aircraft with the process of aircraft delivery/receipt. [RSV (A) 84/A/07]
+
+ that the ANAC should ensure compliance with the protocols for the validation of licenses and certifications of the pilots working for the purchasing companies, so as to meet the legal prescriptions in force. [RSV (A) 85/A/07]
+
+ that the ANAC and the DIRSA (Directorate of Aeronautical Health) should study the inclusion of medical checkups of both civilian and military air traffic controllers, who get involved in aeronautical accidents and/or serious incidents, through the updating of the applicable legislation, as well as the creation of specific protocols for this purpose. [RSV (A) 86/A/07]
+
+ that the ANAC and the DIRSA should, considering the relevant legislation, include the President of the Aeronautical Accident Investigation Commission in the list of authorities entitled to request medical checkups of military and civilian air traffic controllers involved in aeronautical accidents and/or serious incidents. [RSV (A) 87/A/07]
+
+ that Embraer should revise the internal operational rules for the demonstration flights of their products concerning the composition of the crew to take account of Brazilian legislation. [RSV (A) 89/A/07]
+
+ that Embraer should promote regular meetings of the operational and safety sectors of the company with São José dos Campos ATC personnel so as to update information and exchange experiences. [RSV (A) 90/A/07]
+
+ that Embraer should revise and update the “Indicators of Qualifications, Competencies and Skills (IQCH)”, in order to adapt them to the operational reality of their Company. [RSV (A) 91/A/07]
+
+ that Embraer should ensure that the Aeronautical Telecommunications Authorised Station at their Gavião Peixoto aerodrome conforms with the normal practices of the Brazilian Airspace Control System (SISCEAB). [RSV (A) 92/A/07]
+
+ that Embraer should conduct regular audits of the Aeronautical Telecommunications Authorised Station at their Gavião Peixoto aerodrome and monitor the technical inspections of the station conducted by CINDACTA 1. [RSV (A) 93/A/07]
+
+ that Embraer should hold courses for the granting and revalidation of Operational Flight Dispatcher (DOV) Certificates in accordance with Brazilian legislation so that the function concerned may have staff qualified and certified for the activity. [RSV (A) 94/A/07]
+
+ that Embraer should ensure that the composition of the crews for the acceptance flights is in accordance with the legislation in force. [RSV (A) 95/A/07]
+
+ that Embraer should ensure that the provision of Operational Flight Dispatch services and facilities to foreign crews be in accordance with the legislation in force and do not jeopardise the safety of the operation. [RSV (A) 69/A/07]
+
+ that the DTCEA-SJ (São José dos Campos ATC) shall conduct internal recurrent training for all air traffic controllers (operational model, operational agreements, CIRTRAF, ICA 100-12, etc.). [RSV (A) 125/A/07]
+
+ that the DTCEA-SJ (São José dos Campos ATC) shall update the operational documentation in use there. [RSV (A) 126/A/07]
+
+ that GOL should re-evaluate their SOP covering conversation on the Flight Deck as covered in Operations Manual Chapter 1 section 8 "General Procedures" in terms of Sterile Flight Deck principles and set up a protocol for cell phone use by crew members. [RSV (A) 130/A/07]
+
+ that GOL should re-evaluate their SOP on the use of general electronic equipment by crew members when on the flight deck of an aircraft. [RSV (A) 131/A/07]
+
+ that GOL should reinforce the facts that generated the proposals of Safety Recommendations (RSV’s) in the “Safety Alert” issued by the Company during operational recurrency training and in “safety” for all their personnel (technical crews, cabin crews, as well as the maintenance and support teams). [RSV (A) 132/A/07]
+
+
+On 29 October 2007, 9 Safety Recommendations were issued as follows:
+
+
+ that the DECEA (Airspace Control Department, Brazil) shall immediately ensure the development of a continuous operational training program, so as to guarantee the technical proficiency of operators in the SISCEAB (Brazilian Air Traffic Control System) including a revision of the yearly evaluation system for revalidation of the technical qualification certificate (CHT), and TRM courses, prioritising supervisors, team leaders and operational functions at the middle-manager level. The execution (controller) and senior management levels should be dealt with as a second step. [RSV (A) 98/A/07]
+
+ that the DECEA shall analyse the possibility of providing Command Preparation and TRM courses to the Officers assigned to the command of the Airspace Control Detachments (DTCEAs). [RSV (A) 99/A/07]
+
+ that the DECEA shall verify the adequacy of the 'ATM11' syllabus, as far as the operational needs are concerned. [RSV (A) 106/A/07]
+
+ that the DECEA shall include alterations in the STVD (Data Treatment and Visualisation System), so that it records any occurrence of non-compliance with the separation minima prescribed in the operational models (safety bubble) and automatically generates a preventative report of the occurrence data. [RSV (A) 118/A/07]
+
+ that the DECEA shall analyse the possibility of including features which enable the re-visualization software of the STVD (Data Treatment and Visualisation System) to synchronise the audio and video of the selected console, while recording the operations performed by the controller in the area of commands, including the keys operated. [RSV (A) 119/A/07]
+
+ that the DECEA shall ensure that the Aeronautical Mobile Service Plan of Frequencies guarantees the coverage of the emergency frequency 121.500 MHz in all the stations which are the responsibility of the SISCEAB (Brazilian Air Traffic Control System). [RSV (A) 122/A/07]
+
+ that the COMGEP (General Command of Personnel) shall devise a plan for the re-manning of the air traffic control branch, setting up measures to be adopted in the short, medium and long terms, with the objective of meeting the need for human resources on the part of SISCEAB (Brazilian Air Traffic Control System). [RSV (A) 77/A/07]
+
+ that the DEPENS (Department of Education) shall establish a minimum level of proficiency in the English language for air traffic controller (BCT) candidates which is consistent with the requirements of the  ICAO plan for 2008, as a criterion for the classification of CFS (Sergeant Formation Course) candidates at the EEAR (School of Aeronautical Specialists). [RSV (A) 78/A/07]
+
+ that the DEPENS shall, in the CFS (Sergeant course) entrance exams, include specific criteria for the psychological (IPA) and medical (DIRSA- Directorate of Aeronautical Health) classification of air traffic controller (BCT) candidates. [RSV (A) 79/A/07]
+
+
+On 28 November 2007, 5 Safety Recommendations were issued as follows:
+
+
+ that the DECEA shall immediately include requisites in the STVD on the installation of Cleared Level Adherence Monitoring (CLAM), a functionality which verifies that the detected flight level is the same as the cleared flight level and generates an alert if any deviation from standards is found, so as to improve the prescribed alerts that warn controllers of the occurrence of a discrepancy between the received information on the real flight level of the aircraft and the level authorised. [RSV (A) 202/A/08]
+
+ that the ANAC (Brazilian Civil Aviation Agency) should evaluate, in coordination with DECEA, the current legislation concerning the utilisation of aeronautical publications by aircraft operating in the Brazilian airspace with the aim of mitigating the risk of outdated and/or incorrect data being used. [RSV (A) 205/A/08]
+
+ that the ICAO should revise the provisions contained in the ICAO documents which deal with the procedures for communications failure so that pilots and ATCOs alike have a clear understanding of the situation and procedures are harmonised worldwide. [RSV (A) 203/A/08]
+
+ that the (United States) FAA should evaluate the existing requirements to verify whether the training requirements for international flight operations under 14 CFR Part 91, especially with high performance jets and VLJs, can be improved so as to enhance the minimum levels of safety currently required by the legislation in force. [RSV (A) 204/A/08]
+
+ that all Civil Aviation Regulatory Agencies should review their regulations on the man-machine interface in the aircraft flight control station and/or flight deck in terms of the positioning of the instruments, warnings and alerts so as to prevent inadvertent interactions between the crew members and such devices affecting the safety of the operation. These revisions must be in accordance with the development of the requirements in progress in the aeronautical community, among them the Draft Rule 14 CFR 25.1302 'Installed Systems and Equipment for Use by the Flight Crew', which includes the interaction between the crew members and the positioning of instruments, in order to prevent any eventual inadvertent actions affecting their operation. [RSV (A) 206A/08]
+
+
+It was noted by the NTSB in their submission commenting formally on the draft copy of the Official Investigation Report that "in summary, the (NTSB representatives assigned to assist the CENIPA Investigation) have no substantial disagreement with the facts gathered and discussed in this report and generally concur that the safety issues involved in this accident are related to ATC, operational factors, and the loss of in-flight collision avoidance technology". However, it was clear whilst accepting the findings, the relative weight which the NTSB felt should be given to the ATS and 135 operational failures differed somewhat in emphasis in attributing more causal elements to the ATC system than to the way the Legacy aircraft was operated. 
+The NTSB also noted in their response that they had worked with the CENIPA to formulate NTSB Safety Recommendation A07-35 which, issued on 2 May 2007 whilst the CENIPA Investigation was still ongoing, asked the FAA to "require an enhanced aural and visual warning requiring pilot acknowledgment in the event of an airborne loss of collision avoidance system functionality for any reason". The NTSB noted when issuing this and two related safety recommendations of equal date that (the current industry practice of) providing only static text messages to indicate a loss of collision avoidance system functionality "was not a reliable way to gain pilots’ attention" and that notifications for other aircraft system failures that could have similarly critical consequences "generally use both aural alerts and conspicuous visual alerts" which "require the flight crew to acknowledge that the annunciation has been detected". In this connection, whilst accepting that loss of transponder data during IFR operations can usually be detected by ATC, the NTSB noted that the reliability of this method is open to compromise in the event of limitations in radar or RTF coverage.
+The Final Report was approved on 8 December 2008 and subsequently released. 
+
+Related Articles
+
+Mid-Air Collision
+
+Loss of Separation
+
+Transponder
+
+Airborne Collision Avoidance System (ACAS)
+
+Pre-flight Preparation
+
+Crew Resource Management
+
+Loss of Communication
+
+Transponder failure types
+
+Reduced Vertical Separation Minima (RVSM)
+
+ATC Clearance Delivery
+
+
+
+
+
+

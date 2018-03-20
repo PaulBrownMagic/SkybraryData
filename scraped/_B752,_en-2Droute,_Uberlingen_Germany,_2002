@@ -1,0 +1,210 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+3 Further Reading
+4 Notes
+
+
+Description
+On 1 July 2002, a Boeing 757-200 being operated by DHL on a cargo flight from Bergamo to Brussels and a Tupolev Tu154M being operated by Bashkirian Airlines on a non scheduled passenger flight from Moscow Domodedovo to Barcelona were destroyed whilst en route by a mid air collision over southern Germany near Überlingen at night in VMC. All 71 occupants of the two aircraft were killed.   
+
+Investigation
+An Investigation was carried out by the German Federal Bureau of Aircraft Accidents Investigation, the BFU. Recorded data was recovered from the FDR and CVR of both aircraft and also from the NVM of the TCAS Unit of the Tu154 only. ATC radar and R/T recordings were also available. A reconstruction of the flight paths of the two aircraft prior to their collision was made and is superimposed on a chart of the area in the illustration below:
+
+ Reconstruction of the two flight paths (reproduced Appendix 1 of the Official Report)
+It was established that both aircraft had been under the control of Zurich ACC in accordance with a delegation agreement between the German and Swiss ANSPs.  At the time of the accident the Zurich ACC was being operated by a single controller supported by an assistant, which was as per prevailing Unit SOPs. Maintenance was in progress at the ACC overnight which meant that the radar system was functioning in “fallback” mode under which minimum lateral separation was increased to 7nm from the normal 5nm.  
+The flight crews of both the aircraft involved were assessed by the Investigation as having high levels of qualification and relevant experience. The 757 was being flown by a crew of 2 who had completed initial TCAS training and had routinely received recurrent TCAS training through its inclusion in simulator details. The Tu154 had a crew of 4 and a supernumerary co-pilot on the flight deck. The pilot in the left hand seat was a Captain under training designated as PF and the pilot in the right hand seat was the Airline’s Chief Pilot acting as supervising Training Captain and was also, in the opinion of the Investigating Agency but contrary to paperwork for the flight, the aircraft commander. The under-supervision status of the left seat Captain was because of a Company requirement for each Captain operating to Barcelona to have completed two supervised flights before being permitted to act as commander to that destination. The other two crew members were the Navigator and the Flight Engineer. In order to operate outside the Russian Federation where TCAS was not in use, both the pilots and the navigator had completed the required TCAS familiarisation training with their Operator. However, this had not included simulator practice because TCAS equipment was not installed on the simulator used for training. The co-pilot also present had no official function on the accident flight.   
+Both aircraft were at FL360, the 757 tracking north and the Tu154 tracking east. Both  had been on the same Zurich ACC frequency under radar control in Class A airspace communicating with ATC in English for nearly 5 minutes when both aircraft receiving TCAS TAs as a result of potentially conflicting trajectories. Seven seconds after these TAs had been simultaneously annunciated, ATC, having become aware of the conflicting clearances which they had issued, instructed the Tu154 to descend to FL350. Five seconds later, the Tu154 initiated this descent without acknowledging the instruction to ATC, but two seconds after that, coordinated TCAS RAs were annunciated in both aircraft. The Tu154 RA was a ‘Climb’ and the 757 RA was a ‘Descend’. The 757 followed the RA promptly with AP disconnection after 2 seconds and 1500fpm descent attained 12 seconds after that. The Tu154 crew ignored the RA and continued the descent. When ATC called again to instruct the descent, this time adding ‘expedite’, the Tu154 crew acknowledged the descent instruction immediately but did not report their (ignored) TCAS RA in the contrary direction. ATC advised of traffic (the 757) at FL360. 
+Fourteen seconds after the initial RAs, the 757 received an ‘Increase Descent’ RA which was actioned. Soon afterwards, with the rate of descent now 2600 fpm, ATC were advised by the 757 of their TCAS Descent. Five seconds after the 757s ‘Increase Descent’ RA , the Tu154 received an ‘Increase Climb’ RA.
+Eight seconds later, at 21:35:32 UTC, the aircraft collided at an altitude of 34890 feet. The 757 had begun to pass just beneath the Tu154 but a reconstruction by the Investigation (see below) indicated that the vertical stabiliser of the 757 had impacted the left side of the Tu154 fuselage. The 757 lost most of its vertical stabiliser in the collision and was destroyed by impact forces and the 154 broke into several pieces in flight. Ground impact of the 757 was followed by an extensive fire which also involved the surrounding forest. In the case of the Tu154, the aircraft broke up in flight and some of the pieces caught fire at this juncture.     
+
+ Reconstruction of the collision based on FDR data and recovered wreckage (reproduced from the Official Report)
+The Investigation examined the situation which had prevailed at Zurich ACC in the period leading up to the collision and concluded that despite the effects of the overnight maintenance, “the technical capability of the radar system in the fallback mode was sufficient to ensure safe flight operations”. However, the manning level - specifically the fact that only a single controller had been working all ACC traffic and the effects of this on the failure to resolve the conflict - was examined. It was found that whilst it was quite normal and accepted for only two controllers plus assistants to be on duty for the night shift, there were no specific night shift procedures covering this method of working. It was found that the practice of rostering only two controllers at night “had developed because of the personnel situation” whereas the previous practice had been to roster three controllers for such shifts which ensured that two controllers were always at their positions whilst the third took a break. In this earlier regime, it was found that the resting controller taking an extended break during times of light traffic had become an unofficial practice and that this had then been continued when the night shift was reduced to two controllers. The single controller was required to undertake the duties normally divided between a radar planning controller and a radar executive controller. The Investigation considered that this meant that the manning level was insufficient for the traffic situations that might arise. 
+It was also found that during the period when the conflicting clearances remained undetected by the controller, he had unexpectedly been dealing with a delayed A320 inbound to Friedrichshafen and this had necessitated a move to an adjacent workstation where he had devoted more time than expected to an unsuccessful attempt to contact the airport caused by a technical defect. Because of this, he had “neglected the control of the two other aeroplanes” both prior to his action intended to resolve the conflict by giving a descent to the Tu154 and again afterwards, since further attention to the Friedrichshafen inbound at the other position and on a different frequency had meant that he did not hear the TCAS Descent message transmitted by the 757 which could have alerted him to the significant and continuing risk of a collision. 
+It was noted that, although STCA was installed at the ACC and covered the area where the conflict developed, the normal optical STCA function was inactive with the radar system in a degraded mode - a fact that the controller did not remember at the time.  This visual alert would have been triggered approximately 2.5 minutes before the collision whereas the aural alert occurred only 32 seconds before the collision, just 4 seconds after the 7nm separation had been breached and the two aircraft had received their coordinated TCAS RAs. Although this second alert did activate normally, it was not heard by anyone in the control room and in any case, the controller had already recognised the conflict and responded accordingly. It was also established that whilst a degree of separation could still have been achieved by an instruction issued at the time the aural alert occurred, it would not have resulted in the achievement of the prescribed 1000 feet vertical separation to have been achieved for two aircraft initially at the same level.       
+It was noted that had the descent to the Tu154 been given earlier (but nevertheless still after the point when the visual STCA activation would normally have occurred), there would have been no loss of separation and no TCAS TA or RA would have been issued. It was concluded that “in case of a separation infringement with high closing speeds the aural STCA offers little use”.
+In respect of the lack of any response by the Tu154 crew to their two TCAS RAs, it was established that “neither of the two pilots had any practical experience of reacting to real TCAS RAs” and given that a response in accordance with them is only required in specified regions outside the Russian Federation where they had conducted only a few flights - 12 in the case of the left seat pilot and 4 in the case of the right seat pilot “in the year 2002” - this was considered to represent a “marginal practical TCAS experience” in any mode of activation.  The Operations Manual to which they were required to fly was also considered to lack clarity on the subject of the relative priority of conflicting TCAS RA and ATC instructions. Whilst this Manual did explicitly prohibit manoeuvres which were contradictory to the guidance provided by a TCAS RA, it was found to also state that “ATC measures are the main and major condition of collision avoidance” and went on to state that the most important actions for the avoidance of in-flight collisions were  “the visual control of the situation in the airspace by the crew and the correct execution of all instructions issued by ATC” with the following reference to TCAS stating merely that it “is an additional instrument which ensures the timely determination of oncoming traffic, the classification of the risk and, if necessary, planning of an advice for a vertical avoidance manoeuvre”.
+In respect of Cause, the Investigation found as follows:
+Immediate Causes
+
+
+ The imminent separation infringement was not noticed by ATC at the time. The instruction for the TU154M to descend was given at a time when the prescribed separation to the B757-200 could not be (assured) anymore.
+
+
+
+ The TU154M crew followed the ATC instruction to descend and continued to do so even after TCAS advised them to climb. This manoeuvre was performed contrary to the generated TCAS RA.
+
+
+Systemic Causes
+
+
+ The integration of ACAS/TCAS II into (the aviation system) was insufficient and did not correspond in all points with the system philosophy. The regulations concerning ACAS/TCAS published by ICAO and as a result the regulations of national aviation authorities, (the operating) and procedural instructions of the TCAS manufacturer and (of) the operators were not standardised (and were) incomplete and (in part) contradictory.
+
+
+
+ Management and quality assurance of the air navigation service company did not ensure that during the night all open workstations were continuously staffed by controllers.
+
+
+
+ Management and quality assurance of the air navigation service company (had accepted) for years that, during times of low traffic flow at night, only one controller worked and the other retired to rest.
+
+
+A total of 19 Safety Recommendations were issued as a result of the Investigation, four whilst it was in progress and the remaining fifteen at its conclusion. On 1 October 2002, one Recommendation was issued as follows: 
+
+
+ that ICAO should change the international requirements in Annex 2, Annex 6 and PANS-OPS (DOC 8168) so that pilots flying are required to obey and follow TCAS resolution advisories (RAs), regardless of whether contrary ATC instruction is given prior to, during, or after the RAs are issued. Unless the situation is too dangerous to comply, the pilot flying should comply with the RA until TCAS indicates the airplane is clear of the conflict. [No. 18/2002]
+
+
+On 21 July 2003, three further Recommendations were issued as follows:
+
+
+ that the Federal Office for Civil Aviation (FOCA), Switzerland should ensure that the air traffic control service provider issues and implements procedure to undertake maintenance work on the ATC Systems stipulating operational effects and available redundancies. The procedure shall include the following aspects: 
+
+Stipulating the detailed responsibilities of the Operational Division and the Technical Division. 
+
+Personnel reserve planning of the operational staff for maintenance work on the ATC Systems. 
+
+Timely dissemination of procedure to the controllers, in order to prepare them to deal with the situations. 
+
+Establish and implement the checklists for the maintenance as well operational staff, when maintenance work on the ATC Systems is undertaken, to enhance the safety net. 
+
+Selection of best possible time from operational aspects for the maintenance work on the ATC Systems. [No. 01/2003]
+
+
+
+
+
+ that the Federal Office for Civil Aviation (FOCA), Switzerland should that the ACC Zurich is manned with the minimum number of air traffic controllers as follows: 
+
+There shall be at least two controllers on active duty at all times. 
+
+There shall be at least two controllers to manage enroute sectors; i.e. one Radar Planner (RP) and one Radar Executive (RE). 
+
+When ACC is required to manage the approach services for Friedrichshafen and Altenrhein/St. Gallen, one additional controller shall be assigned to this task. Alternatively, this task should be taken over by APP Zurich. 
+
+Additional controllers shall be assigned to manage breaks. [No. 02/2003]
+
+
+
+
+
+ that the Federal Office for Civil Aviation (FOCA), Switzerland should ensure that the air traffic controllers are imparted with the initial and recurrent training covering the theoretical and practical (simulator) emergency procedures, particularly covering the following aspects: 
+
+Recognition of potential air traffic conflict and maintenance of aircraft separation in accordance with the international standards. 
+
+A quick re-establishment of the minimum separation, in an event of having fallen below it. 
+
+The use of appropriate phraseology, with an emphasis on achieving maximum effects within minimum possible time/radio transmission. [No. 03/2003]
+
+
+
+
+At the conclusion of the Investigation, on 19 May 2004, the following fifteen Recommendations were issued:
+
+
+ that ICAO should ensure that rules and procedures regarding ACAS are uniform, clear and unambiguous. Compliance should be ensured in the ICAO Annexes 2, 6, the PANS and the Guidance Material. The procedure for pilots should include the following elements: In the event of an ACAS Resolution Advisory (RA) to alter the flight path pilots shall: 
+
+Respond immediately and manoeuvre as indicated, unless doing so would jeopardise the safety of the airplane. 
+
+Never manoeuvre in the opposite sense to an RA, nor maintain a vertical rate in the opposite sense to an RA. [No. 06/2004]
+
+
+
+ that ICAO should ensure that a high level of acceptance and confidence of pilots in ACAS (exists) by improving education and training. Therefore the Attachment B to State letter AN 11/19-2/82[1] should be transferred in a PANS (Procedures for Air Navigation Services). [No. 07/2004]
+
+ that to enhance the performance of ACAS, ICAO should initiate the development of down-linking RAs to ATC, using such technologies as SSR Mode S and Automatic Dependent Surveillance-Broadcast (ADS-B). [No. 08/2004]
+
+ that to improve the investigation of future accidents and incidents, ICAO should require ATS units - in addition to present regulations - to be equipped with a recording device that records back-ground communication and noises at ATCO workstations similar to a flight deck area microphone system. [No. 09/2004]
+
+ that the Federal Office for Civil Aviation (FOCA) should ensure that the air traffic control units of the air traffic control service provider are equipped with an effective Short Term Conflict Alert system covering the following minimum demands: 
+
+An appropriate indication of failure or unavailability of STCA at the affected air traffic controller workstation. 
+
+An adjustment of volume that prevents the controller from missing the acoustical STCA warning. 
+
+When activated the acoustical STCA warning should sound permanently until acknowledgement at the affected workstation by the ATCO. [No. 10/2004]
+
+
+
+ that the Federal Office for Civil Aviation (FOCA) should ensure that the air traffic control service provider equips air traffic control units with telephone systems which in case of a failure or shutdown of the main telephone system reroutes incoming telephone calls automatically to the bypass telephone system. [No. 11/2004]
+
+ that the Federal Office for Civil Aviation (FOCA) should ensure that the radar system of the air traffic control service provider is technically equipped in a way that enables display updates within 8 seconds or less in en-route air-space. No. 12/2004]
+
+ that the Federal Office for Civil Aviation (FOCA) should ensure that the air traffic control units of the air traffic control service provider are equipped with system recording and replay facilities in accordance (with) a recommendation of EUROCONTROL that enables a complete reconstruction of the surveillance data presentation, display settings and selections at controller display positions. [No. 13/2004]
+
+ that the Civil Aviation Authority (CAA) of the Russian Federation should ensure that the ACAS training for flight crews is in accordance (with) the requirements and guidelines of Attachment B to State letter AN 11/19-2/82. The following aspects should be covered:                                                                 
+
+Flight simulators equipped with ACAS or inter-active Computer Based Training (CBT) should be utilised for training of ACAS manoeuvres. 
+
+ACAS event scenarios should be included in Crew Resource Management (CRM) and Line-Oriented Flight Training (LOFT) programmes. [No. 14/2004]
+
+
+
+ that the Federal Aviation Administration (FAA) of the United States of America should ensure that the TCAS 2000 manufacturer re-phrases the TCAS 2000 Operating Manual to reflect the ACAS/TCAS system philosophy and the international ACAS/TCAS regulations and operating procedures in an unambiguous and consistent manner. [No. 15/2004]
+
+ that by utilising its own mechanism and international resources available, ICAO should ensure that all ACAS/TCAS users are consistent in their response to the equipment advice. ICAO auditing processes must pursue compliance with its ACAS SARPs and training objectives at all levels within the aviation industry. [No. 16/2004]
+
+ that the Federal Office for Civil Aviation (FOCA) should ensure that the air traffic service provider takes appropriate action to assure an effective operation of their safety management system in as much as that international requirements (ICAO SARPs, EUROCONTROL ESARRs) are assured, and appropriate safety strategies, management techniques and quality procedures are incorporated and evaluated. [No. 17/2004]
+
+ that the Federal Office for Civil Aviation (FOCA) should ensure that the air traffic service provider conducts an evaluation of the staffing levels required. The evaluation should not be limited to identifying the number of personnel required but also consider the qualification and experience required of specialist functions. [No. 18/2004]
+
+ that the Federal Office for Civil Aviation (FOCA) should ensure that the air traffic service provider develops and implements refresher and safety related training compliant with ESARR 5 and adapted to the operating environment. [No. 19/2004]
+
+ that the Civil Aviation Authority (CAA) of the Russian Federation should ensure that exposure to Crew Resource Management training within the airline industry is (improved). The use of flight simulators or appropriate synthetic training devices for Line-Orientated Flight Training should be promoted. [No. 21/2004]
+
+
+The Investigation was completed on 19 May 2004 and the Final Report issued. Appendices to the Final Report which include a reconstruction of the flight path according to radar data, extracts from CVR and FDR recordings, a copy of regulations relating to ATC single manning at Zurich ACC and comments submitted by qualifying States on the Draft Final Report were issued separately by the investigating agency.
+
+Further Reading
+
+Loss of Separation
+
+Mid-Air Collision
+
+Airborne Collision Avoidance System (ACAS)
+
+ACAS Resolution and Traffic Advisories
+
+ACAS Training
+
+ACAS: Guidance for Controllers
+
+ATCO Actions in Case of Loss of Separation
+
+ATM Sector Management
+
+Loss of Separation - ATCO-induced Situations
+
+Controller Workload
+
+Situational Awareness
+
+
+Notes
+
+^ State letter AN 11/19-2/82 described the intended requirements for ACAS training in some detail and specified simulator training for flight crews to cover both “ACAS manoeuvres training” and “RA responses” as well as noting that “for corrective RAs, the response is initiated in the proper direction within 5 seconds of the RA being displayed. The change in vertical speed is accomplished with an acceleration of approximately ¼ g.”   
+
+
+
+
+
+

@@ -1,0 +1,60 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 9 December 2016, a Bombardier DHC8-400 (VH-LQG) being operated by Sunstate Airlines as QantasLink on a scheduled domestic passenger flight departing Sydney for Tamworth NSW failed to level at its acknowledged cleared altitude of 5,000 feet and subsequently lost separation in day VMC against an inbound Boeing 777-200 being operated by Air New Zealand on a scheduled international passenger flight from Auckland to Sydney. Initial corrective action by the DHC8 crew was triggered by sight of the conflicting traffic and as a result there was no actual risk of collision.
+
+Investigation
+An Investigation was carried out by the Australian Transport Safety Bureau (ATSB) based on ATC data and information from the DHC8 pilots. 
+It was established that the DHC8 had contacted Sydney Departures passing 1,900 feet for 3,000 feet on a heading of 090° and were then re-cleared to 5,000 feet and given a direct track to a waypoint which put them on an approximately north easterly track. As the aircraft climbed through 3,800 feet with the AP engaged and the First Officer as PF, ATC advised that a short delay was likely before climb above 5,000 feet was possible due to traffic above. The relative positions of the two aircraft at that time are shown on the illustration below. Soon after this, the crew reported having changed the selected speed from 185 knots to 210 knots and seeing the altitude capture mode annunciated "almost simultaneously". Aware that a speed change made with altitude capture active on the aircraft they were flying meant the AP defaulting to pitch mode which it then did, the PF decided to disconnect the AP and manually reduce the rate of climb. The Captain selected the IAS and ALT SEL modes and the PF then "attempted to reconnect the AP". However, this did not occur and neither pilot noticed this or that the aircraft was continuing to climb and had exceeded 5000 feet. 
+They then became aware visually of the conflicting 777 and identified it on their TCAS displays. As the altitude alert sounded indicating exceedance of the FMS selected altitude of 5,000 feet, the PF reported having noticed the exceedance on his altimeter and beginning to pitch the aircraft down manually to return to 5,000 feet. The maximum altitude reached during the altitude deviation before this descent began was 5,600 feet.
+Prior to the altitude deviation, the STCA was activated at both the Departures and Arrivals controller positions and both controllers began to monitor the altitude of the DHC8 to ensure that it maintained 5,000 feet on reaching. When the Departures controller saw the climb continuing, they "requested confirmation that the aircraft was maintaining their assigned altitude and issued a heading instruction to turn the aircraft away from the 777". When the Approach controller observed the continued climb, they instructed the 777, which had been cleared to 6,000 feet, to stop descending. In response, the flight crew of the 777 advised that at that time they were "over the top of the other aircraft and would be able to see it again shortly". The 777 levelled at 6800 feet and the DHC8 crossed its track about ½ nm behind it in the vicinity of the "projected point of crossing" marked on the illustration below.
+
+ The relative positions of the two aircraft prior to conflict avoidance responses. [Reproduced from the Official Report]
+It was noted that although the two aircraft had remained more than 1,000 feet apart vertically as they crossed, under the prevailing air traffic regulations, this did not meet the requirements for separation in the circumstances which prevailed. The explanation for this was given as "in applying vertical separation using pressure-derived altitude information, tolerances need to be applied [and] when these tolerances are considered, the 1,200 feet displacement between the aircraft was not adequate to apply vertical separation" and so a loss of prescribed separation had occurred.
+The Investigation concluded that it was probable that the DHC8 5,000 feet altitude capture "occurred earlier than expected due to the aircraft’s rate of climb being unusually high (with) the selection of normal take-off power on departure (used due to reports of windshear in the area) contributing to this high rate of climb". In respect of the Captain's failure to cross check the successful re-engagement of the AP, it was concluded that it was probable that he had allowed himself to become distracted by the search for the conflicting traffic.  
+The Findings of the Investigation were formally documented as follows:
+
+
+ The PF increased the aircraft speed at approximately the same time as the autopilot commenced capturing the selected altitude. This resulted in the autopilot mode changing and influenced the PF’s decision to disconnect the autopilot.  
+
+ The PF did not engage the autopilot correctly and became distracted before ensuring it was connected, resulting in the aircraft climbing through the assigned level. The PM was also not aware that the autopilot had not been correctly reconnected.  
+
+
+The Safety Message drawn from the Investigation was expressed as the need for flight crews operating in high traffic terminal areas such as Sydney to maintain separation by strictly adhering to air traffic control instructions since, "as highlighted in this occurrence, any deviation has the potential to reduce safety margins". It was considered clear that "during this occurrence, the interactions between the [DHC8 pilots] were not effective in responding [to] and managing the encountered threats" and that this "highlights the importance of effective CRM".   
+The Final Report was published on 24 March 2017. No Safety Recommendations were made.
+
+Related Articles
+
+Loss of Separation
+
+Separation Standards
+
+Autopilot
+
+Crew Resource Management
+
+Cross-checking Process
+
+Interruption or Distraction
+
+Short Term Conflict Alert (STCA)
+
+Incorrect use of TCAS Traffic Display
+
+
+
+
+
+

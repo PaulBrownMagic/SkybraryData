@@ -1,0 +1,62 @@
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 24 January 2005, a Boeing 747-200F being operated by Atlas Air on a scheduled cargo flight from Dubai to Düsseldorf touched down in normal visibility at night at destination but was unable to achieve sufficient braking on the contaminated runway after initially normal deceleration and overran the end. It collided with ground obstacles before coming to a stop where it became apparent that engines 2 and 3 were on fire. The 3 person flight crew evacuated and were unhurt but the aircraft was sufficiently damaged for it to be declared a hull loss. 
+
+Investigation
+The event was investigated by the BFU Germany. Both FDR and CVR data were successfully downloaded and replayed - but value of the FDR data was limited by the small number (22) of recorded parameters. Relevant ATC radar and voice recordings were also available.  
+It was established that after an overnight flight, the aircraft, with the commander as PF was the first to approach Dusseldorf that morning. As the aircraft continued descent, ATC advised that runway 23L could be expected and that an initial braking action measurement had found good braking action on the full length but as it had started to snow, a further measurement would be made and communicated before the aircraft landed. As the aircraft continued towards the airport under radar vectors, the controller advised a surface wind which equated to an approximate 2 knot tail wind component and a cloud base of 500 feet agl with surface visibility 1500 metres in snow showers. Surface temperature and dew point were both very close to 0°C.
+By the time landing clearance was given at approximately 1000 feet agl, the promised second braking action run had been completed and the result, still medium on the full length, passed to the crew. ATC also advised that the IRVR for the landing runway was now 900/1100/1100 metres. Based on the CVR recording and the statement of the aircraft commander, it was considered that none of the flight crew “had doubted the braking action given by the controller”.
+The ELW was 283 tonnes (close to the MLW) and the landing was made with Flap 30 and autobrake set to medium which would, as calculated by the crew, have ensured a landing within the available runway length with the use of thrust reversers if the actual braking action had been medium even with the prevailing 2 knot tail wind component. 
+Touchdown was estimated to have occurred within the TDZ at a speed 6 knots above Vref after a stabilised approach had been flown. However, even though the ground spoilers deployed on touchdown and the thrust reversers had been activated promptly, the rate of deceleration steadily decreased during the first 20 seconds. Despite this and speed calls from the First Officer and the Flight Engineer, the PF selected reverse idle in line with routine procedure during a landing. Almost immediately, having realised that the ground speed was still too fast, he had reselected maximum reverse and commenced manual braking. The aircraft overran the end of the runway and the RESA and collided with the ILS antenna and the runway 05 approach lighting before coming to a stop on grass some 580 metres beyond the end of the runway. The impact of engines 2 and 3 with the localiser antenna resulted in engine failure and indications of fire in both engines. Fire drill action by the crew resolved fire in the No 3 engine but fire continued - and was externally visible - in the No 2 engine. The nose landing gear of the aircraft was found to have opened and pushed aside the concrete lid of a cable manhole with the result that one wheel of the nose landing gear was destroyed. 
+
+ The aircraft in its final stopping position (reproduced from the Official Report)
+When the crew attempted to escape from the aircraft by using the forward left hand door, the slide inflated inside the aircraft rendering the exit unusable. Instead, the crew awaited clearance from the attending emergency services personnel before evacuating via the E & E bay in preference to the crew overhead escape hatch which would have required rope use.
+Boeing provided the Investigation with an analysis of the actual deceleration of the aircraft (see the graph below) which determined that, given the normal touchdown speed and normal arming and deployment of deceleration devices, the actual braking action whilst the aircraft had been on the runway and the paved overrun had been equivalent to ‘poor’ rather than the reported ‘medium’. This finding supported the runway braking action run carried out shortly after the overrun, which found poor breaking action along the whole length of the runway. An aftercast of the weather conditions showed that the aircraft had touched down during a very short period of heavy snow which marked the height of the snow shower as it passed over the airport. 
+
+ The Boeing plot of actual deceleration compared to the theoretical deceleration corresponding to various categories of actual runway-surface braking action (reproduced from the Official Report)
+The Investigation found that the conduct and communication of the runway friction testing carried out prior to the accident had been in accordance with prevailing procedures. Nevertheless, it was considered that “this accident emphasises that under the prevailing weather conditions and the existing friction coefficients the friction tester used is appropriate for the planning of winter services but is not reliably usable for flight operations”. It was noted that this view “confirms the findings which the Norwegian Accident Investigation Board which is exclusively about the 2011-published study by Norwegian AIB  and (the conclusions of) the ICAO Friction Task Force determined in the meantime.”
+The Investigation formally determined that the Cause of the accident was the fact that the braking action values reported to the crew did not correspond with the runway conditions which had changed because of the heavy snowfall since the last measurement. 
+The following Contributory Factors were identified:
+
+
+ The high dynamics of the weather changes
+
+ The lack of a measurement method providing reliable braking coefficient values under all weather conditions.
+
+
+The Final Report was completed on 18 October 2013 and published in December 2013.
+
+
+Further Reading
+
+Runway Excursion
+
+Runway Surface Friction
+
+Surface Friction Measurement and Prediction in Winter Operations
+
+Landing on Contaminated Runways
+
+Deceleration on the Runway
+
+Beyond the Runway End Safety Area
+
+Rejected Landings
+
+The Assessment of Runway Surface Friction Characteristics, CAP 683, UK CAA, October 2010
+
+
+
+
+
+

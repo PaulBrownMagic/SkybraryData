@@ -1,0 +1,109 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Summary
+2 Description
+3 Investigation
+4 Further Reading
+
+
+Summary
+On 22 December 2010, a Finnair Airbus A330-300 inbound to Helsinki and cruising in very cold air at an altitude of 11,600 metres lost cabin pressurisation in cruise flight and completed an emergency descent before continuing the originally intended flight at a lower level. The subsequent Investigation was carried out together with that into a similar occurrence to another Finnair A330 which had occurred 11 days earlier. It was found that in both incidents, both engine bleed air systems had failed to function normally because of a design fault which had allowed water within their pressure transducers to freeze.
+
+Description
+On 22 December 2010, a GE CF6-80E powered Airbus A330-300 being operated by Finnair on a passenger charter flight from Krabi, Thailand to Helsinki Finland was at a cruise altitude of 11,600 metres (38,100 feet) south of Moscow, Russia in night VMC when successive malfunction of both engine bleed air systems occurred. A consequential loss of cabin pressurisation followed and after the flight crew had donned their emergency oxygen masks, a descent to 6600 metres (17700 feet) was made with the APU used to operate the pressurisation system once within AFM limits. It was subsequently possible to restart both engine bleed air systems and the flight was continued to the planned destination without further event. None of the 298 occupants were injured.
+
+Investigation
+An Investigation was carried out by a Commission appointed by the Finnish Safety Investigation Authority. The Investigation was combined with that already started into a similar occurrence to another Finnair Airbus A330 eleven days earlier during similar cold-soak cruise conditions. It was noted that all A330 crew had been made aware of the earlier incident and its context and so were not entirely surprised when a similar situation occurred. It was noted that the augmenting First Officer had not been recalled from scheduled rest when the event occurred. 
+FDR data from both events was available to the Investigation but the 2 hour CVR data had been overwritten in both cases; in the first because the crew failed to successfully follow the instructions for stopping it after necessarily accessing the under floor avionics bay following an en route diversion and in the second because such access is not available in flight.  
+The sequence of related events depicted below is taken from the Official Report. A rapid descent from cruise level was commenced about two minutes after the loss of
+pressurisation and when the high cabin altitude warning occurred during the descent, it was continued as an emergency descent. The interval between the failure of the left and right engine bleed air systems was found to have been 12 minutes. It was noted that the augmenting First Officer had not been recalled from scheduled rest when the event occurred.
+
+ Key events associated with the serious incident (Source: Final Report)
+It was established that exceptionally cold temperatures had prevailed at the occurrence altitudes in both events, although these temperatures were within applicable AFM limitations. It was found that water which had accumulated in both engines' bleed air systems had then frozen inside the pressure cell rooms of the bleed air system regulated pressure transducers which are situated in the engine pylons and not fitted with any heating system. The freezing was considered to have caused the transducers to malfunction leading to the generation of false pressure information and the input of this to the Bleed Monitoring Computers (BMC) which shut down the failed system. The ECAM cabin pressure page had been displayed and a bleed air system overpressure condition annunciated. It was noted from FDR data that the ambient air temperature had risen relatively rapidly after a long period of extreme cold en route shortly before the failures occurred, although the relevance of this fact in respect of the malfunction was not definitively established.
+It was also noted that because of the initiation of a descent prior to the rising cabin altitude reaching the level at which the ECAM High Cabin Altitude Warning and the continuation of the descent thereafter as the prescribed emergency descent, the cabin altitude had not exceeded 11000 feet. 
+It was observed that the prescribed abnormal procedure for a single engine bleed air fault is displayed on the ECAM but the dual bleed loss abnormal procedure only appears in the hard copy QRH. The Investigation considered it “illogical to have to locate one system's abnormal procedures from two unconnected sources” and that this might well make it more difficult to locate the correct abnormal procedure.
+It was also considered in respect of the flight crew response to the event and its consequences:
+
+
+ the failure to recall the augmenting crew member at the onset of the malfunctions was inappropriate and that “the full potential of the crew should be available during emergencies” and 
+
+ the emergency descent should have been announced with a MAYDAY declaration and that Finnair “should emphasise the importance of using the distress signal in situations when it is needed”.
+
+
+The formal determination of the Investigation Commission on ‘Probable Causes and Contributing Factors’ in respect of both the investigated events was as follows:
+“Both serious incidents were caused by malfunctioning of the engines’ bleed regulated pressure transducers' (Pr). The malfunctioning was caused by freezing of water that had accumulated in the bleed regulated pressure transducers' pressure cell rooms, extremely confined by design. Due to malfunctioning the transducers provided faulty pressure information to Bleed Monitoring Computers (BMC). Due to the erroneous information the BMCs closed both engines’ bleed air systems which resulted in loss of pressurisation in cabin, i.e. an increase in cabin air pressure altitude. The extremely cold air mass en-route during a long time period contributed to the fact that the water froze in the pressure cell rooms. Furthermore, the relatively rapidly increasing ambient temperatures en-route may have contributed to the engines’ bleed air system faults.”
+It was noted that in September 2011 Airbus had published SB A330-36-3039 applicable to all A330 aircraft fitted with GE CF6-80E1 engines for the replacement of the existing bleed system regulated pressure transducers on one engine of each aircraft with a modified version. Airbus stated that this newer version of the failed pressure transducer had been designed to function more effectively in cold soak conditions than the version fitted to the incident aircraft, but the Investigation Commission concluded that “it (is) possible that, even in the newest version, water can condense in the (transducer) and when it freezes, it interferes with bleed system pressure measurement”.  
+The following four Safety Recommendations were issued at the conclusion of the Investigation:
+
+
+ that EASA require Airbus S.A.S. to replace the pressure transducers ZRA380-00 by pressure transducers (p/n ZRA691-00 or equivalent) of A330 aircraft equipped with GE CF6-80E1 engines with such that function in conditions approved for the A330 fleet.
+
+
+
+ that EASA require Airbus S.A.S. to also include Dual Bleed Loss abnormal procedures in the A330 ECAM action.
+
+
+
+ that EASA and ICAO sufficiently lengthen the time recording requirement of CVRs so as to cover the entire routing of the flight.
+
+
+
+ that Airbus S.A.S. improve the procedures of promulgating its operational bulletins by distributing them via communications channels intended for operational divisions.
+
+
+The Investigating Commission noted that:
+
+
+ Airbus has advised that the QRH procedure for a dual bleed loss is to be published in a revised form before the end of 2012 and accompanied by corresponding ECAM display changes.
+
+
+
+ A dual bleed loss on A330, due to overpressure in engines’ bleed air system during cruise/descent, was first reported to Airbus in 2008 with a number of occurrences increasing during the 2009/2010 winter season period. 
+
+
+
+ Had the high bleed air pressure indicated really occurred, the system overpressure valve (OPV) which is pneumatically controlled and not influenced by the operation of the BMC would have closed.
+
+
+The Final Report of the Investigation: Investigation report C11/2010L was completed on 24 July 2012.
+
+Further Reading
+
+Loss of Control
+
+Pressurisation Problems: Guidance for Flight Crews
+
+Emergency Descent: Guidance for Controllers
+
+Emergency Descent in High Traffic Density Situations
+
+Critical Engine
+
+Icing Certification
+
+Aircraft Certification and Production Standards
+
+Emergency Communications
+
+
+
+
+
+

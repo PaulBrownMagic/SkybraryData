@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 14 June 2008, a Boeing MD-10 being operated by Federal Express on a non-scheduled cargo flight from Memphis to New York JFK experienced a period of aerodynamic buffet during descent from FL320 to FL290 in an en route holding pattern near Raymond in day VMC. None of the three occupants were injured and the flight was completed without further event but a post flight inspection found that substantial damage had been caused to both elevators and to the right horizontal stabiliser. 
+
+Investigation
+An Investigation into the event was carried out by the NTSB. The status of the third occupant of the two-crew aircraft involved was not identified during the investigation. 
+According to the crew account given to the investigation, the flight had proceeded uneventfully with the autopilot engaged until shortly before the aircraft entered an en route holding pattern at FL330. The airspeed calculated by the FMS was reported to have been 230 knots425.96 km/h 118.22 m/s, equivalent to just 5 knots9.26 km/h 2.57 m/s above the Vmin speed for the prevailing aircraft configuration and weight. Both pilots reported expecting the FMS to automatically default to the ICAO maximum holding speed of 265 knots490.78 km/h 136.21 m/s, as described in the Operations Manual, however, the aircraft commander reported deciding to select a speed of 240 knots444.48 km/h 123.36 m/s. As the aircraft began to bank left upon reaching the hold, the airspeed was seen to be reducing and the bank angle reached 23 degrees contrary to the expected limit of 15 degrees. Upon completion of the initial turn, it was reported by the crew that the airspeed had been approximately 5 knots below Vmin and there was no recovery to the selected 240 knots. When the next turn began, a request for descent to FL320 in the pattern was made and granted. FMS level change mode was selected and the maximum bank angle was reselected from auto to 15 degrees. During the descending turn, with the airspeed reported as having been about 220 knots407.44 km/h 113.08 m/s, the slats were extended and a reduction in airspeed to below 220 knots occurred. Slat retraction was made, buffet became evident and an autoslat extension alert occurred. Further descent was obtained and the buffet was reported to have ceased passing approximately FL300. There was no mention at any point in the crew account of the indicated Mach Number during the event.
+FDR data showed that the slats had been extended by the crew at an air speed of 205 knots379.66 km/h 105.37 m/s when the corresponding Mach Number had been 0.59, well above the  maximum slat extension speed of Mach Number 0.51. As a result of the crew action contrary to limitations, the target Mach then became 0.51, and the autothrottles reduced from 100% N1 to about 50% N1. Although as reported, the slats had been quickly retracted by the crew and the autothrottles had advanced the thrust back to 100% N1, by the time the thrust had recovered, airspeed had dropped to about 180 knots333.36 km/h 92.52 m/s. The stick shakers began to operate soon after this and remained activated for approximately one minute in the absence of any recovery action.
+The Investigation noted that longstanding manufacturer advice was that the higher of the buffet onset or stick shaker speed should be recognised as the minimum speed to ensure no aircraft structural damage occurred and that flight below that speed could cause “wrinkled elevators”. This advice also stated in respect of stall recovery that:
+“Should a crew encounter buffet in the clean configuration below 0.84 Mach, prompt stall recovery corrective action should be taken. Maximum continuous thrust… should be applied and pitch attitude reduced as required to minimize altitude loss. If below the slat limit speed, slats should be extended. At heavy weights or high altitudes, if the airspeed/Mach has become low, this technique alone may not be adequate for recovery and altitude should be traded for airspeed to accelerate out of the buffet. Incomplete recovery may result in a secondary stall or inability to accelerate to cruise mach with thrust available. If recovery action is not promptly initiated, a substantial loss of altitude may result”
+The Boeing FCOM was also noted to include warnings that:
+
+
+ First indication of approach to stall may be one or any combination of the following:
+
+Rapid decrease below selected airspeed or digital airspeed turns amber
+
+Airspeed decay below the Vmin indicator toward the Vs indicator on the airspeed tape
+
+Pitch Attitudes approaching the PLI
+
+Stick shaker or initial stall buffet (light wing rock may be present) 
+
+
+
+ At first indication of approach to stall, simultaneously apply maximum available thrust, level wings and adjust pitch as required to minimize altitude loss.
+
+  At first indication of a stall with auto flight engaged immediately disconnect auto flight and initiate stall recovery. Be alert to counteract excessive nose-up trim condition. 
+
+  Above 25, 000 feet, stall can occur prior to stick shaker with buffet serving as the only stall warning.
+
+
+In respect of maximum bank angle with the autopilot engaged, the FCOM stated that “if the bank angle limit selector is set to the AUTO position, the bank angle limit value will…(be) limited to 25 degrees between Mach 0.17 and Mach 0.55.”
+The Probable Cause of this accident was determined by the NTSB as:
+“The flight crew's failure to adequately monitor the airplane's airspeed during the holding pattern, leading to the onset of an aerodynamic stall and subsequent structural damage to the tail from buffet.”
+The Investigation Report was adopted on 27 September 2010 and may be seen at SKYbrary bookshelf: DCA08FA075
+No Safety Recommendations were made as a result of the Investigation.
+
+Further Reading
+
+Loss of Control
+
+Recovery from Unusual Aircraft Attitudes
+
+High Altitude Flight Operations
+
+Adherence to SOPs (OGHFA BN)
+
+Monitoring Skills (OGHFA BN)
+
+
+
+
+
+

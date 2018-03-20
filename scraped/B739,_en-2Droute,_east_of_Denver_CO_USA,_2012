@@ -1,0 +1,59 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 31 July 2012, a Boeing 737-900 (N37420) being operated by United Airlines on a scheduled domestic passenger flight (UAL1475) from Dallas/Fort Worth to Denver hit a single large bird at 11500 feet during the descent to destination in day VMC and lost some flight instrument indications. The crew declared an emergency and were assisted by ATC in completing the approach without further event. After landing, a large hole was discovered in the radome together with other minor damage attributable to the strike. 
+
+Investigation
+An Investigation was carried out by the NTSB and the FDR was removed and downloaded to assist. Recorded damage to the aircraft was documented as:
+
+
+ a large hole in the radome
+
+ a bent left side pitot head with a piece of broken radome lodged on it 
+
+ a dent to the leading edge of the vertical stabiliser
+
+
+Bird remains were recovered from inside the radome, from the left side pitot head and from the vertical stabiliser leading edge. Following feather and DNA analysis, the species was identified as White‐faced Ibis. It was noted that this species is common in Colorado during migration and locally (although not within the airport perimeter) during breeding. The average weight of an adult bird was advised to the Investigation as being 1.3lbs (0.6kg) with a body length of 2' (60cm) and a wingspan of 3' (90cm).
+
+ NTSB photo of radome damage
+The flight crew reported that with the First Officer acting as PF, and skies clear, a single large bird had been struck passing approximately 11000 feet QNH (equivalent to 5500 feet aal) during descent in VMC approximately 25 miles east south east of Denver. Following the impact, noise in the flight deck increased markedly, making communication with ATC and within the flight deck difficult.  The AP and A/T disengaged and the left hand side ASI and VSI were inoperative. Various abnormal messages appeared on the FMC and the right hand side ASI and VSI indications were "erratic". An emergency was declared and the aircraft commander took over as PF. ATC assisted by reassigning runway 26 for landing in place of the originally-expected 16R. It was reported that "the Captain eventually lost all instrument indications on his primary flight display (PFD)" and that "the crew referenced the standby instruments, but the readings did not make sense given the airplane altitude and power settings". Because of this, power settings relative to aircraft configuration along with ATC information on their observed ground speed were used to make the approach where an uneventful landing was completed. After clearing the runway and having the AFRS (RFFS) inspect the aircraft, the taxi in to the gate was completed.
+The aircraft operator later reported that the standby airspeed indicator readings during the descent had appeared to match the ground speed callouts provided by ATC.
+The FDR data was reviewed and showed a rapid loss of airspeed while descending through approximately 11,500 feet pressure altitude at approximately 290 KCAS. The rapid drop in computed airspeed to the "no computed data" (NCD) value of 45 knots was consistent with a complete loss of airspeed reference (pitot pressure) on the left air data system. According to Boeing, the rapid drop observed in computed airspeed would have been consistent with the display of an amber "SPD" flag on the left side PFD. Many other air data parameters exhibited erroneous behaviour consistent with a loss of a valid airspeed input including a loss of wind velocity and an increase in pressure altitude and the left angle of attack measurement became different from that of the right by about 0.5°. The FDR continued to record valid altitude and attitude information throughout the remainder of the flight. It was noted that a loss of airspeed information from the left side Air Data Inertial Reference Unit (ADIRU), which uses data from the pitot head and static ports on the left hand side of the aircraft, would have resulted in an amber flag indicating “IAS DISAGREE” on the left and right primary PFD, as well as an amber flag indicating “SPD” on the left PFD". It was noted that the FDR did not record data from the right ADIRU and the standby system.
+It was noted that testing of the air data systems following replacement of the left pitot head and system cleaning did not reveal any anomalies that could explain the reported loss of all instrument indications on the Captain's PFD or the reported unreliability of the airspeed and altitude indications on the First Officer's PFD.
+The Probable Cause of the event was determined as an in-flight collision with a bird during descent to land, which resulted in damage to the left pitot tube and loss of airspeed information to the left and right primary flight displays (PFD). The reason for the total loss of indications on the left PFD could not be determined based on available evidence.
+
+The Final Report was adopted on 24 March 2014. No Safety Recommendations were made.
+
+
+Further Reading
+
+Bird Strike
+
+Aircraft Certification for Bird Strike Risk
+
+Unreliable Airspeed Indications
+
+Bird Strike on Final Approach: Guidance for Flight Crews
+
+Bird Strike: Guidance for Controllers
+
+Emergency Communications
+
+Standby Flight Instruments
+
+
+
+
+
+

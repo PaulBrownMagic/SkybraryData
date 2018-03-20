@@ -1,0 +1,184 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+3 Safety Recommendations
+4 Related Articles
+5 Further Reading
+
+
+Description
+On 20 December 2008 a Boeing 737-500 being operated by Continental Airlines on a scheduled passenger flight from Denver to Houston departed the left side of runway 34R during a normal visibility night take-off roll in gusty crosswind conditions and then travelled across moderately rough but essentially level terrain before coming to stop still upright but with the fuselage broken into two pieces. A post crash fire followed. Six of the 115 occupants were seriously injured and a further 41 sustained minor injuries. 
+
+ Ground track taken by the aircraft to its final resting position - taken from the official report
+Investigation
+An Investigation was carried out by the NTSB. It was established that the aircraft had left the runway at a speed of approximately 110 knots203.72 km/h 56.54 m/s and that the total distance then travelled before stopping had been approximately 730 m2,395.013 ft, crossing both a taxiway and an airport service road and including a short airborne excursion following impact with uneven terrain. The cabin evacuation was found to have been promptly accomplished by the cabin crew with assistance from positioning operator flight crew. There were no announcements from the flight deck in connection with the evacuation. A fire developed on the right side of the aircraft but all occupants had been successfully evacuated before it breached the cabin.
+It was established that there was no evidence of any defects in or failures of the engines, structures or systems of the aircraft, including the nosewheel steering system. 
+Huge amounts of recorded data on wind velocity across the airport at the time of the accident were available to the investigation, including that from 32 LLWAS sensors from which information was also able to be displayed in the TWR. 
+It was confirmed that mountain wave conditions, which were widely known to commonly prevail at Denver, were extant at the time of the accident and had created strong westerly surface winds with very localised and intermittent gusts as high as 45 knots across the runway during the take-off roll. However, performance calculations made during the investigation indicated that the aircraft rudder was capable of producing enough aerodynamic force to offset the weather-vaning tendency created by even the strongest winds encountered during the accident take-off roll.  
+ATC were found to have cleared the aircraft for take off with a spot wind of 270° / 27 knots50.004 km/h 13.878 m/s, which was equivalent to a cross wind component of 27 knots compared to the AFM limit of 33 knots61.116 km/h 16.962 m/s. This was in keeping with prevailing ATC procedures which did not require the controller to provide additional information about variations in wind velocity. Use of the accident runway by other aircraft had not been followed by any adverse comment related to the gusting crosswinds which prevailed.
+The conclusions of the investigation included the following:
+
+
+ The Captain's use of tiller and full right control wheel in the 3 seconds before the excursion likely resulted from acute stress stemming from a sudden, unexpected threat, perceived lack of control, and extreme time pressure. 
+
+ The unexpectedly strong and gusty crosswinds the airplane encountered as it accelerated during the take-off roll made maintaining directional control during this take-off a more difficult control task than the captain was accustomed to dealing with; however, had the Captain immediately reapplied significant right rudder pedal input as the airplane was continuing its left turning motion, the airplane would not have departed the runway. 
+
+ The captain's initiation of a rejected take-off was delayed by about 2 to 4 seconds because he was occupied with the nosewheel steering tiller and right control wheel input, both of which were ineffective and inappropriate for steering the airplane. 
+
+ Although the departure wind information the Captain received with the take-off clearance from the Denver International Airport (DEN) air traffic control tower (ATCT) local controller indicated that the winds were out of 270° at 27 knots (which resulted in a stronger-than-expected 26.2-knot crosswind component), the reported winds did not exceed Continental's maximum crosswind guidance of 33 knots, and the captain could reasonably conclude that the winds, as reported by DEN ATCT, did not exceed either his or the airplane's crosswind capabilities. 
+
+ If the accident pilots had received the most adverse available wind information (which was displayed as airport wind on the Denver International Airport air traffic control tower local controller's ribbon display terminal and indicated a 35-knot crosswind with 40-knot gusts), the Captain would likely have decided to delay the departure or request a different runway because the resultant crosswind component exceeded Continental's 33-knot crosswind guidelines. 
+
+ The Denver International Airport air traffic control tower runway selection policy does not clearly account for crosswind components when selecting a runway configuration. 
+
+ Because Continental's simulator training did not replicate the ground-level disturbances and gusting crosswinds that often occur at or near the runway surface, and it is unlikely that the accident captain had previously encountered gusting surface crosswinds like those he encountered the night of the accident, the Captain was not adequately prepared to respond to the changes in heading encountered during this take-off. 
+
+ Because there are no standards for the development of enhanced crosswind guidelines for transport-category airplanes, Boeing did not adequately consider the dynamic handling qualities of the Boeing 737 during take-off or landing in strong and gusty crosswinds; it is likely that the enhanced crosswind guidelines developed by other manufacturers are similarly deficient. 
+
+ The accident pilots' injuries would have likely been lessened or eliminated if their seats had been designed to meet the crashworthiness requirements of 14 CFR 25.562, to which other airplane seats are designed. 
+
+ A flight attendant jump seat that is weakened due to undetected metal fatigue could fail under lower-than-expected crash loads and injure a cabin crewmember who might subsequently be needed to perform critical safety duties, such as evacuating passengers. 
+
+ The adhesive-only fastening method used for the latch plate in the aft galley of the accident airplane and similarly equipped airplane galleys was not adequate for securing galley drawers or other items of mass because it can fail over time and/or with exposure to the elements. 
+
+
+The Investigation concluded that the Probable Cause of the event was:                                 
+“The Captain's cessation of right rudder input, which was needed to maintain directional control of the airplane, about 4 seconds before the excursion, when the airplane encountered a strong and gusty crosswind that exceeded the Captain's training and experience.”
+It was considered that the following factors had contributed to the occurrence: 
+
+
+ An air traffic control system that did not require or facilitate the dissemination of key, available wind information to the air traffic controllers and pilots 
+
+ Inadequate crosswind training in the airline industry due to deficient simulator wind gust modelling.
+
+
+Safety Recommendations
+As a result of the Investigation, a total of 14 Safety Recommendations were made, all to the FAA: These Recommendations were to:
+
+
+ Conduct research into and document the effects of mountain wave and downslope conditions at airports, such as Denver International Airport, that are located downwind of mountainous terrain (including, for example, airports in or near Colorado Springs, Colorado; Anchorage, Alaska; Salt Lake City, Utah; and Reno, Nevada), identify potential mountain-wave-related hazards to ground operations at those airports, and disseminate the results to pilots and airport air traffic control personnel to allow for more informed runway selection decisions. 
+
+
+(A-10-105)
+
+
+ Archive all low-level windshear alert system (LLWAS) data obtained from Denver International Airport and other airports that experience similar wind conditions and make those data available for additional research and the potential future development of an improved LLWAS algorithm for crosswind and gusty wind alerts on air traffic control tower ribbon display terminals. 
+
+
+(A-10-106)
+
+
+ Modify Federal Aviation Administration Order 7110.65 to require air traffic controllers at airports with multiple sources of wind information to provide pilots with the maximum wind component, including gusts, that the flight could encounter.
+
+
+(A-10-107)
+
+
+ Review the required documentation for all low-level windshear alert system (LLWAS)-equipped air traffic control towers to ensure that a letter to airmen has been published and is easily accessible describing the location and designation of the remote sensors, the capabilities and limitations of the system, and the availability of current LLWAS remote sensor wind information on the request of a pilot, in compliance with Federal Aviation Administration Order 7210.3. 
+
+
+(A-10-108)
+
+
+ Require air traffic control towers to locally develop and implement written runway selection programs that pro-actively consider current and developing wind conditions and include clearly defined crosswind components, including wind gusts, when considering operational advantage with respect to runway selection. (A-10-109) Gather data on surface winds at a sample of major U.S. airports (including Denver International Airport) when high wind conditions and significant gusts are present and use these data to develop realistic, gusty crosswind profiles for use in pilot simulator training programs. 
+
+
+(A-10-110)
+
+
+ Require 14 Code of Federal Regulations Part 121, 135, and 91K operators to incorporate the realistic, gusty crosswind profiles developed as a result of Safety Recommendation A-10-110 into their pilot simulator training programs. 
+
+
+(A-10-111)
+
+
+ Once realistic, gusty crosswind profiles as asked for in Safety Recommendation A-10-110 are developed, develop a standard methodology including pilot-in-the-loop testing, for transport-category airplane manufacturers to establish empirically based, type-specific maximum-gusting-crosswind limitations for transport-category airplanes that account for wind gusts. 
+
+
+(A-10-112)
+
+
+ Once a methodology as asked for in Safety Recommendation A-10-112 has been developed, require manufacturers of transport-category airplanes to develop type-specific, maximum-crosswind take-off limitations that account for wind gusts. 
+
+
+(A-10-113)
+
+
+ Until the actions described in Safety Recommendation A-10-113 are accomplished, require manufacturers of transport-category airplanes to provide operators with interim crosswind take-off guidelines that account for wind gusts. 
+
+
+(A-10-114)
+
+
+ Work with U.S. airline operators to review and analyse operational flight data to identify factors that contribute to encounters with excessive winds and use this information to develop and implement additional strategies for reducing the likelihood of wind-related runway excursions. 
+
+
+(A-10-115)
+
+
+ Require cockpit crew seats installed in newly manufactured airplanes that were type certificated before 1988 to meet the crashworthiness standards contained in 14 Code of Federal Regulations 25.562. 
+
+
+(A-10-116)
+
+
+ Require operators to perform periodic inspections on the Burns Aerospace model 2501-5 jumpseats for fatigue cracks within the jumpseat structure and replace the jumpseat if fatigue cracks are found. 
+
+
+(A-10-117)
+
+
+ Require that operators of transport-category airplanes that use galley latches or latch plates secured solely by adhesives that may degrade over time modify the latches to include mechanical fasteners. 
+
+
+(A-10-118)
+The Final Report of the NTSB Investigation was adopted on 13 July 2010
+
+Related Articles
+
+Low Level Wind Shear
+
+Mountain Waves
+
+Wind Velocity Reporting
+
+Cross Wind Landings
+
+Runway Availability
+
+
+Accidents and serious incidents which include Runway Excursion (Directional Control) as an outcome:
+
+
+CRJ1, Southampton UK, 2007 (On 17 January 2007, a Bombardier CRJ 100 being operated by French airline Brit Air on a scheduled night passenger flight from Paris CDG to Southampton could not be directionally controlled after touchdown on a dry surface in normal visibility and almost calm winds and departed the side of the runway during the landing roll. There were no injuries to any of the 36 occupants and there was no damage to the aircraft.)
+AT45, Sienajoki Finland, 2006 (On 11 December 2006, a Finnish Commuter Airlines ATR 42-500 veered off the runway on landing at Seinäjoki, Finland.)
+B735, Jos Nigeria, 2010 (On 24 August 2010, a Boeing 737-500 made an uncontrolled touchdown on a wet runway at Jos in daylight after the approach was continued despite not being stabilised. A lateral runway excursion onto the grass occurred before the aircraft regained the runway centreline and stopped two-thirds of the way along the 3000 metre-long runway. Substantial damage was caused to the aircraft but none of the occupants were injured. The aircraft commander was the Operator's 737 Fleet Captain and the Investigation concluded that the length of time he had been on duty had led to fatigue which had impaired his performance.)
+A333, Montréal QC Canada, 2014 (On 7 October 2014, an Airbus A330-300 failed to maintain the runway centreline as it touched down at Montréal in suddenly reduced forward visibility and part of the left main gear departed the runway edge, paralleling it briefly before returning to it and regaining the centreline as the landing roll was completed. The Investigation attributed the excursion to a delay in corrective action when a sudden change in wind velocity occurred at the same time as degraded visual reference. It was found that the runway should not have been in use in such poor visibility without serviceable lighting.)
+F28, Saint John NB Canada, 2002 (On 27 March 2002, a Fokker F28 being operated by Air Canada Regional Airlines (t/a Air Canada Jazz) on a scheduled night passenger flight from Toronto to Saint John, having made an uneventful procedural ILS approach to Runway 05 at destination, departed the slippery landing runway to the left shortly after touchdown in normal visibility conditions but regained it before coming to a stop. Aircraft damage was limited to minor cuts in the tyres of the right main and nose landing gear and damage to one runway edge light. There were no injuries to any of the occupants.)
+ … further results
+
+
+
+Further Reading
+
+NTSB Aircraft Accident Report NTSB/AAR-10/04 - 13 July 2010
+
+
+
+
+
+

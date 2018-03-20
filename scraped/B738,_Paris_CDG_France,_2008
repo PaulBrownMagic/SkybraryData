@@ -1,0 +1,98 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 16 August 2008, a Boeing 737-800 (SU-BPZ) being operated by AMC Airlines on a passenger charter flight from Paris CDG to Luxor took off at night in normal visibility from runway 27L at Paris CDG and collided and damaged obstructions associated with a temporary restriction in the available runway length due to work in progress beyond the notified useable length. The aircraft continued to destination without reporting any abnormality during take off. After flight, the aircraft was found to have sustained damage requiring rectification before further flight. There was no injury to the 192 occupants. 
+
+Investigation
+An Investigation was carried out by the French BEA. An attempt to obtain readouts from the flight recorders was made but was unsuccessful. The aircraft operator, when informed that a piece of the aircraft had been found in the runway, advised that “based on the flight personnel report and the reported damage, it had initially estimated that SU-BPZ had struck some FOD left by a previous airplane (and had) consequently decided not to remove the recorders”. 
+At the time of the incident, the final 1240 metres of the 4200 metre long runway 27L were out of use to allow construction work to proceed. The TODA and ASDA were respectively 2960 metres from the beginning of the runway, 2640 metres for a line-up at Y12 and 2360 metres for a line-up at Y11. The “provisional end of runway 27L was defined by a line of nine unidirectional red lights” and prior to the provisional end of runway 27L and after a ‘works zone’, a RESA followed by an extended RESA had been defined, which together had a length of 240 metres and a width of 120 metres. 
+The Investigation noted, referring to the first diagram reproduced below, that:
+“The RESA, ninety metres long in accordance with international standards, started sixty metres after taxiway K3, thus making a clear area of 150 m. It was separated from the extended RESA, 150 metres long, by a separator made up of fifty-five red or white polyethylene markers (marked ‘GBA’ on the diagram). These markers were positioned about sixty metres from the centre line of taxiway K2 and placed in such a way as to alternate the white and red colours. They were weighted with water and linked by a connecting part clad in a reflecting strip visible over 360°. Each marker measured 1.25 metres long, 0.55 metres wide and 0.80 metres high. A blast fence 2.44 metres high, fitted with a lighting system with eleven red lights separated the extended RESA from a zone, about 36 metres wide provided for the use of works traffic. The works zone then stretched for a length of about 900 metres.”
+The effect of the departing aircraft on the area between the temporary end if the runway and the beginning of the construction zone is shown on the second diagram below. 
+
+ An ADP Plan of the area immediately beyond the temporary end of runway 27L (reproduced from the Official Report)
+ Evidence of damage caused by aircraft impact (reproduced from the Official Report)
+It was established that before leaving the gate, the aircraft commander had input data into the Boeing ‘Operational Performance Tool’ (OPT) installed on the Class 1 EFB used by the Operator without sufficient appreciation of how the software should be used. He was unaware that although the database was up to date, AMC Airlines had not, when subscribing for updates, chosen the option of having temporary restrictions to runway availability included. The result of this was that the implications of planning to start the take off from the pre-planned intersection (Y11) were not recognised. It was also noted that the Co-pilot was another AMC Airlines Captain with only 140 hours experience on the aircraft type and considered that this could well have mitigated against effective flight deck monitoring. The Investigation concluded that in this case, “it seems that in the end the crew did not select any restriction connected with the works (and) they did not examine the values in detail to allay their doubts on seeing information that appeared inconsistent or inaccurate”. Once taxiing, the crew received an offer from ATC of either intersection Y11 or Y12 on runway 27L for departure and chose to accept Y11, whereupon the controller had stated the reduced distance remaining from that intersection due to the construction work notified on the ATIS. 
+As already noted and illustrated, during the subsequent take off, the aircraft struck some provisional lights at the end of the available runway and then, during rotation, destroyed some markers on the safety-barrier positioned in front of the construction zone. It took off before reaching a provisional blast fence. The crew realised that they had struck objects on the ground but after reviewing systems and parameters, decided to continue the flight to destination without informing ATC of “the anomalies encountered during take-off”.
+Not until nearly four hours later, when an aircraft cleared to taxi in via taxiway K2 after landing reported that it was not possible to taxi as cleared because of debris ahead, was it realised that marker beacons in the works zone at the end of the restricted length runway 27L were damaged. When a part from a 737 was found amongst the debris, ATS informed the operators of all 737s which had taken off from the runway since the last inspection of the finding and AMC responded by advising that SU-BPZ had been “damaged by FOD on the runway”. Only several days later was it confirmed that SU-BPZ had struck the ground lighting during take off.  
+It was concluded that the pilot pre-departure data entry errors which occurred in the investigated event “echo the conclusions of a study undertaken by the BEA, the DGAC and the LAA (The Laboratory of Applied Anthropology) on the subject (which) found failings related to entering takeoff weight data” but with this event showing another type of potential error, that associated with entering the length of runway available. It was considered that the event had highlighted that “the development of computerised performance calculation tools must be accompanied by better knowledge of associated failings”.
+The Investigation reviewed the context for crew actions and inactions in the context of the recent fleet modernisation completed by AMC Airlines and concluded that their change management had been ineffective and as a result “uncertainty, particularly in matters relating to operational procedures and crew training” had been introduced. As a relevant example, it was noted that “AMC’s Operations Manual at the date of the event had not been amended to take into account the introduction of the OPT into flight preparation”. It was also noted that “the absence of flight analysis OFDM (had) contributed to AMC not identifying the type of (crew) error that occurred during the event” and that “without the BEA’s investigation, the operator would not, in this event, have recognised the danger of erroneous data entry into the OPT”.   
+It then looked at the preparations for the work on runway 27L jointly made by the Airport Operator ADP and the ANSP SNA and concluded that although they may have appeared adequate at the time, the preparation of safety studies by both organisations within the framework of their SMS “was not the subject of specific coordination”. It was noted that an example of this was “the reduction of the TORA was associated by the SNA with the risks linked to rejected takeoffs but by ADP, it was associated with the risks linked to the obstruction of the takeoff path by works site equipment”. Generally, it was noted that discussions between these two organisations “did not explicitly concern the formal identification of risks” and therefore, “carrying out safety studies did not allow for a detailed exploration of the works situation in terms of risk”.
+It was concluded that the Cause of the event was:
+
+
+“The crew’s failure to take into account the length of the runway available for takeoff”.
+
+
+It was also concluded that the following Contributory Factors may have been relevant:
+
+
+ the inadequacy of the OPT utilisation procedures set up by the operator AMC to prevent such an error;
+
+ the impaired level of crew performance, specifically related to the pilots’ fatigue.
+
+
+Safety Action taken as a result of the incident was noted as having included the following:
+
+
+ AMC Airlines made improvements to the available functionality of the OPT software installed on flight deck EFBs and reported having developed a detailed training course on use of the OPT.
+
+
+
+ The Airport Operator and the ANSP made improvements to their ‘Guide to impact evaluation for airport safety’. 
+
+
+
+ The Safety Directorate of the DGAC produced a new guide on ‘Coordination in case of modifications to airport operations’ which is specifically devoted to the necessary coordination between the different parties involved in case of works at an airport. 
+
+
+Two Safety Recommendations were made as a result of the Investigation as follows:
+
+
+ that the DGAC, in the context of the State Safety Plan, take into account the risks associated with operators introducing new computer tools.
+
+
+
+ that EASA conduct a study on the standards that should be taken into account during certification of onboard performance calculation systems, in order to ensure that their ergonomics and procedures for use are compatible with the requirements of safety.
+
+
+The Final Report was published in August 2011.
+
+
+Further Reading
+
+Runway Excursion
+
+Foreign Object Debris
+
+Electronic Flight Bag
+
+Takeoff Run Available (TORA)
+
+Use of Erroneous Parameters at Take-Off
+
+Takeoff Weight Entry Error and Fatigue (OGHFA SE)
+
+Fatigue
+
+State Safety Programme
+
+Safety Occurrence Reporting
+
+Electronic Flight Bag Solutions: Onboard Performance Tool, Information leaflet by Boeing, 2012
+
+
+
+
+
+

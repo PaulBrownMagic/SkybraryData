@@ -1,0 +1,155 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 6 December 2013, a Boeing 737-800 (A6-FEB) being operated by FlyDubai on non-revenue positioning flight from Amman to Dubai with only the two flight crew on board was subsequently found to have arrived at destination with undeclared Dangerous Goods of a type which was prohibited from carriage on a passenger aircraft - chemical oxygen generators - in the hold.  
+
+Investigation
+An Investigation was carried out by the UAE General Civil Aviation Authority Air Accident Investigation Sector. It was noted that the Operator did not hold regulatory approval to transport dangerous goods on any of their aircraft and the flight crew of the specific aircraft involved had been unaware that dangerous goods had been loaded on board their aircraft. 
+It was established that the aircraft in question was returning to Dubai following a 'C' Check which had been carried out by JorAMco, an AMO based in Amman, Jordan. In addition to the Check, a modification to the passenger seating configuration had been carried out which included a requirement to remove three sets of triple economy seats and their associated equipment. The latter included the corresponding PSUs, each of which contained a chemical oxygen generator. The three removed PSU assemblies, which had been tagged as serviceable on removal, were brought to the AMO stores, logged into a computerised parts tracking system and then wrapped individually and boxed. These boxes were then placed with similar boxes containing the PSU assemblies that had been removed from eight other previously modified FlyDubai aircraft making a total of twenty-seven altogether. 
+It was expressly noted that:
+
+
+"The chemical oxygen generators had not been removed from the PSUs, nor had they been made safe by the installation of a safety pin and safety cap. In the case of each oxygen generator, the firing pin was engaged in the firing mechanism and the activation cable was connected to the pin. Neither the individual PSU assemblies, or oxygen generators, nor the boxes containing them, were labelled as Dangerous Goods."
+
+
+Prior to the positioning flight on 6 December, six of these PSU assemblies were removed from the stores as boxed and loaded onto the aircraft along with other parts being returned to the Operator. The flight subsequently departed from the AMO ramp, whereas the previous eight similarly modified aircraft had all departed from the airport passenger terminal as scheduled commercial passenger flights.
+On arrival at Dubai, the boxes containing the PSU assemblies were unloaded and taken to the “Pending Receiving Area” of the Operator's Stores where they were opened and their contents inspected by a QA Engineer. He noted that each PSU assembly contained a chemical oxygen generator and was aware that these are classified as Dangerous Goods in respect of carriage by air and that, as such may not be carried on passenger aircraft. The finding was duly reported.
+Shortly after this finding, while reconciling the number of PSU assemblies remaining in the AMO stores following the incident under investigation, it became apparent that a previous Fly Dubai post-maintenance flight from Amman to Dubai had - also unknown to the flight crew - transported three identical PSU assemblies containing chemical oxygen generators. This flight had been operated by another Boeing 737-800 (A6-FDR) as a revenue flight on 28 November 2013 with165 passengers and 6 crew on board. On this occasion, the unlabelled box of PSUs was not identified as containing Dangerous Goods and so the incident was not reported at the time. It was subsequently reported to the GCAA on 18 January 2014.
+The comprehensive Investigation made a number of significant findings which had collectively contributed to the failure to identify the risk of unauthorised Dangerous Good shipment. These centred on a lack of effective safety-related oversight of contracted heavy maintenance activities.
+
+
+The Operator's Safety Manager had no visibility of contracts potentially affecting air safety, entered into between the Operator and contracted service providers.
+
+The Operator did not formally risk assess the process of subcontracting aircraft heavy maintenance and modifications to the AMO before signing the contract. 
+
+The Operator’s Technical Planning Department performed a technical evaluation of the seating modification documentation and instructions, which accepted the instructions contained in the STC-holder’s Engineering Order (EO) and other instructions, as being appropriate to safely implement the passenger seating configuration change modification. 
+
+The EO directly referenced only the ATA 25 (Equipment and Furnishing) section of the AMM for the removal of the appropriate PSU assemblies from the aircraft and did not contain an appropriate breakdown, warning note or requirement for an inspection signature, for the task of removal of the PSU assemblies and ensuring that the oxygen generators they contained were made safe. 
+
+The special tools (approved pliers, safety pin and safety cap), required by the instructions contained in the ATA 35 (Oxygen) section of the AMM to make the oxygen generators safe were not directly referenced in the EO. 
+
+The ATA 25 section of the AMM did reference the ATA 35 section of the Manual where the procedures and warning notices necessary to ensure the safe handling of oxygen generators are provided.
+
+The Maintenance personnel involved in removing the PSUs from the aircraft referred only to ATA section 25 of the AMM as directly referenced in the EO and did not refer to or comply with the instructions contained in ATA section 35 which were essential in making the oxygen generators safe after removing them.
+
+The errors and omissions related to the treatment of the PSU assemblies containing the oxygen generators were not noticed by the Operator's Base Maintenance Liaison Engineer present at the AMO; his job description did not specify any inspection or safety oversight functions, nor had he received any Dangerous Goods training from his employer. 
+
+The AMO did not review the detailed technical content of the work packs for the 'C' Check and seating configuration modification. It was assumed that this review had been carried out by the Operator. 
+
+The Operator's policy, specified in their Safety Manual, required that a sub-contracted AMO should have an SMS in place prior to carrying out maintenance of the Operator's aircraft. The Operator did not positively determine, during either their 'Initial Assessment' or their subsequent 'Supplier Audit', that the AMO had the SMS required by the Operator’s Safety Policy in place. 
+
+The requirements related to the scope of the SMS at a contracted maintenance service provider contained in the Operator's Safety Manual were not included in either the 'Initial Assessment' or 'Supplier Audit' Checklists used by the Operator to approve an AMO.
+
+The Contract drafted by the Operator and agreed by the AMO did not require the AMO to have an SMS. 
+
+The contract between the Operator and the AMO contained a clause stating that any components removed from the aircraft should be returned to the Operator's base on board the Operator's ferry flights or commercial flights without taking into account the likelihood that some aircraft parts removed from the aircraft would be classified as Dangerous Goods.
+
+The Jordanian Civil Aviation Regulations required Operators and/or service providers (including AMOs) to establish, maintain, and adhere to, a Safety Management System but the AMO did not have an SMS. 
+
+The Supplier Audit of the AMO conducted by the Operator prior to signing the maintenance contract did not include an audit of the AMO Stores.
+
+The GCAA had required UAE based AMOs to operate an accepted SMS since January 2010 but did not require UAE-based operators to restrict subcontracting of aircraft maintenance activities solely to AMOs that had an accepted SMS in place. 
+
+
+The formally-documented Causes of the carriage of prohibited Dangerous Goods (chemical oxygen generators) onboard a passenger aircraft were:
+
+
+ The chemical oxygen generators contained in the PSU assemblies that had been removed from the aircraft were not labelled as dangerous goods. 
+
+  The AMO maintenance personnel did not label the oxygen generators as dangerous goods because they did not consult, and follow, the instructions contained in AMM ATA 35 - Oxygen. 
+
+ The Engineering Order prepared by the STC holder did not contain a direct reference to ATA 35 - Oxygen in regard to handling the removed PSU assemblies as having dangerous goods installed. Neither the Operator nor the AMO identified shortcomings in the STC holders EO. 
+
+ The Operator and AMO personnel, involved in the configuration modification work on the Aircraft were unaware that the PSU assemblies contained dangerous material. 
+
+ The contract agreed between the Operator and the AMO contained a term related to the return of removed aircraft parts and materials to the Operator by air, which did not differentiate between normal and dangerous goods. 
+
+
+The following Contributing Factors were also identified:
+
+
+The lack of dangerous goods markings on the oxygen generator casings. 
+
+The quality system of the AMO was unable to detect a lack of control of dangerous goods improperly kept in the stores for a lengthy period. 
+
+The lack of an SMS did not enable the AMO to promote a safety culture among the line maintenance and stores personnel that could enable them to deduce that the PSU assemblies contained dangerous goods, which required special handling. 
+
+The noncompliance of the Operator with its Safety Manual policy that required sub-contracted AMOs to operate a Safety Management System
+
+
+
+The GCAA did not exercise sufficient oversight of the foreign contracted aircraft maintenance arrangements of the Operator in that they did not discover that the operators own requirement that contracted AMOs must have an SMS was not met.
+
+
+A total of eleven Safety Recommendations were made as a result of the Investigation as follows:
+
+
+ that Flydubai should include in contracts agreed with maintenance service providers, and also in appropriate audits, a requirement that the service provider operates a Safety Management System that is accepted by the AMO regulatory authority. (SR 25/2015)
+
+ that Flydubai should provide its Safety Manual and a reporting form in its online incident reporting system that is accessible to all appropriate third party contractors to enable incidents involving the Operator’s aircraft to be reported to the Operator. (SR 26/2015)
+
+ that Flydubai should improve the Initial Assessment and Supplier Audit checklists to include check items relevant to the Operator's SMS for maintenance contractors requirements. (SR 27/2015)
+
+ that Flydubai should provide initial and recurrent dangerous goods training, appropriate to the responsibilities of the position, to maintenance and stores personnel. (SR 28/2015)
+
+ that Flydubai should broaden the scope of the job description of the Base Maintenance Liaison Engineer to include a wider range of air safety issues such as observing, on an ad hoc basis, work in progress on the aircraft, and conducting random spot checks on safety critical tasks. (SR 29/2015)
+
+ that the Jordan Aircraft Maintenance Company (JorAMCo) should enhance initial and recurrent training for all maintenance employees to ensure that they adhere to approved maintenance instructions. (SR 30/2015)
+
+ that the Jordan Aircraft Maintenance Company (JorAMCo) should enhance the maintenance procedure to ensure that work involving oxygen generators, or PSU assemblies containing oxygen generators, should be classified as a critical task, requiring a dual signature on the appropriate work instructions. (SR 31/2015)
+
+ that TIMCO as the Supplemental Type Certificate holder should permanently mark each individual oxygen generator canister with the appropriate dangerous goods marking. The marking should be designed to be highly visible, especially when the canister is in its installed position in the PSU. (SR32/2015)
+
+ that TIMCO as the Supplemental Type Certificate holder should review EO 12T478E056 and ensure that steps that involve dangerous goods are appropriately classified and clearly identified. (SR 33/2015)
+
+ that TIMCO as the Supplemental Type Certificate holder should include a caution in Step 30 of EO 12T478E056 to require a certifying engineer to verify, with his signature, that correct procedures have been adhered to. (SR 34/2015)
+
+that the General Civil Aviation Authority should consider requiring initial and recurrent dangerous goods training, appropriate to the responsibilities of the position, for certifying maintenance engineers, service engineers and stores personnel engaged in the maintenance of UAE registered aircraft. This requirement should be applicable to UAE Operators and AMOs, and foreign AMOs engaged in maintenance of UAE registered aircraft. (SR 35/2015)
+
+
+The Final Report was published on 17 June 2015.
+
+Related Articles
+
+Dangerous Goods
+
+Supplementary Type Certificate
+
+Safety Management System
+
+SMS in the Airline Industry
+
+Safety Improvement
+
+Airworthiness - The System
+
+Aircraft Maintenance Manual
+
+Fire in the Air
+
+Fire, Smoke and Fumes
+
+Smoke
+
+Loss of Control
+
+Chemical Oxygen Generators
+
+In-Flight Fire: Guidance for Flight Crews
+
+
+
+
+
+

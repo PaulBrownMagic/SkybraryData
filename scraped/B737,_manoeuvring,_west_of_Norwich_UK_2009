@@ -1,0 +1,86 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+3 Related Articles
+4 Further Reading
+
+
+Description
+On 12 January 2009, a Boeing 737-700 being operated by Easyjet on a non revenue function flight out of Southend and, by agreement with ATC, within a designated Military Training Area at FL150 in day VMC when there was a temporary loss of control during a planned system test. A ‘PAN’ was declared to ATC and a successful recovery was eventually achieved after an altitude loss of over 9000 ft2,743.2 m, during which various exceedences of the AFM Flight Envelope occurred. Recovery back to Southend as originally planned was achieved without further event.
+
+Investigation
+An Investigation was carried out by the UK AAIB. Full FDR and CVR data was available for the Investigation.
+It was established that a post-maintenance function flight was being carried out by a flight crew from the Aircraft Operator accompanied in the flight deck by two maintenance personnel observing. The aircraft commander as PF was found to have accumulated considerable previous experience of function flights for the Operator and, in the course of a large number of these, had been involved in two previous events where abnormal situations had developed during planned system testing and been resolved without significant consequences. He was also found to be effectively in charge of all aspects of the Operator’s check flight programme. Selection of Co-Pilots for Check Flights was found to be routinely done informally by “selecting from a pool of First Officers who had volunteered and been deemed suitable” and there were no required qualifications or special training for the role. The Investigation also found that one of the two Observers present in the flight deck throughout the incident flight had occupied the supernumerary crew seat and the other had sat on a storage cupboard behind the aircraft commander’s seat and had thus not been restrained by a safety harness.
+The system test being carried out at the time of the occurrence was a flight control manual reversion check, a commonly used informal description of ‘elevator power-off flight test’ detailed in the AMM. During this check, carried out with all hydraulic assistance removed from the primary flying controls, the aircraft pitched rapidly nose down and, since it was impossible to retain pitch control manually, the commander decided to abandon the check and reinstate the hydraulics. As a prelude to this action, he intentionally rolled the aircraft left to 70° bank angle before releasing the controls and calling for the First Officer to re-engage the flight control switches. However, this did not occur and the CVR evidence was found to indicate that “at this point there was confusion between the two pilots”. Speed brakes had been selected but had not deployed because all hydraulic power had remained off. The bank angle increased to a maximum of 91° before the wings were rolled back towards level and an attempt was made arrest the rate of descent which had reached a maximum of 20,000 fpm at around FL110 with the aircraft pitched 30° nose-down. Airspeed continued to increase and, as the rate of descent started to decrease, the PF made a PAN call to ATC which coincided with the activation of the aural overspeed warning which continued for the next 48 seconds. The aircraft eventually recovered from the dive at about 5,600 ft QNH having entered a layer of cloud. The pilots reviewed the situation and selected the hydraulic system switches for the flight controls, which had remained off throughout the excursion, back to their normal ‘on’ position and the control forces returned to normal. 
+It was noted from the CVR that there had been no recorded discussion between anyone on the flight deck during the event. FDR data showed that the maximum recorded airspeed during the recovery was 429 kts794.508 km/h 220.506 m/s and the maximum recorded vertical acceleration was 1.6g. A post flight inspection of the aircraft found no evidence of damage or deformation of the structure. 
+The Investigation looked at the context in which the flight had taken place in respect of the roles of both the Operator and the maintenance organisations involved as well as at their Regulator. The aircraft involved had routinely reached the end of the lease agreement with Operator Easyjet and had therefore required a combined maintenance check and demonstration flight to confirm its serviceability before being transferred to another lessee. The checks to be carried out, which were agreed between the existing aircraft Operator and the aircraft Owner, were detailed in a Customer Demonstration Flight Schedule (CDFS) which had been developed by the Operator. 
+The Investigation concluded that, overall,“the processes involved in developing and undertaking check flights appear to have been conducted on a largely informal basis by the Operator and there is no evidence that they were subject to audit, either internally or by the CAA.”
+A comparison of the AMM with the Operator’s CDFS identified a number of differences. The most significant of these in respect of the incident being investigated related to the AMM procedure requiring the selection of the flight deck switches for both hydraulic systems be placed directly to the standby rudder position during the test involved. This action removes hydraulic power to the flying controls except the rudder which requires control forces that are too great for manual control. In contrast, the Operator CDFS called for the switches to be selected to the off position, as part of an additional, unrelated test and did not then require them to be selected to the standby rudder position prior to conducting the manual reversion test, so that the rudder was inoperable by the flight crew during the incident.
+The commander of the incident flight stated that he found “the AMM to be poorly constructed and difficult to follow”. He also considered that the Operator’s own check schedule, the CDFS, which he had developed, satisfactorily covered the requirements of the flight control manual reversion check and therefore chose not to use the AMM, either before or during the incident flight check. 
+The Investigation noted that whilst the extent of system testing in any particular Customer Demonstration Flight would be likely to vary, “it is likely that the aircraft will be flown with systems deliberately degraded, situations unfamiliar to most pilots”. In some cases, demonstrations may duplicate production flight testing which is carried out by specially trained test pilots. However, the development by Operators of their own generic demonstration flight schedules, which are then likely to be flown by pilots without any formal flight test qualifications, was recognised as having become widespread . In the absence of official access to manufacturer’s flight schedules, airworthiness flight test schedules formerly used in the UK for mandatory air tests were noted as having provided a popular basis where they exist, but the Investigation concluded that:
+“In this incident, the operator was using an out-of-date document obtained unofficially and not subject to any control. The schedule appears to have been produced by one individual and it is unclear what level of scrutiny was applied. It is apparent, however, that elements were not clearly understood, as demonstrated by the switching conducted prior to the test. This switching left the rudder unpowered. The significance of doing so was that any subsequent rolling manoeuvre was reliant on the ailerons alone, which is less effective.” 
+This particular difference was identified as of significance when considered against advice given in the version of the UK CAA “Check Flight Handbook” extant at the time of the incident, which recommended the generic action of banking the aircraft to prevent unusually high or low pitch manoeuvres developing.  In addition, the switching procedure used in the CDFS had also resulted in the main trim being unavailable for use during recovery from any pitch upset, whereas main trim use is included in relevant sections of both the applicable AFM and QRH and in the Boeing Flight Crew Training Manual. 
+Since it was the procedure used for the system test which led to the incident, the issue of non use of relevant AMM guidance during function flights was examined by the Investigation. It was considered of significance that in this case, the commander chose not to use the AMM and gave his main reason for this “that he found the layout of the AMM schedule unclear”. This lack of clarity was seen to stem from the inclusion of engineering information which may not be directly relevant to the pilot undertaking the test.
+The fact that there had been a minor, but inappropriate adjustmemt of the elevator trim prior to the Incident Flight was attributed to the failure of the aircraft commander on the previous flight of the aircraft which was prior to maintenance input(which was the same pilot who was in command of the incident flight) to record his remarks on elevator trim servicablity in the aircraft Techninal Log]] but had instead communicated them to maintenance personnel verbally.  
+The prevalence of incidents during function flights conducted by Operators, including the loss of an Airbus A320 in November 2008 which was still under investigation by the French BEA when this AAIB Final Report was prepared but was subsequently published - see the Official Final Report- and another event on an Easyjet Boeing 737 function flight which occurred in May 2009, was noted as evidence that many of the wider issues raised by the investigated incident were not unique to it.  
+A series of Safety Actions taken during the Investigation, which mostly followed the issue of the AAIB Special Bulletin in March 2009, were noted, including amendment and reissue of the UK CAA Check Flight Handbook and revision of relevant sections of the Boeing 737 AMM and a comprehensive investigation by the Operator which produced 38 recommendations for process improvement.
+The following six Safety Recommendations were made as a result of the Investigation:
+
+
+ That Boeing review their published B737 flight test schedules to improve their clarity and suitability for use by pilots conducting such tests. (2010-071)
+
+ That the European Aviation Safety Agency review the regulations and guidance in OPS 1, Part M and Part 145 to ensure they adequately address complex, multi-tier, sub-contract maintenance and operational arrangements. The need for assessment of the overall organisational structure, interfaces, procedures, roles, responsibilities and qualifications/competency of key personnel across all sub-contract levels within such arrangements should be highlighted. (2010-072)
+
+ That the European Aviation Safety Agency require AOC operators to have, and comply with, a detailed procedure and a controlled test schedule and record of findings for briefing, conducting and debriefing check flights that assess or demonstrate the serviceability or airworthiness of an aircraft. (2010-073)
+
+ That Boeing develop an Aircraft Maintenance Manual procedure to identify mis-rigging of the B737 elevator tab control system and amend the Aircraft Maintenance Manual tab adjustment procedure to limit the amount of trim adjustment on any one maintenance input. (2010-074)
+
+ That the European Aviation Safety Agency provide guidance on minimum crew proficiency requirements and recommended crew composition and training for those undertaking check flights that assess or demonstrate the serviceability or airworthiness of an aircraft. (2010-075)
+
+ That the European Aviation Safety Agency provide guidance to National Airworthiness Authorities on monitoring continuing airworthiness. (2010-076)
+
+
+The Final Reportof the Investigation was published on 9 September 2010. 
+
+Related Articles
+
+ Recovery from Unusual Aircraft Attitudes
+
+ Flight Envelope
+
+ Non Revenue Flights
+
+ Mitigating Risk for Non Standard Flights
+
+
+Further Reading
+
+ UK CAA Check Flight Handbook, Issue 2.2, 22 April 2009.
+
+ICAO Amendment No.3 to PANS-TRG (Doc 9868) - Chapter 7, Upset Prevention and Recovery Training, April 2014.
+
+FAA AC 120-111 Upset Prevention and Recovery Training, April 2015.
+
+
+
+
+
+

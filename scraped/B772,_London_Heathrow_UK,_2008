@@ -1,0 +1,134 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loss of thrust on final approach caused by ice in fuel feed system
+
+Contents
+
+1 Description
+2 Investigation
+3 Related Articles
+4 Further Reading
+
+
+Description
+On 17 January 2008, a Boeing 777-200 powered by Rolls Royce Trent 800 engines and being operated by British Airways on a scheduled passenger flight from Beijing to London Heathrow with a relief pilot present on the flight deck was on an ILS approach to runway 27L at destination with the AP and A/T engaged after an uneventful flight and in day VMC. At approximately 2 nm from touchdown, there was a sudden substantial loss of thrust on both engines which could not be restored by flight crew action. The aircraft touched down just within the airfield perimeter but 330 metres short of the runway threshold before sliding 372 metres towards and almost onto the runway and coming to a stop. 
+There was a substantial leakage of fuel and also of some oxygen, but no fire started and a successful evacuation was achieved using all the slides. One of the 152 occupants suffered a serious injury caused by impact from a detached part of the landing gear assembly which penetrated the fuselage during the ground slide and 46 others suffered minor injuries, mainly during the evacuation. Substantial damage occurred to the aircraft landing gear and the engines were subject to ingestion of surface material and functional disruption during the ground slide.
+
+ The aircraft in its final stopping position reproduced from the Official Report
+Investigation
+An Investigation was carried out by the UK AAIB with the involvement of various assisting parties including Boeing, Rolls Royce and the NTSB. The DFDR, CVR and various component Non Volatile Memory (NVM) recorded on the Quick Access Recorder (QAR) was available, and the combination of sources helped the development of the findings on causation of what was soon established to have been fuel starvation. The QAR buffer caused the loss of 45 seconds of data prior to the accident outcome but, critically for the investigation, the NVM provided a record of the position of each Fuel Metering Valve (FMV), a parameter which was not recorded on the DFDR fitted.
+In respect of the fuel loaded, it was determined that there had been sufficient on board and that neither the fuel temperature at loading nor the fuel temperature during the flight had been unique or outside of the certificated operating envelope of the aircraft. However, a data mining exercise showed that the accident flight was “unique amongst 175,000 flights (in) having a low cruise fuel flow and a high fuel flow during approach while at a low fuel temperature”. At 800 feet agl, and approximately 2 nm from touchdown following a ‘monitored approach’ in accordance with Operator SOP, the First Officer had become PF. At 720 feet agl, the right engine suffered an uncommanded thrust reduction to 1.03 EPR with fuel flow 6000 pph and then seven seconds later the left engine suffered a similar uncommanded thrust reduction to 1.02 EPR with fuel flow 5000 pph. At this point, both engine FMVs had moved to fully open and both EECs had been demanding maximum fuel flow for more than two seconds to no effect. This occurred 48 seconds before the subsequent touchdown and with the AP still engaged. The PF had intended to disconnect the AP at 600 ft but did not do so as he had become distracted by the engine rollback. As the AP attempted to follow the ILS GS, the airspeed reduced but when a manual restoration of thrust was attempted, there was no response.
+At 240 feet agl, the aircraft commander retracted the flap from 30° to 25° which it was calculated had increased the distance to touchdown by about 50 metres. At 200 feet agl the stick shaker had activated and, as it became obvious that a touchdown short of the runway threshold was inevitable, the aircraft commander made a ‘MAYDAY’ call to ATC three seconds before touchdown. At the operation of the stick-shaker, the PF had pushed forward on the control column and the AP disconnected. The aircraft struck the ground at a recorded 2.9g and at a rate of descent of about 1400 fpm some 330 metres short of the Runway 27L threshold and then slid 372 m before coming to rest. It was noted that the APU had not been running when thrust was lost and that a subsequent attempt to start it had not been completed prior to touchdown.
+There had been insufficient time for the flight crew to issue a ‘brace brace’ command prior to the touch down but an order to evacuate was given by the aircraft commander once the aircraft had stopped. The evacuation alarm (not a mandatory requirement on the aircraft) was later also found to have operated satisfactorily in all except one cabin location. 
+It was found that during the aircraft evacuation actions taken by the flight crew, the engine fire switches had been operated (by the First Officer) prior to the engine cut off switches (by the aircraft commander) contrary to the requirements of the aircraft manufacturer checklist. The effect of this was that 6750 kg of fuel had leaked out of the engines until the valves were manually closed. The existence of SB 777-28-0025, which had not been incorporated on the accident aircraft but which had the effect of causing the fuel valve involved to shut upon operation of the corresponding engine cut off switch even if the fire switch had been pulled, was noted.   
+A fuel flow restriction upstream of each of the HP fuel pumps was confirmed by signs of fresh cavitation in both pumps. This restriction was also established as having been downstream of the forward boost pump connections into the fuel manifolds. After tests, it was concluded that the restrictions had most probably occurred at the face of the Fuel Oil Heat Exchangers (FOHEs). Tests showed that increasing the fuel flow could cause accreted ice to be released from the walls of the fuel pipes and that this ice would then be able to obstruct fuel passage through the face of the FOHE. It was found that it was not possible for ice to cause the fuel flow restrictions evidenced as having occurred during the accident flight in way other than other than at the FOHE. It was concluded that the engine rollbacks which occurred had been a direct result of lack of available fuel to meet the commanded thrust setting and that ice obstruction at the FOHE was the definite cause of fuel starvation at the right hand engine and the probable cause of the same at the left hand engine.
+It was noted that:
+“current certification requirements do not address the scenario of ice accumulation and release within fuel systems.”
+The Formal statement of Probable Causal Factors for the fuel flow restrictions which led to the accident was follows: 
+
+
+ Accreted ice from within the fuel system released, causing a restriction to the engine fuel flow at the face of the FOHE, on both of the engines.
+
+ Ice had formed within the fuel system, from water that occurred naturally in the fuel, whilst the aircraft operated with low fuel flows over a long period and the localised fuel temperatures were in an area described as the ‘sticky range’. 
+
+ The FOHE, although compliant with the applicable certification requirements, was shown to be susceptible to restriction when presented with soft ice in a high concentration, with a fuel temperature that is below -10°C and a fuel flow above flight idle.
+
+ Certification requirements, with which the aircraft and engine fuel systems had to comply, did not take account of this phenomenon as the risk was unrecognised at that time.
+
+
+During the Investigation, on 28 November 2008, a Boeing 777-200ER being operated by Delta Airlines from Shanghai to Atlanta suffered an in-flight engine rollback on one engine which recovered normal function after an 8000 feet descent and the intended flight was subsequently completed. An investigation by the NTSB with assistance from the UK AAIB concluded that similar causation had applied and four Safety Recommendations similar to some of those developed by the UK Investigation were issued to the FAA and EASA in March 2009. 
+The Final Report was published on 9 February 2010. 
+A total of 18 Safety Recommendations were made during and as a result of the UK AAIB Investigation as follows:
+One made in the Report S1/2008 published on18 February 2008:
+
+
+ That Boeing should notify all Boeing 777 operators of the necessity to operate the fuel control switch to cutoff prior to operation of the fire handle, for both the fire drill and the evacuation drill, and ensure that all versions of its checklists, including electronic and placarded versions of the drill, are consistent with this procedure. (2008-009)
+
+
+Three made in the Interim Report published on 15 September 2008:
+
+
+ That the FAA and EASA, in conjunction with Boeing and Rolls Royce, introduce interim measures for the Boeing 777, powered by Trent 800 engines, to reduce the risk of ice formed from water in aviation turbine fuel causing a restriction in the fuel feed system. (2008-047)
+
+ That the FAA and EASA should take immediate action to Consider the implications of the findings of this investigation on other certificated airframe / engine combinations. (2008-048)
+
+ That the FAA and EAS review the current certification requirements to ensure that aircraft and engine fuel systems are tolerant to the potential build up and sudden release of ice in the fuel feed systems. (2008-049)
+
+
+Five made in Interim Report 2 published on 12 March 2009
+
+
+ That Boeing and Rolls Royce jointly review the aircraft and engine fuel system design for the Boeing 777, powered by Rolls Royce Trent 800 engines, to develop changes which prevent ice from causing a restriction to the fuel flow at the fuel oil heat exchanger. (2009-028)
+
+ That the Federal Aviation Administration and the European Aviation Safety Agency consider mandating design changes that are introduced as a result of recommendation 2009-028, developed to prevent ice from causing a restriction to the fuel flow at the fuel oil heat exchanger on Boeing 777 aircraft powered by Rolls Royce Trent 800 engines.(2009-029)
+
+ That the FAA and EASA conduct a study into the feasibility of expanding the use of anti ice additives in aviation turbine fuel on civil aircraft. (2009-030)
+
+ That the  FAA and EASA jointly conduct research into ice formation in aviation turbine fuels. . (2009-031)
+
+ That the  FAA and EASA jointly conduct research into ice accumulation and subsequent release mechanisms within aircraft and engine fuel systems. (2009-032)
+
+
+Nine New Safety Recommendations made in the Final Report:
+
+
+ That the EASA introduce a requirement to record, on a DFDR, the operational position of each engine fuel metering device where practicable. (2009-091)
+
+ That the FAA introduce a requirement to record, on a DFDR, the operational position of each engine fuel metering device where practicable.(2009-092)
+
+ That Boeing minimise the amount of buffering of data, prior to its being recorded on a QAR, on all Boeing 777 aircraft. (2009-093)
+
+ That Boeing apply the modified design of the B777 200LR main landing gear drag brace, or an equivalent measure, to prevent fuel tank rupture, on future Boeing 777 models and continuing production of existing models of the type. (2009-094)
+
+ That the FAA amends their requirements for landing gear emergency loading conditions to include combinations of side loads. (2009-095)
+
+ That the FAA, in conjunction with the European Aviation Safety Agency review the requirements for landing gear failures to include the effects of landing on different types of surface. (2009-096)
+
+ That the FAA require that Boeing modify the design, for the Boeing 777, of the indirect ceiling light assemblies, their associated attachments, and their immediate surroundings to ensure that the fluorescent tubes, or their fragments, will be retained in a survivable impact. (2009-097)
+
+ That the  FAA and EASA, review the qualification testing requirements applied by manufacturers to cabin fittings, to allow for dynamic flexing of fuselage and cabin structure. (2009-098)
+
+ That the EASA mandate MSB4400-25MB059 Revision 3 to require the inspection and replacement of the video monitor fittings on the Ricardo seat model 4400. (2009-100)
+
+
+In response to AAIB Safety Recommendation 2008-047, Boeing introduced operational changes to provide interim mitigation of the risk of engine fuel starvation attributable to fuel icing in Trent 800 powered Boeing 777s. 
+In response to the 2009 recommendations by both this Investigation and the related NTSB Incident Investigation previously noted, Rolls Royce developed a modified version of the FOHE installed on the accident aircraft which was then mandated for retrofit and new build by EASA. Replacement of all the Foes on Rolls Royce powered Boeing 777s with the new design was completed during September 2010.
+
+Related Articles
+
+ Airworthiness
+
+ Icing
+
+ Runway Excursion
+
+
+Further Reading
+UK AAIB
+
+
+ The final AAIB report published Feb 2010 (Aircraft Accident Report 1/2010)
+
+
+NTSB
+
+
+ The NTSB Press Release on urgent safety recommendation to address engline thrust rollback events on B-777 aircraft
+
+
+
+
+
+

@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+Description
+On 12 January 2012, an EC 225LP (LN-OJE) being operated by CHC Helikopter Service on a contract passenger shuttle service for Statoil from the Deep Sea Bergen oil rig to Kristiansund as HKS 403 in the climb at night to 3000 feet after departure experienced a partial hydraulic system failure. Because of destination weather considerations the crew decided to make an en route diversion. After a VMC approach to the Åsgård B Platform and a normal touch down, the helicopter began to move towards the edge of the helideck and an emergency evacuation was ordered. Ground crew action helped ensure that the helicopter remained on the helideck. None of the 21 occupants were injured and the helicopter sustained only minor damage.
+
+Investigation
+An Investigation was carried out by the Norwegian Accident Investigation Board (AIBN). FDR data was successfully downloaded to assist the Investigation. 
+It was found that about 25 seconds after passing the departure decision point at 25 feet and climbing to 3000 feet, the commander acting as PF reported that abnormal forces in the cyclic stick had become evident and annunciations of low oil level in the left hydraulic system and hydraulics to the AP had occurred. Flying conditions during departure were described as having been "demanding" during both lift-off from the deck with crosswind, turbulence and precipitation in darkness and subsequently when entering IMC. 
+Whilst continuing on track to the planned destination, Emergency Checklist action was taken but the After Take Off checklist was not executed because it was considered that "the best option was to leave the landing gear in down and locked position (since later) failures in the hydraulic system could have led to difficulties when trying to extend the landing gear".
+Due to the en route weather conditions and those at Kristiansund, it was decided that landing on one of the offshore installations along the route, the Åsgard B platform, was appropriate. The crew obtained information on the prevailing conditions there, which included a significant wave height of 5 to 7 metres, deck movement to a maximum of 3 to 4 metres at a rate of 0.5 metres / second and wind from the northwest at 30 to 35 knots gusting in excess of 50 knots. The subsequent touch down was normal and in the correct position on the helideck but as the crew began after landing checks, the helicopter suddenly started moving forward. It was not clear to them whether the helicopter was sliding on a slippery surface or whether the brakes had failed. The commander re-checked that the parking brake was set and both crew also tried the brake pedals but the movement continued and the edge of the deck got closer. Both engines were shut down - the rotor brake was not effective and so the main rotor speed wound down by itself - but the helicopter was still moving and an evacuation of the passengers was ordered.
+The commander had wanted chocks inserted against the main wheels but with helideck communication on COM1 in accordance with normal procedure and loss of electrical power to this radio following engine shutdown, a radio call to this effect could not be made. Hand signals were given to the helideck crew and he also opened the cockpit door and shouted to them. Although the anti-collision light was still on, the Helideck Landing Officer waiting on the deck access stairs case then moved quickly  to place chocks against the right main wheel and the helicopter came to a stop. The helicopter was then secured to the deck and the blades strapped.
+
+ The helicopter where it stopped  near the edge of the helicopter deck (CHC Helikopter Service photograph reproduced from the Official Report)
+ Detail of the helicopter where it stopped  near the edge of the helicopter deck (STATOIL photograph reproduced from the Official Report)
+It quickly became obvious that there was a leak from an elbow union in the hydraulic supply line to the left main landing gear brake unit - the union had separated and there was a pool of oil on the deck. The Operator initiated a fleet check but found no other evidence of the same fault. The failed union was sent to the component  manufacturer Safran Messier-Bugatti-Dowty,  for examination. The month after the occurrence, a preliminary report was received which noted that previous manufacturing process problems with the same union had resulted in a design modification and that the failed unit was a pre-mod component.
+As a result of the occurrence, Eurocopter made a series of revisions to the Emergency Procedures contained in the Rotorcraft Flight Manuals for SA330, AS332 and EC225 helicopters for various faults in the left hydraulic system including the addition of the following:
+
+
+ a requirement for the crew to check the hydraulic accumulator pressure in order to verify the status of the hydraulic system.
+
+
+
+ the statement that "if the pressure of the ancillary accumulator drops below 120 bars, consider that wheel and rotor braking is lost.”
+
+
+These changes were made mandatory for all SA 330J, AS 332C, AS 332C1, AS 332L, AS 332L1, AS 332L2 and EC 225LP helicopters by an EASA EAD 2012-0059-E issued on 5 April 2012 with compliance required "within 10 flight hours, or before next flight to a helideck or elevated heliport, whichever occurs first after the 6 April 2012".
+On 14 November 2012, Eurocopter issued SB EC225-32-002 which contained a procedure for checking the brake units on all such helicopters.
+The Investigation noted that although both EASA CS 29.735 and the corresponding FAA Part 29 certification specifications in respect of the design of helicopter wheel brakes require that they must be controllable by the pilot, usable during power-off landings and able to counteract both any normal unbalanced torque when starting or stopping the rotor and enable a parked position to be sustained on a 10° slope on a dry, smooth pavement, there is no redundancy requirement. This was identified as contrasting with such a requirement in the CS 25/FAR 25 requirements for the certification of fixed wing aircraft brake systems and it was therefore noted that "there may be other helicopter types that are vulnerable to wheel brake system faults".
+In Conclusion, it was considered that:
+
+
+ The problem with insufficient fastening of compression rings on elbow unions was resolved by Helikopterservice's ” Maintenance Alert Notice” and EC Service Bulletin EC225-32-002. 
+
+
+
+ Application of the collective combined with the cyclic stick would probably have resulted in improved control of the helicopter's movements after landing.
+
+
+
+ Due to the fact that the certification specifications for helicopters do not contain requirements related to redundancy in wheel brake systems, it can be assumed that there is a risk of faults on brakes on other helicopter types with wheel landing gear as well. The helicopter operators should therefore consider training on landing on movable helidecks (floating installations/ships) with wheel brake fault for all helicopter types with wheel landing gear.
+
+
+The Official Report was released on 6 May 2014. No safety recommendations were made.
+
+
+Further Reading
+
+Loss of Control
+
+Offshore Helicopter Safety Review 2014 UK CAA
+
+Landing Gear Problems: Guidance for Flight Crews
+
+ Directive 2013/30/EU of 12 June 2013 on safety of offshore oil and gas operations, establishes minimum requirements for preventing major accidents in offshore oil and gas operations and limiting the consequences of such accidents.
+
+EASA NPA 2013/10 Helicopter Offshore Operations (RMT.0409 & RMT.0410)
+
+
+
+
+
+

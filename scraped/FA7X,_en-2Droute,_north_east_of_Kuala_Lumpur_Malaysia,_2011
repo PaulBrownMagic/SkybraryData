@@ -1,0 +1,145 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 24 May 2011, the crew of a Dassault Falcon 7X (HB-JFN) being operated by Swiss-based Jet Link AG on a non-revenue positioning flight from Nuremberg, Germany to the Kuala Lumpur business airport at Subang in night VMC had to suddenly respond to a pitch trim runaway for which there was no procedural response. A short upset involving extreme pitch up and speed loss almost to the point of a stall followed before normal pitch control returned after less than 3 minutes with no recurrence thereafter. None of the three crew on board were injured and the aircraft was undamaged.
+
+Investigation
+The event occurred in Malaysian airspace but the Investigation was delegated to the French BEA. The aircraft was fitted with two identical flight recorders which combined the function of 25 hour FDR and a 2 hour CVR. Data were successfully downloaded from the FDR units within these recorders but as neither recorder had been electrically isolated after the flight, the voice recording data had been overwritten.
+It was found that both pilots had previously flown the Falcon 900 and had only recently both become qualified to fly the Falcon 7X. The 39 year-old Captain (a native English speaker) had approximately 5 years total command experience and 3,917 hours total flying experience. This experience included 134 hours on type and he was acting as a Training Captain on the event flight. The 40 year old Co-Pilot (a native French speaker) had originally been a military pilot and had obtained a civil licence in 2008 rated on the Falcon 900 before qualifying on the Falcon 7X just over two months prior to the investigated event. He had a total of 2,685 hours total flying experience including 83 hours on type. He was undergoing line training on the event flight and acting as PF.     
+It was established that the flight was taking place after 4 days maintenance work at Nuremberg in respect of the engines and cabin. No work had been carried out on the flight control system. The flight had been completely uneventful and the flight control system in Normal Law until the descent towards destination. As the aircraft was passing 13,000 feet at 300 KCAS and approaching its cleared altitude of 11,000 feet with the AP and A/T engaged, the PF selected VS mode and a rate of descent of 1,300 fpm. A few seconds after this, the trimmable horizontal stabiliser (THS) went from neutral to the maximum nose up position (12°) in fifteen seconds. The prevailing flight control law automatically resulted in an opposite elevator input in response during which the AP disconnected. Aircraft pitch attitude and positive 'g' increased. The PF made various control inputs including banking up to a recorded 98° in an attempt to regain pitch control. A number of dual side stick inputs occurred with those of the Captain being mainly opposite to those of the PF. As the speed dropped to 125 KCAS, the Captain took over as PF. Almost immediately and without corresponding inputs from either pilot, as the aircraft reached 22,500 feet, the pitch attitude began to decrease. Then "for a reason unknown to the crew, the THS began to move towards a level position, going from twelve degrees to one degree nose-up in fifteen seconds" and it became possible to control the aircraft pitch normally using side stick inputs. The crew decided to continue in manual flight mode and the remainder of the flight was completed without further event.
+FDR data showed that during the episode, the maximum pitch attitude reached was 41° and vertical acceleration had reached up to 4.6g. Examination of the FDR data confirmed that disconnection of the AP soon after the runaway began could be attributed to the downward input made on the side stick of the PF. However, the main focus of the Investigation was the Horizontal Stabiliser Electronic Control Unit (HSECU). This unit was manufactured by Rockwell Collins to meet the requirements of the aircraft manufacturer and integrated into the pitch trim control system by them. 
+Functional tests and a visual inspection after the completion of the flight did not find evidence of any HSECU malfunctions. Visual inspections of the HSECU circuit boards did show that "some components on adjacent boards were in mechanical contact with each other" but it was subsequently determined that these mechanical interferences had not caused any relevant malfunction during the incident. However, it was noted that Rockwell Collins had subsequently introduced a modification to address this finding. Tests carried out on HSECUs identical to those on the HB-JFN showed that when their circuit boards were powered by an internal voltage around +0.7 volts instead of a nominal voltage of -15 volts, a THS runaway similar to that which had occurred could be reproduced. Consideration of the -15volt power supply identified three failure modes that could have caused such a voltage variation and the HSECU on the event aircraft was then subjected to further testing to see if one of these failure modes was present. It was found that the impedance value of one component varied between the nominal value of 0.5 Ω and abnormal values of up to 300 kΩ when slight pressure was applied to it. The cause of this variation was cracks in the cold solder joint at the base of the component induction so that it was possible for the component pin to move within in the PCB to which it was attached. After refitting the circuit board in the unit and turning on the power, the -15V power supply malfunction could not be reproduced despite several attempts. An X-ray inspection of the identified soldering defect showed that there was "no alloy in 90% of the plated through hole" in the PCB base into which the component pin should have been secured by soldering. The soldering defect was attributed to "insufficient heat during the soldering process". 
+With these findings, it was determined (see the diagram below) that the transient malfunction in the HSECU internal power supply had resulted in the Unit's Control Channel sending a constant nose-up command to the THS motor whilst simultaneously sending a rotation speed signal to the Actuator Control and Monitoring Unit (ACMU) which indicated that there had been a nose-down movement of the THS.
+It was only possible for the crew to regain control when the THS actuator reached its limit and continued to receive nose-up commands, since this caused the temperature of the operative actuating motor to increase beyond its limit which caused the ACMU to switch THS control to a different channel which then "commanded a nose-down movement of the THS until it returned to a balanced pitch".
+
+ The effect of the HSECU malfunction. [Reproduced from the Official Report]
+The Certification of the HSECU was considered and it was found relevant JAR (and FAR) requirements for flight control systems integrity applicable at the time of type certification of the Falcon 7X were detailed in JAR  25.671 and JAR 25.1309. Potential failures such as the one found were the subject to a safety assessment process which depended heavily on System Safety Assessments (SSAs) which themselves were dependent on the results of Failure Mode Effects Analyses (FMEAs).These depend partially on the knowledge and experience of the equipment manufacturer personnel with failure modes and mechanisms. SSAs "contain the definitive list of system failure conditions and associated probabilities" and their purpose "is therefore to check compliance with safety requirements". EASA "ensures that design organisations submit all the documents necessary for type certification (and) checks and approves SSAs and Functional Hazard Assessments (FHAs)” but it "does not systematically verify FMEAs and is therefore not necessarily in contact with equipment manufacturers during type certification of an aircraft". It was noted that at the time of the Investigated event, the Falcon 7X world fleet had accumulated approximately 75,000 flying hours since EASA Type Certification was issued on 27 April 2007. It was also noted that since the design of HSECU electronic controllers was subcontracted to Rockwell-Collins, an OEM which was not an EASA-approved design organisation, their design activity was conducted under the supervision of Dassault as aircraft manufacturer. 
+The Investigation went on to look at the effectiveness of system safety assessments generally and identified "several lessons" concerning them, some of which had "aspects in common" with the Falcon 7X Investigation. It was considered that "most safety analysis errors result from the failure to foresee all the ways in which the hazard could occur, especially for complex and new systems". The pitch excursion which occurred to a Qantas Airbus A330 off the coast of Australia in 2008 and was attributed to a failure mode probably initiated by a single, rare type of internal or external trigger event combined with a marginal susceptibility to that type of event within a hardware component, was considered to have "identified several lessons concerning system safety assessments", some with "aspects in common with" the Falcon 7X Investigation.   
+It was noted (in summary - see the Official Report for full details) that:
+
+
+ Conventional system safety analysis techniques mainly rely on fault trees using methods which were initially developed for hardware systems and are not well-suited to more complex systems with software elements. This situation is mitigated by creating mathematical or logic models of a system and then using the model to automatically complete tasks such as generating fault trees and was used during the development of the Falcon7X flight control system. However, results depend on how well the model represents the system and environment in which it works and in particular "rarely take into account transient phenomena or the temporal aspect of a failure". 
+
+ FMEA is "an analysis method that appeared in the 1940s and remains widely used in the industry" and has a number of limitations and: 
+
+only takes into account known or foreseen failure modes of basic components 
+
+only covers failures or failure condition for one component at a time and does not take into consideration more complex failures involving multiple components 
+
+does not provide any assurance that all the consequences of a given failure condition will be identified 
+
+depends on the analyst’s ability to understand and anticipate potential equipment behaviour while it is still being developed 
+
+was designed to assess failures in electrical or mechanical components and is less suitable for application to "complex software elements".
+
+
+
+
+Two previous Serious Incident Investigations were noted to have identified the sudden failure of previously serviceable components as the root cause of the unexpected occurrence:
+
+
+ A failure of the Brake System Control Unit (BSCU) of an Alitalia Airbus A321 on touchdown at Naples in 2007 attributed to a soldering defect on one of the pins on a thermistor component which caused abnormal voltage variations and resultant intermittent failure of the Unit.
+
+ An internal short circuit in a single cell in a pioneering type of APU Battery installed in a Japan Airlines Boeing 787 parked at Boston USA in 2013 caused an uncontrollable temperature and pressure increase which led to a cascading thermal runaway within the battery creating [Fire Smoke and Fumes|smoke and fire]]. It was attributed to a failure to consider how the most severe effects of an internal battery short circuit would be contained and noted that "the key assumption made (during development and type certification) that a thermal runaway would not occur was not explicitly discussed or justified".
+
+
+The formal documentation of Cause of the investigated Serious Incident was as follows:
+
+
+"A soldering defect on the pin of an HSECU component caused the unit to generate incorrect nose-up commands to the motor controlling the THS and to transmit to systems in charge of the monitoring of its functioning values indicating a change in the opposite direction to that in which the motor was actually moving. This single defect caused simultaneous failures on the THS control and monitoring channels that were not detected by any of the aircraft systems and were enough to cause THS runaway under Normal Law." 
+
+
+The following five Contributory Factors were also identified: 
+
+
+ a manufacturing defect that was not detected before the HSECU was put into service; 
+
+ the imprecise assessment of the effects of the failure types identified in the HSECU FMEA, validation of the FMEA and in general, the varying results of FMEAs, which can depend on human factors and equipment manufacturer organisational factors; 
+
+ the lack of mechanisms for detecting potential critical errors in equipment manufacturer FMEAs during the aeroplane safety assessment and certification process. Neither the aeroplane manufacturer nor EASA conducted an in-depth verification of the FMEA; 
+
+ the limitations in the aeroplane manufacturer’s SSA process during the verification and approval process by EASA despite the fact that the summary of the SSA mentioned THS runaway in normal law. However the detailed results did not include any combinations of failures that could cause the runaway and the HSECU was identified as critical equipment in which a malfunction or error in design can result in a catastrophic situation; 
+
+ the architecture of the THS control system had interdependent monitoring and control channels that prevented the HSECU malfunction from being detected and reconfiguration to a redundant control channel.
+
+
+It was further noted that the investigated event:
+
+
+ had brought to light inadequate provisions intended to meet the regulatory certification requirement stipulating that the single failure of a component, system or appliance in flight must not cause runaway of a primary flight control to an unwanted position. 
+
+ highlighted the fact that there are no specific procedures or crew training for THS runaway in Normal Law, which in this case occurred in a sudden and considerable manner. 
+
+ showed that despite their surprise, the flight crew had been able to maintain control of the aircraft with the THS in full nose-up position by immediately applying and adapting an excessive pitch attitude recovery technique attributed to training which the PF received during his military career until the tripping of a temperature monitoring function two to three minutes after THS runaway restored normal pitch control.
+
+
+Safety Action taken by HSECU manufacturer Rockwell-Collins as a result of the investigated event was noted as having included the following:
+
+
+ the amendment of the HSECU FMEA so that no failures were considered as latent and thirty new failure conditions were added to the single one - a switch of the control channel - which was in the FMEA in effect at the time of the incident. 
+
+ the addition of X-ray examinations of circuit boards to the HSECU manufacturing process to detect any faulty cold solder joints after the component soldering step.
+
+ a changed HSECU PCB design so that no components on adjacent circuit boards were in physical contact with each other. 
+
+ the addition of insulation to the plated through-hole on the PCB which was found to have been faulty to help increase the temperature when soldering takes place during manufacture.
+
+  the addition of an internal supply voltage monitoring system to the HSECU so that if any voltage outside tolerances are detected at the ACMU, the control channel involved will immediately switch to an alternative channel.
+
+
+Five Safety Recommendations were made as a result of the Investigation as follows:
+
+
+ that the EASA, in coordination with FAA, SAE and EUROCAE, evaluate and propose alternative or additional methods to the FMEA for electronic equipment and software. [2016-002]
+
+ that the FAA, in coordination with EASA, SAE and EUROCAE, evaluate and propose alternative or additional methods to the FMEA for electronic equipment and software. [2016-003]
+
+ that the EASA, in coordination with FAA, SAE and EUROCAE, develop means or methods that make it possible to consolidate, during safety analyses, checks on the independence of system control and the monitoring of said system. [2016-004]
+
+ that the FAA, in coordination with EASA, SAE and EUROCAE, develop means or methods that make it possible to consolidate, during safety analyses, checks on the independence of system control and the monitoring of said system.  [2016-005]
+
+ that the EASA, in coordination with manufacturers, ensure that future training programmes defined in the context of Operational Suitability Data (OSD) include initial and recurrent training relating to taking over control of aeroplanes equipped with non-coupled control sticks. [2015-024]
+
+
+The Final Report in English of the Investigation was published in June 2016 following the release of the definitive version in French in February 2016.
+
+Related Articles
+
+Loss of Control
+
+Recovery from Unusual Aircraft Attitudes
+
+Trimmable Horizontal Stabiliser
+
+Flight Controls
+
+Flight Control Laws
+
+Continuing Airworthiness
+
+Airworthiness - The System
+
+Certification by EASA
+
+Aircraft Certification and Production Standards
+
+Failure Modes Effect Analysis
+
+
+
+
+
+

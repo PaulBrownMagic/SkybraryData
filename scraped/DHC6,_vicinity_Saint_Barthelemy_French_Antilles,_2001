@@ -1,0 +1,79 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Synopsis
+3 Related Articles
+4 Further Reading
+
+
+Description
+On 24 March 2001, a De Havilland DHC-6, operated by Caraïbes Air Transport, lost control during a VFR approach to Saint Barthelemy airport in the French Antilles. On short final the aircraft took a sharp left turn which resulted in impact with the terrain.
+
+Synopsis
+This is an extract from the official Report on the accident published by the Bureau d'Enquêtes et d'Analyses (BEA):
+"When the aircraft began its short final before the La Tourmente pass, several people, including the AFIS [Aerodrome Flight Information Service] agent, saw it turn left with a steep bank angle then dive towards the ground. It crashed near a house and caught fire. All of the occupants perished, along with one person who was in the house."
+Further in the Aerodrome information section 1.10, the Report provides details on the specific topography of the area surrounding the airport. Due a mountainous ridge to the west of the airport the authorities had restricted the use of runway 28 and the majority of landings are performed on runway 10. When landing on runway 10, the aircraft passes at a very low height from an elevated ground, often lower than 10 metres from the terrain.
+“The aerodrome is classified as category D and authorized for restricted use […]. This regulation specifies that the aerodrome is reserved for aircraft with appropriate characteristics and performance and to pilots whose competence has been recognized by an accredited flight instructor.
+The list of pilots authorized to use the aerodrome privately is kept up to date by the Guadeloupe aeronautical district. The district recommends that pilots who have not landed there at least once in the year be checked by an accredited flight instructor. […]
+Aircraft landing on runway 10 fly over the La Tourmente pass at a very low height (less than ten metres). This area is subject to strong turbulence. […]
+
+ 
+In Section 2.1 (Elements from the operational context), the Report states: 
+Approaches and landings at Saint Barthelemy are particularly delicate and the margins are tight: in case of an incorrect track, only a go-around is possible. For a short flight, such a maneuver represents a considerable increase in flight time. [The flight] was already an hour behind schedule. The Captain probably wanted to avoid increasing this delay (this is perhaps the reason why he stayed at the lower range of the usual heights […]. Perhaps he even wanted to try a particularly short landing to avoid having to turn around at the end of the runway and thus make up a little of the lost time.
+Further on, the Report quotes the testimony of another company pilot regarding the difficulties associated with this approach:
+"one of the problems of the DHC-6 was the fact that, to follow steep approach paths like that of Saint Barthelemy, pilots quickly find themselves with the control column fully forward, even when the power is fully reduced. The problem is even more critical when the aircraft CG is to the aft. This is one of the reasons why some pilots use the "beta range" during the approach. In this case, it is possible to pass under the path with a low airspeed. If the power levers are mistakenly pulled beyond the "beta range", the propellers pass into "reverse" mode in a more or less symmetrical way. It is then necessary to increase power and a possible propeller unfeathering asymmetry can end up in a loss of control. Pilots avoid being in "full idle" so as to keep some extra power in case of a go-around. He added that another difficulty on this aircraft was the low Vfe (maximum flap extended airspeed). This requires reducing airspeed a lot before being able to extend the flaps and there is a great temptation to select the "beta range" to be able to achieve this."
+The Report also explains the working principle on approach beta mode and reverse beta mode of the reversible-pitch constant speed three-blade propellers on the DHC-6. 
+"On approach or during ground manoeuvring, as the reactivity of this mode of control is not satisfactory, there is a mode called “beta” in which the crew directly control the propeller pitch through the power levers. In this mode […] the propeller pitch is between + 17° and - 15°, as follows:
+
+
+A range from + 17° to + 11°, called “approach beta” and permitted in flight. In this range, the propellers are tractive.
+
+A range from + 11° to - 15°, called “reverse beta” which is prohibited in flight. In this range, the propellers act as brakes, two different sub-ranges being identifiable: ground idle (9° to 0°) and traction reversal (0° to - 15°).
+
+
+The manufacturer states that selection of reverse beta range in flight would immediately result in a significant loss in airspeed and lift, due to the high drag induced by the propeller settings. Thrust reversal would prevent the normal airstream flowing over the wings and tail and would likely lead the aircraft to stall."
+The aircraft involved in the accident was not equipped with a flight data recorder (FDR) or cockpit voice recorder (CVR), and the airport tower frequency was not recorded due to equipment maintenance. Mainly based on the evidence found in the wreckage, witness interviews, together with a salvaged recording from a tourist camera found on board led the investigation to the following conclusions:
+"The accident appears to result from the Captain’s use of the propellers in the reverse beta range, to improve control of his track on short final. A strong thrust asymmetry at the moment when coming out of the reverse beta range would have caused the loss of yaw control, then roll control of the aircraft.
+The investigation could not exclude three other hypotheses which can nevertheless be classified as quite unlikely:
+
+
+A loss of control during a go-around.
+
+A loss of control due to a stall.
+
+A loss of control due to sudden incapacitation of one of the pilots.
+
+
+The Captain’s lack of recent experience on this airplane type, the undeniable difficulty of conducting an approach to runway 10 at Saint Barthelemy and the pressure of time during this flight were contributory factors.
+The low height at which the loss of control occurred was an aggravating factor."
+The Report's recommendations, beginning on page 52, also address institutional and organisational issues (see Further Reading).
+
+Related Articles
+LOC
+
+
+Loss of Control, 
+
+Stall;
+
+
+Further Reading
+For further information see the full accident report published by the BEA, France. [Note that the size of this file is 16 Mb]
+
+
+
+
+

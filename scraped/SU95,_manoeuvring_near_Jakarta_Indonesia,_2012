@@ -1,0 +1,131 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 9 May 2012, an Sukhoi Superjet RRJ95 being operated by the aircraft manufacturer on a daylight demonstration flight out of Jakarta Halim on an IFR Flight Plan filed for flight at 10000 feet with an estimated flight time of 30 minutes asked for and was approved for descent to 6000 feet shortly after reaching 10000 feet and was found the following day to have impacted terrain near the summit of Mount Salak in IMC at 6000 feet causing the destruction of the aircraft and the deaths of all 45 occupants.
+
+Investigation
+An Investigation was carried out by the NTSC aided by location, recovery and successful replay of both the two hour CVR and FDR. 
+It was noted that the accident flight was the second of two that day using a flight crew consisting of two pilots with a navigator, flight test engineer and engine manufacturer’s representative on board. The flight path of both flights is shown on the diagram below taken from the Investigation Report. The aircraft commander had been acting as PF for the accident flight and a representative of a potential customer had been occupying the flight deck observer seat. It was found that the charts carried on board the aircraft did not appear to include ones which would have contained information on the terrain in the area where the descent prior to impact was made.
+
+ The tracks flown by both demonstration flights with the accident flight shown in yellow (reproduced from the Official Report)
+Four minutes after take off, ATC had been advised that the aircraft had reached 10000 feet and two minutes after that, a request for descent to 6,000 feet was passively acknowledged by ATC. Two minutes after that, the crew requested a right hand orbit at 6000 feet which was approved by ATC. Just over three minutes later, a succession of TAWS activations had occurred over a period of 18 seconds. First had been a single “TERRAIN AHEAD, PULL UP” Warning which was almost immediately followed by a rapid succession of six “AVOID TERRAIN” Alerts immediately after which the aircraft commander had “inhibited the TAWS system assuming that the warning was a problem on the database”. Shortly after this and seven seconds before impact, which occurred twelve minutes after take off in IMC in level flight at an altitude of approximately 6000 feet, a ‘Flight Warning System’ audio alert “LANDING GEAR NOT DOWN” had also activated. The evidence suggested that although the TAWS terrain map display had been briefly demonstrated only a few minutes earlier, it had only been selected on for that demonstration, which had taken place with the aircraft heading away from high terrain, before being selected off again. The crash site was 28 DME from Jakarta Airport.
+FDR data showed that the orbit had been conducted as a means to lose height in preparation for the return to land and had been accomplished with the AP engaged using progressive movement of the heading selector with the aim of bringing the aircraft through 360º onto the starting heading prior to setting course to begin the approach. However, FDR and CVR data showed that whilst the attention of the PF “was distracted with conversation not related to the progress of the flight”, the aircraft had exited the orbit with 26° to go and possibly without either pilot appreciating this. Soon after rolling wings level, the aircraft exceeded a 25 DME from the airport and continued on the same heading until shortly before impact.
+The applicable AIP-published Minimum Sector Altitude (MSA) which applied within 25nm of the airport was found to be 6900 feet but the en-route chart which applied beyond that to any flight operating off designated airways, which the accident aircraft was, indicated an Area Minimum Altitude (AMA) of 13200 feet. 
+The Investigation noted that MSAW was available to ATC and was equipped with both a Terrain Conflict Alert (TR), triggered if any aircraft altitude reached or went below the applicable MSA and a Predicted Terrain Conflict Alert (PTR) triggered if an aircraft began to approach the applicable MSA. The PTR Alert activated a flashing yellow label ‘PTR’ and the TR Alert was able to activate a flashing red label ‘TR’ and an aural alarm, however the latter had been deactivated. In any case, although the system was found to be set up to activate in respect of obstacles such as the tops of some mountains in the area, the terrain information for the area of Mount Salak had not been inserted into the system and minimum radar vectoring altitudes had not been comprehensively established.
+The Investigation found the radar controller involved had checked his ‘Flight Data Edit Display’ and understood from it that the aircraft on the flight was a Su-30, a military fighter aircraft, and thereby assumed that it was a test flight to the area filed on the flight plan and might be expected to then make use of the designated military exercise area at that location between GND and 6000 feet. It was noted that the workload of this controller involved had been high with almost continuous transmissions with up to 14 aircraft without the benefit of an assistant or a supervisory presence.
+The FDR data was used to reproduce the accident flight using test pilots in a Sukhoi aircraft type simulator. This concluded that if prompt and prescribed recovery action had been initiated within 24 seconds of the first TAWS warning, terrain impact could have been avoided.
+The Investigation formally identified the following Causal Factors in respect of the Accident:
+
+
+ The flight crew was not aware of the mountainous area in the vicinity of the flight path due to various factors such as available charts, insufficient briefing and statements of the potential customer that resulted in inappropriate response to the TAWS warning. The impact could have been avoided by appropriate action of the pilot up to 24 seconds after the first TAWS warning.
+
+
+
+ The Jakarta Radar service had not established the minimum vectoring altitudes and the Jakarta Radar system was not equipped with functioning MSAW for the particular area around Mount Salak.
+
+
+
+ Distraction of the flight crew from prolonged conversation not related to the progress of the flight, resulted in the pilot flying not constantly changing the aircraft heading while in orbit. Consequently, the aircraft unintentionally exited the orbit.
+
+
+A series of Safety Actions arising from the accident and undertaken by the DGCA, the ANSP and the aircraft operator during the course of the Investigation were noted.
+Fourteen Safety Recommendations were made as a result if the Investigation as follows:
+
+
+ that the Indonesian Directorate General of Civil Aviation review its oversight and to ensure flight crew actions to respond properly the aircraft system warning through adequate training
+
+
+
+ that the Indonesian Directorate General of Civil Aviation ensure that all aircraft operated under IFR should be conducted with respect to a published minimum safe flight altitude
+
+
+
+ that the Indonesian Directorate General of Civil Aviation review its oversight and to ensure that all ATS provider comply with the requirement of MSAW and the minimum vectoring altitude being integral part of radar service
+
+
+
+ that the Indonesian Directorate General of Civil Aviation review its oversight and to ensure that all ATS provider follow with the requirement of Advisory Circular (AC) 170-02 regarding Capacity Management
+
+
+
+ that the Indonesian Directorate General of Civil Aviation review its oversight and to ensure that all approved Ground Handling comply with regulatory documentation keeping in regard to crew and passenger manifest.
+
+
+
+ that the Jakarta International Airport ensure that the ATC units and airspace structure provide acceptable workload for the ATC as on Advisory Circular (AC) 170-02 regarding Capacity Management
+
+
+
+ that the Jakarta International Airport ensure its radar warning system functions properly and to review that all radar controllers are fully conversant with the system and comply with procedures that they operate
+
+
+
+ that the Jakarta International Airport ensure that the correct aircraft type data to be entered to the Flight Data Edit Display (FDED)
+
+
+
+ that the Department of Aviation Industry of the Russian Ministry of Trade and Industry review its oversight and ensure flight crew actions to respond properly (to) the aircraft system warning through adequate training
+
+
+
+ that the Department of Aviation Industry of the Russian Ministry of Trade and Industry ensure that all aircraft operated under IFR should be conducted with respect to a published minimum safe flight altitude
+
+
+
+ that the 'Department of Aviation Industry of the Russian Ministry of Trade and Industry review the current procedures for the preparation and conduct of a demonstration flight and, if needed, introduce appropriate amendments
+
+
+
+ that the Department of Aviation Industry of the Russian Ministry of Trade and Industry provide the crews with sufficient aeronautical information
+
+
+
+ that the Sukhoi Civil Aircraft Company provide the crews with sufficient aeronautical and other necessary information to the crew member prior to perform(ing) flight outside published airway(s) including obstacle and terrain information
+
+
+
+ that the Sukhoi Civil Aircraft Company review its current demonstration flight practices and ensures the compliance to the flight procedures during demonstration flight
+
+
+The Final Report of the Investigation KNKT.12.05.09.04 was released on 18 December 2012.  
+
+Further Reading
+
+Controlled Flight Into Terrain
+
+CFIT Precursors and Defences
+
+Flight in Mountainous Terrain
+
+Minimum Safe Altitude Warning (MSAW)
+
+Mitigating Risk for Non Standard Flights
+
+Mountainous Terrain Escape Routes
+
+Terrain Avoidance and Warning System (TAWS)
+
+Terrain Awareness
+
+Response to a "PULL UP" Warning
+
+
+
+
+
+

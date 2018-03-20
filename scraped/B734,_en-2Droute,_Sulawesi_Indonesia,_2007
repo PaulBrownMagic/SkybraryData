@@ -1,0 +1,57 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Synopsis
+3 Related Articles
+4 Further Reading
+
+
+Description
+On 1 January 2007, a B737-400 being operated by Adam Air on a scheduled passenger flight crashed into the sea off Sulawesi, Indonesia, after the crew lost control of the aircraft having become distracted from managing the aircraft by becoming focussed exclusively on a minor technical problem and then failing to recover it to normal flight promptly before recovery became impossible.
+
+Synopsis
+The following is an extract from the Synopsis to the official accident report published by the Komite Nasional Keselamatan Transportasi  (KNKT)/ National Transportation Safety Committee (NTSC):
+” On 1 January 2007, a Boeing Company 737-4Q8 aircraft, registered PK-KKW, operated by …AdamAir…was on a scheduled passenger flight from Surabaya (SUB), East Java to Manado (MDC), Sulawesi, at FL 350 (35,000 feet) when it disappeared from radar… There were 102 people on board… the wreckage was located in the ocean at a depth of about 2,000 meters…
+The CVR revealed that both pilots were concerned about navigation problems and subsequently became engrossed with trouble shooting Inertial Reference System (IRS) anomalies for at least the last 13 minutes of the flight, with minimal regard to other flight requirements. This included identification and attempts at corrective actions. The DFDR analysis showed that the aircraft was in cruise at FL 350 with the autopilot engaged. The autopilot was holding 5 degrees left aileron wheel in order to maintain wings level. Following the crew’s selection of the number-2 (right) IRS Mode Selector Unit to ATT (Attitude) mode, the autopilot disengaged. The control wheel (aileron) then centered and the aircraft began a slow roll to the right. The aural alert, BANK ANGLE, sounded as the aircraft passed 35 degrees right bank. The DFDR data showed that roll rate was momentarily arrested several times, but there was only one significant attempt to arrest the roll. Positive and sustained roll attitude recovery was not achieved. Even after the aircraft had reached a bank angle of 100 degrees, with the pitch attitude approaching 60 degrees aircraft nose down, the pilot did not roll the aircraft’s wings level before attempting pitch recovery in accordance with standard operating procedures. The aircraft reached 3.5g, as the speed reached Mach 0.926 during sustained nose-up elevator control input while still in a right bank. The recorded airspeed exceeded Vdive (400 kcas), and reached a maxim um of approximately 490 kcas just prior to the end of recording. 
+A thump, thump sound was evident on the CVR about 20 seconds from the end of the recorded data. Flight recorder data indicated that a significant structural failure occurred when the aircraft was at a speed of Mach 0.926 and the flight load suddenly and rapidly reversed from 3.5g to negative 2.8 g. This g force and airspeed are beyond the design limitations of the aircraft. At the time of the thump, thump sound, the aircraft was in a critically uncontrollable state. The PIC did not manage task sharing and crew resource management practices were not followed. There was no evidence that the pilots were appropriately controlling the aircraft, even after the BANK ANGLE alert sounded as the aircraft’s roll exceeded 35 degrees right bank. 
+This accident resulted from a combination of factors, including the failure of the pilots to adequately monitor the flight instruments, particularly during the final 2 minutes of the flight. Preoccupation with a malfunction of the Inertial Reference System (IRS) diverted both pilots’ attention from the flight instruments and allowed the increasing descent and bank angle to go unnoticed. The pilots did not detect and appropriately arrest the descent soon enough to prevent loss of control.
+[Training Issues]
+At the time of the accident, AdamAir did not provide their pilots with IRS malfunction corrective action training in the simulator, nor did they provide aircraft upset recovery training in accordance with the Airplane Upset Recovery Training Aid developed by Boeing and Airbus. In accordance with Civil Aviation Safety Regulations, Indonesian operators are required to provide training in emergency or abnormal situations or procedures. However, at the time of the accident, the Indonesian regulations did not specifically require upset recovery to be included in their flight operations training.
+[Maintenance Issues]
+Technical log (pilot reports) and maintenance records showed that between October and December 2006, there were 154 recurring defects, directly and indirectly related to the aircraft’s Inertial Reference System (IRS), mostly the left (number-1) system. There was no evidence that the airline’s management was aware of the seriousness of the unresolved and recurring defects. There was no evidence that AdamAir included component reliability in their Reliability Control Program (RCP) to ensure the effectiveness of the airworthiness of the aircraft components for the fleet at the time of the accident.”
+
+Related Articles
+
+Human Factors
+
+Loss of Control
+
+
+Further Reading
+For further information, see the full KNKT Accident Report
+
+
+ICAO Amendment No.3 to PANS-TRG (Doc 9868) - Chapter 7, Upset Prevention and Recovery Training, April 2014.
+
+FAA AC 120-111 Upset Prevention and Recovery Training, April 2015.
+
+
+
+
+
+

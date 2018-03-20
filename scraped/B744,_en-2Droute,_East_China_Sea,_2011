@@ -1,0 +1,196 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+3 Lithium Batteries as Cargo - NTSB Recommendations
+4 Related Articles
+5 Further Reading
+
+
+Description
+On 28 July 2011, a Boeing 747-400F (HL7604) being operated by Asiana on a scheduled cargo flight from Incheon to Shanghai Pudong as AAR 991 declared an emergency due to a main deck fire whilst in the cruise at FL340 in day VMC approximately 50 minutes after take off. An emergency descent and diversion to Jeju were initiated but after indications from crew radio calls that it was becoming difficult to retain control of the aircraft, there was no further contact and wreckage from the aircraft was subsequently found in the sea. 
+
+Investigation
+The accident occurred in international waters and the Investigation was carried out by the ARAIB (Aircraft and Railway Accident Investigation Board) of the State of the Operator, South Korea.   
+No ULB transmissions were detected in the area where significant amounts of floating and submerged wreckage was found and recovered and, despite extensive searches, neither the FDR nor the CVR were found. Recordings of ACARS messaging, ATC radar and R/T communications with the aircraft were available. Some of the cargo was also recovered. According to ACARS transmissions, the ELT was activated but its signal was not received and it was found that was of a type which was inoperative in water. 
+The 52 year-old Captain was found to have 14,123 total flying hours, which included 6869 on the 747-400.  He had initially flown in the Air Force before joining Asiana as a First Officer in 1991. He had been promoted to Captain on the Boeing 737 in 1996 and transferred to the 747-400 in 2001. The 43 year-old First Officer had 5211 total flying hours and was also a former Air Force pilot, having joined Asiana in 2007. Most of his airline experience had been on the Boeing 767 and he had only recently transferred to the 747-400 fleet, where he had accumulated 492 hours on type. 
+It was found that within about a minute of evidence that a fire warning had been annunciated, the First Officer had declared the emergency to ATC, requested decent to 10,000 feet and advised an intention to divert to Jeju. These actions were immediately approved without restriction and the descent was made rapidly. The reduction of altitude prevented re-establishing direct VHF radio communications with Incheon ACC and relay via another aircraft was used. With the aircraft at 10,000 feet, the Captain had advised ATC of the loss of rudder control and three minutes later, at 12,800 feet, the loss of "all flight controls". Half a minute later, the First Officer, in the final radio call, advised "the loss of altitude control and the impending ditching". Soon afterwards, it was concluded that a rapid increase in thermal energy produced by the fire had "caused some portions of the fuselage to separate from the airplane in midair" with an in-flight break up then following. A reconstruction of the vertical flight path based on radar and ACARS data sources is shown below:
+
+ The vertical flight track based on distance from the crash point (reproduced from the Official Report)
+ The time based vertical flight towards the end of the flight (Reproduced from the Official Report)
+The available evidence showed that the fire had not spread aft of the rear pressure bulkhead but that about 3 or 4 minutes after the initial warning, smoke had "spread rapidly throughout the main deck cargo compartment" and "judging by the fact that a well defined soot trail was discovered on the exterior skin of the cockpit smoke evacuation shutter", smoke had then entered the flight deck. 
+Since no evidence could be found of non fire-related structural failure, aircraft systems malfunction or inappropriate flight management /aircraft handling, attention turned to the cargo on board. The Investigation found no evidence that pre-existing airworthiness issues had played any part in the fire or its effects and attention was focused on the cargo carried. It was established that all 58 tonnes of it had been loaded at Incheon in the period leading up to the departure. It had been distributed between 30 Pallets and 5 containers, with 24 of these 35 unit loads positioned on the main deck and the remaining 11 in the holds. 
+Declared Dangerous Goods were included in the load and were all found to have been on two adjacent pallets towards the rear of the main deck. They comprised three shipments of Class 3 (Flammable) products, one of a Class 8 Corrosive liquid and one consisting of 258.6kg of Class 9 lithium-ion batteries for use in hybrid electric vehicles. The Class 3 shipments were a total of 1800kg of two different types of synthetic resin respectively used for etching integrated circuits and in the manufacture of LCD flat panel displays, 22kg of  special paint used for damp proof insulation of electronic circuits and 3kg of a lacquer for use in seal inspection, the latter shipment only being in transit from San Francisco. The Class 8 shipment was 8kg of 'ammonium derivatives' some for use as an anti-static agent and the rest for   preventing dust from attaching to paint and impurities from attaching to various other surfaces. The Lithium-ion batteries were in transit from Osaka
+All the declared Dangerous Goods items were found to have been packed and positioned in accordance with the applicable parts of the ICAO Dangerous Goods Regulations. After the two pallets containing them had been loaded onto the aircraft, the loadmaster notified their presence to the aircraft commander who had then “escorted the two dangerous goods pallets as they were loaded in ULD positions ML and PR” situated towards the rear of the main deck.  
+The Investigation established that the origin of the fire had been in the vicinity of these two pallets but was unable to establish it with any more precision from the available evidence.
+The limited evidence of and potentially relevant to the flight crew response to the emergency was reviewed. It was noted that:
+
+
+ The full flight simulator used for pilot training was configured as a passenger 747-400 so that realistic Fire Main Deck training for B747 freighters was not possible.
+
+ The QRH available to the crew was one covering procedures for all three variants of the type operated by Asiana and included two significantly different Fire Main Deck procedures, one for the 747-400 Combi and the for the 747-400F. It was concluded that the implementation of the QRH Fire Main Deck procedure had probably been "delayed" and that there was a possibility that the Combi Fire Main Deck procedure may have been followed instead of the Freighter one.
+
+ The crew failed to implement a procedure specific to the supernumerary oxygen switch which was specified in the Fire Main Deck procedure.
+
+ Although the crew had not temporarily stabilised the aircraft at 25,000 feet as recommended in the QRH Main Deck Fire Drill prior to continuing descent once appropriately near to the intended diversion runway, it was considered that it was unlikely that the outcome would have been any different. It was found that Boeing 747 Flight Crew Manuals "failed to specify the basis for the 25,000 feet requirement, the effect and concept of fire suppression at 25,000 feet and when to descend from 25,000 feet".
+
+
+The formal determination of the Cause of the accident was that:
+
+
+"A fire developed on or near the pallets containing Dangerous Goods but no physical evidence of the cause of the fire was found. The fire rapidly escalated into a large uncontained fire, and this caused some portions of the fuselage to separate from the aircraft in midair, thereby resulting in the crash."
+
+
+Two Contributory Factors were also identified:
+
+
+ Flammable materials like photo-resist (Class 3) were loaded in position ML, and flammable materials like paint, photo-resist, corrosive liquid, and lithium-ion batteries (Class 9) were loaded on one pallet in position PR.
+
+ It was difficult to contain a large scale of fire only by the fire suppression system of a Class E cargo compartment that was not equipped with an active fire suppression system.
+
+
+A total of 20 Safety Recommendations were made by the ARAIB as follows:
+
+
+ that Asiana Airlines should ensure that flammable liquid dangerous goods (Class 3) and lithium batteries (ICAO TI Packaging Instructions 965-967, Section 1, 1A) which bearing the "Cargo Aircraft Only (CAO)" label are segregated and loaded on separate ULDs.
+
+ that Asiana Airlines should load lithium batteries classified as Dangerous Goods (ICAO TI Packaging Instructions 965-967, Section 1, 1A)  in a Class C cargo compartment.
+
+ that Asiana Airlines should produce and equip its aircraft with a QRH that contains only the procedures required for the operation of the specific configuration of an aircraft.
+
+ that Asiana Airlines should operate its simulators in such a way that their flight crew can be realistically trained on non-normal procedures for a passenger, cargo or combi plane.
+
+ that Asiana Airlines should add and run a recurrent simulator training program whose syllabus is not notified in advance to flight crew to improve their ability to respond to unexpected non-normal situations and give them more intensive training on non-normal situations.
+
+ that the Ministry of Land, Infrastructure and Transport (MOLIT) (Office of Civil Aviation) should develop relevant standards for ensuring that flammable liquid dangerous goods (Class 3) and lithium batteries (ICAO TI Packaging Instructions 965-967, Section 1, 1A) which bear the "Cargo Aircraft Only (CAO)" label are segregated and loaded on separate ULDs (pallets, etc.).
+
+ that the MOLIT (Office of Civil Aviation) should develop loading standards which ensure that various kinds of flammable Dangerous Goods (Class 3) are not concentrated in a single ULD within an aircraft.
+
+ that the MOLIT (Office of Civil Aviation) should develop loading standards which ensure that flammable Dangerous Goods (Class 3) and lithium batteries classified as Dangerous Goods (ICAO TI Packaging Instructions 965-967, Section 1, 1A) are loaded in a Class C cargo compartment or that they are loaded on ULDs equipped with a fire extinguishing system or made of fire-resistant materials.
+
+ that the MOLIT (Office of Civil Aviation) should develop a Technical Standard Order (TSO) for ULDs to ensure that ULDs used for loading flammable dangerous goods or lithium batteries classified as Dangerous Goods (ICAO TI Packaging Instructions 965-967, Section 1, 1A) are equipped with a fire extinguishing system or made of fire-resistant materials.
+
+ that the MOLIT (Office of Civil Aviation) should prepare monitoring measures to ensure that manufacturers' personnel in charge of packing dangerous goods perform their duty only after receiving Dangerous Goods-related training in accordance with Table 1-1 "Training Syllabus for Trainees" and Table 1-2 "Minimum Training Hours by Duty Categories" under MOLIT Regulation for Dangerous Goods by Air Transport, Article 14 (Training).
+
+ that the MOLIT (Office of Civil Aviation) should  revise related regulations to require Korean operators to produce a QRH that contains only the procedures required for the operation of each specific configuration of an aircraft type (i.e. passenger, cargo or combi configuration).
+
+ that the MOLIT (Office of Civil Aviation) should  revise regulations related to simulator training to ensure that the flight crew can be realistically trained on non-normal procedures of a passenger, cargo or combi plane.
+
+ that the MOLIT (Office of Civil Aviation) should monitor whether Korean operators add and run a recurrent simulator training program whose syllabus is not notified in advance to the flight crew as a means to improve their ability to respond to unexpected non-normal situations.
+
+ that the MOLIT (Office of Civil Aviation) should  study the correlation of fire with electrostatic energy that can be accumulated in the plastic wrapping used for pallets on the ground and during flight and develop standards for the use of such plastic wrapping.
+
+ that the MOLIT (Office of Civil Aviation) should establish a communications network between Incheon ACC and Shanghai ACCs so that they can exchange flight information directly.
+
+ that the MOLIT (Office of Civil Aviation) should restrict the use of frequency 128.375 MHz in the AIP so that aircraft on airways A593 and B576 can communicate with ATC on that frequency.
+
+ that the Boeing Company should seek feasible ways to improve B747 freighter systems, including the development of a visual means for helping pilots in the flight deck check the status of a cargo fire, including whether it is suppressed, extinguished, or spreading and to be able to determine whether a fire can be contained.
+
+ that the Boeing Company should conduct research to seek ways to equip a freighter's Class E cargo compartment with an active fire extinguishing or suppression system controllable from the flight deck as on the case of a Class C cargo compartment.
+
+ that the Boeing Company should  ensure that its B747-400 FCOM contains specific information on the basis for the 25,000 ft requirement (in relation to fire risk mitigation), the effect of the fire suppression complying with the 25,000 ft requirement and strategies to be considered as to when to begin a descent to land from that altitude.
+
+that ICAO asks its Flight Data Recovery Working Group to deal with the following issues: 
+
+ address the weakness of a ULB in being vulnerable to heat.
+
+ resolve problems faced when the ULB is obscured on a sea floor consisting of thick mud and sand.
+
+ ensure that the framework will not be separated from the Crash Survival Memory Unit (CSMU)
+
+ seek ways to install an ELT that can float to the water surface and operate, or be operable, whilst in the water.
+
+ Develop a deployable ELT which broadcasts a GPS position
+
+
+
+
+It is noted that Having been closely involved in this ARAIB Investigation and in response to its own factual findings in the context of both the loss of another Boeing 747F in the UAE to an in-flight cargo-source fire less than a year earlier
+(B744, vicinity Dubai UAE, 2010) and FAA responses to earlier recommendations following the DC8-71F fire at Philadelphia in 2006 (DC87, Philadelphia USA, 2006) which were deemed unsatisfactory by the NTSB, the Board issued the following three new Safety Recommendations to the FAA on 28 November 2012:
+
+
+ that they should develop fire detection system performance requirements for the early detection of fires originating within cargo containers and pallets and, once developed, implement the new requirements. (A 12-68)
+
+ that they should ensure that cargo container construction materials meet the same flammability requirements as all other cargo compartment materials in accordance with Title 14 Code of Federal Regulations 25.855. (A 12-69)
+
+ that the FAA should require the installation and use of active fire suppression systems in all aircraft cargo compartments or containers, or both, such that fires are not allowed to develop. (A 12-70)
+
+
+The Final Report of the Investigation was completed on 24 July 2015 and published on 5 August 2015.
+
+Lithium Batteries as Cargo - NTSB Recommendations
+Following its participation in the investigation, the NTSB issued two Safety Recommendations on 9 February 2016 that respectively advocate:
+
+
+the physical separation of lithium batteries from other flammable hazardous materials stowed on cargo aircraft
+
+the establishment of maximum loading density requirements that restrict the quantities of lithium batteries and flammable hazardous materials.
+
+
+The NTSB has noted that "lithium batteries carried as cargo can be both "a fire and explosion ignition source" and "a source of fuel to an existing fire" and that if subjected to overheating they "can create an explosive condition". It notes that current regulations "allow the loading of packages containing lithium batteries......in close proximity to packages of flammable materials and other classes of hazardous materials and also allows these materials to be stowed on board aircraft in large quantities in a single location"  and thereby "constitute an unacceptable risk to the safe transportation of these hazardous materials. The Board "strongly believes the circumstances and findings in the Asiana Flight 991 accident show the need for new cargo segregation and loading density requirements" and that they should be "changed to be more stringent than the current ICAO requirements". It notes that the US Congress has explicitly authorised this "if it finds credible evidence of a deficiency in the international regulations that has substantially contributed to the start or spread of an on-board fire".
+The NTSB believes that the circumstances and findings in the Asiana Flight 991 accident constitutes such credible evidence that demonstrates a deficiency in cargo segregation requirements that would permit the HMR to be changed to be more stringent than the current ICAO requirements.
+The Text of the Recommendations is accompanied by a full justification for their issue.
+
+Related Articles
+
+Lithium-Ion Aircraft Batteries as a Smoke/Fire Risk
+
+Dangerous Goods
+
+Aircraft Fire Risk from Battery-powered Items Carried on Aircraft
+
+Loss of Control
+
+Fire in the Air
+
+Smoke
+
+In-Flight Fire: Guidance for Controllers
+
+In-Flight Fire: Guidance for Flight Crews
+
+Aircraft Fire Detection Systems
+
+Aircraft Fire Extinguishing Systems
+
+
+Further Reading
+
+B744, vicinity Dubai UAE, 2010
+
+DC87, Philadelphia USA, 2006
+
+Safety Recommendations to the FAA relating to cargo fires aboard airplanes, NTSB, Nov 2012
+
+
+IATA
+
+
+ Lithium batteries - Risk mitigation guidance for operators - 2nd Edition, 2016.
+
+ Safety Risk Assessment - Carriage of Lithium Batteries on aircraft - 1st Edition, 2016
+
+ Three Accidents Involving Lithium Batteries - 1st Edition 2016
+
+
+
+
+
+

@@ -1,0 +1,74 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 6 August 2011, an Airbus A319 being operated by Easyjet Switzerland on scheduled passenger fight from Basel to Palma de Mallorca lost separation in the climb in day VMC against an Airbus A321 being operated by Alitalia on a scheduled passenger flight from Paris CDG to Rome Fiumicino which was level in the cruise. TCAS RAs were annunciated and flown by both aircraft and any risk of collision was removed.   
+
+Investigation
+An Investigation was carried out by the Swiss AIB using the aircraft DFDR data, recorded downlink data, recordings of ATC radar, the STCA log and ground communications and statements made by the pilots and controllers involved. CVR and FDR/QAR data from the two aircraft was not used.
+The conflict occurred in French airspace with the A319 working Marseille and was not reported to the Swiss Accident Investigation Board (SAIB) until three days after it had occurred. The SAIB then advised the Italian authorities who delegated the Investigation to the SAIB which commenced it on 26 August.
+The A319 was given and correctly read back a clearance to continue climb to FL350 by Geneva ACC. This level was 2000 feet below that of the cruising level of the A321 - FL370 - which was heading south east on a crossing track and already working a different Geneva sector. However, despite the correct readback, the A319 crew then entered FL390 in their FMS without either pilot realising the error. Shortly afterwards, the A319 was transferred to the Marseilles ACC sector appropriate to the FL350 clearance. The radar display of the other Geneva ACC sector above the one which had been working the A319 did not show the radar label for it until the aircraft was about to make its initial call to Marseilles ACC and climbing through FL353 at 1400 fpm at which point the cleared level of the A319 was queried with the Geneva sector it had just been handed off from.
+The A319 crew made their first call to Marseilles, at that time a busy frequency, stating that they were “FL 354 climbing 390”. Eight seconds before this, the Marseillles ACC STCA had been activated as the A319 passed FL350 but by the time of the check in on frequency call, the flight label was only just beginning to show on the Marseilles ACC radar display. The Marseilles controller “was unable to determine the origin of” the A319 call and addressed another aircraft 16 seconds later before instructing the A319 to “maintain 350 on reaching”. Upon receiving the response of the A319 crew “maintain 390 reaching” they transmitted immediately “I confirm level 350”, at which point the aircraft had just passed FL361. Following a call from another aircraft, the controller instructed the A319 “to descend immediately to FL350” and advised of the other traffic just above. This call was correctly acknowledged.  
+By this time, TCAS TAs had already been generated on board both aircraft by the impending conflict and this was followed soon afterwards (but 27 seconds after the STCA in the Marseilles ACC had been activated) by STCA activations in both the Geneva sectors. Ten seconds after this, the A321 received a “Climb” RA and the crew responded accordingly. Four seconds later, the A319 received an “Adjust Vertical Speed” RA followed after another four seconds by a “Descend” RA. 
+It was found that CPA between the two aircraft of 2.1nm laterally and 670 feet vertically was reached twelve seconds after the A319 “descend” RA had been annuciated. The A321 climbed to FL375 and the A319 reached a maximum of FL361 before beginning to descend. Neither crew initiated a report to ATC that they were following an RA, but when the A321 was given traffic information on the A319 13 seconds after receiving their RA, the crew responded that they were following one. Neither crew acquired visual reference with their conflicting aircraft at any time during the encounter.  
+It was established that the First Officer had been the PF on both aircraft. The actions of the Alitalia crew were found to be in accordance with expectations. It was found that the commander of the EasyJet A319 was a Training Captain and that the First Officer, who had only held a professional pilot licence for 9 months and had a total experience as pilot of 408 hours, was undergoing Line Training on the incident flight. In respect of the failure of this crew to select the same flight level on their FMS as they read back, the Investigation concluded that “the principle of confirmation of information received (closed loop) did not operate” in that the trainee PF failed to enter the correct level and the supervising PM did not notice the error. It was considered that “EasyJet's SOPs relating to the entry and checking of a cleared flight level merit reconsideration”.
+In respect of the failure of ATC to detect the error early enough to resolve its effects before TCAS RAs took over, it was found that both aircraft were equipped with correctly functioning Mode S transponders which transmitted aircraft data (DAP) including the selected flight level (SFL). However, at the time of the occurrence, the Geneva controllers involved were unable to access this data and therefore unable to receive any automatic alert in the event that the SFL was different to the clearance accepted. It was found that had the necessary equipment been installed, an alert to the potential conflict would have been generated at ACC Geneva more than 6 minutes before the Geneva STCA was activated. 
+The same safety net deficiency was also found during the concurrent investigation by the SAIB of another loss of separation: A319 / PRM1, en-route, near Fribourg Switzerland, 2011, which had occurred two months earlier. In this respect, it was noted that this Investigation had already led to a Safety Recommendation calling for the introduction of a controller alerting system in the event of a discrepancy between the authorised and the selected level.
+Safety Action by ANSP Skyguide following both these events was noted:
+
+
+ with effect from 29 June 2012, a Mode S Identification tool (MSID) was made  available to controllers. This allows them to ‘hook’ the label of a specific flight so that a window opens which contains the Mode S data, including the selected flight level (SFL). 
+
+
+
+ plans have been made to introduce a discrepancy alert which is activated if the cleared flight level (CFL) differs from the SFL at the end of 2013.   
+
+
+The formal statement of Cause from the Investigation was that the Serious Incident had been “due to a dangerous convergence of a cruising aircraft and an aircraft which climbed higher than its cleared flight level following the entry of an incorrect flight level into the flight management system". It was additionally concluded that the “absence of a system capable of detecting any discrepancy between the flight level cleared by ATC and that selected by the crew” had played a part.
+The Final Report was completed on 16 May 2013 and approved by the management of the Swiss AIB on 25 June 2013.
+
+Further Reading
+
+Loss of Separation
+
+Airborne Collision Avoidance System
+
+ACAS Resolution and Traffic Advisories
+
+Short Term Conflict Alert (STCA)
+
+Loss of Separation - Pilot-Induced Situations
+
+ATCO Actions in Case of Loss of Separation
+
+ACAS: Guidance for Controllers
+
+Pilot Equipment Interface
+
+Use of Selected Altitude by ATC
+
+Level Bust - Pilot Induced Situations
+
+Crew Resource Management
+
+A319 / PRM1, en-route, near Fribourg Switzerland, 2011
+
+
+
+
+
+

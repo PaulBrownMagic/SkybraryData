@@ -1,0 +1,102 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Synopsis
+3 Related Articles
+4 Further Reading
+
+
+Description
+On 14 September 2005, an ATR 42-320 operated by Coast Air AS experienced a continuous build up of ice in the climb, despite the activation of de-icing systems aircraft entered an uncontrolled roll and lost 1500ft in altitude. The crew initiated recovery actions, the aircraft was stabilised, and the flight continued without further event.
+
+Synopsis
+This is an extract from the Report (SL 2009/02) to serious incident published by the Accident Investigation Board Norway (AIBN):
+A cold front had passed over the coast and was on its way east, and local moderate icing was forecast […]. There was a relatively strong westerly wind, and the crew anticipated some turbulence during the climb. The weather forecast was a moderate risk of local icing in western part of Norway up to flight level FL180 (approx. 18,000 ft), which is normal for the time of year.
+After take-off and during climb with an engaged autopilot: 
+The crew […] observed a build-up of ice on the aircraft, which is not an abnormal occurrence over the terrain in question. In compliance with current procedures, systems for electrically heating the probes and front windshield […] were switched on prior to take-off, while systems for further de-icing (level 2) were switched on when ice was observed shortly after take-off. When the warning light for icing came on approximately when passing through FL100 while climbing eastward, in accordance with procedures, they switched on the system to “level 3” for de-icing. The crew is certain that the systems were functioning as intended. At this point, the weather radar was not switched on. There was no significant turbulence, and the fasten seatbelts sign was switched off.
+The Commander has stated that they gradually went into heavy rain, with large drops that splattered on the front windshield while the outside temperature (Static Air Temperature, SAT) was -10 °C263.15 K 14 °F 473.67 °R. He saw significant ice formation on the evidence probe outside his Window […] The Commander has stated that the ice built up extremely rapidly. The side windows iced up, while the inflatable rubber de-icing boots appeared to keep the leading edges of the wings free of ice. From the cockpit it was not possible to see whether there was ice further back on the upper and lower sides of the wings. Neither the Commander nor the First Officer remembered afterwards whether they saw ice on the propeller spinners. The First Officer did not remember that it had been raining. He has explained that ice on the side window was not uncommon during “normal” icing conditions.
+The crew has stated that the aircraft climbed more or less normally until passing FL120-125. After this, the ability to climb deteriorated significantly. When they approached FL140, the climb was marginal. To maintain a certain climb, they allowed speed to drop from 160 KIAS296.32 km/h 82.24 m/s Knots Indicated Airspeed] to 150 - 155 KIAS. The First Officer thought he remembered using the autopilot during this phase in the mode for maintaining indicated airspeed (IAS hold). Minimum speed in “standard” icing conditions for the relevant mass was 143 KIAS (stated in the speed booklet). […]
+The Report presents an extract of the period when the incident occurred (see Figure 1 - Based on Mode C radar data recording on 5 seconds intervals).
+
+ ATR42A SI Wingdrop
+Combined with the crew’s explanation it is possible to establish that the aircraft lost approx. 1500 ft457.2 m in height the first time the wing dropped. It is equivalent to an average descent speed of approx. 3200 ft/min16.256 m/s for the 28 seconds that passed before the aircraft again commenced climbing. At its steepest, the descent was around 5000 ft/min25.4 m/s.
+In Section 1.6.2, dedicated to De-Icing/anti-icing systems, the Report provides the following details:
+"[the ATR42…] has electrical and pneumatic systems for keeping critical areas free of ice. The following illustrations have been taken from the manufacturer’s brochure “Be prepared for icing”:
+
+ Flight profile during the time of the accident
+In addition to the standard anti-icing system, a new monitoring and caution system for icing has been developed at ATR - the Aircraft Performance Monitoring function (APM). The incident aircraft did not have an APM installed. The system installation is not mandatory.
+The Report presents the following findings:
+The AIBN believes that this investigation has proven a clear connection between the icing incident and latent contributing factors, such as deficiencies in the airline’s quality system and flight safety programme. It is, in addition, the AIBN’s view that this case illustrates how important a well functioning regulatory oversight is to flight safety. The failure of the CAA-N follow-up contributed to deficiencies in the operator’s quality system and flight safety programme not being corrected in time. […]
+
+
+ The manufacturer’s procedures for severe icing have been subject to revision, and the current issue has six items that the flight crews should know by heart to avoid getting into a critical situation.
+
+ In the event of abnormal rolling movements, the stick must be pushed forward and the flaps set to 15°. This is not included among the checklist items that should be known by heart. […]
+
+
+For the complete list of the findings see Further Reading.
+The Safety Recommendations presented in the Report address the following issues: 
+
+
+ Operation of this aircraft type in icing conditions (to the aircraft operator involved);
+
+ Serious deficiencies in the company’s quality system and safety management (at the aircraft operator involved);
+
+ Insufficient follow-up and rule enforcement on the part of the CAA-N after it had disclosed serious deficiencies in the quality system and flight safety programme in its flight operations inspections of the company over several years prior to the incident. (at the State Regulator involved).
+
+
+Related Articles
+WX
+
+
+ In-Flight Icing
+
+ Ice Formation on Aircraft
+
+ Freezing Rain
+
+ Aircraft and In Flight Icing Risks
+
+ Aerodynamic Effects of In-Flight Icing
+
+
+LOC
+
+
+ Loss of Control
+
+
+A&I Reports
+
+
+ AT73, en route, Roselawn IN USA, 1994
+
+ ATP, en-route, Oxford UK, 1991 (WX LOC HF)
+
+ DH8D, en-route, South West of Glasgow UK, 2006 (LOC HF)
+
+ SH36, vicinity East Midlands UK, 1986 (WX LOC)
+
+
+Further Reading
+For further information see the Serious Incident Report published by AIBN.
+
+
+
+
+

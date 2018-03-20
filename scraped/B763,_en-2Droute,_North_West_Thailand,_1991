@@ -1,0 +1,78 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 26 May 1991, a Boeing 767-300 being operated by Austrian carrier Lauda Air on a scheduled passenger service from Hong Kong to Vienna via Bangkok was climbing in night VMC when it went out of control and crashed fifteen minutes after departure from Bangkok about 100 nm185,200 m 185.2 km 607,611.549 ft northwest of the airport. The aircraft was destroyed and all 223 occupants were killed. 
+
+Investigation
+An Investigation under the provisions of Annex 13 was carried out by the Aircraft Accident Investigation Committee of the Thai Ministry of Transport and Communications.
+The Investigation found that “flight operations appear(ed) to have been routine until five minutes and forty five seconds after the cockpit voice recorder (CVR) recorded the sounds of engine power being advanced for takeoff. At this point a discussion ensued between the crew members regarding an event later identified as a crew alert associated with a thrust reverser isolation valve. The crew discussed this alert for some four and one half minutes. The Quick Reference Handbook (QRH) was consulted to determine appropriate crew actions in response to the alert. No actions were required, and none were identified as being taken. Ten minutes and twenty seconds into the flight the co-pilot advised the pilot-in-command of the need for rudder trim to the left. The pilot-in-command acknowledged the co-pilot's statement. Fifteen minutes and one second into the flight, the co-pilot stated "ah reverser's deployed." Sounds similar to airframe shuddering were then heard on the CVR. Twenty nine seconds later the CVR recording ended with multiple sounds thought to be structural breakup.”
+It was noted that the thrust reverse system of the PW4000 series engines which were installed in the aircraft incorporated a hydraulic isolation valve (HIV) and a directional control valve (DCV) in the engine pylon. An inappropriately positioned HIV is indicated in the flight deck by a reverser isolation valve (REV ISLN) amber caution light on the control pedestal below the throttles. The CVR showed that the flight crew had observed this REV ISLN caution light lit about 9 minutes prior to the reverser deployment and one of the flight crew observed that the light subsequently came on repeatedly. 
+FDR damage caused by the ground fire which followed the crash impact was severe and it was impossible to extract any information from the recorder. The investigation noted that similar losses of recorded data had been the case in several other accidents both prior to and subsequent to the subject accident. The Technical Standard for FDRs at the time of the Investigation was noted to have required resistance to heat exposure from flames at 1100°C1,373.15 K 2,012 °F 2,471.67 °R for 50% of the recorder for 30 minutes. The investigation considered that “thermal damage to the tape recording medium was most probably the result of prolonged exposure to temperatures below the 1100°C testing level but far in excess of the 30 minute test duration.”
+In the absence of FDR data, recovered non-volatile memory from the left engine electronic engine control (EEC) showed that at the suspected point of reverser deployment, the aircraft was at an approximate altitude of 24,700 feet7,528.56 m, a speed of Mach 0.78 and that the engine was developing climb power.
+During the course of the Investigation, on 3 July 1991, the NTSB issued four Safety Recommendations to the FAA to:
+
+
+ Conduct a certification review of the PW4000 engine equipped Boeing 767 airplane thrust reverser systems to evaluate electrical and mechanical anomalies and failure modes that can allow directional control valve pressure to be applied to the reverser EXTEND port. The certification review should include subjecting the valve to the engine's vibration spectrum concurrent with introduction of intermittent pressure spikes to the valve pressure port. The certification review should also determine the adequacy of the thrust reverser system safeguards when the hydraulic isolation valve is open to prevent uncommanded thrust reverser extensions. (A-91-45)
+
+ Amend the Boeing 767 Flight Operations Manual on aircraft powered by the PW4000 series engine to include in the section, "Reverser Isolation Caution Light," a warning that in-flight reverser deployment may result in severe airframe buffeting, yawing, and rolling forces. (A-91-46)
+
+ Pending completion of a certification review of the thrust reverser system, establish operational procedures to be followed upon illumination of the Reverse Isolation Caution Light (REV ISLN) that will enhance the controllability of the PW4000 powered Boeing 767 should a secondary failure result in the in-flight deployment of a thrust reverser. Actions should be taken to achieve an appropriate combination of airspeed, altitude and thrust settings that will minimize control difficulties in the event that the reverser subsequently deploys. Also consider the inclusion of a procedure to pull the fire handle if this occurs. In lieu of implementation of revised operational procedures, operators may be directed to deactivate thrust reversers until the certification review is completed and the reliability of the system can be adequately assured. (A-91-47)
+
+ Examine the certification basis of other model airplanes equipped with electrically or electro hydraulically actuated thrust reverse systems for appropriate safeguards to prevent in-flight deployment of reversers and ensure that operating procedures are provided to enhance aircraft control in the event an of inadvertent in-flight reverser deployment. (A-91-48)
+
+
+The Findings of the Investigation included that:
+
+
+ the physical evidence at the crash site showed that the left engine thrust reverser was in the deployed position. 
+
+ the scatter of wreckage indicated that the aircraft had experienced in-flight breakup at a steep descent angle and low altitude. 
+
+ although thrust reverser system certification required that the aircraft should be  capable of continued safe flight and landing under any possible position of the thrust reverser, wind tunnel tests and data used in the simulation of this accident demonstrated that aerodynamic effects of the reverser plume in-flight during engine run down to idle resulted in a 25 percent lift loss across the wing and that controlled flight could not be maintained unless full control column and full rudder corrective action were applied within 4 to 6 seconds after a thrust reverser deployment. 
+
+ although hypothetical hydraulic system failures that could cause the thrust reverser to deploy were identified, no specific component malfunction was identified that caused an uncommanded thrust reverser deployment on the accident aircraft. 
+
+
+The original design of the B767/PW4000 thrust reverser system required multiple failures for the reverser to deploy in-flight. As a direct result of testing and engineering re-evaluation accomplished after this accident, Boeing proposed thrust reverser system design changes intended to preclude the reoccurrence of this accident. It was concluded that the changes should prevent in-flight thrust reverser deployment even from multiple failures. These modifications were then  mandated by FAA AD 91-22-09 for all PW4000-series powered aircraft. In service B767's were modified by incorporation of a Boeing service bulletin by teams of Boeing mechanics and the fleet modification was completed in February 1992. Design reviews and appropriate changes were initiated for other transport aircraft types.
+The Probable Cause was determined as “uncommanded in-flight deployment of the left engine thrust reverser, which resulted in loss of flight path control. The specific cause of the thrust reverser deployment has not been positively identified.”
+The Final Report into the Accident was approved by the Thai Civil Aviation Board on 21 July 1993 and in the English language translation subsequently carried out by Hiroshi Sogame may be seen in full at SKYbrary bookshelf: Lauda Air B767 Accident Report. 
+It contained two further Safety Recommendations:
+That the FAA should:
+
+
+  Examine the certification philosophy of all airplane certificated with ground only engine thrust reverser systems to provide appropriate design safeguards to prevent in-flight deployment. 
+
+ Revise the certification standards for current and future airplane flight recorders intended for use in accident investigation to protect and preserve the recorded information from the conditions of prolonged thermal exposure that can be expected in accidents which occur in locations that are inaccessible for fire fighting efforts.”
+
+
+Further Reading
+
+Loss of Control
+
+Engine Separation After Takeoff (OGHFA SE)
+
+Ageing Aircraft - Structural Failure
+
+Airworthiness - The System
+
+Damage Tolerance
+
+
+
+
+
+

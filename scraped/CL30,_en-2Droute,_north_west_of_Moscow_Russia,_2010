@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+3 Related Articles
+4 Further Reading
+
+
+Description
+On 23 December 2010, a Bombardier BD–100–1A10 Challenger 300 being operated on a business charter flight from Moscow Sheremetyevo to St. Petersburg experienced a sudden in-flight pitch upset during the climb in night IMC and as a result the three passengers were injured, one seriously,  and some of the cabin interior was damaged. After an assessment of the need for medical assistance for the passengers, the aircraft was returned to Moscow and two of the injured passengers were taken to hospital.
+
+Investigation
+After advising the Interstate Aviation Committee responsible for aviation accident investigation in Russia as the State of Occurrence, an Investigation was carried out by the Finnish SIB on behalf of the State of the Operator. It was noted that “the investigation was hindered by the fact that the (two hour) CVR recording had been overwritten".
+It was established that immediately following AP engagement after take off, the EICAS annunciation ‘AP STAB TRIM FAIL’ had appeared. No immediate action was taken and during the continued climb, several EICAS cautions ‘AP HOLDING NOSE DOWN’, which indicated that the AP was having to keep commanding nose down elevator inputs, had occurred. The Fasten Seat Belts sign was turned off and the co-pilot began to consult the relevant QRH drill. As the crew initiated the actions listed in the QRH ‘AP HOLDING NOSE DOWN’ checklist passing FL 127 at 280 KIAS (and some 6 minutes after the caution had first appeared), the aircraft commander reported taking a firm grip of the control column before disengaging the AP and, when the out of balance forces in the flight control system resulted in the control column moving backwards, he reported reacting by pushing the nose down. This action led to an approximately 7 second-long period of ‘pilot induced oscillation’, during which normal acceleration varied from +3.6 g to -1.7 g, before pitch control was regained, after which the climb was continued under manual control. Once the AP had been disconnected, the trim system lockout, which had been preventing FGC trim signals reaching the Horizontal Stabiliser ECU, was reset and there was no recurrence or any fault for the remainder of the flight, which was uneventful - and occurred with the aircraft controlled manually in line with the QRH instruction not to re-engage the AP after the fault which had been encountered. 
+As a result of the upset occurring whilst the passengers were unrestrained, all three were injured, although only one seriously, and some damage was sustained to the cabin interior trim due to impact by the unrestrained passengers during the upset. Initially, the commander’s intention was to continue the flight as planned but after being advised of the situation in the cabin, he decided on an air turnback. An emergency was not declared to ATC because the commander “did not deem the accident to be an emergency or distress situation because he had insufficient information regarding the severity of the passengers’ injuries”.
+It was noted that the “service hostess” accompanying the passengers had responsibility and training only for that function and was not designated as cabin crew or concerned in any respect with proactive or reactive cabin safety. It was noted that although passenger injuries occurred because they had not been told by the crew to sit down and fasten their seat belts, this action did not appear in the QRH checklist available to the flight crew.
+It was noted that the flight was being used as a line training sector for the very inexperienced co-pilot. However, although this may have contributed to a series of flight preparation errors which would have increased the commander’s workload leading up to and during take off an initial climb, it was not suggested that this had had any direct bearing on the “inadequate situation analysis” made following the fault annunciation and prior to AP disconnection. 
+After careful inspection of the pitch trim system, it was concluded that some form of stabiliser trim signalling malfunction, for which a fault code was recorded in the FGC NVM, had been transient in nature. No clear evidence of any hard fault, either transient or permanent, could be identified and, after laboratory tests on grease removed from the horizontal stabiliser trim actuator jackscrew, this was also eliminated as a possible cause of the indicated trim malfunction.
+In respect of crew response to the system caution annunciations, the Investigation concluded that overall, the whole flight had been characterised by “shortcomings in the manner the flight crew performed checks as well as in crew cooperation” both before and after departure. It was considered that the effect of this had been that “immediately after the takeoff the pilots were already overloaded to the point that when the trim fault appeared they postponed taking action until a point in time when the aircraft had already reached a high airspeed” which in itself exacerbated the effect of their intervention.
+It was noted that the reason why AP disconnection had led to the initiation of a pitch upset was that at that point, the signalling fault which had produced the EICAS annunciation of a stabiliser trim failure meant that the horizontal stabiliser was not being trimmed for the climb being made as confirmed by the periodic EICAS annunciations of ‘AP HOLDING NOSE DOWN’. However, it was apparent that crew understanding of the way stabilisation trim functioned with and without the AP engaged in the context of the associated artificial pitch feel was poor.
+The Investigation formally identified the Probable Cause of the investigated Accident as:
+
+
+ the pilot overcorrecting the aircraft’s pitch angle immediately after the autopilot was disengaged - had the control column been held prior to AP disengagement, the accident would have been prevented.
+
+
+It was additionally found that Contributing Factors were: 
+
+
+ the pilots’ unfamiliarity with the operating principle of the aircraft’s artificial pitch feel system - had they correctly held on to the control column prior to AP disengagement the accident would have been prevented.
+
+
+
+ the pilots’ inadequate situation analysis after the trim fault occurred - this also contributed to the degree of the passengers’ injuries because the persons on board were not told to sit down and fasten their seat belts.
+
+
+
+ the lack of adequate guidance in the applicable QRH drill on action to be taken prior to AP disengagement to minimise its effects .
+
+
+
+ despite the nature of a line training flight, shortcomings in the performance of routine checks and in crew cooperation both before and during the flight so that they were overloaded when the trim fault occurred and consequently postponed taking action until a high airspeed had been established - the same response to the fault at a lower airspeed would have reduced the resultant ‘g’ forces. 
+
+
+Safety Action taken during the conduct of the Investigation was noted to have included:
+
+
+ the publication by the Operator Jetflite on 12 January 2011 of a Temporary Revision to the QRH dealing with the reduction of airspeed and turning on the seat belt sign when the autopilot is being disengaged in a trim fault situation. This revision also warned pilots of the possibility of insufficient control forces and suggested that the severity of the situation can be estimated from the angle of the horizontal stabiliser.
+
+
+
+ the publication by aircraft manufacturer Bombardier on 4 November 2011 of an ‘Advisory Wire’ to operators relating to the accident which reminded pilots to firmly grip the control column prior to AP disengagement and, time permitting, to notify the passengers of the situation and turn on the Fasten Seat Belts sign.
+
+
+
+ action by Jetflite to the enhance the duties of the “service hostess” to embrace responsibilities in respect of the safety of passengers with a corresponding re-designation of the role as “flight attendant”.
+
+
+Three Safety Recommendations were made as a result of the Investigation as follows:
+
+
+ that Jetflite ensure that Standard Operating Procedures as well as pre-takeoff checklists support flight crew action when it comes to confirming the critical takeoff-related issues immediately before takeoff.
+
+ that Transport Canada review the content of Bombardier CL300-type aircraft QRH checklists as regards horizontal stabilizer trim system faults.
+
+ that the European Aviation Safety Agency (EASA) call attention to the content of the type training classroom instruction and simulator training of artificial feel system operating principles, especially with regard to aircraft types in which the system does not directly adjust in relation to airspeed.
+
+
+The Final Report of the Investigation and an abridged translation of the original Finnish language version was published on 21 May 2013. 
+
+
+Related Articles
+
+Loss of Control
+
+Recovery from Unusual Aircraft Attitudes
+
+Decision Making
+
+Crew Resource Management (OGHFA BN)
+
+Unexpected Events Training (OGHFA BN)
+
+
+Further Reading
+
+EASA SIB No.2013-05: Manual Flight Training and Operations, 23 April 2013.
+
+ICAO Amendment No.3 to PANS-TRG (Doc 9868) - Chapter 7, Upset Prevention and Recovery Training, April 2014.
+
+FAA AC 120-111 Upset Prevention and Recovery Training, April 2015.
+
+ Aviation Safety and Pilot Control: Understanding and Preventing Unfavorable Pilot-Vehicle Interactions, by the US National Academy of Sciences, 1997
+
+
+
+
+
+

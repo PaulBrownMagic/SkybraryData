@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 11 September 2010, a DHC8-400 being operated by Flybe on a scheduled passenger flight from Bergerac France to Exeter failed to level as cleared during the approach at destination in day VMC and continued a premature descent without the awareness of either pilot due to distraction following a minor system malfunction until an EGPWS ‘PULL UP’ Hard Warning occurred following which a recovery climb was initiated. There were no abrupt manoeuvres and no injuries to any of the 53 occupants.
+
+Investigation
+A Field Investigation was carried out by the UK AAIB. Despite Operator procedures intended to ensure that Serious Incidents were promptly reported to the AAIB and the occurrence taking place inbound to the Operator’s Head Office and main engineering base, such notification did not occur until five days after the event. 
+Despite no initial action to isolate the FDR after the Incident, FDR data was subsequently preserved. The CVR had not been isolated after the event either and so in that case, the relevant record was overwritten. The failure to isolate both recorders after the incident was noted to have been contrary to Company Policy. Non volatile memory (NVM) data recovered from a failed Input Output Processor (IOP) was also found useful during the Investigation. 
+It was established that, as the aircraft was passing an altitude of 3300 feet in descent towards the cleared altitude of 2600 feet with the AP engaged and the aircraft commander acting as PF, the crew had noticed the annunciation “IOP 1 FAIL” on the EFIS Engine and System Integrated Display (ED) and the loss of several indications. Reversion of the FD to ‘pitch and roll’ mode occurred and this had cancelled the previous selected altitude as well as VS and APPROACH modes, none of which were re-engaged. With a loss of reference airspeed indications on the left hand PFD, the commander handed control to the co pilot and continued as PM, although the HSI SEL button, which determines which PFD the FD is coupled to, was not changed to the right hand side display until after the subsequent EGPWS activation.
+Recorded flight data showed that descent had continued at a constant rate until the activation of an EGPWS “Caution Terrain” Alert lasting one second as the aircraft passed 1066 feet agl about 0.75 dots below the ILS GS. Fourteen seconds later, in the absence of any change to the aircraft trajectory, the ‘PULL UP’ Hard Warning had begun and continued for 12 seconds. Three seconds before it ceased, a modest rate of climb in unchanged flap 5 configuration had begun and was continued until the aircraft regained the ILS vertical profile. Minimum height reached was found to have been 700 feet agl at a position approximately 8 nm from touchdown, equivalent to 1200 feet below the cleared level. The EGPWS response was found to have not been in accordance with the Operator’s SOP for such occurrences.
+It was also found that by the time the aircraft had passed through the cleared altitude of 2600 feet, power had already been significantly reduced so that, as the descent continued, airspeed steadily reduced as well. The reduced power setting was found to have remained unchanged for almost a minute until the ‘PULL UP’ Warning eventually sounded. The minimum speed reached was 146 KCAS, compared to the ‘normal speed’ for flaps 5 at that stage of the approach promulgated by the Operator of 170 knots. This SOP was also noted to state that the minimum manoeuvring speed should be Vref flap 5 + 10 knots which at the prevailing aircraft weight was 143 knots.   
+Overall, it was apparent that both pilots had lost Situational Awareness as they responded to the circumstances caused by the IOP failure such that they were only alerted to the continued descent below the ILS GS and loss of speed as the aircraft descended with the AP following the FD in basic mode function with no direct control of rate of descent or airspeed and no minimum altitude or target airspeed selected.
+The effects of a single IOP failure are stated as:
+
+
+ an advisory message will be generated on the EFIS Engine and System   Integrated Display (ED)
+
+
+
+ several ED and MFD indications will be lost
+
+
+
+ a number of other indications on the PFD as well as low level alerts and messages may also be lost but the exact nature of these depends on the manner in which the IOP fails. 
+
+
+In respect of failed IOP, it was found that three weeks prior to the investigated incident there had been a defect entry reporting an IOP 1 Failure but that after the relevant maintenance procedures had been followed and no fault code was then generated, the aircraft had been released to service without the unit being replaced. After the occurrence of the investigated incident, ground tests indicated normal function and release to service was again made with the same IOP 1 fitted. After a series of further reports of the same fault during which the unit was transferred to the IOP 2 position and continued to generate failure messages, it was eventually removed altogether and replaced a month later.
+The record of IOP unit failure generally and in the Operator involved in particular was examined as were the Operator’s procedures for tracking recurrent defects.  
+It was found that at the time of the event, neither the aircraft manufacturer’s QRH or the aircraft operator’s Emergency Checklist (ECL) based upon it contained any guidance on how to response to an ‘IOP Fail’ annunciation. 
+The occurrence of two similar potential CFIT ILS approach events involving Flybe aircraft on approach in December 2008 and May 2009 and previously subject to UK AAIB Investigation was noted by the Investigation: DH8D, vicinity Edinburgh UK, 2008 (LB CFIT HF)
+The Conclusion of the Investigation was that:
+“This serious incident was the culmination of a sequence of events. The initiating factor was an avionics failure which led to a loss of cockpit indications during a critical phase of flight. Existing operational procedures did not provide clear guidance for flight crews to deal with this failure. This situation was exacerbated in this case by a departure from standard operating procedures, resulting in the loss of previously selected flight director modes. A breakdown in the monitoring of the approach profile led to a descent below the glide path and the triggering of a GPWS warning. This incident, once again, highlights the importance of monitoring the flight profile, especially when dealing with unfamiliar situations, and the need to react appropriately to GPWS warnings, particularly when the cause is not immediately apparent.”
+Three Safety Recommendations were made as a result of the Investigation: 
+
+
+ That Bombardier Aerospace publish information in the Quick Reference Handbook section of the Dash 8 Q400 Aeroplane Operating Manual describing the effects of single Input Output Processor failures on the operation of the aircraft. [2012-017]
+
+
+
+ That Flybe amend their Operations Manual to provide appropriate guidance for the handling of serious incidents and ensure timely notification to the Air Accidents Investigation Branch. [2012-018]
+
+
+
+ That Thales Aerospace review the Input Output Processor test procedures to improve the detection of intermittent failures of the ERACLE power supply module in order to reduce the number of faulty units being returned to service.  [2012-019]
+
+
+The Final Report of the Investigation AAIB Bulletin: 6/2012 EW/C2010/09/04 was published on 14 June 2012
+
+
+Further Reading
+
+Controlled Flight Into Terrain
+
+Approach and Landing Risks
+
+CFIT Precursors and Defences
+
+Response to a "PULL UP" Warning
+
+Level Bust
+
+Level Bust - Pilot Induced Situations
+
+Situational Awareness
+
+
+
+
+
+

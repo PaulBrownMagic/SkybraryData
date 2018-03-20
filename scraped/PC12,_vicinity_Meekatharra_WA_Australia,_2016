@@ -1,0 +1,76 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+3 Related Articles
+4 Further Reading
+
+
+Description
+On 18 June 2016, the two-man crew of a Pilatus PC12 (VH-OWA) being operated on a medical retrieval flight from Meekatharra to Paraburdoo in Western Australia by an unspecified operator in night VMC with line training in progress and one passenger on board observed a sudden change in the SVS image on both their PFDs soon after take-off. This included the depiction of the ground rising to meet the altitude of the aircraft without any related alerting. The Pilot Flying initially responded to this with a sudden increase in pitch, but after an alert from the other pilot he restored normal pitch. A normal SVS presentation returned as the aircraft continued to climb.  
+
+Investigation
+An Investigation was carried out by the Australian Transport Safety Bureau (ATSB). The flight data were downloaded from the Aircraft Condition Monitoring System and used to support the Investigation. It was noted that both pilots were "highly experienced". The aircraft commander, who was present as a Check Pilot and was acting as PM from the right hand seat, had over 15,000 total flying hours which included 3,000 on type and the PF, who had over 11,000 total flying hours and over 2,600 hours on type, was in the left seat. Since the aircraft operator did not have access to a full flight simulator for the type, it was found that "most pilot training was conducted in the aircraft". 
+It was noted that both PFDs were normally configured to present the SVS image as a background. However, the SVS was not certified for primary control input or navigation use and although it was automatically activated at engine start, it could then be de-selected by the pilot. It was further noted that the Electronic Standby Instrumentation System (ESIS) did not have the SVS background.  
+It was established that as the aircraft climbed through about 250 feet agl at about 110 knots whilst still over the runway about 18 seconds after a normal take-off, the pilots saw the RadAlt indication wind down to zero and almost immediately, the low altitude awareness display had risen to meet the altitude readout (see the illustration below). There was no annunciation of a RadAlt failure. The SVS image on both PFDs was then reported to have shown "the runway move rapidly left and off the screen" whilst the representation of the ground "appeared to rise rapidly up to meet the Zero Pitch Reference Line" (ZPRL). In response, the PF pulled back on the control column and the flight path indicator moved up correspondingly to about 15° pitch. The recorded data showed that this increase in pitch did not create a sufficient Angle of Attack (AoA) to activate the Stall Protection System. The PF explained that his movement of the control column was in direct response to the impression created by the SVS image "that the aircraft was sinking rapidly towards the ground". He stated that there had been "no vestibular sensation that the aircraft was descending, nor had there been any indication of a strong wind that may have caused the aircraft to drift off the runway centreline", but that "the resulting sensory confusion" had caused him to experience some motion sickness.  
+
+ The RadAlt low altitude display. [Reproduced from the Official Report]
+The Check Pilot reported since the ESIS was not on his side, he had immediately looked out and had been "able to discern a visible horizon due to the moonlight" and had alerted the PF to the nose-high attitude. This led the PF to switch their focus to the attitude and airspeed on the ESIS which prompted them to return the pitch to the previous 8° pitch up. Airspeed, which had fallen to 101 KCAS due to the pitch up, returned to the original target of 110 KCAS. As the aircraft climbed through 850 feet the SVS image returned to normal without intervention and after raising the gear and flaps, the PF deselected SVS mode on their PFD. The Check Pilot retained SVS mode on their PFD and observed that there were no further problems. The flight was continued and completed as planned. Maintenance subsequently found that both the transmit and receive antennas for the RadAlt had failed. These antennas were subject to on-condition replacement and had been installed for over 9000 hours. After replacement of both these antennas and the associated transmitter/receiver, there was no repetition. 
+It was confirmed that the RadAlt was a significant data source for the SVS image and that since its output was combined with the TAWS runway and obstacle database accessed using GPS position, a corruption of vertical reference would have resulted. It was concluded that the reported shift of the SVS depiction of the runway to the left was likely to have been a correct but exaggerated response to a slight drift of the aircraft to the right relative to the runway centreline just prior to the RadAlt failure, magnified when it failed by the sudden input of zero altitude. The RadAlt Low altitude display appears automatically if the detected height of the aircraft reduces below 550 feet.
+A example of the SVS image on each PFDQ with annotations is shown below:
+
+ The SVS terrain depiction showing the ZPRL, the actual flight path reference symbol and the FD command bars. [Reproduced from the Official Report]
+Both pilots stated that "they had previously experienced failure of primary flight instruments at low level and at night in different aircraft without synthetic vision systems (and) had been able to disregard the erroneous or failed instruments and reference the standby instruments to maintain control of the aircraft and situational awareness" However, they felt that "the prominence of the SVS display was such that it is difficult to ignore erroneous information and locate valid information" with "the image of the ground rising up and the runway disappearing rapidly sideways" taking the focus of the PF away from anything else. Both pilots noted that the same sequence during single pilot operations could have been a more serious event. 
+It was also noted by both pilots that with the corrupted PFD SVS image showing, it had been impossible to discern the valid attitude information on the PFD and use it to revert to flying "power and attitude". The Investigation noted that whilst it is possible for the pilot to remove the SVS image from the PFD, this requires either two button presses or the use of the cursor control device, both of which are "very difficult to do at low level while maintaining control of the aircraft by keeping the right hand on the thrust lever and the left hand on the control column". It was considered that the "Pilot Advisory Letter" issued by OEM Honeywell in response to the occurrence which "reminded pilots to look at the primary flight indications presented on the PFD at all times" was unhelpful and should have instead advised pilots to transfer their attention to the ESIS instead since the corrupted PFD had been "simply too confusing to start looking for two small, white attitude bars". Changing to the ESIS would also prevent fixation on the erroneous information given the difficulty a single pilot would have in removing it if flying manually at low level. 
+The Investigation noted that the event had involved the spatial disorientation of the PF and that this subject had been dealt with in depth in a 2007 ATSB research report which highlighted the fact that the human visual system "provides around 80 per cent of orientation information" so that in was to be expected that without any transfer to external visual reference "the overriding presence of incorrect visual information" had initially deprived the PF of the majority of their orientation information. It was therefore considered that if a key instrument display like the PFD ceases to function normally, it is essential that both the fact such a failure has occured and the extent of it are clearly communicated to the pilot so that they do not, even transiently, react to incorrect information.
+Safety Action taken in response to this event whilst the Investigation was in progress and known to it included the following:
+
+
+ The Aircraft Operator replaced the RadAlt aerials on its whole PC12 fleet and took steps to provide guidance and enhanced pilot training to cover SVS malfunctions.
+
+ OEM Honeywell issued a 'Pilot Advisory Letter' which reminded users of the secondary status of their SVS functionality and advised pilots "to follow the primary flight indications presented on the PFD at all times" (although note the above-quoted view that this advice was unhelpful and should have instead advised pilots faced with an SVS corruption of their PFD to transfer their attention to the ESIS). Honeywell also advised that they were examining how to prevent the display of an SVS image on the PFD when incorrect data is assessed as valid by the source RadAlt.      
+
+
+The Investigation detailed the following Safety Message in respect of the event:
+
+
+Incorrect instrument indications that are not associated with a failure mode present pilots with a complex and challenging situation. This situation may be exacerbated during single-pilot (rather than multi-crew) operations, where there is a lack of external visual references (such as at night or in instrument meteorological conditions), under high pilot workload conditions, or where a pilot is experiencing an elevated level of fatigue. The image of terrain on the primary flight display is powerful and compelling. This incident highlights the manner in which an inaccurate synthetic vision image can rapidly lead to a degree of spatial disorientation. Pilots need to ensure that they are familiar with the limitations of the synthetic vision system and how to effectively deal with erroneous information as well as system failure modes. Organisations that operate aircraft fitted with similar technology should ensure that appropriate information and training is available to pilots, including when and how it should be used when it is not approved for primary navigation.
+
+
+The Final Report was released on 17 January 2017. No Safety Recommendations were made.
+
+Related Articles
+
+Synthetic Vision Systems (SVS)
+
+Primary Flight Display (PFD)
+
+Spatial Disorientation
+
+Situational Awareness
+
+Radio Altimeter
+
+
+Further Reading
+
+An overview of spatial disorientation as a factor in aviation accidents and incidents, Dr D. G. Newman, ATSB Australia, 2007.
+
+
+
+
+
+

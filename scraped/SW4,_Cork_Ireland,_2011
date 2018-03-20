@@ -1,0 +1,175 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+3 Related Articles
+4 Further Reading
+
+
+Description
+On 10 February 2011, a Fairchild SA 227-BC Metro III being operated by Spanish Company Flightline exclusively for an Isle of Man based “Ticket Seller” called Manx2 (which was not also an aircraft operator) on a scheduled passenger flight from Belfast City, UK to Cork, Ireland crashed when the crew lost control whilst attempting to commence a daylight go around at destination after failing, on the third attempt, to transition to visual reference for landing due to fog. The aircraft was destroyed on impact and concurrent fires in parts of the wreckage were quickly extinguished by the airport fire service. Six of the 12 occupants were killed, four were seriously injured and two sustained minor injuries.
+
+ The location of the wreckage with the yellow cross marking indicating the first point of aircraft contact with the runway (reproduced from the Official Report)
+Investigation
+The event was Investigated by the Irish AAIU with the aid of some technical assistance provided by the UK AAIB. The Investigation established that the aircraft involved had been leased to another company which was not the holder of an Air Operator Certificate but termed by the Investigation as the ‘Owner’, who in turn sub-leased it to a small Spanish AOC holder called Flightline S.L. - the ‘Operator’ - which sold the provision of “passenger air transport service” to a ‘Ticket Seller’ based on the Isle of Man called “Manx2” which was not the holder of Air Operators Certificate. The aircraft was maintained by another (Spanish) Company termed by the Investigation the ‘Maintenance Provider’ which neither directly provided nor contracted line maintenance provision in respect of the remote operation being carried out from a base in the Isle of Man, a non-EU Territory.
+The Investigation was materially assisted by the successful recovery and replay of the FDR and CVR, although the Operator was unable to provide on request and as required by EU-OPS the FDR data frame layout. The lack of this ability was found not to have been discovered during Operator quality audits or to have been made a requirement by the applicable National Regulations. Data from the NVM of the recovered TAWS equipment fitted to the aircraft and ATC radar recording were also available. 
+It was found that after an initial wingtip contact with the intended landing runway as marked on the diagram above, the aircraft had ended up inverted some 189 metres from the initial contact point some 72 metres to the right of the runway centreline. The Investigation noted that, having first extinguished the two engine fires and taken action to eliminate any further fire risk, the Airport RFFS had initially forced open the rear cargo door (see the close-up picture of the wreckage below) as the main means to facilitate extrication of the surviving occupants after first removing the baggage and the divider separating the hold from the passenger cabin.
+It was established that the aircraft had been engaged in night mail cargo flights for the UK Royal Mail under the terms of a contract between the aircraft ‘Owner’ and an agency working on behalf of the UK Royal Mail. The accident flight crew of two pilots had commenced duty at 0615 at Belfast Aldergrove and positioned the aircraft empty to Belfast City, where they arrived at 0715 for the scheduled 0750 departure to Cork. 
+An ATC FPL for the accident flight was found to have been filed three hours earlier by a Fixed Base Operator (FBO) in Billund, Denmark showing just one alternate, Waterford. The pilots had obtained TAF and METAR information when beginning duty which had indicated that fog at Cork may well prevent a landing but had not obtained any other weather at that time except that for Dublin. The evidence available indicated that they had been unaware of the weather at Waterford, the single nominated alternate on the filed FPL, or that at other potential diversions - Shannon and Kerry. Given that the weather at Cork was below limits, "regulations required that the flight plan should nominate two alternate aerodromes with suitable weather conditions" but it was noted that no crew action was taken to ensure that revised FPL with two validated alternates was filed. Boarding of the passengers was delayed because both pilots were still securing some of the passenger seats which the off-going flight crew from the night cargo flights were supposed to have completed. It was found that none of the Operator’s pilots were trained or authorised to refit seats and that there were discrepancies between the actual and documented seating configuration on the accident flight. The required pre-fight safety briefing was given to the 10 passengers by the Co Pilot, since no cabin crew was present or required.
+As the aircraft approached Cork with the Co-Pilot as PF, LVPs were in operation in fog and the crew were advised that the active runway was 35 with runway 17 available for a Cat 2 ILS (for which the accident aircraft / crew were not equipped / trained). An ILS approach to runway 17 was commenced and continued past the “Outer Marker equivalent point” (which determines, according to the reported IRVR, whether an instrument approach can continue) despite the fact that the IRVR was still below that required. The approach was further continued below the applicable 200 feet DH and when a go around was eventually commenced, the lowest TAWs-recorded height was 101 feet agl. Radar vectors were then given for an approach to runway 35. The IRVR provided was again below that required but the approach was again continued both past the Outer Marker equivalent point and below the applicable 200 feet DH before a second go around was commenced, with the minimum recorded height in this case being 91 feet agl. 
+After a short time in the hold, during which ATC passed the weather at Kerry (good) and Dublin (useable but poor), a third approach was commenced, this time to runway 17. Although the IRVR had improved, it initially remained below the minimum 550 metres required before briefly reaching this but then dropping below it again prior to the Outer Marker equivalent point. Contrary to SOP, the PM began operating the power levers and for the third time, descent was further continued below the 200 feet DH. As the aircraft approached 100 feet agl it was found that the power levers had been selected momentarily below the flight idle stops (at 40° Power Lever Angle (PLA) into the prohibited-in-flight “beta” range where the effect of a minor but persistent continuous mismatch between the torque delivered by the two engines at any given PLA had been aggravated and a sudden bank to 40° left had followed with the left/right PLAs reaching 31/33°respectively. Almost immediately, and just below 100 feet agl, the PM had called a go around, which was acknowledged by the PF. However, “coincident with the application of go around power” by the PM, the aircraft rolled to the right as control was completely lost. It had then continued to roll “rapidly to the right beyond the vertical” reaching an angle of 97° at which point the right wingtip contacted the runway surface before continuing to roll to a maximum angle of 115° until “the aircraft impacted the runway inverted” before sliding to its final resting position.
+Both pilots were found to have been employed by the ‘Owner’ rather than the ‘Operator’ but all their training and checking had been carried out by the latter. The 31 year old aircraft commander had acquired almost all of his 1801 hours of flying time as a Co-Pilot on the accident aircraft and had recently been promoted to Captain, making his first flight in that capacity four days prior to the accident. The 27 year old Co-Pilot had a total of 589 flying hours of which 289 had been acquired on the accident aircraft type. Both Pilots held JAA CPLs issued by Spain to the Captain and by the UK to the Co-Pilot. The Investigation found that neither pilot had received the minimum specified training/checking for their respective crew positions before being released to unsupervised line flying and specifically that the CRM training specified in the Operations Manual (OM) Part ‘D’ for command upgrade had not been delivered. It was also noted that the Captain had been trained and checked during preparation for his upgrade by the same examiner, which was considered to be “contrary to good practice” - although this was noted to be a matter that had been rectified by enhanced regulatory requirements subsequent to the accident.
+Although the Investigation uncovered serial non-compliance in the provision of arrangements mandated for the continuing airworthiness of the aircraft, it was concluded that the only respect in which this situation had had any direct bearing on the situation which led to the loss of control was the un-rectified slight mismatch between the power levers. However, it was found from FDR data that this fault had been present throughout the 166 hours of available recorded flight data including during normal go-arounds with no obvious consequence and had not led to any defect entry being made in the Aircraft Technical Log. The Investigation therefore concluded that “this anomaly did not materially affect the normal operation of the aircraft; however when the aircraft entered a regime prohibited by the AFM, this anomaly became significant.”
+It was considered likely that this throttle mismatch had been present since the return of the aircraft to service four months prior to the accident after a 9-month period under repair in Germany to rectify damage sustained in a hard landing event in November 2009. This work had involved the removal and subsequent re-installation of both engines but an applicable, although not mandatory, AMM procedure for a functional check relating to power lever matching had not been used. The residual mismatch was attributed to a faulty sensor which would have led to slightly more fuel flow - and therefore slightly more engine torque - being delivered to the right engine than to the left at the same power lever angle. 
+Operating procedures were examined and it was found that the OM Part ‘A’ prescribed that an ILS Cat 1 Monitored Approach must be flown with the Captain acting as PM until the required visual reference for a landing had been acquired whenever the reported visibility was less than 1200 metres. It was noted that there was no reference to this requirement in the OM Part ‘B’ and the Investigation was told by the Chief Instructor of the Operator that whilst the procedure was trained on the EMB 120, this did not occur on the Metro II/III fleet. It was also found that, contrary to widespread practice elsewhere, there was no limit on the number of consecutive approaches which could be made where there had been no significant improvement in the prevailing weather conditions. There was also no limit on pairing of pilots new to their respective roles, which had allowed a new Captain to operate the accident flight with a relatively inexperienced Co-Pilot.
+The Investigation found that the requirements of the Flight Time Limitation (FTL) Scheme had been routinely breached and considered that the monitoring of the implementation of that scheme by the ‘Operator’ “was of dubious quality”. It was found that neither of the accident flight pilots had achieved the prescribed rest period prior to commencing their flying duty on the day of the accident and considered that this, in conjunction with the flying of multiple manual approaches at Cork without a Flight Director, had led to a significant risk of fatigue. It was also found that crew rostering was carried out by the Operations Manager of the ‘Owner’ based in the offices of the ‘Ticket Seller’ in the Isle of Man rather than by the ‘Operator’ as AOC holder. One effect of this was that the ‘Operator’, as was the case with the accident flight, did not necessarily know the identity of the operating crew on their aircraft. It was also noted that some crew duty procedures were available only in Spanish and that there was no evidence that the accident flight Co-Pilot, who had accepted a roster change which included the accident flight, had any competency in that language.
+
+ The wreckage showing the rear cargo door through which survivors were extricated (reproduced from the Official Report)
+The issue of regulatory oversight of AOC operations by Spain was considered. The Investigation was informed by EASA that following a “Combined Standardisation Inspection carried out in respect of Spain in September 2010, the identified “areas of concern” had included:
+
+
+ Initial certification (issuance of AOCs). 
+
+ Continued oversight of AOC holders.
+
+ Resolution of safety concerns. 
+
+
+As a result, a “Corrective Action Plan” had been prepared and implemented, but EASA was of the opinion that “it is unlikely that such action would have shown a major effect on the system at the time of or prior to, the accident”.
+Having examined all the evidence, the Investigation concluded that the operation of the accident aircraft was being controlled by the ‘Owner’ from the Isle of Man, a British Crown Dependency outwith both the UK and the EU and that “under Regulation (EC) No 785/2004, the ‘aircraft operator’ was in fact the ‘Owner’ who had effective disposal of the use or operation of the aircraft.” The implication of this situation was considered to be that “the duties and responsibilities of the AOC holder were…not carried out in accordance with EU-OPS”. It was further concluded that:
+“This situation, where a commercial air service was being operated within the EU and the air carrier was not the ‘aircraft operator’, was in contravention of Regulation (EC) No 1008/2008.”
+
+ The complex relationship between the various agencies and those undertakings associated with the Operation (reproduced from the Official Report)
+Given that there was considerable evidence of visible ‘branding’ of the aircraft and crew with the identity of the ‘Ticket Seller’, it was further noted that:
+“The Investigation is of the opinion that the ‘Ticket Seller’, an ‘air carriage contractor’ as defined in Regulation (EC) No 2111/2005, Article 2 (c), was portraying itself as an airline. The Investigation further considers that in the eyes of the travelling public, an airline is synonymous with an air carrier, an entity which is required to hold a valid operating licence. Such an operating licence can only be held by the holder of a valid AOC.”
+In the light of the complexity of the inter-relationship between the various entities involved in the operation of the accident aircraft, the Investigation considered that an inevitable consequence would be that there would be “no overall effective oversight of the Operation being carried out by the AOC holder”.
+The Investigation also took the view that:
+“The role of a ticket seller who engages in providing passenger air services is not clear. While the role and responsibilities of an air carrier are well defined, the involvement of ticket sellers in this activity requires that their role and responsibilities should be clearly defined.”
+The Investigation identified a specific concern in respect of the lack of circumstantial review by the AOC issuer, the Agencia Estatal de Seguridad Aérea (AESA) - the Spanish CAA - when Flightline S.L. applied for and were granted a variation to their initially issued AOC to add two Metro III aircraft in 2010. AESA was reported to have specifically stated to the Investigation that “it did not feel it was within its remit to look for additional organisational and financial information to ensure that the Operator was adequately resourced to operate two additional aircraft.” However, it was noted that AESA had been aware that the two aircraft added to the AOC had previously been operated from an Isle of Man base for the same ‘Ticket Seller’ under a Spanish AOC held by a Company called Eurocontinental Air which they had suspended because of “problems that arose in that operation” and following “an extended ramp inspection” at the Isle of Man. 
+It was noted that AESA had advised the Investigation that it:
+
+
+ had no knowledge of the ‘Owner’, which was a commercial company and therefore not within its regulatory remit
+
+ was unaware of the connection between the ‘Ticket Seller’ and the ‘Owner’
+
+ was unaware that  two former Eurocontinental Air pilots had moved with the aircraft to the ‘Operator’
+
+ was unaware of the remote Operation of the Metro III aircraft following their addition to the Operator’s AOC during 2010 and that had it known this, it would have taken a greater interest.     
+
+
+The Investigation therefore expressed its concern that “the regulatory authority of the State of the Operator did not identify the Operator’s shortcomings, thereby contributing to the cause of the accident.” It noted that, since the UK and Irish regulators were expressly prohibited by Regulation (EC) 1008/2008 from exercising any regulatory function in respect of the operation of aircraft from other Member States within and between their territories, both were obliged to rely on the oversight of Spain “to ensure compliance in regulatory matters”. It was concluded that in practice “the evidence shows that such oversight was of limited scope and low effectiveness.” 
+In this situation, the only “control” on safety standards was observed to have been the SAFA programme of ramp checks which in this case had not identified the extent of systemic shortcomings. However, it was accepted by the Investigation that “SAFA inspections are limited ….in what can be achieved in the protection of the aviation system”. 
+It was also noted that AESA oversight of the Operation required by Regulation (EC) 1008/2008 required that Member State issuing an AOC must also take responsibility for the corresponding Operating Licence. It was concluded that “there was no evidence of any such oversight (of the Operation ) being conducted by Spain”, although noted that “the Regulation makes no provision nor provides procedures of how oversight should be conducted, in particular where operations are carried out from a base outside a Member State” (in this case the Isle of Man).
+Finally, the Investigation noted the involvement of the EU Air Safety Committee in relation to the Accident Operator in the months following the investigated accident and considered that the scope of its remit might usefully be widened “as part of the EU aviation safety net”.     
+The Investigation determined that the Probable Cause of the accident was “loss of control during an attempted go-around below Decision Height in Instrument Meteorological Conditions”.
+Nine Contributory Causes, not listed in any order of priority, were also identified:
+
+
+ Continuation of approach beyond the outer marker equivalent position without the required minima.
+
+ Continuation of descent below Decision Height without adequate visual reference.
+
+ Uncoordinated operation of the power levers and the flight controls.
+
+ In-flight operation of the power levers below Flight Idle.
+
+ A torque split between the engines that became significant when the power levers were operated below Flight Idle.
+
+ Tiredness and fatigue on the part of the Flight Crew members.
+
+ Inadequate command training and checking during the command upgrade of the Commander.
+
+ Inappropriate pairing of Flight Crew members.
+
+ Inadequate oversight of the remote Operation by the Operator and the State of the Operator.
+
+
+Eleven Safety Recommendations were issued as a result of the Investigation as follows:
+
+
+ that the Director-General for Mobility and Transport, European Commission should review the obligations of Member States to implement penalties, in accordance with the Standardisation Regulation (EU) No 628/2013, as a result of transgressions including Flight Time Limitations as provided for in Regulation (EC) No 216/2008 [IRLD2014001]
+
+ that the European Aviation Safety Agency should provide guidance to Operators concerning successive instrument approaches to an aerodrome in IMC or night VMC where a landing cannot be made due to weather reasons and incorporate such guidance in Commission Regulation (EU) No 965/2012 accordingly. [IRLD2014002]
+
+ that the European Aviation Safety Agency should review Council Regulation (EEC) No 3922/91 as amended by Commission Regulation (EC) No 859/2008, to ensure that it contains a comprehensive syllabus for appointment to commander and that an appropriate level of command training and checking is carried out. [IRLD2014003]
+
+ that Flightline S.L. should review its current operational policy of an immediate diversion following a missed approach due to weather. [IRLD2014004]
+
+ that Flightline S.L. should implement suitable and appropriate training for personnel responsible for flight safety and accident prevention. [IRLD2014005]
+
+ that the Director-General of Mobility and Transport,  European Commission should review the role of the ticket seller when engaged in providing air passenger services and restrict ticket sellers from exercising operational control of air carriers providing such services, thus ensuring that a high and uniform level of safety is achieved for the travelling public. [IRLD2014006]
+
+ that the European Aviation Safety Agency should review the process by which AOC variations are granted to ensure that the scope of any new operation is within the competence of the air carrier. [IRLD2014007]
+
+ that the Agencia Estatal de Seguridad Aérea should review its policy with regard to continuing oversight of air carriers, in particular those conducting remote operations. [IRLD2014008]
+
+ that the Director-General of Mobility and Transport, European Commission should review Regulation (EC) No 216/2008 in the context of implementing Regulation (EU) No 628/2013 in order to improve safety oversight including efficacy and scope of SAFA Inspections and to provide for the extension of oversight responsibilities, particularly in cases where effective oversight may be limited due to resource issues, remote operation or otherwise. [IRLD2014009]
+
+ that the Director-General for Mobility and Transport, European Commission should review the scope of the Air Safety Committee, and consider including oversight of Operating Licences issued by Member States and the processes by which oversight is carried out. [IRLD2014010]
+
+ that the International Civil Aviation Organisation should consider the inclusion of information regarding the flight-specific approach capability of aircraft/flight crew within the proposed 'Flight and flow-Information for a Collaborative Environment (FF-ICE)'. [IRLD2014011]
+
+
+The Final Report was published on 28 January 2014.
+
+Related Articles
+
+ Loss of Control
+
+ Low Visibility Procedures
+
+ Monitored Approach
+
+ Safety Oversight
+
+ Ramp Inspections - SAFA
+
+ EASA Regulatory Instruments
+
+ Fatigue Risk Management System (FRMS)
+
+ CRM Skills Training (OGHFA BN)
+
+ Non Volatile Memory
+
+
+Further Reading
+
+ Council Regulation (EEC) No 3922/91of 16 of December 1991 on the harmonization of technical requirements and administrative procedures in the field of civil aviation 
+
+ Regulation (EC) No 785/2004 of the European Parliament and of the Council of 21 April 2004 on insurance requirements for air carriers and aircraft operators
+
+ Regulation (EC) No 2111/2005 of the European Parliament and of the Council of 14 December 2005 on the establishment of a Community list of air carriers subject to an operating ban within the Community and on informing air transport passengers of the identity of the operating air carrier, and repealing Article 9 of Directive 2004/36/EC 
+
+ Regulation (EC) No 1008/2008 of the European Parliament and of the Council of 24 September 2008 on common rules for the operation of air services in the Community (Recast)
+
+ Regulation (EC) No 216/2008 of the European Parliament and of the Council of 20 February 2008 on common rules in the field of civil aviation and establishing a European Aviation Safety Agency, and repealing Council Directive 91/670/EEC, Regulation (EC) No 1592/2002 and Directive
+
+ Commission Regulation (EU) No 965/2012 of 5 October 2012 laying down technical requirements and administrative procedures related to air operations pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council
+
+ Commission Implementing Regulation (EU) No 628/2013 of 28 June 2013 on working methods of the European Aviation Safety Agency for conducting standardisation inspections and for monitoring the application of the rules of Regulation (EC) No 216/2008 of the European Parliament and of the Council and repealing Commission Regulation (EC) No 736/2006 
+
+ Manual on Flight and Flow - Information for a Collaborative Environment (FF-ICE), ICAO Doc 9965, 1st ed. 2012
+
+ Evolution is better than revolution, an article by Capt. Ed Pooley, Hindsight, Issue 13, Summer 2011
+
+
+
+
+
+

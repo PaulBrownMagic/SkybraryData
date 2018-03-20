@@ -1,0 +1,84 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 22 April 2012, an Airbus A320 (A6-ABS) being operated by Air Arabia on a scheduled passenger flight from Sharjah to Istanbul as ABY0281 and a Boeing 737-800 (A6-FDK) being operated by flydubai on a scheduled passenger flight from Dubai to Doha as FDB17 came into conflict northwest of Dubai in night VMC whilst correctly following their respective ATC clearances. Coordinated TCAS RAs occurred and were followed which eliminated any risk of collision. ATC clearance error was attributed to an unstructured ATC position handover, the lack of STCA and the airspace structure. 
+
+Investigation
+An Investigation was carried out by the UAE GCAA Air Accident Investigation Sector (AAIS). Data recorded on the FDRs of both aircraft was successfully downloaded and ATC radar and voice recordings were available. 
+It was established that the A320 had taken off from runway 30 at Sharjah at approximately 2058LT and, two minutes later, the 737 had departed from runway 30R at Dubai. On checking in with Dubai DEP soon after take-off, the A320 was instructed to continue straight ahead and cleared to climb to 5,000 feet. Subsequently, further instructions were issued, including a left turn onto a heading of 210º "for sequencing" and then at 21:00LT a request for a good rate of climb up to 5,000 ft. Thirty seconds later, the instruction to "maintain maximum speed of 250 kts and route direct to RANBI" was given. 
+Soon after this, the Dubai DEP position was handed over to a different controller. The Investigation noted from the recorded conversations during this time that "no formal handover briefing took place between the two air traffic controllers" in relation to this handover. 
+After this handover was complete and eight minutes after the A320 had taken off from Sharjah, the 737 checked in with Dubai DEP and was instructed to climb to 5000 feet. 25 seconds later, "the A320 crew was instructed to increase speed to 300 kts and shortly thereafter, the 737 was given a left turn onto a heading of 210º accompanied by a comment from the controller of “delaying action through the RANBI gate.” The 737 was also restricted to a maximum speed of 250 kts. After a further 25 seconds, the DEP Controller began a telephone call to the UAE ACC to achieve operational coordination of another, unrelated aircraft. During this call, the ACC controller alerted the DXB DEP controller "that separation was about to be lost between the A320 and the 737".
+The DXB DEP controller immediately issued avoiding action to the A320 with an instruction to turn onto a heading of 270º and then gave advisory information on the conflicting traffic and cleared the A320 to climb to 13,000ft. The 737 was then instructed to turn right onto a heading of 280º but as the crew were part way through reading back this instruction, they interrupted their transmission to inform DXB DEP that they had a TCAS 'CLIMB' RA. The controller then passed information on the conflicting traffic. Subsequently, the A320 advised of a TCAS 'DESCEND' and, after a further 13 seconds advised clear of conflict and returning to their originally cleared altitude of 13000 ft and heading 270º. The DXB DEP controller then advised the 737 that it was clear of traffic and cleared it to climb to 13,000 ft maintaining a heading of 210º. 
+Radar recordings showed that the prescribed separation had been lost almost a minute prior to TCAS RA activation. Minimum separation was found to have occurred 5nm west of Dubai International Airport. 
+It was noted that the "experienced and well trained" controller involved had been assigned to the DEP position from the corresponding Planner position, which was standard procedure for staff rotation. He had only the two aircraft which came into conflict to control. It was concluded that before taking over the position "he needed more time to organize and prepare himself, both mentally and physically" and noted that "the lack of a structured handover briefing between the two controllers […] did not allow the controller who was coming on duty to develop an accurate mental model to assist him in determining the actions that he should take in order to organize the traffic". The AIRPROX then took place approximately three minutes after the controller took over the DEP position. Shortly after the occurrence, he was "relieved from his assigned duties in accordance with the ATC unit’s procedure and policy following such events". No evidence was found that controller fatigue had affected controller performance in any way.
+It was noted that TCAS II v 7.0 and Mode 'S' transponders were installed on both the aircraft involved and these systems were serviceable and functioned in accordance with their design. It was found from radar recordings when the RAs occurred, both aircraft were at 5100 feet and the calculated horizontal separation was 1817 metres. Both aircraft then responded correctly to their TCAS RAs and 36 seconds later, the A320 was passing behind the 737 with a vertical separation of 700 feet and a horizontal separation of approximately 796 metres with separation increasing. TCAS 'Clear of Conflict' was annunciated soon afterwards. It was noted that the Minimum Separation Standard approved for use in the Dubai CTZ where the conflict occurred is 1000 feet vertically or 3nm laterally as determined by radar. An animation of the event is shown below at about the time when both aircraft received their TCAS RAs.
+
+ A diagram reconstructing the aircraft flight paths with data at the time of their TCAS RAs (reproduced from the Official Report)
+The A320 Captain was found to have 17300 total flying hours including 6400 on type and was accompanied by a First Officer with 279 total flying hours, all on type. The 737 Captain was found to have 12600 total flying hours including 7100 on type and 1800 hours in command on all types and was accompanied by a First Officer with 412 total flying hours including 186 on type. 
+It was noted that at the time of the investigated event, Dubai ATC used a radar system that did not provide STCAs whereas this capability did exist at the UAE ACC.
+The evaluation of the Dubai radar system had been trialled by simulation for the addition of STCA in 2008 but there was reported to have been "an unacceptable level of nuisance and false STCA alerts" because the STCA parameters could not be configured with the system software and the supplier had not then developed the applicable algorithms to resolve the problems. It was noted that at the time of the event, Dubai APP was the only UAE APP unit not to have STCA capability. Since the event, a new radar system has been installed which includes STCA - and MSAW.
+The airspace context for the conflict was examined noting that Dubai APP handled departing traffic for two proximate airports, Dubai and Sharjah. Whilst no specific contribution to the investigated conflict was directly attributed to airspace and ANS configuration, the need to work proactively to ensure optimum arrangements continued to prevail in both respects was noted.
+The formal statement of Cause was that the AIRPROX Serious Incident resulted from "the loss of minimum separation between the two aircraft, which were following the instructions provided by ATC".
+Four Contributory Factors were identified as follows:
+
+
+ The structure of the airspace 
+
+ The lack of an alert provided to the ATCO to the imminent loss of separation 
+
+ The lack of a structured handover briefing between the two ATCOs prior to the serious incident  
+
+ The ATC clearance issued to the aircraft.  
+
+
+Four Safety Recommendations were issued as a result of the Investigation, three during its initial stages and a further one upon completion. The three initial ones, all since implemented "and considered closed", were as follows:
+
+
+ that the GCAA should provide clear guidelines with minimum ACAS II version for aircraft flying within UAE FIR. (SR17/2012)
+
+ that the GCAA should immediately ensure that all UAE Civil ATC units equipped with radar and ADS-B displays shall provide and utilise safety related alerts and warnings, appropriate to the service provided, and units which have not yet complied shall provide alternative measures, acceptable to GCAA, which achieve an equivalent level of safety in the interim. (SR18/2012)
+
+ that the GCAA should provide an Air Navigation Service Information Notice (ANSIN) to all UAE Civil ATC Units, requiring ANS Management to include awareness of the new ACAS11 version 7.1 capabilities and limitations in their initial and continuation ATCO training syllabus. (SR19/2012)
+
+
+The fourth one was as follows:
+
+
+ that the GCAA should ensure that when an alert is activated it does not mask the traffic information on all UAE Civil ATC radar screens and that ATCOs have the ability to continue to control aircraft by maintaining visibility of all available traffic information. (SR01/2016)
+
+
+The Final Report of the Investigation was issues on 28 January 2016. Although the ICAO AIRPROX Classification system was discussed in the Report, no corresponding classification was assigned to the investigated event.
+
+Related Articles
+
+Vigilance in ATM
+
+Loss of Separation
+
+Airborne Collision Avoidance System (ACAS)
+
+Short Term Conflict Alert (STCA)
+
+Handover/Takeover of Operational ATC Working Positions/Responses
+
+Controller Workload
+
+AIRPROX
+
+
+
+
+
+

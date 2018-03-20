@@ -1,0 +1,74 @@
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+3 Related Articles
+4 Further Reading
+
+
+Description
+On 28 December 2016 a Sikorsky S92 (G-WNSR) being operated by CHC Helicopter on a North Sea Offshore passenger transport flight from the Elgin Process Utilities Quarters (PUQ) platform to the West Franklin Wellhead platform failed to complete the final stages of a routine landing at the destination in day VMC when lateral and directional stability was suddenly lost. The helicopter came to rest on the helideck The 11 occupants were uninjured, but both the deck and helicopter sustained impact damage.
+
+Investigation
+After a significant and as yet unexplained delay in notification, the UK AAIB "became aware of the accident during the morning of 5 January 2017". An accident investigation is now in progress and the aircraft has been relocated from the accident location to Aberdeen by ship. Preliminary information gathered from "an initial ground inspection, recorded data and other sources" has been published.
+It has been established that the accident flight was the second in a four-sector sequence from Aberdeen to the Elgin-Franklin Offshore Field and that the commander had been PF both sectors. The first flight from Aberdeen to Elgin PUQ platform was uneventful but "as the helicopter.......lifted from the Elgin PUQ helideck (for the transit to the West Franklin Wellhead platform), it yawed unexpectedly to the right through 45°." In response, full left yaw pedal had been used to check the rotation and the aircraft had been landed back onto the deck. The flight crew had then "discussed the likely cause, which they thought to have been the result of local turbulence or wind effects created by the platform structures" and decided to continue with the planned short flight to the West Franklin Wellhead platform situated 3.3 nm to the south. During the subsequent lift off into the hover, normal response to an application of left yaw pedal was reported to have been obtained and after verifying that "all control responses appeared normal", the aircraft was climbed to 500 feet for the transit to destination. In respect of the unexpected yaw experienced during the first attempt at departure from the Elgin PUQ platform, it was noted "anecdotally" that such consequences of low level mechanical turbulence in the vicinity of some offshore platform structures were "not uncommon" in the case of this particular helideck.
+The flight continued uneventfully until it reached the destination. Then "during the descent to land, at approximately 4 feet above the helideck, the helicopter yawed rapidly to the right, reaching a maximum rate of 30 degrees per second" whilst also "rolling 20° to the left, at which point the left main landing gear contacted the helideck". The yaw to the right then continued "on its left main wheels and nose wheels before the right main wheels contacted the surface" and the helicopter came to rest on a north easterly heading having spun through just over 180° from its initial into-wind heading. It was shut down and the crew and passengers disembarked onto the unmanned platform. 
+An initial technical investigation was focused on the tail rotor assembly and "once the panels were removed it was immediately apparent that the tail rotor servo piston was damaged". This component was removed and it was then found that the double row angular contact bearing of the Tail Rotor Pitch Change Shaft (TRPCS) was "in a severely distressed condition" - see the illustration below.
+
+ The recovered TRPCS double row angular contact bearing [reproduced fro the Official Report]
+Further inspection found "signs of severe overheating with extreme wear on the inner and outer thrust races and barrel shaped rollers of the bearing" and that "the roller bearings seized to the inner member". The outer race roller was found to have enough axial play to allow the tail rotor driveshaft to impart a torsional load to the tail rotor servo and it was concluded that this load had caused the primary piston rod to fracture inside the servo. It was further concluded that because of the failure of this rod, "the secondary piston sleeve (had) separated axially from the primary piston adjacent to the link fitting with the consequential total loss of control of the tail rotor".
+Forensic analysis at Sikorsky subsequently indicated that the failure of this TRPCS bearing had been rapid with only 4½ hours between the first recorded HUMS exceedance and the time of failure. Detailed analysis of the HUMS download routinely carried out in the evening of the day prior to the accident showed that an exceedance of the Tail Gearbox Bearing Energy Analysis limit had occurred earlier the same day but noted that  this had not been known prior to the accident and the helicopter had been released to service. 
+It is considered that the evidence available so far suggests that the yaw which occurred on the first attempted departure of the accident flight from the Elgin PUQ was also uncommanded and "may be related to the condition of the TRPCS bearing". It is also noted that in respect of Tail Gearbox Bearing integrity monitoring, the HUMS process used by the Operator requires visual inspection of the data in order to identify exceedances whereas Sikorsky "now offers an alternative analysis system which........includes more advanced algorithms and the automatic alerting of all exceedances on receipt of new HUMS data".
+The Investigation noted two previous events involving "degradation of the TRPCS bearing has occurred leading to reduced tail rotor control in flight", both of which were "identified by the flight crews and resulted in immediate landings". In both these cases, the underlying causes were identified and "safety measures were introduced". It is noted that "at this early stage of the investigation the helicopter manufacturer is not clear whether this bearing degradation is the result of a new root cause or a previously unidentified failure mode".
+On the basis of the initial findings, the Investigation's Conclusion is that the damage within the TRPCS bearing in this case is such that it could have resulted in "extreme or erratic inputs to the tail rotor at any time after the failure of the primary piston" and that "this failure mode would seriously affect the ability of flight crews to maintain control of the helicopter".
+Initial Safety Actions known to the Investigation include the following:
+
+
+ The Operator has introduced a new requirement for the time between HUMS download and the corresponding data analysis to be reduced to a maximum of 5 hours.
+
+ The Helicopter Manufacturer has:
+
+ On 31 December 2016 issued an All Operators Letter (AOL) describing the event and emphasising the importance of frequent use of the 'Tail Gearbox Bearing Energy Tool' during HUMS data analysis since this will detect a TRPCS bearing that is experiencing degradation.   
+
+ On 10 January 2017, issued an Alert Service Bulletin (ASB) for a mandatory one-off inspection of the TRPCS and bearing assembly for ratcheting, binding, or rough turning before the next flight from a maintenance facility with three flight hours allowed in order to return directly to a maintenance facility.
+
+ On 10 January 2017, published a new requirement for Operators to use their S-92 HUMS ground station software to review Tail Rotor Gearbox energy analysis condition indicators for any exceedance of the published alert levels at a reduced flight-hour interval and for any instances of exceedance thereby disclosed to be followed by inspection of the pitch change shaft and bearing.
+
+
+
+On 13 January 2017, the FAA has issued an Emergency Airworthiness Directive (AD) requiring, before further flight, the removal of the TRPCS assembly and the inspection of the bearing. Replacement of the TRPCS assembly is required before further flight, if the bearing does not rotate freely, the bearing sounds rough or chatters, there is any purged grease with metal particle, a nick or dent, or if there is a cut, tear, or distortion in the bearing seal. The Emergency AD also requires, at intervals not to exceed 10 flight hours, inspecting the TRPCS assembly with a borescope and replacing it before further flight if the white Teflon seal or snap ring is missing, or if there is a rip, tear, or heat damage on the seal or if there is no gap in the snap ring
+
+The FAA Emergency AD has been adopted by EASA on 16 January 2017.
+
+
+A Special Bulletin was published by the AAIB on 11 January 2017 to report on initial findings and safety actions. This notes that the ongoing Investigation "will continue to examine all the operational aspects of this accident and conduct a detailed engineering investigation of the relevant helicopter components".
+
+Related Articles
+
+ Health and Usage Monitoring System (HUMS)
+
+ Offshore Helicopter Operations
+
+ Offshore Helicopter Safety Review 2014 UK CAA
+
+
+Further Reading
+
+ Emergency Airworthiness Directive (Emergency AD) 2017-02-51
+
+
+
+
+
+

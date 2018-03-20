@@ -1,0 +1,44 @@
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 12 January 2011, an Airbus A300-600 being operated by Monarch Airlines on a passenger flight from London Gatwick to Chania, Greece experienced activations of the stall protection system after an unintended configuration change shortly after take off but following recovery, the flight continued as intended without further event. There were no abrupt manoeuvres and no injuries to the 347 occupants. 
+
+Investigation
+An Investigation was carried out by the UK AAIB. Useful FDR data was available to inform the Investigation. 
+It was found that after engine start, selection of the slats/flaps lever to obtain the required configuration of the wing for take off had led to the appearance of a system fault. A radio call to the Operator’s engineers had produced the advice that the system might require several resets to clear the fault. This reset process involved tripping and resetting the relevant circuit breakers and then moving the slats/flaps lever to check if the slats operated. Each time, the First Officer operated the slats/flaps as directed by the aircraft commander and the indicated repetition eventually produced the desired position of ‘15/15’ free of an ECAM fault annunciation. It was estimated that the First Officer had cycled the slats/flaps lever between positions ‘0/0’ and ‘15/15’ approximately six times. The possibility of the fault recurring on takeoff and the appropriate response, beginning with the cycling of the slats/flaps lever, was discussed. 
+Take off from Runway 08R with the aircraft commander as PF was uneventful but when he called for gear up, the First Officer moved the slats/flaps lever to 0/0 instead. The PF observed an unexpected primary flight display (PFD) indication of airspeed and initially suspected that there was a problem with the airspeed indication, but after checking his PFD airspeed against the standby ASI and confirming that the aircraft was at the pitch attitude and power setting required by the ‘Unreliable Airspeed’ procedure, he noticed that the landing gear selector was still down and so repeated the gear up call. The First Officer had then advised of the previous inadvertent retraction of the slats/flaps and selected the landing gear up. 
+The stall warning system had activated twice during the subsequent 10 seconds and each time the PF reduced the aircraft pitch attitude in response whilst maintaining a positive rate of climb. The aircraft had accelerated to climb speed and the flight then proceeded to destination without further event.
+FDR data showed that as slats/flaps retraction had commenced, the angle of attack had increased from 5.6º to approximately 8º and, apart from a 3 second period, had remained above 7.5º for the next 18 seconds it took for the retractions to complete. The two recorded stall warning activations occurred during this period with the minimum airspeed at 166 KCAS.   
+The protections relating to operation of the slats/flaps system were reviewed in the light of the aircraft commander’s surprise that it had been possible for the slats to retract completely as “he would have expected the alpha-lock system to prevent slat retraction”. The selectable positions on the lever are 0/0, 15/0, 15/15, 15/20 and 30/40 with the number pairings indicating slat then flap positions. Each lever position has a detent from which the lever must be lifted to initiate a change of position and a blocking baulk is installed at detent 15/0 which prevents any attempt to move the lever straight through this position. The alpha-lock system referred to by the aircraft commander is a slat protection which according to the FCOM was found to state that “if the slats are selected to the 0/0 position while the angle of attack (AOA) is higher than 7.5°, the slat retraction is limited to 15°” and that “the slats will retract when the AOA is below 7.5°”. When asked for comment, Boeing stated that '“If the AOA is lower than 7.5° when the slats/flaps control lever is set to 0/0, the slats will retract and continue to retract even if the AOA becomes higher than 7.5°. The alpha-lock function is designed to prevent slats retraction at high AOA, not to stop retraction when it has started.”
+The Investigation concluded that because of the repetitive action to recycle the slats/flaps lever as a means to restore system function for departure, “the co-pilot had developed and exercised a motor skill to operate the slats/flap lever between 15/15 and 0/0 in one movement. The distraction of the slat problem and the preoccupation with the possibility of a slat malfunction on departure had mentally predisposed him to exercise the wrong motor skill and to retract the slats and flaps despite his intention to operate the landing gear lever.” The effectiveness of the blocking baulk at the intermediate 15/0 lever position was negated by the effect of recent practice in dealing with it.
+The Final Report of the Investigation AAIB Bulletin: 1/2012 EW/G2011/07/24 was published on 12 January 2012. No Safety Recommendations were made.
+
+
+Furher Reading
+
+Loss of Control
+
+Take Off Stall
+
+Human Error Types
+
+Pilot Perception
+
+Pilot Workload
+
+Pilot judgment and expertise (OGHFA BN)
+
+
+
+
+
+

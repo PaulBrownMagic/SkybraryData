@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 10 November 2013, a Fairchild SA227-AC Metro III (C-FFZN) being operated by Bearskin Lake Air Service on a scheduled passenger flight from Sioux Lookout to Red Lake was within sight of and on the extended centreline of runway 26 at its destination after completing a VOR/DME (GNSS) non-precision approach when, with only a few hundred feet of descent to go, it departed from controlled flight and crashed approximately 700 metres south of the runway threshold. A combination of impact damage and a post-crash fire destroyed the aircraft with five occupants killed, one sustaining serious injuries and one minor injuries. Damage caused to overhead power and communications lines severed these services to the airport and the adjacent community.
+
+Investigation
+An Investigation was carried out by the Canadian TSB. The accident aircraft was equipped with an FDR and a 2 hour CVR and both were recovered and their data successfully downloaded. It was noted that the ELT had been destroyed by "impact forces" and no signal had been transmitted from it.
+It was noted that the aircraft Captain, who had been PF for the flight, had 5,150 hours total flying experience which included 3,550 hours on type. The First Officer had 2,200 hours total flying experience which included 1,060 hours on type.
+It was established that the flight had been entirely uneventful until, at approximately 500 feet agl and about 1.4nm from the runway, "the crew noted an aircraft malfunction but did not immediately identify the nature of it". FDR data showed that although the left engine had continued to run, it was providing "little or no power" to its propeller. Maximum power was set on one or both engines and the landing gear was selected up with the intention of commencing a go around with an emergency declared. The attempt to climb "was unsuccessful" and power was reduced and the gear was reselected down before it had reached the up position. The aircraft began to bank left and then, 43 seconds after the left engine had suddenly malfunctioned, power on the right engine had been increased almost to maximum again upon which the aircraft had veered and begun a rolling descent towards trees that its left wing then impacted. It had then continued through the trees and struck overhead cables which had "arrested the aircraft's speed and descent rate and attenuated the force of the impact with the edge of a roadway". The aircraft had then "cartwheeled down a slope", further reducing the force of the impact to those in the rear of the aircraft until it came to rest 56 seconds after the engine failure with the fuselage broken in half ahead of the over wing emergency exits and with the front half of the aircraft already engulfed in fire fed by fuel from the ruptured wing tanks. One of the two passengers who survived thus far was able to open the left emergency over wing exit and "help extract a passenger who was jammed between the seats near the exit row". 
+
+ The edge of the accident site relative to the runway threshold. [Reproduced from the Official Report]
+The aircraft was fitted with Honeywell TPE331 engines which feature an NTS system. It was concluded that the selections of increased power after the left engine had malfunctioned had only produced an increase in the power provided by the right engine and the final increase to near maximum had "exacerbated the aircraft's asymmetric state and resulted in the aircraft rolling left to 41° of bank". At this attitude in landing configuration, the stall speed would have been approximately 98 KIAS. As the airspeed was found to have reduced to very near this, it was concluded that the terminal loss of control was probably the result of a wing stall. Vmca for the accident aircraft, which was likely to have been known to the crew since it is published in their manuals, was lower at 91 KIAS but this is based on the NTS system activating on an inoperative propeller which did not occur and also assumes take off power on the operating engine, a 5° bank towards it, landing gear up and flaps at the ¼ take-off position.   
+It was noted that the crew had never identified the exact nature of the engine malfunction and had therefore not followed the "prescribed action of calling out the associated emergency procedure, which required them to stop and feather the propeller of the affected engine". It was considered that "this may have resulted from a belief that the NTS system would always activate in the event of a power loss and that NTS activation alone would provide adequate anti-drag protection from a windmilling propeller" and noted that if the crew had feathered the left engine propeller, the decrease in the drag compared to that in the un-feathered state would probably have allowed them to maintain control of the aircraft.
+It was found that there was "no specific guidance […] for an engine failure on short final approach" in the aircraft operating procedures and noted that in the case of all in flight engine failures, there was a caution instructing pilots "to keep the power lever well forward to command high propeller blade angle and thereby reduce the windmilling propeller drag in the event that an NTS system failure accompanies an engine failure". It was also found that "the SOPs for a non-precision engine-out approach required the crew to change [re-configure] the aircraft flap and gear positions 3 times during the final stages of the approach" which prompted the Investigation to observe that "frequent configuration changes over a short distance or period of time can lead to confusion as to the configuration state of the aircraft".   
+A detailed spectral analysis of the noise on the CVR attributable to the propellers was used to prove that the onset of the engine failure event was sudden and that the crew would have had no prior warning of it. Examination of the remains of both the engines confirmed that the malfunctioning one as well as the serviceable one had been running at impact. However, it was eventually determined that the first-stage turbine disc had failed because of high-cycle fatigue caused by a combination of "substandard porosity of the turbine blade material which resulted in inadequate fatigue capability and the creation of a favourable location for crack initiation". This crack initiation had been associated with "a minor increase in the mean stress in the blade fir tree region due to blade platform contact" and "stator burn-through which resulted in an uneven vibration on the turbine disc and heat stress on the turbine blades".
+It was considered that failure of a single first-stage turbine blade would on its own  not have caused the engine to lose all its power but this initial failure had caused damage to the remaining blades which would have lowered engine efficiency sufficiently to have "greatly reduced the power output of the engine to drive the propeller".
+A review of documentation relating to the stator burn-through damage found a discrepancy between the manufacturer's engine maintenance and component overhaul manuals. This had led to the failed stator component being removed in the past and found unserviceable according to the engine maintenance manual but then evaluated as serviceable in accordance with the component overhaul manual and re-installed in the accident aircraft's left engine. 
+The Investigation formally documented the following Findings:
+
+
+Causes and Contributory Factors
+
+
+
+ A first-stage turbine wheel blade in the left engine failed due to a combination of metallurgical issues and stator vane burn-through. 
+
+ As a result of the blade failure, the left engine continued to operate but experienced a near-total loss of power at approximately 500 feet above ground level, on final approach to Runway 26 at the Red Lake Airport. 
+
+ The crew were unable to identify the nature of the engine malfunction, which prevented them from taking timely and appropriate action to control the aircraft. 
+
+ The nature of the engine malfunction resulted in the left propeller being at a very low blade angle, which, together with the landing configuration of the aircraft, resulted in the aircraft being in an increasingly high drag and asymmetric state. When the aircraft’s speed reduced below [the airborne] Minimum Control Speed (Vmca), the crew lost control at an altitude from which a recovery was not possible. 
+
+
+
+Risk
+
+
+
+ If pilots believe that the negative torque sensing (NTS) system in the SA227 aircraft will activate in the event of any power loss or that NTS activation alone can provide adequate anti-drag protection in the event of an engine power loss, there is a risk that flight crews operating these aircraft types may not initiate the Engine Failures In Flight checklist in a timely manner. 
+
+ If there is no requirement for a boroscope inspection of the TPE331-11U-612G’s internal engine components in conjunction with the 450-hour fuel nozzle inspection, there is an increased risk that premature internal engine damage will not be detected. 
+
+ If there are discrepancies between the fuel nozzle testing procedures described in the TPE331-11U-612G maintenance manual and the corresponding fuel nozzle overhaul manual, there is a risk that unserviceable fuel nozzles may be evaluated as serviceable and re-installed on aircraft. 
+
+
+
+Other Matters
+
+
+
+ The SA227’s negative torque sensing (NTS) system may not always activate in response to an engine failure. The nature of the engine failure and aircraft profile may affect whether or not NTS activation parameters are reached. 
+
+
+Safety Action during the course of the Investigation and made known to it included the following:
+
+
+ TSB Canada has issued a Safety Advisory on 'Operation of Aircraft with Negative Torque Sensing Systems' which notes that under certain conditions, such as an incomplete engine shutdown or in certain aircraft configurations, the SA227 NTS may not activate and that similar NTS systems are installed on other aircraft types. It also advised that the Investigation found that pilot training manuals might be misleading on this point to the extent that pilots might interpret them to mean that the system would automatically provide full anti-drag protection in the event of an engine failure or power loss and noted that such a misunderstanding might lead to pilots not initiating a response to engine failure in a timely manner. 
+
+ Bearskin Airlines has significantly updated its SA227 single engine procedures including but not limited to making changes to the Single Engine Approach procedures to require that the aircraft configuration remains "clean" until landing is assured and introducing a specific new memory actions QRH Checklist for 'Engine Failure on Approach'. Corresponding modifications to the recurrent and command upgrade pilot training programme on these matters have also been implemented along with the allocation of more ground school time to the NTS System.
+
+ Transport Canada has issued a Safety Alert on the TPE-331 engine NTS System.
+
+ Honeywell is "in the process of drafting an SB” which will increase the frequency of inspection of the fuel nozzles on TPE331-11U-612G engines and the manufacturing process of future turbine blade castings on these engines has been modified in a way that will "reduce or eliminate porosity issues" in turbine blades. 
+
+
+The Final Report was authorised for release on 11 March 2015 and officially released on 14 April 2015. No Safety Recommendations were made. 
+
+Related Articles
+
+Loss of Control
+
+Critical Engine
+
+Negative Torque Sensing (NTS) System
+
+Emergency or Abnormal Situation
+
+SOPs
+
+Drag
+
+Velocity - Minimum Control (air) (Vmca)
+
+Stall
+
+
+
+
+
+

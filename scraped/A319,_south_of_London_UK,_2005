@@ -1,0 +1,200 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 22 October 2005, an Airbus A319-100 being operated by British Airways on a passenger flight from London Heathrow to Budapest experienced the sudden onset of a major electrical failure when passing FL200 in night VMC. The crew recovered the situation sufficiently to decide, after consulting Company Maintenance Control, that it was appropriate to continue to their intended destination. ATC were not informed of the situation encountered. The action taken by the crew after the flight in respect of the failure was ineffective and the Operator remained unaware of the safety and airworthiness significance of it. As a result, the proper reporting action was not taken, thus delaying the start of an Investigation.
+
+Investigation
+The UK AAIB only became aware of the event six days after it had occurred through the UK CAA MOR Scheme. Once the significance of the occurrence had been recognised, an Inspector’s Investigation had been commenced. 
+It was established that the major electrical failure had occurred without prior warning and with AP and A/T engaged and with the aircraft commander acting as PF. It resulted in the loss or degradation of a number of important aircraft systems including, according to the crew, the blanking of the PFDs and NDs at both pilot positions and the upper ECAM display. Uncommanded disconnect of the AP and A/T occurred and it was reported that the No 1 VHF radio and the crew intercom became inoperative and most of the flight deck lighting went out. It was reported that the passenger cabin lighting had gone out “momentarily” and that the emergency lights had come on. There were several other concurrent but more minor failures. 
+The PF had maintained control of the aircraft by reference to the visible night horizon and the standby instruments, although the latter were reported to have been difficult to see in the poor light. The First Officer had actioned the abnormal checklist actions which appeared on the remaining (lower) ECAM display, which was the only EFIS display still functioning. It was reported that most of the affected systems had been restored after approximately 90 seconds, following the selection by the First Officer of the AC Essential Feed switch to ‘Alternate’.
+Two Special Bulletins S2/2005 and S3/2006 were published during the course of the Investigation in November 2005 and April 2006 respectively. 
+After an in depth Investigation of the electrical systems on the aircraft type, the formally-stated Conclusions of the Investigation in respect of the loss of airworthiness were that:
+
+
+ The aircraft suffered the loss of the left electrical network, for reasons which could not be established. A possible explanation is the detection of a false DP2 condition by the No 1 Generator Control Unit, but this could not be confirmed.
+
+
+
+ The loss of the left electrical network caused various systems powered by the left network to either cease operating, or become degraded. These systems included, most notably, the autopilot, the autothrust system, the Captain’s and Co-pilot’s Primary Flight and Navigation Displays, the upper ECAM display, most of the cockpit lighting, including the integral lighting to the instruments and standby instruments, the VHF 1 and VHF 2 radios and the ATC 1 transponder.
+
+
+
+ The majority of the aircraft systems were recovered after approximately 90 seconds, after selection of the AC ESS FEED switch, in accordance with the ECAM procedure. AC BUS 1 was recovered after approximately 135 seconds, by cycling of the No 1 generator switch.
+
+
+
+ This and other similar incidents show that there is at least one unforeseen failure mode on A320 family aircraft, which can cause the simultaneous loss of the captain and co-pilots electronic flight instruments and the upper ECAM display.
+
+
+
+ Aircraft equipped with an electromechanical standby horizon and not provisioned with the ISIS wiring configuration have a single power supply to the standby horizon, from the DC ESS bus. If this incident had occurred to such an aircraft, the standby horizon would have been unpowered and become unusable after approximately five minutes. 
+
+
+
+ The A318/A319/A320/A321 MMEL allows the aircraft to be dispatched with the lower ECAM display inoperative. In this case, it was the only display available and presented the list of actions, which enabled the crew to recover most of the failed systems.
+
+
+
+ Trials showed that in night conditions, there may be insufficient light available to see the standby instruments following the loss of the left electrical network, particularly if the cockpit dome light is off.
+
+
+The formally-stated Conclusions of the Investigation in respect of the response to the occurrence and the organisational context of that response included:
+
+
+ The flight crew had not received any formal training on how to operate A320-family aircraft by sole reference to the standby instruments.
+
+
+
+ The commander did not record the full details of the incident in the aircraft technical log, however he did record this information on the Air Safety Report which he filed.
+
+
+
+ The information contained in the ASR raised by the commander should also have been reflected in the aircraft technical log. The technical log did not contain important details of the incident; as a result it reflected only minor defects which were rectified without appreciation of the importance of the serious incident which had occurred.
+
+
+
+ The faxed copies of the Air Safety Report raised by the commander were not received by the airline’s Flight Operations Safety Department, or the department responsible for entering the incident data on to the electronic safety management database. As a result of this and of the minimal information contained in the Technical Log, the significance of the incident was not fully understood until the original copy of the ASR arrived in the post at London Heathrow.
+
+
+
+ The engineer in Budapest (who was not an employee of the airline), did not investigate the symptoms of the incident which were reported to him verbally by the commander and which were also recorded in the Air Safety Report.
+
+
+Conclusions drawn after analysis of the recorded flight data were as follows:
+
+
+ Airbus found a failure mode by which the co-pilot’s ND and PFD could have been switched from the functional DMC2 to the failed DMC3 whilst leaving the lower ECAM linked to DMC2, however, no link has been found between this failure mode and the failure of power on the aircraft.
+
+
+
+ Because the mechanism by which the power failure on the Captain’s side resulted in the additional loss of the Co-pilot’s instruments is not known, it cannot have been considered when analysing failure modes for compliance with requirements.
+
+
+
+ The system BITE designs have been improved to better capture this type of failure. BITE is not recorded by the FDR. Detailed evidence may be lost in the event of an accident caused by the failures involved in this incident.
+
+
+
+ The display behaviour was not apparent from the recorded data. Only the crew observations revealed the extent of the problem. This evidence may be lost in the event of an accident.
+
+
+
+ A crash-protected image recording of the instruments would have provided more detail to this investigation and provided crucial evidence that may otherwise have been missing had crew observations not been available.
+
+
+It was not possible to determine the origin of the investigated Serious Incident due to a lack of available evidence but upon completion of the Investigation the following Causal Factors were identified:
+
+
+ The aircraft suffered the loss of the left electrical network, resulting in loss of the captain’s PFD and ND, and the upper ECAM display, for reasons which could not be determined.
+
+
+
+ A co-incident failure caused the co-pilot’s Primary Flight Display and Navigation Display to blank or become severely degraded, at the same time as the loss of the left electrical network. The origin of the co-incident failure could not be identified.
+
+
+The following four Safety Recommendations were made during the course of the Investigation and published in April 2006 in Special Bulletin 3/2006:
+
+
+ that the aircraft manufacturer, Airbus, reviews the existing ECAM actions for the A320‑series aircraft, given the possibility of the simultaneous in-flight loss of the commander’s and co‑pilot’s primary flight and navigation displays. They should consider whether the priority of the items displayed on the ECAM should be altered, to enable the displays to be recovered as quickly as possible and subsequently issue operators with a revised procedure if necessary. [2006-051]
+
+
+[It was noted that Airbus had concluded that it would not be acceptable to change the priority of the ECAM action items for a number of (stated) reasons.]
+
+
+ that the aircraft manufacturer, Airbus, should review the A320-series aircraft Master Minimum Equipment List Chapter 31, INDICATING/RECORDING SYSTEMS and reconsider whether it is acceptable to allow the ECAM lower display unit to be unserviceable. They should amend the requirement, as necessary, to take account of the possibility of the simultaneous in-flight loss of both the commander’s and co-pilot’s primary flight and navigation displays and the ECAM upper display. [2006-052]
+
+
+[It was noted that Airbus had subsequently reviewed the content of the A320 series MMEL in respect of dispatch with the lower ECAM display inoperative and updated it to include the condition that an operational test of the AC Essential bus transfer function and indication must be performed once per day if the lower ECAM is inoperative. However, the AAIB noted that the Recommendation had been made “to ensure that the operating crew would always have information presented on ECAM as to the actions required to recover the systems should a similar event occur” which had not been addressed by the Airbus response and were then advised that Airbus proposed to further amend the A320 series MMEL in respect of dispatch with the lower ECAM inoperative “to remind crews of the necessary recovery action should the AC ESS bus, and therefore all DUs be lost”]
+
+
+ that the aircraft manufacturer, Airbus, should identify those aircraft with the single power supply to the standby artificial horizon and advise the operators of the potential implications of this configuration. [2006-053]
+
+
+[It was noted that Airbus had since advised operators that “for aircraft without the ISIS wiring configuration to the standby instruments, the standby horizon may be unusable after five minutes if the DC ESS bus is lost”]
+
+
+ that the aircraft manufacturer, Airbus, revises the information about the power sources for the standby artificial horizon provided in Flight Crew Operating Manuals for the A320-series aircraft to reflect the actual status of the aircraft to which they apply. [2006-054]
+
+
+[It was noted that Airbus had since updated the A320 series FCOM to reflect the different power supply configurations for the standby horizon.]
+Upon completion of the Investigation, nine further Safety Recommendations were made as follows: 
+
+
+ that the European Aviation Safety Authority should, in consultation with other National Airworthiness Authorities outside Europe, consider requiring training for flight by sole reference to standby instruments for pilots during initial and recurrent training courses. [2007-062]
+
+
+
+ that Airbus should introduce a modification for A320 family of aircraft which have the pre-ISIS wiring configuration for the standby instruments, in order to provide a back-up power supply which is independent of the aircraft’s normal electrical power generation systems. [2007-063]
+
+
+[In publishing this Recommendation, it was noted that since the issue of Special Bulletin 3/2006, “Airbus has advised that a modification which provides an automatic reconfiguration of the power supply to the AC ESS bus in the event of AC 1 bus failure had been issued which “largely satisfies the intent of” this Recommendation.]
+
+
+ that the European Aviation Safety Agency should mandate either Airbus Service Bulletin SB A320-24-1120 or the provision of a back-up power supply for the standby horizon which is independent of the aircraft’s normal electrical power generation systems, on A320 family aircraft. [2007-064]
+
+
+
+  that  in order to ensure that the standby instruments on A320 family aircraft remain adequately illuminated following the loss of the left electrical network, Airbus should introduce a modification to provide a power supply for the standby instrument integral lighting which is independent of the aircraft’s normal electrical power generating systems. [2007-065]
+
+
+[In publishing this Recommendation, it was noted that in response to an earlier draft of it Airbus had issued modifications which would ensure provision of a backup supply to the cockpit floodlight above the standby instruments].
+
+
+ that the European Aviation Safety Agency should mandate the provision of a power supply for the standby instrument integral lighting which is independent of the aircraft’s normal electrical power generating systems, on A320 family aircraft. [2007-066]
+
+
+
+ that Airbus should conduct a study into the feasibility of automating the reconfiguration of the power supply to the AC Essential bus, in order to reduce the time taken to recover important aircraft systems on A320 family aircraft following the loss of the left electrical network. [2007-067]
+
+
+[In publishing this Recommendation, it was noted that in response to an earlier draft of it, Airbus had issued a modification to provide automatic reconfiguration of the power supply to the AC ESS Bus in the event of AC BUS 1 failure.]
+
+
+ that Airbus, in conjunction with the Generator Control Unit (GCU) manufacturer Hamilton Sundstrand, should modify the A320 family GCUs to provide the capability to record intermittent faults and to reduce their susceptibility to false differential protection trips. [2007-069]
+
+
+
+ that the International Civil Aviation Organisation should expedite the introduction of a standard for flight deck image recording, and should encourage member states to provide legal protection, similar to that for cockpit voice recordings, for such image recordings. [2007-070]
+
+
+
+that British Airways should review the advice given to flight crew concerning aircraft Technical Log entries, where an Air Safety Report (ASR) is also raised, to ensure that the aircraft Technical Log fully records the details of serious incidents and to ensure, as far as possible, that ASRs are received by the Flight Operations Safety Department in a timely a manner, irrespective of where the ASR is raised. [2007-071]
+
+
+The Final Report of the Investigation was published on 17 January 2008.
+
+
+Further Reading
+
+Aircraft Electrical Systems
+
+Electrical Problems: Guidance for Controllers
+
+Airworthiness
+
+Defect Assessment
+
+Mandatory Occurrence Reporting
+
+Safety Occurrence Reporting
+
+
+
+
+
+

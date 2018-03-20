@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 10 January 2011, an Airbus A300-600 being operated by Air Atlanta Icelandic on a scheduled cargo flight from Belfast Aldergrove to East Midlands made a bounced touchdown on runway 09 at destination after a final approach in night VMC followed by a go around which was conducted with considerable difficulty in establishing a climb and involved the shutting down of the right hand engine because of abnormal thrust reverser indications. To obtain the benefit of an into wind runway for the subsequent single engine landing, a diversion to London Stansted was made without further event. None of the three occupants were injured but tail strike damage to the fuselage was discovered after landing.
+
+Investigation
+A Field Investigation was carried out by the UK AAIB. FDR, CVR and QAR downloads were taken but only the FDR contained useable data due to pre-existing hard faults with the other two units. It was note that “the absence of a functional CVR undermined the AAIB’s ability to determine crew actions” during the incident. Maintenance intervention by the operator engineer who had been travelling as a passenger in the cabin on the flight after arrival in Stansted prior to the arrival of the AAIB inspectors in respect of the No 2 engine thrust reverser system was also noted to have resulted in the loss of valuable evidence and hampered the conduct of the Investigation.
+It was established that the aircraft commander had been PF and that the ILS approach to runway 09 had been conducted normally in the presence of a significant but not limiting crosswind. An initial light touchdown in the vicinity of the intended speed was followed by a bounce to a heavier touchdown which recorded 1.8g and was followed by another bounce. The aircraft commander decided to attempt a go around and set full thrust. Difficulty in achieving acceleration was reported. 
+Although neither pilot recollected such action, it was found that the thrust reversers had been deployed almost immediately after touchdown, but after the main landing gear had been on the ground for only around 2 seconds, and with the thrust reverses still in transit, full thrust had been selected and the aircraft pitch had changed from 5º to 12.5º. The aircraft had become airborne again at a speed which was 8 knots below Vref and with No. 2 engine remaining at Idle. Recorded data showed that the pitch angle above which a gear compressed tailstrike is likely - 11.2º - had been exceeded for 2 seconds as the aircraft was pitched up to initiate the go around.     
+Once the pitch attitude was reduced, the aircraft began to climb slowly. The flaps were retracted one setting 7 seconds after take off and the gear was selected up 12 seconds after take off. The aircraft gained 92 feet in the first 13 seconds with the speed remaining below Vref and eventually exceeding Vref four seconds later. At this point, the aircraft was still only 100 feet aal and climbing at around 300 fpm. Level acceleration at approximately 200 feet aal allowed the speed to increase to 160 knots after which the rate of climb increased significantly. 11 minutes after take off, the no 2 engine was shut down.
+It was noted by the Investigation that “the absence of high ground in the path of the aircraft was fortuitous, given the aircraft’s severely compromised performance.”
+FDR data showed that “both thrust reversers became unlocked in response to the reverse thrust command (but) neither thrust reverser had time to deploy fully prior to thrust levers being advanced to the takeoff position.” It was considered that as the deploy stroke typically takes 2.5 seconds, it was likely that full forward thrust lever command occurred within this 2.5 second window while the reverser sleeves were still in transit towards the deploy position. 
+It was found that:
+“the decision to go around resulted in the aircraft becoming airborne in a high drag configuration at an airspeed (below Vref and that) whilst full power had been commanded on both engines, only the No 1 engine was providing full thrust. The No 2 engine thrust reverser remained unlocked with FADEC limiting power to idle. Whilst the rotation speed was above Vmca, it was considerably below the certified rotation speed required of 144 kt, and would have resulted in reduced control effectiveness. The higher angle of attack associated with the aircraft’s low speed would have increased the aerodynamic drag, further compromising the aircraft’s acceleration and climb performance, which were marginal. This was evidenced by the air traffic controller’s observations of the aircraft’s low rate of climb while rocking from side to side, the crew’s observation that the aircraft was slow to accelerate, and the recorded data.”
+Guidance in the FCOM in respect of rejected landing decisions post touchdown and the relationship of these to thrust reverser deployment and stowage was examined by the Investigation. It was concluded that guidance was not fully consistent with the need for clarity and the following FCOM content from section 2 was quoted in support of this:
+
+
+ the thrust reverser levers should be pulled to select idle reverse “immediately after touch down of main landing gear”.  
+
+ after reverse thrust is initiated a full-stop landing must be performed. 
+
+ thrust reverser levers must not be moved towards the stowed position while the reversers are in transit as this may cause damage to the system.
+
+ in cases of high bounce (more than 5 ft) a go-around should be initiated with the specific further warning that a landing should not be attempted after a high bounce as the remaining runway may not be sufficient to allow the aircraft to stop.
+
+
+The Investigation noted the existence of an Airbus Flight Operations Briefing Note (FOBN) on the subject of bounce recovery and rejected landings Airbus FOBN: Landing Techniques Bounce Recovery - Rejected Landing which, although not formally made available to crews by the operator “had been freely available online”. It was observed that this Note “emphasises that after thrust reversers have been selected the aircraft is committed to a full-stop landing” and further states that “thrust asymmetry resulting from one thrust reverser failing to restow have led to instances of significantly reduced rates of climb or departure from controlled flight”. The Investigation was told by the First Officer that he had seen the relevant Briefing Note, although not recently, whilst the aircraft commander stated that he had not been aware of its existence. The Operator has since provided a copy of this FOBN to all it’s A300 pilots.
+During post-incident engine ground runs, both thrust reversers were found to deploy and stow correctly and the appropriate system status indications were annunciated, but the No 2 engine thrust did not increase above reverse idle when commanded. Subsequently, inspection of the auto-restow circuit wiring and the associated electrical connectors disclosed a loose wire in the thrust reverser junction box which would have had the effect of intermittently interrupting a necessary electrical signal during the reverser stowing operation. It was noted that “the auto-restow circuit is designed not only to ensure the stowing of the thrust reversers during normal operation, but also in the case of an in flight thrust reverser deployment”. Loss of signal as a result of this loose wire following the mid-stroke reverser stow command made by the crew as the go around decision was made was  “considered the most likely reason for the No 2 thrust reverser stopping in the mid-stroke position”. It was noted that there was no relevant Trouble Shooting Manual task to aid the identification of such a fault.
+It was noted that crew awareness of an in-flight thrust reverser deployment is achieved by the activation of a Master Caution and specific ECAM messages which are, by design, inhibited until the aircraft exceeds 400 feet agl. However, in this case it was established that the thrust reverser on the no. 2 engine had failed to stow properly after the change of status signal was received whilst it was still deploying and this had (correctly) caused the thrust lever of the engine to be set to idle automatically by the FADEC thrust limiting function. It was noted that without the system protection afforded by a correctly functioning FADEC in limiting the No 2 engine thrust to idle, the effect of some of the aircraft commander’s subsequent actions upon recognising the problems with the No 2 engine thrust reverser system following the establishment of a safe rate of climb would have been significant.
+The Conclusions of the Investigation were that:
+“This incident highlights the potentially serious consequences of attempting to go around after selection of reverse thrust. In this instance the failure of the No 2 thrust reverser to restow was most likely caused by a latent intermittent loose connection in the auto-restow circuit. However, even in the absence of this particular failure, the FCOM advises damage to the thrust reverser with equally significant consequences may still occur as a result of stow command being made while the reversers are in transit. The Investigation identified a number of other anomalies with thrust reverser components, which may have contributed, either in isolation or combination, to the failure of the No 2 thrust reverser to restow. This event also highlights the need for the operational procedures for use of thrust reversers and for performing a go-around to be unambiguous. Furthermore, it illustrates the value of conducting annual downloads of CVRs in identifying dormant failures in these units, which have the potential to compromise the quality of safety investigations.”
+The intention of Airbus to revise the FCOM to remove any ambivalence in the advice covering bouncing during landing by re-emphasising the need, under all circumstances, to complete a full stop landing if reverse thrust has been selected in the June 2012 revision was noted.
+In respect of CVR unserviceability, the intention of EASA to bring EU-OPS into line with the more stringent operational requirements of current ICAO and ED112 MOPS was noted.   
+The Final Report of the Investigation AAIB Bulletin: 5/2012 EW/C2011/01/03 was published on 10 May 2012.
+
+Further Reading
+
+ Loss of Control
+
+ Go-around from Low Airspeed/Low Thrust
+
+ Flying a Manual Go-around
+
+ Pilot Workload
+
+ Loss of Control and In-Flight Upset After Loss of Engine Power (OGHFA SE)
+
+
+
+
+
+

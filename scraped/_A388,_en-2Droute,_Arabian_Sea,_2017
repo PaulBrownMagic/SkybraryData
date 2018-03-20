@@ -1,0 +1,56 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 7 January 2017, the crew of a German-operated Bombardier CL604 Challenger en route from Malé, Maldive Islands to Abu Dhabi (Al-Bateen), UAE at FL340 in day VMC suddenly lost roll and pitch control of their aircraft shortly after an opposite direction Airbus A380-800 at FL 350 and en route from Dubai to Sydney had passed 1,000 feet above. Recovery was only achieved after an upset which included a loss of altitude of almost 9,000 feet in about half a minute during which time the left engine was shut down due to over-temperature. An emergency was subsequently declared and a diversion made to Muscat without further event. Two of the six passengers were seriously injured and two others and the cabin attendant sustained minor injuries. The aircraft was subsequently found to have been severely damaged during the upset and consequently a hull loss.   
+
+Investigation
+Since the accident occurred over international waters and the Challenger was German registered, the German BFU as the agency of the State of Registration commenced an Investigation once it became aware of the occurrence. The FDR and 2 hour CVR installed on the Challenger were successfully downloaded but the CVR data did not cover the event under investigation as the post-event diversion had taken 2 hours. By the time they were requested, relevant data from the A380 FDR, CVR and QAR were no longer available but relevant data from the DAR, which is used by Emirates for their OFDM programme and records over 1,000 parameters, was obtained via the UAE GCAA. The TCAS and EGPWS from the Challenger were also seized in order to access potentially relevant data recorded on the NVM of  both units. Recorded data from the Challenger's Maintenance Diagnostic Computer (MDC) was also made available to the Investigation. There is no radar coverage over large areas of the Arabian Sea but it was possible to determine the flight paths of the two aircraft using their recorded flight data. 
+It was noted that both pilots of the Challenger were German Licence holders. The 39 year-old Captain was PF for the accident flight and had been employed by the aircraft operator since 2012. He had 5,334 hours total flying experience which included about 4,564 hours on type. The 41 year-old First Officer, who had been employed by the aircraft operator for just over a year, had about 1,554 total flying hours which included 912 hours in type.
+It was established that the Challenger had been level in the cruise at FL 340 in day VMC and in contact with Mumbai ACC on HF with the AP engaged when the crew noticed the A380 traffic on their TCAS display passing in the opposite direction a thousand feet above and tracking very slightly to their right. Forty-seven seconds later, the aircraft FDR data showed that as the aircraft began to roll slightly to the right, a counter-rotating aileron deflection was recorded and fluctuation of the vertical acceleration rate began. Over the next 10 seconds or so, the aircraft maintained a bank to the right bank of between 4° and 6°. This bank angle then suddenly increased and within a second it reached 42° to the right as the aileron deflection to the left increased to 20° and the vertical acceleration reached -3.2 g. One second later, a lateral acceleration of 0.45 g to the right was recorded and the pitch angle changed from about 3° to about 1° before almost immediately increasing to 9° and then just as rapidly changing to -20°. At the same time, the FDR recorded a rudder deflection to the left which reached 11.2° as the bank angle changed from 42° right to 31° left. Over the next 5 seconds, the airspeed dropped from 277 KCAS to 248 KCAS and the left engine N1 began a un-commanded decrease from 95% N1. Several rapid rotations of the aircraft occurred and the IRS parameter values became invalid, the lateral acceleration reached 0.94g to the left, the AP disengaged and a 7 second Master Warning was annunciated. A loss of altitude began which continued for half a minute and totalled approximately 8,700 feet and was accompanied by "large control surface deflections and acceleration". During this descent, the airspeed quickly increased, reaching approximately 330 KIAS as the spoilers were extended. The spoilers were stowed after 13 seconds by which time the left engine N1 had decreased to approximately 40%. The left engine ITT then began to increase reaching 850° C within nine seconds, at which point that engine was shut down. The maximum recorded ITT was 1097° C.  
+
+ A reconstruction of the Challenger's track from FDR data. [Reproduced from the Official Report]
+Control of the aircraft was regained and level flight resumed at FL 230. Once the dual IRS had been restored and the aircraft position and heading manually entered, it was decided to divert to Muscat. With the left engine still shut down, the Captain declared an emergency to Mumbai ACC, advising their new altitude and that they would be diverting to Muscat and Mumbai advised Muscat of this intention. A cross bleed start was then successfully used to restart the left engine and the rest of the diversion was without further event. Mumbai advised Muscat of the intended diversion and a landing there was made just under two hours later.
+The Cabin Attendant stated that at the time the upset occurred, she had been standing in the middle of the cabin preparing the service and that four of the six passengers had also not been seated. She believed that the aircraft had rolled around its longitudinal axis three times, "during which the occupants had been thrown against the ceiling and the seats". Damage occurred to the cabin - see the illustration below.
+
+ Damage to the cabin looking aft. [Reproduced from the Official Report]
+According to data from the A380 DAR, the upper wind in the vicinity of the point where the upset began was from around 315° at a mean speed of about 23 knots with the SAT recorded as -44° C 
+The Investigation noted that the airspace where the accident occurred was RVSM airspace between FL 290 and FL 410 but that SLOP was not permitted on L894 within the Mumbai FIR, although it was on 17 other routes in that FIR. The 'Safety Case' produced on A380 Wake Turbulence risk in 2006 was also noted, in particular the finding that "during the cruise, wake vortices from B744, A346 and A388 aircraft can descend more than 1,000 feet".
+An Interim Report was published in May 2017.  
+
+Related Articles
+
+Loss of Control
+
+Wake Vortex Turbulence
+
+En-route Wake Vortex Hazard
+
+Wake Vortex Propagation and Decay
+
+Recovery from Wake Vortex Encounter
+
+Reduced Vertical Separation Minima (RVSM)
+
+Strategic Lateral Offset
+
+Recovery from Unusual Aircraft Attitudes
+
+
+
+
+
+

@@ -1,0 +1,110 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+3 Related Articles
+4 Further Reading
+
+
+Description
+On 2 October 2015, a USAF C130J-30 Hercules (Tail Number 08-3174) being operated on a multi leg scheduled contingency airlift mission pre-assessed as 'low risk' and departing Jalalabad for Bagram adopted an increasingly steep climb angle after becoming airborne at night in VMC. After reaching approximately 700 feet agl, it stalled and descended rapidly, impacting terrain within the aerodrome at a high rate of descent after just 28 seconds airborne. The aircraft was completely destroyed and all 11 occupants were killed as were 3 Afghan military personnel in an aerodrome guard tower which was hit by the aircraft. 
+
+Investigation
+An Investigation was carried out by a USAF Accident Investigation Board (AIB) established for the purpose. The DFDR and CVR were recovered and their data was used to inform the Investigation.
+It was noted that the accident aircraft had been operated within the USAF Air Mobility Command (AMC) by the 39th Airlift Squadron which, whilst operating in Afghanistan was assigned to the 455th Air Expeditionary Wing (AEW) and operated from Bagram as part of the 774th Expeditionary Air Squadron (EAS).
+The Pilot acting as aircraft commander had a total of 943 hours on type and was considered by his Squadron leadership to be a "top aircraft commander" and projected to become an Instructor Pilot. The Co-Pilot had a total of 338 hours on type and was "on track for upgrade to aircraft commander". Also on board as crew members were 2 Loadmasters. In addition, two security personnel and five contractors were on board as passengers. 
+After arrival from Bagram after the previous flight, it was found that cargo loading had taken place under the provisions applicable to 'Engine Running Onload/Offload Operations' (ERO). During the offloading of cargo via the rear ramp, it was found that one of the Loadmasters had asked the Pilot to "raise the elevator to provide more clearance for offloading the high-profile (tall) cargo". This "was not considered an unusual request by the Pilot" and he complied.  It was found that after six minutes during which there were changes in the elevator deflection showing that the Pilot was holding the control column back to maintain the elevator position between + 6º and +13º, the elevator position momentarily increased to +20º before settling to a steady position of between +6º and +8º deflection. This change was followed immediately by the Pilot telling the Co-Pilot that his Night Vision Goggles (NVG) case was holding the elevator. Thereafter, for the remaining 50 minutes of ground operations, both pilots continued to perform normal duties in preparation for their next flight. It was noted that the natural resting position of the elevator during ground loading operations was at approximately -15º deflection. The difference between the elevator positions is shown below. 
+
+ The normal elevator position on the ground [reproduced from the Official Report]
+ The elevator position with the control column held forward [reproduced from the Official Report]
+Onload of five shipping containers on pallets subsequently occurred and both pallet build and securing within the aircraft was independently checked. The CVR record showed that the location of the NVG case was not discussed at any time after the initial placement remark and both IR Video of the aircraft during ERO (see below) and DFDR evidence showed that "the elevator remained in its raised position until the takeoff roll".
+
+ An IR image showing the elevator in the up position during ERO [reproduced from the Official Report]
+The Investigation found that "the blocking of flight controls during loading operations was a nonstandard procedure and there was no regulatory guidance to accompany the proper placement and removal of an object blocking the controls". In particular, "the ERO checklist did not include a step requiring the pilots to check the flight controls prior to departure" so it was therefore "incumbent on both pilots to remember to remove the hard-shell NVG case". The Investigation "could not determine whether a flight control check would have alerted the pilots to the hard-shell NVG case (position)".
+The aircraft taxied for departure from runway 31 and both pilots, with the Co-Pilot as PF, wore their NVGs for take off. A maximum effort (AMAX) take off procedure, which it had additionally appeared to possibly be necessary, had been confirmed by the Pilot even though he had acknowledged once the final load was known that additional runway distance - calculated by the Investigation as sufficient to carry out a normal take off - would be available. The Investigation noted that "current guidance only allows a Co-Pilot to perform a maximum effort take off from the right seat under the supervision of a qualified instructor pilot (IP) in the left seat" and that the Pilot of the accident aircraft was not so qualified. 
+It was noted that there had been no elevator movement prior to the take off. As speed built up, rotation occurred "prematurely" and the aircraft became airborne at 3.5 knots below the expected/calculated figure of 111 knots as the "Rotate" call was made. The Pilot then said "you're a little early" and the PF responded that the aircraft was "going off on its own". Almost immediately he then recognised a pitch control problem which he announced as a trim failure as the aircraft reached its top speed of 117 knots. As the application of full nose down trim was achieved, the first of three stall warnings occurred 11 seconds after take off with the aircraft in excess of 20º nose up. The aircraft stalled almost immediately and "except for a brief period just prior to impact, remained stalled throughout the remainder of the flight". Stick Pusher activation was ineffective due to the prevention of forward column movement by the NVG case and although the Pilot took control and "directed the Co-Pilot to select emergency trim, an alternate to the normal trim system", DFDR data showed that "the trim system had functioned properly in the normal position and […] switching to emergency trim had no additional effect".
+Control was not regained and 25 seconds after take off, with the aircraft descending at 8000 fpm, the Pilot transmitted to TWR “we’re going down” three consecutive times. Shortly afterwards, the aircraft impacted "the terrain, a perimeter wall to the right of the runway and a guard tower" with a force estimated as between 40g and upwards of 97g and exploded. A post crash fire followed.
+Having found no evidence that the aircraft was not airworthy in any material respect and established that it had been correctly loaded in terms of both load security and C of G, the remainder of the Investigation focused on an analysis of potentially relevant human factors. This was based on version 7 of HFACS as per standard use in US Department of Defence (DoD) Investigations and identified the following six pertinent factors:
+
+
+ Inadequate Real-Time Assessment - the risk of placing the NVG case behind the control column to hold it rearward during ERO was not adequately evaluated. 
+
+ Distraction - the other operational activities being carried out by both pilots during the 50 minutes of ERO following the placement of the NVG case led to it not being mentioned again.
+
+ Wrong choice of action during an operation - the rapid identification of an elevator trim malfunction as the cause of the abnormal pitch experienced was incorrect.  
+
+ Environmental Conditions Affecting Vision - taken together, night operations, the use of NVGs and reliance on the HUD in conjunction with the ACAWS (Advisory, Caution and Warning System) would have resulted in the NVG case behind the left side control column being inconspicuous to both pilots. 
+
+ Inaccurate Expectation - had the Co-Pilot performed (the feasible) normal take off in accordance with prescribed procedures, the speed on becoming airborne would have been 122 knots and if the aircraft had then lifted off at 107.5 knots as it did, this "may have provided a more pronounced alert of the problem" and allowed the pilots to reject the take off. The "inaccurate expectation of the Pilot” that an AMAX take off was required had "led indirectly to an unnecessary AMAX take off."
+
+ Fixation - during the 5 seconds between the Co-Pilot realising "something was wrong" and the first stall warning, both pilots "focused their attention on a trim failure problem (and) neither verbalized a different flight control problem nor attempted to reduce power to control the increasing aircraft pitch".
+
+
+These Human Factors were used as the basis for the formally-stated Conclusion of the Investigation as follows. 
+In respect of Causes the accident was attributed to:
+
+
+ the MP’s placement of the hard-shell NVG case in front of the (control column) blocking forward movement of the flight controls
+
+ the distractions experienced by the Pilot and Co-Pilot during the course of the (turnround) ERO
+
+ the mis-identification of the malfunction once airborne.
+
+
+In respect of Substantial Contributory Factors, the following were identified:
+
+
+ environmental conditions
+
+ inaccurate expectations 
+
+ fixation 
+
+
+The Final Report of the Investigation was completed on 10 February 2016, approved on 14 February 2016 and subsequently made publically available.
+
+Related Articles
+
+Situational Awareness
+
+Cross-checking Process
+
+Loss of Control
+
+Stall
+
+Flight Controls
+
+The Human Factors "Dirty Dozen"
+
+Interruption or Distraction
+
+Prioritisation for Pilots
+
+Decision Making
+
+A332 MRTT, en-route, south eastern Black Sea, 2014
+
+
+Further Reading
+
+Air Force Instruction (AFI) 51-503: Aerospace and Ground Accident Investigations, US Air Force, April 2015.
+
+
+
+
+
+

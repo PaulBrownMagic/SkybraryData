@@ -1,0 +1,152 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 15 April 2002, a Boeing 767-200ER (B2552) being operated by Air China on a scheduled international passenger flight from Beijing to Busan as CCA 129 with an augmented crew and making a circling approach to runway 18R at its destination in day IMC failed to complete the turn onto final approach. It was subsequently found to have impacted terrain 2.5nm to the north of the landing runway and been completely destroyed by the impact and post crash fire. 129 of the 166 occupants were killed and the 37 who survived were all seriously injured. Busan Airport was the civil transport element of Gimhae Air Force Base and ATS was a military responsibility.
+
+ Air China 129: site of forest damage [taken from official report]
+Investigation
+An Investigation was carried out by the Korean Aviation Accident Investigation Board. The SSFDR and the CVR were recovered and their data successfully downloaded and cross-referenced. Some useful data were also recovered from component NVM media, although in some cases, potentially useful data had been lost due to fire damage to host components. Hard evidence collected and reviewed during the initial stages of the Investigation was sufficient to be able to eliminate both airworthiness and aircraft loading as factors leading to the accident. In particular, data in the NVM of the two Engine Electronic Controllers (EECs) confirmed that the engines had operated normally.
+There were three pilots on the flight deck. The 30 year-old Captain, who had been PF for the flight had joined Air China as a 767 co-pilot in 1994 on completing his pilot training and had been promoted to command 7 months prior to the accident. He had accumulated 6497 total flying hours including 6287 hours on the 767 of which 500 hours had been in command. The 29 year-old First Officer had joined Air China in 1993 and had completed upgrade training to First Officer three months prior to the accident. He had accumulated 5295 total flying hours including 1215 hours on type and the accident flight was his third as a First Officer. The 27 year-old Second Officer had joined Air China in 1997 on completing his pilot training and had accumulated 1775 total flying hours of which included 1078 hours were on type.
+It was established that as the flight approached its destination, the Second Officer who was occupying one of the flight deck supernumerary seats would be taking responsibility for radio communications. When just over 30 nm north west of the airport at 17000 feet QNH, the flight checked in with Gimhae APP and was given a southerly radar heading and cleared to descend to 6000 feet and was informed that runway 36L was in use and that a straight-in approach could be expected. The controller then asked what the aircraft's "approach category" was and having been so informed by the First Officer, the Second Officer advised that it was  “Charlie” upon which the APP controller responded that the arrival would now be a circling approach to runway 18R. On receiving acknowledgment of this change, the controller queried whether the aircraft's approach category was 'Charlie' or 'Delta' and having been so informed by the Captain, the Second Officer confirmed "Category Charlie".
+The Captain and First Officer spent the next two minutes discussing the visual manoeuvring involved in the circling approach and noting the applicable MDA as 700 feet. The Captain was recorded as saying “We won’t enlarge the traffic pattern, the mountain is all over that side” and subsequently remarked that it was now raining and that they had not received any information on rain. Descent to 2600 feet was given with some adjustments to the radar heading which the Captain noted were taking them towards the rainy area. Flaps 1 and then 5 were selected as the speed was reduced and the Captain was recorded as saying "the wind is so strong". A closing radar heading for the ILS LOC was then given along with clearance for the ILS DME runway 36L and a circle to land 18R.
+As the ILS was captured, the Captain was recorded as saying "do we have to maintain this altitude?" to which the First Officer replied "do not maintain, continue down to 700 feet" and queried if the Captain would like the gear down, which the Captain agreed to and asked for flaps 20 as well. With the aircraft at 2200 feet, the APP controller instructed the flight to descend to 700 feet. The First Officer had previously remarked that the (tail) wind on the ILS was strong and at this point, it was found from FDR data that the tailwind component had been 47 knots.
+Having been asked by the controller to report the runway in sight, the Captain stated passing about 1000 feet that he had it in sight and the Second Officer advised the controller accordingly. The APP controller instructed the flight to contact TWR and "circle west" to which the Second Officer replied with “Circle, circle, 18 right, Air China 129” omitting the frequency change instruction and the "circle west" guidance without challenge from the controller - and did not then check in on the TWR frequency. The Captain stated "disconnect, turn left” and the First officer said, “I have control, heading select” and thereafter disconnected the AP and began to fly manually, commencing the left turn towards downwind at 700 feet (see the illustration of the aircraft track below) The Captain then followed this by saying “OK, maintain 700 feet, watching the altitude.” 
+
+ The FDR track annotated with flight deck internal communications and RTF exchanges. Note that the positions marked 'LA' were those at which MSAW activation was likely to have generated a visual alert on the APP radar monitor.  [Reproduced from the Official Report]
+As the aircraft diverged from the ILS, it was at 158 KCAS and subject to a 24 knot tail wind component. A 'Glide Slope' alert prompted the First Officer to ask for the ILS to be turned off and soon after this the Captain said "keep watching the runway”. The First Officer made the right turn onto the downwind leg as the aircraft passed the mid point of the runway and sixteen seconds later, he called abeam the end of the runway and the Captain announced "timing", by which he intended to prompt commencement of the turn onto base leg after 20 seconds. After 11 seconds had elapsed and the Second Officer was checking in with TWR (a 90 second delay), the First Officer was recorded as saying "the wind is too strong, it is very difficult to fly" and the Captain took control and said "turning right" but when he did not immediately do so, possibly because he could not see the runway, the First Officer had said "turn quickly, not too late". Shortly after this, TWR issued a landing clearance qualified by the (procedurally required) addition of "not in sight", initially adding 36L and then correcting it to 18R. 
+The Captain asked the First Officer to "reduce speed" but it was a further 17 seconds after the First Officer's "turn quickly" remark before he even began the right turn and a further 13 seconds after that when he asked the First Officer to "assist me to find the runway". The First Officer's responses to this request were limited to "pay attention to the altitude" (he had probably already lost sight of the runway). As the aircraft reached its furthest distance from the runway on base leg during the turn inbound, the Captain asked the First Officer if he had the runway in sight and was told by the First Officer that he "could not see out". The First Officer immediately followed this with "must go around" and three seconds after that, he called out "Pull Up!" Pull Up!". The aircraft pitch increased to +11.4° but there was no concurrent increase in thrust and initial contact with terrain at 670 feet began two seconds later as the aircraft reached the extended runway centreline. The aircraft was equipped with a serviceable GPWS but no alerts were activated at any point during circling. 
+The Investigation noted that at the time of the accident, the definition of the area within which circling by Category 'C' aircraft had to be accomplished and thus the calculation of the applicable MDA was, under the FAA TERPS system on which the Busan procedure was based, within 1.7 nm of the runway. The TERPS area for Category 'D' aircraft was defined as within 2.3 nm of the runway. It was also found that there were no international procedures or regulations requiring aircraft operators to notify airports in advance of the approach category of their aircraft and local records of such information were "both incomplete and unreliable". This meant that controllers had to ask the crews of inbound aircraft for their approach category as happened prior to this accident. It was also noted that all circling procedures not only require that aircraft remain within the aircraft category-based circling area but that if visual contact with the runway and its environment are lost, a go-around must be initiated immediately. In the case of the procedure as flown by the accident aircraft, it was noted that the crew had declared their aircraft as Category 'C' and had used the Jeppesen MDA for that category of 700 feet.
+
+
+Editors Note: 
+
+Boeing list the 767-200 as aircraft category 'C' but the 767-200ER (the accident aircraft) as aircraft category 'D', the same as the 767-300 for which the Jeppesen chart gave an MDA of 1100 feet. The aircraft track took it outside both Category 'C' and 'D' circling areas (see the illustration above) but the crew had no access to a Busan-specific circling procedure chart or any other chart showing these areas or proximate terrain at an appropriate level of detail.  
+
+
+The Investigation attributed the accident primarily to the failure of the Captain to immediately initiate a go around when sight of the runway and its environment was lost downwind. However, it considered a range of factors which together were considered to have provided the context for the accident. These included:
+
+
+ The Weather Conditions and their observation/measurement
+
+
+Approximately 20 minutes prior to the accident, the airport weather was reported as SCT at 500 feet, BKN at 1000 feet and OVC at 2500 feet in -DZ with visibility 3200 metres. The south westerly surface wind at this time had been recorded as mean speed 7 knots, but when this increased to12 knots, the runway in use was changed to 18R. The recorded weather conditions were still above the weather minima for the circling approach by category 'C' aircraft - visibility had increased slightly to 4000 metres - but remained below those required for category 'D' aircraft. It was noted that the controller had not been able to keep the aircraft in sight as it progressed downwind and considered that the crew would also have been unable to see the runway and its environment as they continued downwind and onto based leg. It also became clear that it was not possible to visually assess weather conditions within the circling area from the roof of the Weather Office due to obstructions and a walk to an alternative position some distance away would have been required for that purpose.  
+
+
+ The Conduct of the Circling Procedure
+
+
+The  Circling Approach to runway 18R was generic procedure without a prescribed and charted track based on ground visual references/signage and/or obstruction and runway lead-in lights. The only related supplementary lighting was a line of six "circling guidance lights" which were located immediately to the west of and parallel to the first 600 metres of runway 18R. The absence of any other specific guidance meant that the approach at Busan required particularly "close coordination among the flight crew" especially but not only in marginal weather conditions such as those which prevailed when the visual circling manoeuvre commenced. But the late change to this approach meant that the opportunity to complete a crew briefing was time-limited. In the presence of a significant tailwind component, the First Officer's initial turn left from the ILS LOC was delayed and when made was too gentle. The result was that the aircraft arrived on the downwind leg late and the 20 second timing for the base turn from abeam the runway landing threshold had to begin soon afterwards. On downwind, the aircraft was flown at almost 160 KCAS compared to the maximum for a category 'C' aircraft of 140 knots. This and the 20 knot tailwind component would have combined to take the aircraft too far downwind even if the base turn had been commenced at 20 seconds - which it was not. The available evidence suggests that although the ground below the aircraft may have been visible, meaningful forward visibility had probably ceased soon after the 20 second timing started. The absence of any proactive intervention by either the First or Second Officers as soon as sight of the runway or required forward visibility had been lost was considered significant - and had been contrary to Air China SOPs. It was considered that the fact that the downwind track had been flown closer to the runway than it might normally have been would have hindered the ability of even the right seat pilot to retain sight of the runway as the circuit proceeded if the weather conditions had allowed and certainly that had the turn onto final approach been completed, an overshoot of the extended runway centreline would have occurred.  
+
+
+ Situational Awareness
+
+
+The Investigation considered that the whole flight crew had "lost situational awareness of the danger posed by obstacles, etc. as they transitioned from the ILS approach to the circling approach after reporting the airport in sight" and noted this "can be due to a failure to attend to and perceive the information that is necessary for people to understand a given situation". It was concluded that this had been "precipitated by the lack of a proper approach briefing when the runway was changed from 36L to 18R". As the circling manoeuvre progressed, it was considered that there was evidence that the three crew members "were not communicating properly among themselves or with ATC" and had also "misunderstood and responded incorrectly to other ATC communications" and failed to "respond to comments made by other crew members on several occasions", the latter being "a classic symptom of loss of situational awareness". 
+
+
+ Pilot Training at Air China
+
+
+It was noted that pilot ground training did not include anything on Circling Approaches and that the only simulator training involved approaches at Beijing Airport where there were no significant terrain or obstacle constraints and the sort of  marginal weather conditions which might have encouraged tactical decision making were not encountered. It was considered that the risks presented by circling at places like Busan - which had not been designated as a "Special Airport" - had not been properly assessed and hence an appropriate pilot training input had not been provided. Differences in the circling minima described in Air China’s Operations Specifications and in its Operations Manual were identified and it was considered that these "may have been a source of confusion for the flight crew". It was also considered that, on the evidence of the Investigation, crew co-ordination had not been "consistent with Air China’s standard callout procedures".
+
+
+ The Charting of the Circling Procedure
+
+
+The only Jeppesen instrument approach chart available to (and used by) the Captain (there was only one set of approach plates on board) was essentially for the 36L ILS approach and "did not show any reference point for the circling approach, circling approach area, or any mountains north of the runway". It was considered that a circling approach such as the one flown by the accident aircraft should have  a separate visual circling chart which included "visual references oriented to the runway, the radius of circling approach area and major ground references" as well as "warning messages about dangers, etc."
+
+
+ GPWS
+
+
+A Mark-III GPWS was installed in the aircraft. It was established that it had not produced a warning as terrain was approached because, with the aircraft clear of terrain by 700 feet and approaching the suddenly higher terrain at about 133 knots, the closure rate, although rapidly increasing, had only reached 1800fpm just before impact and so the warning envelope for  Mode 2B (landing configuration) terrain closure alerting - see below - had not been entered. 
+
+ The GPWS Mode 2B Warning Envelope for closure rates of <400fpm [Reproduced from the Official Report]
+It was noted that 767 aircraft manufactured since February 1999 had been delivered with 'forward looking' EGPWS based on GPS position and an integral database installed and also that Boeing had issued a SB which enabled upgrade of basic GPWS systems like the one on the accident aircraft to MK-V standard which added the option of user-specified automated height callouts.
+
+
+ Air Traffic Control
+
+
+Gimhae ATC was operated and managed by the Korean Air Force but with participation of civilian controllers in line with formal coordination arrangements. The APP control team included rated civil controllers but the TWR team did not and only a single non-rated civil controller was assigned to each shift and that person was not in the control room at the time of the accident. The APP controllers had surveillance radar and, as usual, had kept control of the circling civil aircraft until they had confirmed that it had commenced the normal visual manoeuvre, at which point control was transferred to TWR where it was usual for controllers to monitor progress visually. There was no requirement for APP controllers to continue monitoring circling traffic once it had been transferred to TWR and any such monitoring was, as in this case, entirely optional under the prevailing procedures. In the case of the accident aircraft, it appears that the APP controller observed that it had extended downwind beyond the point where a base leg turn would normally be made and he had therefore queried with TWR whether it might be going around.
+It was noted that the TWR controllers had, since the installation of surveillance radar in APP, had a radar repeater display designed for daylight use (the type designated by the FAA as 'BRITE'), installed at the centre of their console . It could be set to between 6 nm and 60 nm but was "usually set to 20 nm". It was found that the TWR controllers on duty for the arrival of the 767 had, as per normal practice,  used their radar repeater display to observe it from about 20 nm out whilst under APP radar control, but thereafter, they appeared not to have referred to it once the aircraft was transferred to them and had only noticed after the crash that the aircraft had disappeared from the display. It was noted that use of the TWR radar display during a circling approach was, as for all other types of visually controlled traffic working TWR, optional under the prevailing regulations. It was found that non-use of the TWR radar display when visual monitoring of the accident flight "became difficult and the aircraft went out of sight" could not be attributed  to workload since there had been two TWR controllers present and there had been no other traffic under their control. 
+
+
+ MSAW
+
+
+It was found that an MSAW system had been installed at Busan since 1991 and operated concurrently with surveillance radar. However, it was configured so that only visual warnings of low altitude - by means of a flashing "LA" on the radar display - were generated. This was considered a significant flaw in the system and one which was contrary to the intent of prevailing ICAO recommendations. Visual warnings were produced whenever an aircraft was less than 700 feet above the highest obstacle in  the 2 nm square area it was in or was projected to be so "within the next 30 seconds or about 2 nm away using an assumed speed of 250 knots". The effect of this configuration was noted as being that MSAW could be activated by an aircraft on a normal base turn to runway 18R below 2800 feet within the circling approach area for aircraft categories 'C' or 'D'. However, the radar display did not show the circling areas by aircraft category on either the APP or TWR radar displays. 
+
+
+ Emergency Procedures
+
+
+A number of concerns relating to both proactive and reactive emergency procedures were identified including that:
+
+
+
+When TWR lost radio contact with the aircraft and no visual or radar contact could be established, the TWR controller "did not determine the situation to be an emergency" and only "individually informed the related departments (and) did not use wording to convey the urgency of the situation, probably due to the lack of experience and training in responding to an emergency situation". It was "approximately 24 minutes after the accident" before the senior of the two TWR controllers "concluded that flight 129 had crashed.....and used the crash-phone and bell to make the initial notification".
+
+
+
+
+•*Korean survivors reported that they had not understood any of the in-flight announcements, including the pre-departure passenger safety briefing, because these had been made only in Chinese and English.
+The following Findings Related to Probable Causes were formally documented:
+(1) The 767 flight crew performed the circling approach, not being aware of the weather minima for landing of their aircraft type and, in the approach briefing, did not include the missed approach, etc., among the items specified in Air China’s operations and training manuals.
+(2) The 767 flight crew exercised poor crew resource management and lost situational awareness during the circling approach to runway 18R, which led them to fly outside of the circling approach area, delaying the base turn, contrary to the Captain’s intention to make a timely base turn.
+(3) The 767 flight crew did not execute a missed approach when they lost sight of the runway during the circling approach to runway 18R, which led them to strike high terrain (a mountain) near the airport.
+(4) When the 767 First Officer advised the Captain to execute a missed approach about 5 seconds before impact, the Captain did not react, nor did the First Officer initiate the missed approach himself.
+The Final Report was adopted on 4 March 2005 and subsequently published. The seven Appendices published with the Report and listed on page 151 are not available online.
+Further Reading/Related Articles
+
+Related Articles
+CFIT
+
+
+CFIT
+
+Terrain Awareness
+
+Visual References
+
+GPWS
+
+MSAW
+
+
+HF
+
+
+CRM
+
+ATCO Work-Load
+
+Situational Awareness
+
+
+General
+
+
+Circling Approach - difference between ICAO PANS-OPS and US TERPS
+
+Circling Approach
+
+RVR
+
+
+
+
+
+

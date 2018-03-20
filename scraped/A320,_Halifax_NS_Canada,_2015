@@ -1,0 +1,227 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+3 Related Articles
+4 Further Reading
+
+
+Description
+On 29 March 2015, an Airbus A320 (C-FTJP) being operated by Air Canada on a scheduled late evening domestic passenger flight from Toronto to Halifax as AC 624 severed power lines before impacting terrain approximately 225 metres short of the destination runway after a non-precision approach in night IMC. After a succession of brief periods airborne, impact with obstructions and two further impacts with the ground, the aircraft reached the runway and slid along it before finally stopping approximately 580 metres beyond the threshold. An emergency evacuation was initiated by cabin crew and passengers. One crew member sustained serious injuries and 23 of the 133 passengers and 2 other members of the 5 person crew sustained minor injuries. There was no post crash fire but the aircraft was destroyed. Ground lighting and the runway surface were damaged and localiser antenna was destroyed.
+
+Investigation
+An Investigation was carried out by the Canadian TSB. Relevant data was successfully recovered from the DFDR and the 2 hour CVR. However, it was noted that electrical power to the latter was lost at about the time of the second impact and power to the DFDR was lost a few seconds later when the left engine separated from the aircraft. The EGPWS NVM was also downloaded but it was found that no EGPWS activations had occurred. 
+It was noted that the Captain, who had been PF for the accident flight, had accumulated 11,765 total flying hours which included 5,755 hours on type. He had been employed by Air Canada for over 9 years, flying as an A320 First Officer for the first 7 before achieving a command on type in 2013, after which he had flown approximately 1,200 hours. The First Officer had been employed by Air Canada for 15 years and had been an A320 First Officer throughout that time. He had 11,300 total flying hours which included 6,392 on type.
+It was established that the crew had been aware before and during the flight that the weather at their destination might be close to limits and noted that soon after departure from Toronto, despatch had advised that a Company flight had landed at Halifax off the second approach after going around from the first approach due to insufficient visibility. During the cruise, the latest Halifax weather was obtained and included a visibility of 400 metres in heavy snow. Should these conditions still prevail, the crew planned to hold for an improvement and divert to their alternate Moncton if there was no improvement. If an approach at destination was possible, it was determined that a LOC approach to runway 05 (threshold elevation 449 feet) would be appropriate and this was briefed accordingly. 
+This approach (see the chart below) had a published MDA of 740 feet which, after the Company-required addition of 50 feet and a cold weather correction of 23 feet led to an adjusted MDA of 813 feet, equivalent to 350 feet above runway elevation. The Company's prescribed method of flying a LOC approach is described as 'coupled-selected' which means the AP is engaged in LOC/FPA (Localiser/Flight Path Angle) modes with the appropriate angle being the vertical descent angle on the procedure chart which is based on a vertical profile which will cross the runway threshold at about 50 feet agl. At MDA, Air Canada procedures required the PM to follow the 'Minimums' Call with either 'No contact', 'Lights only' or 'Runway in sight' and the response by a PF is to call either 'Go-around, flaps' or 'Landing'. The Investigation found that "Air Canada does not provide any specific training on or definition of what 'Lights only' entails" and that "when a PM calls 'Lights only', a PF expects that the PM has acquired visual references in order to continue with the approach (to which) the typical response is for the PF to call 'Landing' and to continue with the approach".
+
+ The Approach Chart used for the accident approach. [Reproduced from the Official Report]
+On arrival at Halifax, the weather was not good enough to commence an approach and the flight entered the hold with around 50 minutes holding time available. After about 25 minutes, the visibility improved to 800 metres in moderate and drifting snow with a vertical visibility of 300 feet. The wind was virtually unchanged and from 350° at 20-26 knots and the crew decided that an approach could and should be made. Clearance was given and the approach was commenced with AP1 and A/T engaged and with a manual landing to follow in the event of a successful approach. As the aircraft levelled off at 2,200 feet QNH (300 feet below the procedure platform) with about 8 nm to go, the TWR controller requested snow ploughs on the runway to vacate the runway. As the aircraft reached the procedure FAF defined by a DME distance from the far end of the runway, the PF selected FPA mode and set -3.5° on the V/S-FPA knob (the chart VDA was -3.08)°. As indicated on the diagram below, the aircraft began its descent slightly early - 0.2nm prior to the FAF - and thereafter remained below and slowly diverged from the vertical profile relative to the runway compared to a -3.5° descent commenced at the exact FAF position. The Investigation noted that in the FPA guidance mode, the aircraft is susceptible to perturbations which, if not compensated for by manual corrections to the FPA, could alter the flight profile. If such perturbations are present during an approach and flight crews are following Air Canada’s practice, flight crews could be unaware of their effect on the selected flight path.
+
+ The selected FPA from the correct descent point versus the actual flight path. [Reproduced from the Official Report]
+An auto (radio height) callout of "400" was followed almost immediately by the calculated MDA of 813 feet QNH at 1.2nm from the runway threshold. Descent continued with no calls until, with about 1 nm to go to the threshold, the PM "observed some approach lights" and called 'Minimum, lights only' "to which the PF responded immediately with 'Landing'” and reported having seen some approach lights. By this time, the aircraft had descended through the published (chart) MDA of 740 feet QNH and had reached this point 0.3 nm earlier than the published distance. The AP remained engaged as the aircraft continued descending and  there was no reduction in the descent rate. The pilots confirmed to each other that they could both "could see some approach lights" and 20 seconds after the "400" auto callout had occurred, "the landing lights were selected ON, followed in very quick succession by the PF disconnecting the autopilot, an automated call of “100,” an automated call of “50,” and the PM instructing to pull up". The aircraft then severed an electrical power cable that ran perpendicular to the runway and thus caused a loss of electrical power to the airport terminal building. About 1 second before the first ground impact, the PF selected the thrust levers to TO/GA and simultaneously selected his side-stick to the fully nose-up position. 
+One of the left main landing gear wheels made contact with an approach light which was located 260 metres from the runway threshold and almost immediately after that, the main landing gear, aft lower fuselage and left engine cowling struck the snow-covered ground of the embankment which sloped up towards the runway. The aircraft then struck the LOC antenna and then briefly continued airborne before striking the ground twice more and then sliding along the runway, coming to a stop approximately 580 metres beyond the threshold of the 3,200 metre-long runway. By this point, all electrical power to the aircraft had ceased and normal cabin lighting had been replaced by the automatically activated emergency lights.
+No evacuation order was given but passengers opened the 4 over-wing exits and began to evacuate the aircraft and cabin crew opened door 1L and "directed the passengers to exit" using it. Slides inflated normally upon opening of all these exits although at one stage whilst evacuation was in progress, door 1L was released from its secured-open position, probably by inadvertent action. 
+TWR had immediately activated the crash alarm and within about 2 minutes, the emergency services arrived at the crash site as passengers were completing the evacuation. It was established that "all passengers had exited the aircraft within 5 minutes after it came to a stop, many wearing open-toed shoes, shorts, and t-shirts [and] some […] with their carry-on baggage", the latter despite an instruction as the evacuation commenced that this should not be done. It was almost an hour before all the passengers had been taken to an indoor holding area due to problems with ground transport. 
+It was noted that runway 05 and its approach were equipped with high intensity lighting which included runway centreline lighting and a medium-intensity Omni-Directional Approach Lighting System (ODALS) which included five lights spaced approximately 90 metres apart that flashed sequentially every second. Although not seen by the crew during the accident approach, a PAPI was installed but the runway was not equipped with RVR sensing equipment.  
+
+ The ground track of the aircraft annotated with recorded sites of wreckage. [Reproduced from the Official Report]
+In respect of the way the accident approach was flown, the Investigation made a number of observations relative to Air Canada's SOP as approved by Transport Canada which included:
+
+
+ Once the FPA had been selected and the aircraft had begun to descend, there was no requirement for the flight crew to monitor the altitude and distance from threshold, nor did they do so. This practice was contrary to the Airbus FCOM as adopted by Air Canada and anyway, the FCOM was not available to crew.  
+
+ As flown, the accident approach had satisfied Air Canada's stabilised approach criteria.
+
+ Although it was concluded that the "required visual reference" needed in order to continue the approach below MDA had been met, the Air Canada Flight Operating Manual (FOM) did not identify that this visual reference should enable the pilot to assess the aircraft relative position and rate of change of position in order to continue an approach to a landing.   
+
+ Although the PM was required to follow their 'Minimums' call at MDA by one of three qualifications  - 'No Contact', 'Lights Only' or 'Runway in Sight' - Air Canada did not provide any specific training on or definition of what 'Lights Only' meant. 
+
+ Continuation of flight below MDA based on the required visual reference being available required that the AP must be disconnected whereas in the accident approach, this was not done until over 20 seconds after descent below MDA by which time the aircraft was not more than 30 feet above runway elevation. This violation was also in direct breach of both an AFM limitation and applicable State Regulations.
+
+
+In considering in general why the approach was continued in conditions which made it extremely difficult to safely control aircraft below MDA using the available external visual reference, it was concluded that in the absence of salient triggers to promote reconsideration, the crew could have been subject to plan continuation bias. It was considered likely that in the challenging conditions which prevailed, the flight crew had delayed disconnecting the AP until well below MDA because of their reliance on it. In reality, the limited number of visual cues and the short time that they were available combined with potential visual illusions and possibly the below-maximum brightness of the approach and runway lights had reduced the crew’s ability to detect that the aircraft’s approach path was taking it short of the runway. By the time they eventually became aware that "the runway environment did not look as it should have done" and commenced a go-around, it was too late to prevent impact. 
+A number of other safety issues were identified including but not limited to the following:
+
+
+ Since January 2009, the Captain had been identified as suffering from Obstructive Sleep Apnoea (OSA) and although the sleep specialist consulted at the time did not recommend that the Captain should stop flying, they  prescribed a specific therapy - Continuous Positive Airway Pressure (CPAP) -  to control the OSA. Air Canada advised the Captain to continue with his flying duties and this was supported by the Safety Regulator who concluded that the OSA was being "managed effectively" and approved the Captain to continue with flying duties. From 2010, the Captain "experienced some difficulties using CPAP therapy and rarely used it" but the specialist involved "reiterated that the Captain was fit to continue with his flying duties". The Investigation considered that whilst it would be reasonable to expect that the guidance provided to AMEs would include information on OSA, this was found not to be the case. Transport Canada (TC) indicated that "it has an undocumented protocol for the assessment and ongoing surveillance of OSA in pilots [but that] the actual method and practice used are typically left up to the individual AME and the Regional Aviation Medical Officer (RAMO) who based their judgements on what they know about OSA and on what the pilot has reported to them”. In the Captain’s case, because no daytime sleepiness had been reported, TC deemed him to be medically fit. It was concluded that "if TC does not consistently follow its protocol for the assessment of aeromedical risk and ongoing surveillance in applicants who suffer from obstructive sleep apnea, some of the safety benefit of medical examinations will be lost, increasing the risk that pilots will fly with a medical condition that poses a risk to safety". There was, however, no evidence that the Captain's OSA had had any effect on accident causation.   
+
+ The First Officer was the only occupant who sustained a serious injury during the crash and this was attributed entirely to the fact that the automatic locking feature of his inertia reel shoulder harness was, unknown to him and unrecorded as such, unserviceable. If the shoulder-harness assembly is unserviceable and does not lock during a sudden acceleration, then the seat occupant is at a much greater risk of injury or death during an accident. Performing a proper pull test verifies that the shoulder-harness assembly is airworthy and therefore capable of restraining the occupant of the seat during an accident. It was found that although the restraint system maintenance manual provided inspection intervals and criteria to determine whether the shoulder-harness assemblies were in an airworthy condition, this information was not included on the Airbus maintenance task card nor, as a consequence, on the Air Canada maintenance task card. In the absence of published instructions, it was found that Air Canada had been using a check to verify that the shoulder harness inertia reel would lock under a forward acceleration and that the damage noted on the subject shoulder harness was consistent with conducting a pull test without first extending the strap. It could not be determined when the damage which had caused the unserviceability - a fractured plastic flange - had occurred and it was concluded that if an aircraft manufacturer’s maintenance instructions do not include the component manufacturer’s safety-critical test criteria, there is a risk that components will not be maintained in an airworthy condition.
+
+ When the rear fuselage struck terrain prior to the runway, the cabin floor was punctured when some of the structure below it (Frame 65 vertical beam and door net stanchions of the bulk cargo compartment)  was forced upwards. Although no one was injured as a result, the holes in the cabin floor could have posed an obstacle to rapid passenger egress had these exits been used. The Investigation noted that after similar damage to FR65 (located close to the rear galley) of the A320 which ditched off Manhattan in 2009, Airbus had implemented a design change which addressed the FR65 part, however there is still a risk that the stanchions (or any vertically mounted, non-structural beam (channel, tube, etc.) installed between the floor and ceiling of a cargo compartment) will penetrate the cabin floor when the fuselage strikes the water or ground.
+
+ The flight crew had requested that the approach and runway lighting be set to the maximum level 5 for their approach and although this had been acknowledged by ATC, the change from level 4 to level 5 did not occur. There was no clear evidence that this contributed to the accident but it was considered possible that it had and it was found that the lighting control system involved did not satisfy NAV Canada requirements. 
+
+ In respect of the opening of only one main exit for the emergency evacuation, it was found that Air Canada had recently been permitted to operate their A320 fleet with the minimum-allowable cabin crew to passenger seat ratio of 1:50 on the basis of an exemption requiring that both initial and recurrent crew training included the opening of both left and right side exits at a given cabin position and the management of passenger flow at both of these exits where crew members were responsible for their opening. This "dual-exit drill" was required in order to close a gap that Transport Canada (TC) had identified in the content of existing training. However, it was found that TC had not required all cabin crew to receive the additional training before an airline was able to implement the 1:50 ratio and Air Canada had taken advantage of this option so that at the time of the accident, none of the cabin crew involved had received the training and none were aware of the requirement for it. 
+
+ When determining the minimum visibility for an approach, both the EASA and the FAA take into account the type of Approach Lighting System (ALS) installed. In Canada the minimum visibility required to allow a non-precision approach to be carried out does not take into account the type of ALS installed on the runway and for any LOC approach in Canada, the MDH is always 250 feet and the minimum visibility is always 1600 metres (1 statute mile). It was noted that on a standard 3° descent, an aircraft would reach 250 feet agl at about 0.6nm from the runway threshold. If that runway was equipped with an Omni-Directional Approach Lighting System (ODALS), then the aircraft would be about 0.4 nm from the first light of the ODALS.  
+
+ Runway 05 at Halifax did not have an ILS procedure. Past work had concluded that the cost could not be justified. According to NAV CANADA, the decision to conduct an assessment of the type of landing system for a runway is based on the efficiency of aircraft operations related to airport accessibility and usability. The Investigation noted that although the number of aircraft movements on runway 05 at Halifax had been steadily increasing and it had been the most frequently used runway during snow events in 2014, NAV CANADA did not consider an ILS was a change in accessibility that would necessitate a review of the type of landing system installed on the runway.
+
+ In Canada, there is no requirement that specifies who is responsible for providing transportation from an on-airport accident site to an emergency assistance centre and this responsibility is assumed by the airport authority at some airports and by the airlines at other airports. For Air Canada operations at Halifax, the airline was responsible. However, it appeared that the airline had no prior plan in place to meet its responsibilities and a significant delay in inclement weather conditions resulted.                                                
+
+ Some aspects of the Airport Operator's emergency response were compromised by the unreliability of the airport's standby electrical power system which became apparent in the aftermath of the accident. 
+
+
+The formally stated Findings as to Causes and Contributing Factors were as follows:
+
+
+ Air Canada’s standard operating procedure (SOP) and practice when flying in flight path angle guidance mode was that, once the aircraft was past the final approach fix, the flight crews were not required to monitor the aircraft’s altitude and distance from the threshold or to make any adjustments to the flight path angle. This practice was not in accordance with the flight crew operating manuals of Air Canada or Airbus. 
+
+ As per Air Canada’s practice, once the flight path angle was selected and the aircraft began to descend, the flight crew did not monitor the altitude and distance from the threshold, nor did they make any adjustments to the flight path angle. 
+
+ The flight crew did not notice that the aircraft had drifted below and diverged from the planned vertical descent angle flight profile, nor were they aware that the aircraft had crossed the minimum descent altitude further back from the threshold.  
+
+ Considering the challenging conditions to acquire and maintain the visual cues, it is likely the flight crew delayed disconnecting the autopilot until beyond the minimum descent altitude because of their reliance on the autopilot system. 
+
+ The approach and runway lights were not changed from setting 4 to setting 5; therefore, these lights were not at their maximum brightness setting during the approach. 
+
+ The system to control the airfield lighting preset selections for brightness setting 4 was not in accordance with the NAV CANADA Air Traffic Control Manual of Operations requirement for the omni-directional approach lighting system to be at its brightest settings. 
+
+ The limited number of visual cues and the short time that they were available to the flight crew, combined with potential visual illusions and the reduced brightness of the approach and runway lights, diminished the flight crew’s ability to detect that the aircraft’s approach path was taking it short of the runway. 
+
+ The flight crew’s recognition that the aircraft was too low during the approach would have been delayed because of plan continuation bias. 
+
+ The aircraft struck terrain approximately 740 feet short of the runway threshold, bounced twice, and then slid along the runway before coming to a rest approximately 1900 feet beyond the runway threshold. 
+
+ At some time during the impact sequence, the Captain’s head struck the glare shield because there were insufficient acceleration forces to lock the shoulder harness and prevent movement of his upper body.
+
+ The First Officer sustained a head injury and serious injury to the right eye as a result of striking the glare shield because the automatic locking feature of the right-side shoulder-harness inertia reel was unserviceable. 
+
+ A flight attendant was injured by a coffee brewer that came free of its mounting base because its locking system was not correctly engaged. 
+
+ Because no emergency was expected, the passengers and cabin crew were not in a brace position at the time of the initial impact. 
+
+ Most of the injuries sustained by the passengers were consistent with not adopting a brace position.
+
+
+The formally stated Findings as to Risk were as follows:
+
+
+ If aircraft cockpit voice recorder installations do not have an independent power supply, additional, potentially valuable information will not be available for an investigation.
+
+ If Transport Canada does not consistently follow its protocol for the assessment of aeromedical risk and ongoing surveillance in applicants who suffer from obstructive sleep apnea, some of the safety benefit of medical examinations will be lost, increasing the risk that pilots will fly with a medical condition that poses a risk to safety.  
+
+ If new regulations on the use of child-restraint systems are not implemented, lap-held infants and young children are exposed to undue risk and are not provided with a level of safety equivalent to that for adult passengers. 
+
+ If passengers do not dress appropriately for safe travel, they risk being unprepared for adverse weather conditions during an emergency evacuation. 
+
+ If the type of approach lighting system on a runway is not factored into the minimum visibility required to carry out an approach in conditions of reduced visibility, (then) the lighting available risks being less than adequate for flight crews to assess the aircraft’s position and decide whether or not to continue the approach to a safe landing. 
+
+ If they do not incorporate a means of absorbing forces along their longitudinal axis, vertically mounted, non-structural beams (channels, tubes, etc.) in cargo compartments could penetrate the cabin floor when the fuselage strikes the water or ground, increasing the risk of aircraft occupants being injured or emergency egress being impaired.  
+
+ If an aircraft manufacturer’s maintenance instructions do not include the component manufacturer’s safety-critical test criteria, the component risks not being maintained in an airworthy condition.
+
+ If there is a complete loss of electrical and battery power and the passenger address system does not have an independent emergency power supply, the passenger address system will be inoperable, and the initial command to evacuate or to convey other emergency instructions may be delayed, putting the safety of passengers and crew at risk. 
+
+ If passengers retrieve or attempt to retrieve their carry-on baggage during an evacuation, they are putting themselves and other passengers at a greater risk of injury or death. 
+
+ If passengers do not pay attention to the pre-departure safety briefings or review the safety-features cards, they may be unprepared to react appropriately in an accident, increasing their risk of injury or death. 
+
+ If an organisation’s emergency response plan does not identify all available transportation resources, there is an increased risk that evacuated passengers and crew will not be moved from an accident site in a timely manner. 
+
+ If organisations do not practise transporting persons from an on-airport accident site, they may be insufficiently prepared to react appropriately to an actual accident which may increase the time required to evacuate the passengers and crew.
+
+
+Fifteen Other Findings were also formally documented as follows:
+
+
+ The (Cabin) Service Director assessed the evacuation flow as good and determined that there was therefore no need to open the R1 door. 
+
+ The flight attendants stationed in the rear of the aircraft noted no life-threatening hazards. Because no evacuation order had been given, and deplaned passengers and fire fighters were observed walking near the rear of the aircraft in an area where the deployment of the rear slides may have created additional hazards or risks, the flight attendants determined that there was no requirement to open the L2 and R2 doors. 
+
+ Although Transport Canada required the dual-exit drill to be implemented in training, it did not require all cabin crew to receive the training before an organisation implemented the 1:50 ratio. 
+
+ At the time of the accident, neither the Service Director nor the flight attendants had received the dual-exit training, nor were they aware of the requirement for such training in order for Air Canada to operate with the exemption allowing 1 flight attendant for each unit of 50 passengers.  
+
+ Although Transport Canada had reviewed and approved Air Canada’s Aircraft Operating Manual and Standard Operating Procedures (SOPs), it had not identified the discrepancy between the Air Canada SOPs and the Airbus Flight Crew Operating Manual regarding the requirement to monitor the aircraft’s vertical flight path beyond the final approach fix when the flight path angle guidance mode is engaged. 
+
+ A discrepancy in the Halifax International Airport Authority’s standby generators’ control circuitry caused the 2 standby generators to stop producing power. 
+
+ Air Canada’s emergency response plan for Halifax/Stanfield International Airport indicated that the airline was responsible for the transportation of passengers from an accident site. 
+
+ Air Canada’s emergency response plan did not identify the airport’s Park’N Fly minibuses as transportation resources.
+
+ The Halifax International Airport Authority’s Emergency Response Plan did not identify that the airport Park’N Fly mini-buses could be used to transport the uninjured passengers, nor did it provide instructions on when and how to request and dispatch any transportation resources available at the airport. 
+
+ The Air Canada Flight Operations Manual did not identify that the required visual reference should enable the pilot to assess aircraft position and rate of change of position in order to continue the approach to a landing. 
+
+ In Canada, the minimum visibility that is authorised by the operations specification for non-precision approaches does not take into account the type of approach lighting system installed on the runway. 
+
+ It is likely that, during the emergency, a passenger activated the L1 door gust lock release pushbutton while trying to expedite his or her exit, which allowed the door to move freely.  
+
+ The passenger seatbacks were dislodged because the shear pins had sheared, likely as a result of contact with passengers during the impact sequence or emergency egress. 
+
+ Recovery of the uninjured passengers from the accident site was delayed owing to a number of factors, including the severe weather conditions; the failure of the airport’s 2 standby generators to provide backup power after the loss of utility power; the loss of the airport operations radio network; and the lack of arrangements for the dispatch of transportation vehicles until after emergency response services had advised that all passengers were evacuated and the site was all clear. 
+
+ Given that the Captain rarely used continuous positive airway pressure therapy, he would have been at risk of experiencing fatigue related to chronic sleep disruption caused by obstructive sleep apnea. However, there was no indication that fatigue played a causal or contributory role in this occurrence.
+
+
+Safety Action taken as a result of the accident whilst the Investigation was in progress included but is not limited to:
+
+
+ Air Canada making a number of changes to its approach procedures and explicitly drawing the attention of its crews to the fact that FPA "is not a vertical navigation system" when used to fly non-precision approaches.
+
+ Air Canada will now be installing GPS on the 47 of its Airbus aircraft that are not already so-equipped and is also going to upgrade the software in the EGPWS in all its aircraft.
+
+ Halifax International Airport Authority has made improvements to the approach lighting for both runway 05 and runway 32.
+
+ Halifax International Airport Authority has upgraded its emergency response capability in a number of different and complimentary ways.
+
+ NAV CANADA has published a BARO-VNAV Approach with Vertical Guidance (APV) procedure for runway 05 at Halifax.
+
+
+A further safety action taken is the alignment of the procedure to test the restraint system published in the Aircraft Maintenance Manual (AMM) by Airbus with the detailed one published in the Component Maintenance Manual (CMM) by the restraint system manufacturer.
+The Final Report of the Investigation was authorised for release on 15 February 2017 and it was officially released on 18 May 2017. No Safety Recommendations were made.
+
+Related Articles
+
+Controlled Flight Into Terrain (CFIT)
+
+CFIT Precursors and Defences
+
+Non-Precision Approach
+
+Continuation Bias
+
+Safety Oversight
+
+Component Maintenance Manual
+
+Aircraft Maintenance Manual
+
+Airworthiness - The System
+
+Rescue and Fire Fighting Services
+
+High/Low Energy Ground Impacts – RFFS Procedures
+
+Area Navigation Systems
+
+
+Further Reading
+
+Fact Sheet – Sleep Apnea in Aviation, FAA, Feb 2015.
+
+
+
+
+
+

@@ -1,0 +1,115 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 16 April 2012, an Airbus A330-300 (G-VSXY) being operated by Virgin Atlantic Airways on a scheduled passenger flight from London Gatwick to Orlando USA with an augmented crew began to receive intermittent aft cargo hold smoke warnings whilst in the climb. The corresponding drill was accomplished, a PAN call made and a return to Gatwick for an overweight landing was commenced. The intermittent smoke warnings continued but otherwise the turn back was uneventful. After stopping on the runway, an emergency evacuation was ordered in which two of the 317 occupants were seriously injured. No signs of fire or smoke were evident to the attending RFFS.  
+
+Investigation
+The event was investigated by the UK AAIB. The Investigation noted that aircraft commander had been the PF for the flight and that although the operating crew were experienced pilots, in both cases their time on the aircraft type involved was low - in the commander’s case just 155 hours.
+It was established that the first of the smoke warnings, which lasted 7 seconds, had occurred as the aircraft passed FL187 some 15minutes after take off. After a short pause, the warning was annunciated again and lasted 9 seconds. The commander made contact with the Company engineering base whilst the third crew member went into the cabin to see if there was any corroborating evidence of an actual fire or overheat. During the call to engineering, the warning began again and the commander terminated the conversation with engineering and decided that a return to Gatwick should be made. Having just been advised by London ACC to call Brest ACC, the First Officer then advised the latter that a technical problem meant that routing back to London was now required. However, the response to this request was an onward clearance and a request for the required cruising level, so the commander declared a PAN advising of “smoke in the cargo hold”. When this was acknowledged and the controller said they would call back shortly, the commander replied that he was turning the aircraft back towards London and this prompted the controller to pass a London frequency to call.
+The aircraft was levelled at FL220, the First Office took over as PF and the crew carried out the ECAM actions and made contact with London. The intermittent smoke warnings continued - see the annotations on the map of the flight track taken from the official report below. The Flight Service Manager (senior cabin crew member) was briefed by the commander and advised that although an evacuation after landing was a possibility, this should not take place unless specific instructions to that effect were given. An ILS approach to Runway 08R was accomplished and the aircraft brought to a stop on the runway where direct contact was made with the attending RFFS. After a further smoke warning and a degree of doubt in respect of the external inspection, the commander advised the RFFS that he was going to order an evacuation and declared a MAYDAY three minutes after the aircraft had come to a stop.
+
+ The track flown showing the positions of cargo smoke warnings (reproduced from the Official Report)
+The evacuation was completed in 109 seconds, with all passengers off the aircraft within 90 seconds with two sustaining serious injuries.  The slide at one of the 8 emergency exits did not inflate properly and the exit was not used. The cabin crew reported that the evacuation was conducted in accordance with the applicable SOPs but several commented that their own use of the slide was faster than training had led then to expect. Passengers had to be told not to bring their cabin baggage with them but many still did so. It was also noted that “most passengers were cautious when they reached the doors and most did not jump onto the slides in pairs” and that “many passengers were seen to land awkwardly at the bottom of the slide”. One lady was seen to fall near the bottom of the slide and those following collided with her. It was also found that “at one exit, the fireman at the bottom of the slide asked the crew to slow down the rate that passengers were leaving until the blockage at the bottom of the slide could be cleared”. One man was injured at the bottom of a slide and this led to a slow down in the rate of evacuation until he had been moved.
+The RFFS advised the Investigation that they “had been told that the aircraft had smoke in the cockpit” and had therefore positioned their vehicles at the front of the aircraft. Only after talking to the aircraft commander did the officer in charge learn that the problem was actually possible smoke in the aft cargo hold. In order for thermal imaging cameras to be able to detect potential heat spots deeper within this hold, which was carrying largely perishable goods, some pallets had to be removed but “once sufficient space had been created, it was discovered that there was no smoke present and that there were no heat spots”.
+It was found that the incorrect information abut the nature of the emergency was the result of incorrect transmission of information in London ATC. It was found that the ATC planner involved had received a (correct) phone call from the Brest controller advising that the aircraft had “smoke on board” and was diverting back to London Gatwick. However, this information was passed on as “smoke in the cockpit” to both the ACC Controller and the ATC Watch Manager at Gatwick. The airport had consequently declared a ‘Full Emergency’ for an aircraft with smoke in the cockpit. The planner “stated subsequently that he had just completed his Training in Unusual Circumstances and Emergencies (TRUCE) and the training scenario included an aircraft with a suspected fire on board”. He also stated that “the garbled sounding RTF” led him to believe that the pilots were using oxygen masks and that therefore there was smoke in the cockpit.
+The absence of any evidence of fire or smoke in the cargo holds led to the conclusion that the 15 smoke warnings annunciated had been false. A detailed assessment of how these false warnings has been generated led to the following findings:
+
+
+ Redundancy in the Smoke Detection System had been lost during electrical power-up prior to departure from Gatwick when a wiring fault led to the system reverting to single detection mode. The fault did not recur when the aircraft electrical system was next repowered after the investigated event.
+
+
+
+ Inspection of the faulty wiring involved in the reversion to single smoke detection mode did not find any wiring anomalies and no root cause for the fault could be determined. However, Airbus did identify an unexpectedly high rate of similar faults across the A330 global fleet and is investigating.
+
+
+
+ One smoke detector was found to have generated 12 of the smoke warnings which it was considered were probably all thermal alarms. It was concluded that the other three warning system annunciations were attributable to optical alarms from two other smoke detectors caused by the effects of the fire extinguishant discharged following the crew response to the warnings.
+
+
+
+ The 12 false warnings generated by a single smoke detector were found to be the result of damage to the the insulating Kapton film of its thermistor. This  exposed its active area to the external environment and caused a resistance response such that the sensed temperature for a given actual temperature, became inaccurate. It was not possible to determine the cause of this damage and it was not possible to reproduce a reduction in thermistor electrical performance even on thermistors with intentionally-induced damage. It was noted that smoke detector system internal temperature monitoring had failed to detect the fault, which was also found on another installed detector from the same manufacturing batch.
+
+
+
+ In respect of the three false warnings not generated traced to the damaged detector, it was noted that the precise impact of the Halon exposure on the sensitive elements of the multi‑criteria smoke detector appears to be determined by a number of variables which include the cargo loading configuration and thus the available volume of air in which the Halon can dissipate. 
+
+
+The failed slide inflation was found to have probably been the result of a packing fold which had led to an early release of the primary restraint and the non-release of the secondary restraint. It was found that the slide involved “had been manufactured and packed before a change to packing instructions was implemented, to address previous similar partial inflations”.
+In respect of the intermittent cargo smoke warnings the Investigation formally recorded the following Causal Factor:
+“A latent fault on the T1 thermistor of smoke detector 10WH, in combination with a CAN Bus fault and possible high levels of humidity in the cargo compartment due to the carriage of perishable goods, provided circumstances sufficient to generate multiple spurious aft cargo compartment smoke warnings.” 
+Two Contributory Factors in respect of the intermittent cargo smoke warnings were also formally stated as:
+(i) The thermal channel fault in 10WH was not detected prior to the event by the internal smoke detector temperature monitoring.
+(ii) The proximity of the fire extinguisher nozzles to the smoke detectors.
+Safety Action was noted as planned by Airbus to change the degraded mode ECAM message to a Class 2 Maintenance Message so that it is reflected on the ECAM status page.
+Seven Safety Recommendations were issued as a result of the Investigation as follows:
+
+
+ that the European Aviation Safety Agency amend AMC1 CAT.OP.MPA.170, ‘Passenger briefing’, to ensure briefings emphasise the importance of leaving hand baggage behind in an evacuation. [2014-005]
+
+
+
+ that the European Aviation Safety Agency develops recommendations on the content of visual aids such as safety briefing cards or safety videos to include information on how passengers, including those with young children, should use the escape devices. [2014-006]
+
+
+
+ that Airbus determine the causes of erroneous Controller Area Network (CAN) Bus faults and implement solutions to eliminate such faults. [2014-007]
+
+
+
+ that Airbus amend the dispatch criteria for aircraft with single Controller Area Network (CAN) Bus faults, until such time as the causes of erroneous CAN Bus faults have been identified and addressed. [2014-008]
+
+
+
+ that Siemens amend the Component Maintenance Manual procedures for multi-criteria smoke detectors returned for overhaul, or issue a service letter, to improve fault detection of thermal channel hardware failures which can lead to inaccurate temperature measurement. [2014-009]
+
+
+
+ that Airbus introduce a maintenance requirement so that, following an activation of the Lower Deck Cargo Compartment (LDCC) fire extinguishing system in an aircraft equipped with multi-criteria smoke detectors, all smoke detectors in the affected cargo compartment are removed for examination and overhaul. [2014-010]
+
+
+
+ that the European Aviation Safety Agency review the certification requirements for the location of fire extinguisher nozzles in relation to the smoke detectors, on aircraft equipped with multi-criteria smoke detectors, in order to minimise the adverse effects associated with activation of the fire extinguishing system. [2014-011]
+
+
+The Final Report was published on 12 February 2014.
+
+Further Reading
+
+Emergency Communications
+
+Fumes Detection
+
+Halon Fire Extinguishers
+
+Aircraft Fire Detection Systems
+
+Aircraft Fire Extinguishing Systems
+
+Fire in the Air
+
+In-Flight Fire: Guidance for Controllers
+
+In-Flight Fire: Guidance for Flight Crews
+
+
+
+
+
+

@@ -1,0 +1,87 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 25 October 2013, a Bombardier CRJ 900 (EC-JYA)  being operated by Air Nostrum on a scheduled passenger flight (ANE 8522) from Madrid to San Sebastian made a hard and bounced landing at destination after an approach in day VMC. ATC were unaware of anything abnormal in respect of the landing. After seeing no damage to the aircraft on a post flight inspection, the aircraft commander elected to continue with the next flight back to Madrid, which was uneventful. However, on arrival there, the aircraft was found to be sufficiently damaged by the earlier hard landing to have been unfit for further flight and was grounded.
+
+Investigation
+An Investigation was carried out by the Spanish Commission for the Investigation of Civil Aviation Accidents and Incidents (CIAIAC). Recorded data relevant to the Investigation was recovered from the DFDR but relevant data on the CVR had been overwritten. Data from the DFDR was used to confirm that touchdown had occurred at a rate of descent exceeding 600 fpm, which is the [[Aircraft Maintenance Manual|AMM] threshold for an examination of aircraft continued airworthiness. 
+Following arrival in Madrid, damage to the aircraft found after maintenance were notified of the earlier hard landing by means of the Captain's entry in the Technical Log estimating a hard landing (location unspecified) with a vertical speed of "between 400 and 600 fpm" was documented as:
+
+
+ slightly bent front panels (above the wing)
+
+ a collapsed orifice support tube on the left MLG
+
+ a fractured anti-rotation sleeve on the right MLG
+
+ a distortion (bending) of the No. 1 wheel.
+
+
+After Bombardier had been supplied with a copy of the DFDR data and the damage report and had compared the two, they concluded that "the shock struts in both legs had been subjected to loads above their design limits" and "recommended disassembling the shock strut, the shimmy dampers and side stay assemblies, and disassembling and inspecting the four wheels on both main gear legs". Replacement components were installed as required to return the aircraft to an airworthy condition.
+The dual concerns of the Investigation were to establish the facts of and context for the hard landing and to focus on the continued operation of an un-airworthy aircraft thereafter.  
+The 38 year-old Captain was a Spanish national who had accumulated a total of 4,249 flying hours which included 475 hours on the type variant involved. He had been a Captain on the CRJ for five years and had gained most of his CRJ experience on the CRJ 200.  The 46 year-old First Officer, who was PF for the flight, was a German national who had accumulated a total of 4,038 flying hours which included 448 hours on the type variant involved. 
+
+ The aircraft flight path [Reproduced from the Official Report]
+It was established that the flight had initially been cleared for an ILS approach to runway 22, but since the crew "had the runway in sight and the wind conditions allowed them to do so, they decided to make a visual approach to runway 04". A descending 360º turn to reduce altitude to one that would allow them to begin the 04 approach was necessary. Once this turn was complete, the aircraft was configured for landing. According to the statement made to the Investigation, the PF "varied the aircraft’s flight path slightly to the left to avoid some hills along the approach route and thus avoid activating the EGPWS". He also reported that he "did not follow the PAPI reference reading" because to do so would have prevented the achievement of "the stabilisation parameters shown by the NOTAM in the Operational Flight Plan". As a consequence of this decision, the approach "was conducted with all four PAPI lights showing red". The Investigation considered that because "environmental requirements" had "forced" the 04 PAPI to be calibrated to an abnormally steep angle of 4.75º (and so-notified in the AIP) the crew decision to make the approach with four red lights "was correct". 
+DFDR data confirmed crew accounts that there had been a tailwind component during much of the approach but did not support claims by the crew that the approach had been stabilised. In fact, the data showed that "the descent rate was very high during the final approach" and had mainly been in excess of 1000 fpm both before and after the 500 ft stabilisation gate - at 537 feet, it was 1168 fpm, at 502 feet it was 1072 fpm and had thereafter increased to a maximum of 1296 fpm at 214 feet agl. However, the recorded airspeed during the approach showed that this was maintained as required and was at the correct Vref at 50 feet agl. 
+According to the accounts of the crew "during the flare, starting at a height above the runway of 50 feet, the aircraft moved sharply downward, causing the two main gear legs to touch down hard". This account was corroborated by DFDR data showing an 848 fpm rate of descent at 11 feet agl. In response to this suddenly increased rate of descent, the crew stated that "the Captain had asked the First Officer to raise their pitch angle, which reached 7º, but the First Officer did not want to raise the nose any further, fearing a tail strike."' They also stated that they "did not consider increasing thrust since the engines were at idle and they did not think they would respond in time". However, "during the flare and initial contact, the values of N1 exhibited values that differed from approach idle (35% versus 26%)" and it was found that setting the thrust levers to idle after the initial contact had led to spoiler deployment, "resulting in a second hard landing" after an initial bounce. It was considered that "in keeping with the instructions in the FCOM, the crew should have gone around after bouncing or when they realised they had to apply thrust to make the landing". It was also noted that the FCOM "recommends flaring at 20 to 30 ft agl and not exceeding a 5º pitch angle". 
+Weather conditions around the time the approach under investigation was flown were CAVOK with no cloud below the MSA and the destination METAR recorded a very light and somewhat variable northerly breeze with a mean speed of 3/4 knots. Upon being cleared to land, TWR gave a spot wind check of 010º/4 knots followed soon afterwards by updates of 020º/4 knots and 010º/8 knots.
+The crew reported having been "surprised" when the tailwind conditions indicated by the FMS had not matched the surface wind velocities reported by the TWR. However, it was considered that "this disparity […] should have forewarned them to the possibility of wind shear at some point during the approach, meaning the most prudent decision would have been to go around and do a visual circuit (or a full instrument approach) for runway 22" - which was an option given the reported mean wind velocity of 360º at 4 knots.
+It was noted that San Sebastian was classified as a Category 'C' aerodrome by the Operator based on an AIP requirement for this "due to the lack of [Runway End Safety Area|RESAs]] and to the limited length of the runway strip". This required that special operating procedures should be adopted and that corresponding pilot training must be provided. The Investigation noted that the Captain was approved to act as PF for an approach and landing at San Sebastian but was unable to find any evidence that the First Officer, who had never attempted to land a CRJ900 at San Sebastian before, was similarly approved or had received any relevant training.
+It was confirmed that although the CRJ900 is a Category 'D' aircraft, in order to achieve regulatory approval to operate as if it were a Category 'C' aircraft, which was a requirement for its operations into San Sebastian, the Operator had obtained a Certificate which "permanently changed the aircraft's category by reducing its maximum landing weight". 
+The Investigation considered whether the required appropriate approach briefing had been conducted and, despite the absence of a CVR recording to provide hard evidence on the matter, considered that although "it is likely that the crew held a briefing on the approach to runway 22, since they had been cleared for this manoeuvre, which was the usual approach, the fact that they had to do a 360º turn to lose some of their excess altitude indicates that the approach manoeuvre to runway 04 was not expected". It was therefore concluded it that was "unlikely that they (revised) the briefing after deciding to make a visual approach to (that) runway".   
+Company procedures were found to include Stabilised Approach criteria requiring that the rate of descent should not exceed 1000 fpm at 500 feet agl on a visual approach and that a go around must be executed if it did so. DFDR evidence confirmed that neither requirement had been met.  
+The Cause of the event was formally stated as "the performance of a non-stabilised approach manoeuvre with a high sink rate in the final segment that resulted in the aircraft making a hard landing".
+Four Contributing Factors were identified as:
+
+
+ The presence of a southerly wind (tailwind) during the approach, which probably sped up the approach and forced the crew to increase the sink rate. 
+
+ By not holding a briefing on the manoeuvre they were going to execute, the crew did not prepare adequately for the approach. 
+
+ The crew did not do a go around, as required by the Operations Manual for a non-stabilised approach. 
+
+ The First Officer’s lack of experience at that airfield and on that aircraft in particular.
+
+
+Safety Action taken by Air Nostrum as a result of the event was noted to have focused on the introduction of properly specified and communicated procedures for their operations into San Sebastian in accordance with regulatory requirements –which were already applicable prior to the event – together with corresponding crew training provision. In the light of this response, "the Commission decided not to issue any recommendations in this regard".
+One Safety Recommendation was made as a result of the Investigation as follows:
+
+
+ that Air Nostrum establish the measures needed so that crews can efficiently and objectively assess if a given landing constitutes a hard landing as defined by the aircraft manufacturer, which would require declaring the aircraft AOG before making the next flight. [REC 62/15]
+
+
+The Final Report was approved on 26 October 2015 and subsequently made available in English translation. 
+
+Related Articles
+
+Stabilised Approach
+
+Missed Approach
+
+Go-around Decision Making
+
+Rejected Landings
+
+Landing Flare
+
+Airworthiness
+
+
+
+
+
+

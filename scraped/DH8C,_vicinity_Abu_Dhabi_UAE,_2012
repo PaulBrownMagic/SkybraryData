@@ -1,0 +1,141 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 9 September, a Bombardier DHC8-300 (A6-ADB) being operated by Abu Dhabi Aviation on a scheduled contract passenger flight from Abu Dhabi to Das Island was in the initial climb out after take off in day VMC when the flight crew became aware through visual observation from the passenger cabin that abnormal heat and possibly a fire may be present within the right engine nacelle. A PAN was declared to ATC due to the possibility of an engine fire and an uneventful return made with taxi in on the left engine made after the absence of any fire on the right engine had been confirmed. After both engines had been shutdown, it was found that both engines were in a similar abnormal state.
+
+Investigation
+An Investigation was carried out by the UAE GCAA Air Accident Investigation Sector. FDR and CVR data were successfully downloaded and nothing abnormal was noted.
+It was found that the aircraft involved was owned, operated and maintained by Abu Dhabi Aviation and was one of three aircraft contracted to an oil company to transport their passengers and cargo to Das Island, which is located in the Arabian Gulf, just over 100 nm from Abu Dhabi.
+The aircraft Captain reported having accumulated 9500 flying hours including 4500 on type and the First Officer reported having accumulated 2150 flying hours of which 1100 were on type.
+It was established that the aircraft had last operated the previous day and that overnight, compressor washes had been carried out on both engines. This fact was not known to the flight crew of the first flight thereafter, which was the incident flight. With the Captain as PF , the flight crew had no knowledge of anything abnormal during take off and initial climb but as the aircraft was climbing through 2300 feet with the seat belt signs still on, the Cabin Attendant had arrived in the flight deck to advise that a passenger seated near to the right engine nacelle had pointed out - and he had confirmed - that "there was something wrong" with it. There were no abnormal indications on the flight deck but the Captain decided that in view of the fact that the passenger concerned - who was employed as a mechanical engineer - was reported to be "beginning to become distressed", the First Officer should leave his seat and investigate.
+The First Officer reported that he had been able to see from the passenger cabin window that the inboard side of the right engine nacelle had signs of a bright light within the compartment through the nacelle vent panel, indicating that there was a fire behind the panel. The paint on the panel was also blistering and bare metal was exposed.  On his return, the First Officer advised that he believed there may be a fire within the right engine nacelle and as a result, the Captain decided to return immediately to the departure airport. The climb was stopped at 5000 feet, a 'PAN' was declared to ATC advising of a possible engine fire and a priority landing was given. The return was without further event and, after approximately 10 minutes airborne, a normal landing was accomplished. After the airport RFFS had checked the right engine for any signs of fire and found none, the aircraft  had been taxied to its parking stand using only the left engine.  	  
+Inspection of the right engine after the flight found evidence of localised overheat damage caused by hot engine gases escaping through an open igniter boss on the engine casing. These gases had impinged on the nacelle, engine case drain line and engine support strut. Several components had visible signs of overheat damage including engine struts located within the compartment, fire seals, hoses, clamps, fire detector support grommets, access panels, the un-installed igniter harness and fire detectors. The left engine was then also inspected and the same damage was found there too. On both engines, the left hand side igniter plugs were not installed and were found loose within the nacelle whereas those on the right hand side were correctly fitted with their harnesses attached. It was noted that the affected engine access panel latches "had to be forced open due to the effects of the overheating".  
+It was immediately obvious that the uninstalled igniters were likely to be the ones which had been removed in order to complete the pressure washes overnight prior to the flight and this was subsequently confirmed. A detailed assessment of the circumstances in which this maintenance error had occurred was carried out based on the sequence of actions which had led to it.
+It was established that during the afternoon shift on the day prior to the flight, both engines were prepared for engine turbine washes by the Engineer; the igniter on the left side of each engine was removed. Two mechanics had then prepared the aircraft for compressor desalination washes by removing the access plug from each engine and carried out these washes. They had not referred to the AMM or any other technical instructions prior to this and they did not sign any document for the work performed. Turbine water washes were not carried out because the washes were being carried out under a verbally communicated new requirement and they had been unsure which type of wash was required or if both were and all the previous engine washes they had performed on this aircraft had been compressor desalination washes only. This additional compressor wash requirement "was neither included in the Aircraft maintenance program, nor was it controlled by the maintenance planning department" and no Task Card for the compressor wash had been issued by the maintenance supervisors. 
+On the basis of a verbal confirmation from one of the mechanics, the Engineer assumed that the turbine water washes had been carried out certified them without making any attempt to verify that the work had actually been performed. He also assumed that the igniter plugs and their harnesses had been replaced without making any physical inspection to confirm personally that this was the case. He then declared the aircraft to be airworthy for flight - although he was not a 'Certifying Engineer'. No entry was made in the Company Electronic Data Entry System to indicate that engine washes had been performed.
+It was noted that an engine ground run was only performed after washing if the engine will not otherwise be started within the next 12 hours. The EMM was found to state that an engine run after wash is not required. It was found that Company procedures only required the wash on the left engine as the right engine had only recently been installed. 
+Considerable evidence that fatigue may have played a part in what happened was found. Both the Engineer’s roster and those of other maintenance personnel required them to work on an 8.5-hour shift each day, inclusive of a one-hour break, for 56 consecutive days, alternating between an early start day shift from 0600 to 1430 Local Time and a late shift  from 1330 to 2200 Local Time.  After completing 56 consecutive duty days, employees were then rostered 'off' for 28 consecutive days leave. No risk assessment or identification of potential hazards attributable to maintenance staff duty times was made available to the Investigation. The absence of any procedure for "measuring and mitigating the effects of fatigue for aircraft maintenance personnel" was noted as was the fact that this is not a regulatory requirement. There was also no evidence of maintenance personnel reporting any fatigue-related issues through the internal safety reporting system. 
+Finally, it was noted that under the Operator's Maintenance Organisation Exposition (MOE) the responsibility for the Maintenance Error Management System lies with the Quality Department. It was considered that this was "inconsistent with auditing and investigative principles, which require independence of, and separation of, the audit and investigation processes". 
+The Investigation examined relevant regulatory requirements and oversight procedures for maintenance approvals. It was noted that whilst flight crew working hours and rest periods are subject to strict control, no such requirements applied to maintenance personnel and GCAA Inspectors were not required to review duty hours practices. It was also noted that the GCAA "List of Examples of Reportable Incidents" only included fatigue of flight crew as a reportable incident with no similar requirement  for maintenance personnel to make such reports. The Operator had implemented an SMS but GCAA audit findings were found to have highlighted deficiencies "including inadequate staffing". One of these findings was found to the effect that "there was no record indicating that the Operator’s Quality Assurance had audited any aspect of the SMS" as required under applicable regulations and there were GCAA audit findings that "the Operator had insufficient aircraft maintenance manpower for the planned workload". 
+It was noted that the passenger who alerted the crew to abnormal condition of the right engine had also observed that the aircraft PA had been almost inaudible where he was seated when the pre departure cabin safety briefing for the incident flight was given due to the noise of the engines. 
+The formal statement of Cause was that the Serious Incident was due to "the (failure) to reinstall the left engine igniters on both of the aircraft’s engines following maintenance work". 
+Nineteen Contributory Factors relevant to the maintenance error were identified as follows:
+(a) Unrecorded maintenance work performed on the aircraft by the Operator’s maintenance personnel. 
+(b) Introduction of an engine wash without a maintenance Task Card. 
+(c) Engineer signed off work on the aircraft without verifying that the work had been performed. 
+(d) Mechanics performed unsupervised work. 
+(e) Mechanics performed engine motoring without the Operator’s approval. 
+(f) Work was performed on the aircraft without maintenance Task Card. 
+(g) Engine washes were not considered a critical task by the Operator. 
+(h) Performing similar tasks on both engines during the same maintenance visit. 
+(i) Not carrying out an engine run after the engine washes were performed. 
+(j) Not performing a system check of the engine ignition system after engine wash normalisation. 
+(k) Not attaching a telltale streamer to indicate that parts have been removed and are in a concealed area. 
+(l) Operator’s quality oversight, as unrecorded work was being performed regularly prior to the Incident. 
+(m) Mechanics not signing for work performed, following engine washes. 
+(n) The removal, in 2009, of the engine wash card which was requiring a signature by the mechanic, before the engineer signoff. 
+(o) The effect of fatigue on the decision making process of the Engineer due to his shift pattern of working an average of 8.5 hours a day for 32 days with 2 staggered days off. 
+(p) The Engineer, in addition to supervising the shift work, was required to enter data into the Operator’s electronic system. 
+(q) Application of the Operator’s human factors training, as unrecorded work was a practice associated with engine washes. 
+(r) The Operator’s SMS implementation, since there were GCAA audit findings between 2009 and 2012. 
+(s) Lack of guidance provided by the GCAA, and the Operator, of the effect of shift duty times, and management of the risk associated with fatigue. 
+Fourteen Safety Recommendations were made as follows:
+
+
+ that Abu Dhabi Aviation should review the process of identifying aircraft maintenance critical tasks and not limit this review process to engine washes. [SR45/2015]
+
+
+
+ that Abu Dhabi Aviation should review the practical implementation of aircraft maintenance human factors training and SMS awareness training. The documenting and signing for work performed on an aircraft should be emphasized during this training. [SR46/2015]
+
+
+
+ that Abu Dhabi Aviation should review and implement procedures, in line with SMS best practice, for risk mitigation for activities affecting aircraft maintenance. [SR47/2015]
+
+
+
+ that Abu Dhabi Aviation should review its procedures and implement control measures with regards to aircraft maintenance:
+
+
+(1) When unsupervised work has to be performed.
+(2) To implement best practices for conducting maintenance but not limited to, the use of work cards for maintenance tasks, especially those involving safety-critical functions that promote the recording and verification of delineated steps in the task that, if improperly completed, could lead to a loss of control.
+(3) Provide data entry support for aircraft maintenance personnel.
+[SR48/2015]
+
+
+ that Abu Dhabi Aviation should implement measures to enhance quality audit oversight in line with the requirements of the GCAA. [SR49/2015]
+
+
+
+ that Abu Dhabi Aviation should implement measures to have a safe cabin environment regarding passenger safety briefings so that announcements are audible and intelligible during all flight phases. [SR50/2015]
+
+
+
+ that Abu Dhabi Aviation should review CRM training between the flight crew and cabin crew that can add benefit to the flight crew decision making process. [SR51/2015]
+
+
+
+ that Abu Dhabi Aviation should ensure organizational and functional independence, between the audit and investigation processes, of the maintenance error management system, MEMS. [SR52/2015]
+
+
+
+ that the General Civil Aviation Authority (GCAA) should issue guidance to the industry for workers involved with safety sensitive jobs regarding to man-hour methodology, duty timings, including maximum days on duty, working hours, shift pattern, working beyond normal duty times, minimum rest between shifts and rest days. [SR53/2015]
+
+
+
+ that the General Civil Aviation Authority (GCAA) should issue guidance to the industry for workers involved with safety sensitive jobs regarding fatigue risk management. [SR54/2015]
+
+
+
+ that the General Civil Aviation Authority (GCAA) should establish a common data depository for collecting information on maintenance safety issues and errors, from UAE GCAA certificate holders, whereby the information can be de-identified, analyzed and the results made available to the industry. [SR55/2015]
+
+
+
+ that the General Civil Aviation Authority (GCAA) should gather maintenance errors and hazard identification information and should:
+
+
+(1) Disseminate this information to all UAE operators and certificate holders so that they are aware of the areas of concern that have been identified.
+(2) That this information to be inserted within the certificate holders training.
+(3) Access of this information should be available on the GCAA website for the benefit of the aviation industry.
+[SR56/2015]
+
+
+ that the General Civil Aviation Authority (GCAA) should amend CAAP 22 to include that aircraft maintenance personnel should report fatigue in a similar manner as aircrew report fatigue. [SR57/2015]
+
+
+
+ that the General Civil Aviation Authority (GCAA) should audit Operators regarding CAR-OPS 1.695 with specific reference to the audibility and intelligibility of the passenger address system. [SR58/2015]
+
+
+The Final Report was published on 15 September 2015.
+
+Related Articles
+
+ Maintenance Error
+
+ Maintenance Programme
+
+ Maintenance Workload
+
+ Maintenance Error Management System
+
+ Maintenance Error Decision Aid (MEDA)
+
+ The Human Factors "Dirty Dozen"
+
+
+
+
+
+

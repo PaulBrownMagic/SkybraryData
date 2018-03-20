@@ -1,0 +1,89 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+3 Related Articles
+4 Further Reading
+
+
+Description
+On 6 October 2014, the crew of an Airbus A320 (HB-IOP) being operated by Belair Airlines on an international passenger flight from Basel to Djerba as BHP 2532 made a take-off from an intersection with 2370 metres of runway length available using the reduced thrust calculated for the full runway length of 3900 metres. TOGA thrust was applied as the end of the runway got nearer and the aircraft rotated so as to achieve an otherwise uneventful take off. The rest of the flight was competed as intended.
+
+Investigation
+The notification of the Serious Incident was not received by the former Swiss Accident Investigation Board (SAIB) until 22 October at which point the respective French authorities were advised. They then delegated investigation to Switzerland and the SAIB opened an Investigation on 4 December 2014 and it passed to the Board's successor, the Swiss Transportation Safety Investigation Board (STSB), upon its creation. The late commencement of the Investigation resulted in relevant data on both the DFDR and the CVR being overwritten but QAR data and ATC recordings were available.
+It was noted that the flight crew consisted of a Commander with 6447 total flying hours including 3523 on the incident type, almost all of them on the incident aircraft type accompanied by a First Officer with 3771 hours total flying experience including 2856 on the incident type. 
+It was established that the aircraft commander had been PF for the flight and noted that the prevailing weather conditions for the departure were benign with light and variable winds. Runway 15 was the active runway in use and a corresponding departure clearance was given by ATC with the remark that they could request runway 33 - which they would prefer due to it requiring less taxi time - from GND during pushback. The necessary performance calculations for both possible runways at full length were carried out by both pilots on their EFBs, cross checked and entered into the FMGS by the commander in accordance with SOP. The commander and the First Officer then made similar calculations for intersection take offs from runway 15, assuming departure from the Golf and Hotel intersections respectively, but these were not cross checked or mentioned in the take-off briefing carried out before engine start. The diagram below shows the runway layout and, by timed annotation, the taxi route taken.
+
+ An edited copy of the Aerodrome Diagram from the Jeppesen  Manual annotated with the various timed positions of the aircraft involved (reproduced from the Official Report)
+During pushback, GND advised that use of runway 33 would incur a delay of approximately 20 minutes and the crew accepted a taxi clearance for a full length take off from runway 15. Taxiing out, they were instructed to follow another departing (Easyjet) A320 which had been instructed to taxi for departure from Golf. On switching to the TWR, the Belair crew, having agreed that the request should be made, also asked for an intersection Golf departure and advised "ready". TWR accepted this plan and instructed the aircraft to line up and wait with awareness that landing traffic was at 5 miles but the readback, with the aircraft still taxiing along 'B', was "holding short 15 Golf". Having confirmed that the Easyjet A320 was about to roll, TWR then warned the aircraft on approach to reduce to minimum safe approach speed because a second aircraft was going to depart before their landing. The Belair clearance to line up and wait at Golf was again given, then queried by the crew, but reconfirmed and finally acknowledged. Take off clearance followed approximately 20 seconds later as the aircraft was lining up with the advice that the aircraft on approach was at 3 miles. A rolling take off followed and reduced engine thrust as calculated for the full 3900 metre runway length and entered in the FMGS was set. The corresponding full length 'V speeds' as also previously entered were displayed. The actual runway length available for take-off from Golf was 2370 metres.
+As the take-off roll progressed, the commander "felt that the acceleration in relation to the position on the runway was unusual" and "realised that the take-off power that had been set did not correspond to that necessary". Forty seconds after receipt of the take-off clearance, at 140 KIAS and with 1150metres to go before the end of the runway, he therefore set TOGA power. He had seen from his EFB that the aircraft had already reached the speeds for an intersection take-off and so "rotated immediately" with the aircraft "approximately 790 metres from the end of the runway". The subsequent initial climb was made with a pitch attitude which reached 19.5º aircraft nose up, which had "exceeded the maximum pitch specified by the Flight Director by 2º", although it was accepted that "this high pitch had no negative effect on the climb". The subsequent flight to the intended destination was uneventful.   
+No evidence of relevant technical malfunction or crew fatigue was found and the Investigation focused on the procedural context for the eventual error and also looked at how take off performance procedures were documented at a number of other A320 operators.
+It was noted that the request for an intersection take off meant that time pressure inevitably followed and that the implications of continuing as requested and approved, even when it was clear that a rolling take off would be necessary, were not properly appreciated. It was considered that "doubt remains as to whether the "BEFORE TAKEOFF" Checklist items, which according to operating procedures should have been worked through, were worked through in their entirety under this time pressure".  It was also considered that some of the Operator's instructions for normal checklist completion prior to take off were "not appropriate in the case of important processes and make it possible for individual and even repeated errors to go un-detected". The use of 'silent checks' was assessed as especially inappropriate. It was noted that the procedures in place were themselves a result of changes made after a similar Serious Incident a year earlier that had introduced a new requirement, which, whilst it "may seem satisfactory from a legal perspective", was "less convincing from the perspective of flight safety", particularly when "cross-checking, which alone would lead to a marked reduction in the incidence of error, was once again excluded". 
+It was noted that it had been the Commander's "experience from numerous take-offs at Basel" that had allowed him to recognise during the take-off roll that "the relationship between the acceleration and the position on the runway was unusual" and respond as he did. However, whilst this had enabled a successful take off, calculations made during the Investigation showed that "it would, however, not have been possible to bring the aircraft to a standstill on the runway in the event of a rejected take-off that had been initiated at high speed".
+The formally stated Cause of the investigated Serious Incident was determined as "the fact that the aircraft did not achieve the necessary performance on take-off, because the flight crew performed the take-off from a taxiway intersection with an engine power which had been calculated for the entire length of the runway". 
+Three Contributory Factors were also identified:
+
+
+ Procedures which require checking essential items in silence, which means that cross-checking cannot take place in the spirit of a closed loop. 
+
+ The decision for an intersection take-off was made at short notice. 
+
+ Additional cross-checking of the data entered into the flight guidance system during the line-up, which had been recently introduced, was ineffective be-cause the flight crew were unaware of it. 
+
+
+Safety Action taken by Belair as a result of the occurrence was recorded as including the following changes in procedures:
+
+
+ a temporary ban on all intersection take-offs pending a revision of  procedures related to take-off performance assessment accompanied by amplification on the definition of an 'intersection take off' was implemented until a revised sequence of pre runway entry normal checks has been introduced. These new checks included the addition of a callout verification at runway entry that the take-off performance calculation is still valid.
+
+ all modifications to previously planned departures, including performance calculations and SID changes, and the corresponding re-briefings must only be actioned with the aircraft stopped and the parking brake applied
+
+
+A Safety Advice, a form of recommendation defined in STSB regulations as for use where a Safety Recommendation "does not appear to be appropriate, is not formally possible, or if the less prescriptive form of a safety advice is likely to have a greater effect", was issued as a result of the Investigation as follows:
+
+
+The Operator should optimise its procedures so that they exhibit high resilience. For example, applying a method of working in accordance with the closed loop principle can ensure that any errors or forgotten steps in the procedure can be quickly detected and rectified, especially in the case of reacting to a new situation. This should also include consideration of how much communication is appropriate within a multi-crew. On the one hand, the exchange of information should not be so great as to cause oversaturation or incorrect priorities to be set. On the other hand, situations where errors remain undetected due to insufficient communication or essential information is not made known to all crew members should be avoided. [Safety Advice No. 2]
+
+
+The Final Report was approved by the Swiss Transportation Safety Board (STSB) on 10 November 2015 and published on 1 December 2015. No Safety Recommendations were made.
+
+Related Articles
+
+Use of Erroneous Parameters at Take-Off
+
+Aircraft Performance
+
+European Action Plan for the Prevention of Runway Excursions (EAPPRE)
+
+Crew Resource Management
+
+Situational Awareness
+
+Interruption or Distraction
+
+Managing Interruptions and Distractions (OGHFA BN)
+
+Normal Checklists and Crew Coordination (OGHFA BN)
+
+
+Further Reading
+
+Airbus FOBN: “Revisiting the stop or go decision”, Dec 2015.
+
+
+
+
+
+

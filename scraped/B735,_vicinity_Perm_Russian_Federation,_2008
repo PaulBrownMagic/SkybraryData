@@ -1,0 +1,171 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Synopsis
+3 Related Articles
+4 Further Reading
+
+
+Description
+On September 13 2008, in night IMC a Boeing 737-500 being operated by Aeroflot-Nord was makimg a procedural approach to join the ILS final approach for runway 21 at Perm when loss of control occurred and terrain impact followed.
+
+Synopsis
+This is an extract from the aircraft accident Report (Final report B 737-505 VP-BKO) published by the Interstate Aviation Committee (MAK), Russian Federation:
+"[…] the crew started descent from the flight level to waypoint Mendeleyevo […]. After passing over Mendeleyevo, in compliance with the Perm Approach Control instruction, the aircraft flew via the outer marker […] of Runway 21 which is the initial approach fix (IAF) for Runway 21 (magnetic heading 212°). After passing over the RWY [runway] with heading 110° M, the crew, following the Controller’s instruction, turned right for back course and started maneuvering for ILS approach to Runway 21.
+After the base turn, approaching the landing course at 600 m with both autopilot and autothrottle disengaged, the aircraft started climbing up to 1300 m, rolled 360° over the left wing [then entered a deep descend with 65° nose down pitch] and collided with the ground."
+A very detailed description regarding the chain of events leading to the accident are given in the Analysis section of the Report, beginning on page 96.  Further, the Report uncovers the immediate events that led to the loss of control:
+"The abnormal situation on board started developing when the aircraft was at base leg, with landing gears extended and flaps 30 at 600 m. The aircraft was flying with the autopilot engaged and the autothrottle disengaged.
+The autothrottle was disengaged (with the relative alert activated) earlier, at establishing 2100 m by the cruise split monitor due to the significant thrust split. The crew did not attempt re-engaging the autothrottle.
+The Co-pilot was the PF [Pilot Flying] during most of the approach. As he did not have basic skills of flying multiengine aircraft with spaced-apart engines, he synchronically shifted the throttles for manual speed control and thus created a significant yawing moment to the left due to the thrust split. The PIC [pilot-in-command] (as the PM [Pilot Monitoring]) was engaged in the radio communication and did not monitor the engine parameters. The crew did not attempt to match the N1 [RPM of both engines].
+The pilots did not apply rudder to compensate the yaw moment, which led to a constant left banking. The autopilot's ability to counteract it by right wheel inputs was decreasing as the airspeed was dropping and the aerodynamic efficiency of the ailerons was decreasing.
+After the autopilot was saturated followed by 30° left bank, the Co-pilot, while compensating the roll, overrode the autopilot to the CWS [control wheel steering] ROLL and CWS PITCH mode.
+Then, in the CWS mode, the Co-pilot inadvertently pressed the manual stabilizer pushbutton, which disengaged the autopilot, accompanied with the relative alert. The crew switched off the alert and did not attempt to re-engage the autopilot.
+As the pilot lacked steady piloting skills, he could not monitor all the flight parameters (altitude, speed, roll and pitch) when flying manually. The flight was unstabilised with significant changes of altitude, speed, pitch and roll, and fluctuations of thrust. An increase in thrust led to a significant nose up pitching moment, high pitch attitude (up to 23°) and consequently to significant reduction of airspeed (three times - down to 112, 110 and 113 knots).
+The PIC was leading lengthy discussions with the Controller and did not monitor the flight properly, only interfering with the flight control from time to time.
+The crew did not follow the Controller’s instruction to terminate the approach and prepare for the second one.
+At altitude about 1200 m with airspeed of 120 knots (10 kts18.52 km/h 5.14 m/s lower than Vref) and left bank of about 30° the PIC, following the Co-pilot’s request, took control.
+Not having proper situation awareness the PIC abruptly applied left wheel, increasing the left bank up to over 70°. Despite the correct remark from the Co-pilot after which he initially used right wheel (decreasing the left bank to 30°), the PIC then abruptly and disproportionately made several wheel inputs causing rapid left banking, followed by left overturn and deep descent with 65° nose down pitch. It was impossible to recover from such upset at a low altitude."
+There is an extensive section in the Report reflecting the crew’s qualifications which specifies that the PIC underwent transitional training for Boeing-737 and during the course a co-pilot transition program was used. The training centre mentioned in the Report was neither approved nor accepted by the Russian aviation authorities. The Report states:
+[…] "because of substantial lack of documentation, it seems impossible to make a deep analysis of the amount of training received by the PIC during the transition course, the degree and quality of acquired skills and the instructors’ remarks."
+According to the Report several discrepancies were discovered in the airline operator documents regarding the training of the PIC and the co-pilot, additionally there were internal operators' requirements that the captain did not comply with. The Report uncovers that:
+Total solo flight experience of the PIC on Boeing 737 by the time of the accident was less than 500 hours.
+According to a note in the Report, the instructors at the training centre where the transition training was conducted expressed an opinion that pilots from Russia experience particular difficulties due to the general difference between western and eastern types of aircraft. Of special notice were problems with bank recovery due to different types of roll indication on the attitude indicators. 
+In a section titled Aircraft components of particular interest (page 27), the Report states:
+"In accordance with the provided data, before the accident flight, the Captain performed 20 flights on aircraft with the integarted cue EADI, the last flight - on September 11, 2008, while the co-pilot performed 10 flights totally, the last one - on August 04, 2008."
+Ten out of the 12 Boeing 737 aircraft operated by the airline by the time of the accident were fitted with the usual split command bars while two of them - with the integrated cue type attitude indicators (see Figure 1).
+
+Figure 1. Different EADI types (left to right -"normal", “integrated cue” and “eastern type attitude indicator”). Image Source: Final report B 737-505 VP-BKO
+The picture […] shows EADI readings at the moment when the PIC took control of the aircraft and deflected the control wheel abruptly to the left. For comparison the EADI installed on Tu-134 aircraft is shown on the right side of the picture. This EADI shows 40° of bank to the right (not to the left as it was during accident flight) and 7° pitch down (to make a more obvious comparison with the actual position of the command bars [installed on the accident aircraft]).
+After the accident the Russian CAA prohibited to the operator involved in the accident as well as to other Russian airlines, “to execute flights on aircraft of foreign manufacture that have a different type of attitude indication on the EADI than the standard type used during flight crew training before they (crew members) are trained for this type of indication on aircraft or simulator.”
+Regarding the loss of spatial orientation contributed by the attitude indication, the Report further clarifies:
+"The PIC was unable to determine the bank direction properly and recover spatial orientation, as he did not have steady upset recovery skills for aircraft with western type of attitude indicators installed on modern Russian and western aircraft. This type of indication is different from the one used on the aircraft operated by both pilots before the Boeing 737. The complicated situation accompanied with increasing emotional stress caused a negative transfer of piloting and flight control skills from the earlier aircraft type (Tu-134)."
+The assessment of the accident made by an independent expert pilot group stated, that “it is impracticable to use EADI’s with different types of indications on aircraft of one type within one airline.” Another problem is identified by the pilot working group which encompasses the transitioning from multi-crew aircraft to two-member crew aircraft and distribution of crewmembers’ duties.
+The technical condition of the aircraft is described in section “History of operation in Russia” (page 29) where it is stated:
+"The aircraft was dispatched for the last flight with two MEL [Minimum Equipment List] items: autothrottle inoperative […] and TCAS inoperative. […]The logbook does not contain any record if troubleshooting was done by the maintenance staff. […]
+The analysis showed that the autothrottle was operative. Its numerous disengagements during the flight were connected with the engine miss-trim which at part power led to a N1 split up to 20% with matching TLA [thrust lever angle], or a throttle stagger up to 15 degrees with matching N1. The left engine thrust was within the limitations at all modes, while the right engine thrust was higher than nominal. The engine trim was equal at idle and almost equal at takeoff mode.
+This defect first appeared on August 6, 2008 and, despite numerous records made by the flight crews in the flight log, it was not rectified by the maintenance personnel. The investigation team revealed that the relative AMM [aircraft maintenance manual] troubleshooting procedures were not followed, and the flight records were not used.
+[…] During the whole approach the abovementioned mistrim in the engines was present, which increased the workload on the crew during the approach with a disengaged autothrottle."
+The section of the Report titled “Pathological, Toxicological, Biochemical and Other Investigations” (page 66) reveales that the forensic medical expertise of the Captains’ body residue exposed “the presence of ethyl alcohol in his body before death”. No evidence of alcohol was found in the bodies of other crew members.
+The probable and contributing causes to the accident are stated in the Report’s section titled Conclusion (page 135) and are identified as:
+
+
+"The immediate cause of the accident was spatial disorientation of the crew, especially the Captain who was the pilot flying at the final stage of the flight, which led to the left flip-over, a steep descent and the crash of the aircraft. The spatial disorientation was experienced during the night time operation in clouds, with both autopilot and autothrottle disengaged. Contributing to the development of the spatial disorientation and failure to recover from it was a lack of proficiency in aircraft handling, crew resource management and of skills associated with upset recovery using "western"-type attitude indications that are found on foreign and modern Russian-made aircraft. This type of indication differs from the one used on aircraft types previously flown by the crew (Tupolev 134, Antonov 2).
+
+
+
+The systemic cause of the accident was insufficient management by the airline of flight and maintenance operations of the Boeing 737 type of aircraft. These deficiencies in the aircraft maintenance also revealed through safety inspections conducted by the Russian Transport Oversight Authority and the Russian CAA after the accident.
+
+
+
+Deficiencies in the aircraft maintenance led to a situation when flights were performed for a long time with a throttle stagger* that exceeded the limitations in the AMM and when the maintenance staff did not follow the AMM recommended troubleshooting procedures. The need to manage the throttle stagger during the approach increased crew workload.
+
+
+
+The forensic medical examination performed in the State Healthcare Center of Special Status “Perm Regional Forensic Expertise Bureau” confirmed the presence of ethyl alcohol in the Captain’s body before his death. The captain’s recent work schedule during the time period before the accident was conducive to fatigue and did not comply with national regulations."
+
+
+The Report produced numerous Safety Recommendations. They are addressed to the Russian Aviation Authorities, the airline operator and maintenance organisation as well as to the aircraft manufacturer and to the organisation dealing with the English language training and proficiency. Some of the recommendations are:
+
+
+"Develop a CRM training program for flight crews that fly two-member crew aircraft and ensure this program is mandatory for flight personnel who transition from multi-crew aircraft.
+
+
+
+Ensure that the aviation psychologists when selecting personnel for transition training should pay attention to the personality traits of the candidates with regard to their emotional reactions and behavior in abnormal situations (high workload, stress, etc.), and if they find negative traits, should give recommendations on their suitability for transition training and/or the necessity of individual approach during the training.
+
+
+
+Arrange and conduct research of spatial disorientation and upset conditions and develop practical safety measures. Based on the research results, develop and implement a special flight crew training course (similar to Upset Recovery Training) that would contain theory and practice.
+
+
+
+Consider the practicability of using aircraft with western type attitude indicators at colleges of initial flight training. While Russian training aircraft of such type would be designed, consider the practicability of acquiring western aircraft suitable for initial training. As an alternative measure, consider installing western type attitude indicators on the already used Russian training aircraft.
+
+
+
+Ensure continuous MEL usage monitoring. Avoid flights with extended MEL items without a detailed analysis of any particular case.
+
+
+
+ Together with the equipment manufacturer consider the practicability of replacing the artificial voice warning "Bank angle" by a similar phrase which would indicate the direction of bank (left/right). "
+
+
+For complete list of the Safety Recommendations see the official accident Report in Further Reading (page 137).
+
+Notes of the SKYbrary editor:
+* ”simple meteorological conditions” are used as a term in the Final report B 737-505 VP-BKO. Further clarification in the report regarding this term is made: “According to the Russian regulations meteorological conditions (at an airport) not worse than 2000 m visibility and 200 m ceiling are considered to be simple ones.”  
+* throttle stagger - throttle stagger is the term which is used to describe the existence of a difference in the relative position of thrust / power levers when equal thrust or power is set on all engines. 
+
+
+Related Articles
+HF
+
+
+CRM
+
+Situational Awareness
+
+Task Prioritisation and Task Sharing
+
+Cross-checking Process
+
+
+LOC
+
+
+Bank Angle Awareness
+
+Recovery from Unusual Aircraft Attitudes
+
+Flight Instrument Presentation of Aircraft Attitude
+
+Stabilised Approach
+
+Accident and Serious Incident Reports: LOC
+
+
+Other Similar A&SI Reports:
+
+
+SF34, Crossair, Zurich Switzerland, 2000
+
+
+OGHFA BN
+
+
+Automated Cockpit Guidelines
+
+CRM Skills Training
+
+Decision-Making Training
+
+Normal Checklists and Crew Coordination
+
+
+Further Reading
+
+Final report B 737-505 VP-BKO, the Interstate Aviation Committee (MAK), Russian Federation.
+
+ICAO Amendment No.3 to PANS-TRG (Doc 9868) - Chapter 7, Upset Prevention and Recovery Training, April 2014.
+
+FAA AC 120-111 Upset Prevention and Recovery Training, April 2015.
+
+
+
+
+
+

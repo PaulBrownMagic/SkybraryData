@@ -1,0 +1,76 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 5 March 2011, an Airbus A320-200 being operated by Finnair on a scheduled passenger flight from Helsinki to London Heathrow was en route in Swedish airspace in the cruise at FL360 in day VMC when the no 2 bleed air system failed. Because the aircraft was operating under release to service with No 1 bleed air system inoperative and both air conditioning packs were being supplied by No 2 system, an emergency descent became necessary. It was subsequently possible to restart the failed bleed air system and the planned flight was continued to destination at a lower altitude. 
+
+Investigation
+An Investigation was carried out by the Finland Safety Investigation Authority. FDR and CVR data were successfully downloaded but as the two hour CVR had not been stopped until after the flight landed, data from the time of the incident had been overwritten. 
+It was noted that the release to service with No 1 bleed air system inoperative was allowed under MEL procedures for up to 10 days. The incident flight was the eighth day of this ten day period and all flights since the beginning of this period had been uneventful. During the period, attempts to rectify the fault had been made but without success. It was also noted that raising an ADD for the fault did not place any operational restrictions on the conduct of flights, although the MEL did provide the flight crew with some instructions for precautionary action prior to the flight as well as actions to take during the flight.
+It was noted that the First Officer had been designated as PF for the flight and that the No 2 bleed air system had failed ten minutes after reaching cruise altitude, 48 minutes after take off. Shortly after the crew had noticed that the right engine bleed air pressure and the cabin pressure was fluctuating, an ECAM ‘AIR ENG 2 BLEED FAULT’ had been annunciated because the temperature of the No 2 bleed air system had exceeded the maximum permitted temperature of 257° C and so the system had shut down. Recognising that a prompt descent would now be necessary, the aircraft commander had decided to take over as PF. He “did not deem it necessary to squawk 7700 (emergency) on the radar transponder as they were already maintaining continuous contact with the air traffic control”. A lower level was immediately requested from ATC and received (FL300), followed in time to maintain a continuous descent by re-clearance to FL200 and finally to FL100. After clearance to FL100 had been given, the ECAM Warning of High Cabin Altitude, which is triggered at a cabin altitude of 9450 feet and mandates an emergency descent, was annunciated and as per SOP, both pilots then donned their emergency oxygen masks and the PF increased the rate of descent by extending the speed brakes.
+As the descent continued, the bleed air temperature in the No 2 system cooled and the crew were successful in their attempt to reset the system 2 so that normal cabin pressurisation was restored. Noting that the engine 2 bleed air temperature was remaining within its normal limits, the PF stopped the descent at FL 140 and, having assessed that there was sufficient fuel remaining to complete the flight to destination even at a lower level, ATC were advised that they would like to return to FL 250 for the remainder of the journey. Thereafter, the No 2 bleed air system temperature was observed to climb slowly until it almost reached its maximum permitted value during the last 20 minutes of the cruise.  
+Since the cabin altitude had remained below the level which would have caused the deployment of passenger emergency oxygen masks in the cabin and they had not had to be manually deployed, the aircraft commander advised ATC that he did not deem the occurrence to be an emergency.
+It was noted that the flight crew had not started the Auxiliary Power Unit (APU) even though the Bleed recovery was not complete and it can independently supply an additional source of bleed air. The APU, which was serviceable for the incident flight, can provide bleed air up to FL 200. All that is required is that it is first started (for which there are no altitude restrictions) and its bleed air supply function is then selected.  It was considered that once the situation stabilised, “the flight crew should have supplemented their actions by starting the APU as a backup system for cabin pressurisation” and noted that had they done so, the highest safe altitude without engine bleed air would have been FL 200 rather than FL 100. Because this action was not taken, it was considered that when the temperature of the operative bleed air system climbed very close to its maximum value in the 20 minutes prior to descent from the revised cruising altitude, “the probability of one more emergency descent was high”. 
+It was noted that by design, the A320 ECAM does not annunciate the failure of a remaining operative bleed air system after the other has been disabled as a Dual Bleed Fault. In respect of continuing problems with bleed air system reliability on A320 series aircraft and pending improvements in the in-service “robustness” of these systems, Airbus were found to have published an “Operations Engineering Bulletin” (OEB) for the A320 fleet in March 2010 and recommended its distribution to flight crew. This provided crews with modified responses to related ECAM annunciations from those on the QRH. It was considered that all bleed air system emergency instructions should have been displayed on the ECAM. The situation which had actually prevailed where the flight crew had to read procedures from the MEL, the OEB and the QRH was considered unhelpful. A further degree of complexity involving the OEB was considered to exist because it included both pre departure flight crew instructions for reducing stress to a single operative bleed air system and additional procedures after an in-flight failure. 
+The Investigation also noted, in passing, that “at the time of the event, the Airbus MMEL was erroneously referring, for crew awareness, to the OEB 203 in case of second bleed loss”. 
+The fault in the No 2 bleed air system was subsequently found to have originated with the failure of the Fan Air Valve (FAV) which controls bleed air temperature by adjusting the volume of air passing through the Pre Cooler Exchange (PCE). This would have made the risk of a bleed air overheat, for which detection and system shutdown action was controlled by the Temperature Limitation Thermostat (TLT), higher than usual. It was noticed whilst replacing the FAV and all the related components in the system, that not only the FAV and TLT but also the Temperature Control Thermostat (TCT), the Over Pressure Valve (OPV) and the Pressure Regulating Valve (PRV) were all extremely dirty. Bench testing by the OEM found that these parts were out of operating limits.
+It was noted that five separate engine bleed air system modifications had been published prior to the incident flight. In 2008, Finnair had decided to implement all these modifications as and when the components involved were removed for repairs.  In the case of the Incident aircraft, six of the ten modifications (5 modifications per engine) had been completed. The Investigation was advised that, as a result of the investigated incident, the modification work schedule was to be expedited.   
+The Investigation considered the aircraft commander’s decision not to declare an emergency was inappropriate. In that respect the Investigation took the following view:
+“The investigators want to highlight the fact that even if the causes of an atypical situation seem logical, an unlikely chain of events may conceal the root cause. It is important to keep the threshold for declaring an emergency as low as possible. An emergency can always be cancelled if it turns out to be disproportionate to the situation. The purpose of the legal and operational status of a declared emergency is to maximise the safety of aviation. The purpose of a MAYDAY call is to inform all possible parties, the air traffic control and any nearby aircraft of an occurrence that jeopardises the safety of aviation.” 
+The Investigation concluded that the Probable Cause of the Serious Incident was:
+“Rising Cabin Pressure which, in turn, could have been the result of a failure of the Fan Air Valve (FAV) or Temperature Control Thermostat (TCT) grid filter clogging in the right engine's bleed air system. With the other system being inoperative for flight, the cooling capacity of only one system proved insufficient. The pre-cooled air was too hot, therefore the temperature sensor of the system worked as per its design and shut off the overheated system.”
+Two Safety Recommendations were issued as a result of the Investigation as follows: 
+
+
+ that the EASA oblige Airbus S.A.S. to compile all engine bleed air failure-related emergency procedures that pilots use, and display the complete set of instructions on the ECAM. 
+
+ that the EASA oblige Airbus S.A.S. to amend the OEB in a manner that clearly segregates the procedures for prior to the flight and during the flight. Additionally Airbus S.A.S. needs to (ensure) that all the appropriate actions included in the OEB are in line with QRH. 
+
+
+Three other “observations and proposals” were made as a result of the Investigation 
+
+
+ The desirability for Serious Incident Investigation of access to CVR data for the complete flight was re-stated. The existence of an earlier SIA Recommendation on this subject was noted and described as including a more detailed analysis of the topic.
+
+ During a simulator training session 18 months previously, the incident pilots had practiced emergency descents. The investigators considered it “sensible to also practice declaring an emergency, so as to lower the functional threshold for doing so”. 
+
+ The applicable Airbus QRH was noted to “repeatedly use the expression 'descend rapidly' in the context of in-flight depressurisation” It was considered that this phrase “may lead flight crews to believe that the situation does not entail an emergency” when in fact “aircraft depressurisation is always an emergency and flight crews should use the phrase 'emergency descent' in their transmissions”. 
+
+
+The Final Report of the Investigation was completed on 17 January 2013 and subsequently made available in English translation.  
+
+Further Reading
+
+Emergency Descent in High Traffic Density Situations
+
+Pressurisation Problems: Guidance for Flight Crews
+
+Emergency Descent: Guidance for Controllers
+
+Hypoxia
+
+Time of Useful Consciousness
+
+Aircraft Pressurisation Systems
+
+Oxygen Systems
+
+
+
+
+
+

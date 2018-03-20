@@ -1,0 +1,118 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 5 January 2014, an Airbus A380-800 (9V-SKE) being operated by Singapore Airlines on a scheduled international passenger flight from London Heathrow to Singapore and in the cruise at FL370 at night in unrecorded flying conditions experienced a progressive loss of cabin pressurisation accompanied by increasing air noise from door 3L. As the cabin altitude approached 10,000 feet, an emergency descent was initiated and a MAYDAY declared. A diversion was initially planned by turning back to Ashgabat, Turkmenistan but after ATC advised that this airport could not accept an A380, the turn back was continued westwards to Baku, Azerbaijan which was reached without further event.
+
+Investigation
+An Investigation was commenced by the Singapore AAIB. The DFDR was removed and relevant data successfully downloaded but the CVR data had been overwritten and were no longer available. An Interim Report providing information on the initial progress in the Investigation was completed on 21 September 2015.
+It was noted that the operating flight crew consisted of a 56 year old Captain with 16,815 total flying hours including 4,465 on the incident type accompanied by a 37 year old First Officer with 6,261 total flying hours including 1,903 hours on the incident type. A relief crew was also on board - a 49 year old Captain with 15,041 total flying hours including 1,100 on type and a 40 year old First Officer with 2,608 total flying hours with 392 on type. 
+It was established that door 3L was already the subject of an ADD submitted on 23 December 2013 after a "loud noise" coming from it had been reported and a slightly worn seal was found on the door's upper edge. This action allowed a 120 day period for any necessary rectification. After the door had been reported as noisy en route by the Cabin Crew on the previous day’s flight by the aircraft from Singapore to London but inspection by one of the pilots had not found "anything unusual other than the loud noise", maintenance personnel at Heathrow had carried out a full inspection of the door but found "no anomaly other than the slightly-worn seal noted previously" and the existing ADD remained open. 
+After take-off from Heathrow, the member of cabin crew seated at door 3L heard the noise but did not detect any air leak or vibration. The senior cabin crew was advised and, after also not detecting any air leak or vibration, elected to inform the flight crew once the aircraft had reached its cruise altitude of FL370. At this point, the cabin altitude was indicating the normal (for this aircraft type) of 6,000 feet. However, it was reported that the noise was loud enough in the area around the door to prevent PA announcements being heard. Once notified of the situation, one of the flight crew then inspected the door but reported that nothing unusual was apparent except the noise. Although aware of a localised PA audibility problem caused by the door noise, the flight crew initially decided to continue towards destination whilst monitoring the (normal at that time) status of the aircraft pressurisation system on the basis that a worn seal at the affected door was already recorded as an ADD and that the subject door assembly had been specifically inspected by maintenance personnel after the previous arrival into London. An ACARS message was sent to the Company requesting that the problem be rectified before the next flight. 
+Then, about five hours into the flight, an ECAM 'Cabin Altitude Advisory' was annunciated. It subsequently disappeared, but about 30 minutes later the cabin altitude began to climb slowly. Eventually, an ECAM Warning of excess cabin altitude occurred. An emergency descent was initiated as the cabin altitude approached 10,000 feet and a MAYDAY was declared to Kabul ACC. No response was received until the call was relayed by another aircraft. It was decided to turn back towards Ashgabat, which was the nearest "Decompression Alternate (DA)" - a term used by the Aircraft Operator to "denote an identified aerodrome used for diversion after an aircraft has experienced a decompression when flying over high terrain" - listed in the Operator’s A380 Supplementary Procedures and identified on the flight plan. Kabul ATC were informed accordingly and although the applicable Emergency Checklist did not require it, it was decided to manually deploy the passenger oxygen masks as a precaution. 
+During the diversion, the flight crew reported that Turkmenabat ATC had advised that Ashgabat was "not suitable for A380 aircraft" and they had, after consulting the Company via SATCOM, decided instead to continue westwards and divert to Baku in Azerbaijan. This revised plan was successfully accomplished. 
+
+ The aircraft track prior to and after diversion was initiated (reproduced from the Official Report)
+After arrival at Baku, the skin of door 3L was found to be torn and bent backwards at the top left hand corner of the door and the window blind on the door was observed to have collapsed. The illustrations below show this. According to Airbus, this was the first record of such a door skin failure since the start of A380 operations. 
+
+ Door 3L after removal showing the damaged skin (reproduced from the Official Report)
+ The torn Door 3L window shade (reproduced from the Official Report)
+The Investigation found that the cause of damage to the door had been a fatigue crack which passed through several successive rivet holes in the door Cover Plate (CP). This (Batch 1) CP was found to have been installed after reports of door noise in 2008. However, over the next 4 years, reports of noise from the door continued and eventually, in August 2012, the installed GFRP laminate CP was again replaced, this time with an improved (Batch 3) type which included a steel plate embedded in the GFRP laminate to improve its stiffness. However, the Investigation found evidence that showed that the fatigue crack had already been present when the door 3L CP was replaced in 2012 and it was considered that this crack had probably been the result of "high cycle fatigue under varying amplitude loading due to the fluttering of the Batch 1 CP that was initially installed on the aircraft".
+In respect of the noise from door 3L prior to the failure to sustain normal pressurisation, the Investigation did not establish whether the flight crew had recognised the extent to which the noise had caused discomfort to passengers or prevented them from discerning the content of PA announcements. However, since there was no guidance for the Operator's flight crews on how to respond to such situations, it followed that the decision on how to respond would be made on an ad hoc basis. 
+The Investigation also found that the manual deployment of oxygen masks after the emergency descent due to rising cabin altitude had been followed by reports that the supply of oxygen from a few PSUs in the passenger cabins and from some of the 13 in the Cabin Crew Rest Compartment (CCRC) did not function correctly. Examination of all these masks found that they were serviceable. In the case of those in the CCRC, it was found that not all cabin crew members seemed to appreciate that when lying down in the bunks, releasing the lanyard pin to allow oxygen flow to begin requires them to make a conscious effort to pull on the mask.    
+The fact that the suitability of the diversion airport listed in Company documentation had apparently been questionable led the Investigation to examine the RFFS categorisation system and its potential effects on the flight planning of en route alternates of the available RFFS capability and its effects on occupant survival in the event of an emergency evacuation in the presence of fire. It was noted that the normal RFFS category for an Airbus A380 is 10 - with category 9 automatically acceptable subject to an aerodrome movements criterion provided in ICAO Annex 14.
+It was noted that the lowest en route diversion RFFS Category which an A380 operated by Singapore Airlines could accept was Category 4 based on a submission to and approval by the regulatory authority based on the proposition that "the probability of an in-flight diversion to an en route alternate is no higher than that of an in-flight diversion to an EDTO en route alternate which allows the use of that minimum for planning purposes". Although the requirements for RFFS Category 4 (1 vehicle instead of 3 and only 8% of the quantity of water for foam generation required for Level 10), the Investigation was unable to find any risk-based justification in ICAO Standards for this or indeed any reduction in the normally required RFFS when selecting en route diversion aerodromes. It was nevertheless concluded that "presumably ICAO has done a thorough risk evaluation to come to the conclusion that (any) correspondingly lowered level of fire protection remains acceptable, with or without any additional measures to be put in place". The effect of this situation was noted as being that flight crews contemplating an en route diversion would not be aware of the potential consequences of diverting to aerodromes with fire protection levels less than those for the origin and planned destination of flights. The Investigation also identified some potential confusion in the way the automatic acceptance of a 'normally-determined-minus-one' RFFS Category was documented in Annex 6.
+The formally stated Conclusions of the Investigation were as follows: 
+
+
+The Door 3L failure was traced to a crack passing through a number of rivet holes on the door skin. The crack was probably caused by high cycle fatigue under varying amplitude loading due to the fluttering of the Batch 1 CP that was initially installed on the aircraft. Once the crack was initiated, the stiffer Batch 3 CP could not prevent further propagation of the crack. 
+
+ There were traces of sealant and paint in the crack surfaces as well as on the countersunk surfaces of two rivet holes, meaning that the crack was present when CP was replaced in August 2012.
+
+ As regards the PSUs in the bunks in the CCRC, some cabin crew members did not seem to be aware that a conscious effort is needed to pull on the mask, when lying down, in order to release the lanyard pin to allow oxygen to flow to the mask. 
+
+The amount of water required to be made available at an aerodrome of Category 'X' can be significantly different from that required of a Category 'X-1' aerodrome. The smaller amount of water available at the Category 'X-1' aerodrome could compromise the desired RFFS protection level. ICAO guidance material does not seem to offer a methodology for airline operators to evaluate the extent of the compromise in fire protection level when an aerodrome of a lower category than the aeroplane category is used.
+
+
+Safety Action taken during the Investigation was noted as including the following:
+
+
+ Airbus issued an Alert to all A380 Operators which included the introduction of a smartphone noise recording procedure for flight crew.
+
+ Airbus issued Service Bulletins for both door structure reinforcement to provide additional margin against vibrations and requiring repetitive ultrasonic inspection pending the incorporation of the door structure reinforcement, the latter of which became the subject of EASA AD 2014-0253.
+
+ Airbus encouraged Operators to retrofit Batch 1 or Batch 2 Door Cover Plates with Batch 3 components and initiated monitoring of the retrofit status of all in-service A380 aircraft.
+
+ Singapore Airlines sought to enhance cabin crew awareness of the correct use of the passenger and crew rest oxygen system by multiple methods. 
+
+ Singapore Airlines carried out a fleet-wide inspection to verify that all A380 passenger doors were free from crack initiations and changed all door Cover Panels to the Batch 3 improved type.
+
+ Singapore Airlines updated its procedures to include the use of megaphone as an alternate means for unforeseen situations where the cabin noise level prevents cabin announcements from being audible to cabin crew and/or passengers (in response to Safety Recommendation R-2015-008 issued in 2015 -see below) 
+
+
+Five Safety Recommendations were made as a result of the Investigation as follows: 
+In the Interim Report completed on 21 September 2015:
+
+
+ that Singapore Airlines assess the effectiveness of the use of megaphones as a means for its crews to give instructions to passengers in an emergency when the noise level in the cabin is such as to prevent passengers from hearing clearly the instructions through the aircraft’s public address system. [R-2015-008]
+
+
+In the Final Report
+
+
+ that the Aircraft Operator review its potential use of en-route aerodromes with a lower RFFS category than that reflected in ICAO guidance material. [TSIB RA2017-008]
+
+ that the CAA Singapore review the operator’s potential use of en-route aerodromes with a lower RFFS category than that reflected in ICAO guidance material. [TSIB RA-2017-009]
+
+ that ICAO consider providing guidance material on assessment of risks when an aircraft has to land at an aerodrome of a lower RFFS category than a desired one. [TSIB RA-2017-010]
+
+ that ICAO consider amending paragraph 9.2.3 of Annex 14 Volume 1 as follows: 
+
+
+
+“The level of protection provided at an aerodrome for rescue and fire fighting shall be appropriate to the aerodrome category determined using the principles in 9.2.5 and 9.2.6, except that, where the number of movements of the aeroplanes in the highest category normally using the aerodrome is less than 700 in the busiest consecutive three months, the level of protection provided shall be not lower than one category below the determined category.” [TSIB RA-2017-011]
+
+
+The Final Report was published on 18 April 2017.
+
+Related Articles
+
+Loss of Cabin Pressurisation
+
+Pressurisation Problems: Guidance for Flight Crews
+
+Emergency Descent: Guidance for Controllers
+
+Mountainous Terrain Escape Routes
+
+Oxygen Systems
+
+Aircraft Certification and Production Standards
+
+Damage Tolerance
+
+Ageing Aircraft - Structural Failure
+
+Continuing Airworthiness
+
+Rescue and Fire Fighting Services
+
+
+
+
+
+

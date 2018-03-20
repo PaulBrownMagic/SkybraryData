@@ -1,0 +1,197 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 Description
+2 Investigation
+3 Related Articles
+4 Further Reading
+
+
+Description
+On 16 January 2013, a Boeing 787-8 (JA804A) being operated by All Nippon Airways (ANA) on a scheduled passenger flight from Yamaguchi-Ube to Tokyo Haneda in day VMC made an emergency diversion to Takamatsu after a main battery failure was annunciated climbing through FL320. After smoke was seen coming from the aircraft by ATC following a landing on runway 26, an emergency evacuation was completed with four of the 137 occupants sustaining minor injuries.
+
+Investigation
+An Investigation was carried out by the Japan TSB with awareness of the apparently similar event to an out of service aircraft of the same type at Boston US, nine days earlier. FAA action later on 16 January in issuing an AD prohibiting any further flight by US-registered 787 aircraft until corrective action to be determined had been notified and complied with was noted. Further FAA action on 26 April 2013, the issue of  AD 2013-08-12 detailing the required battery system modifications to be actioned prior to further flight by grounded 787s, was also noted.
+It was established that the first sign of an electrical problem in flight had been the EICAS annunciation of "ELEC MAIN BATTERY" as the aircraft passed FL320 in the climb to its intended cruise altitude sixteen minutes after take off. This annunciation was accompanied by an electrical smell and an indication of a slight drop in indicated battery output voltage from 31 volts. Within a few seconds, the indicated battery output voltage had dropped to 11 volts and the EICAS annunciation of "EMER LIGHTS" had occurred. Shortly after that, the EICAS annunciation "SMOKE EQUP CLG FWD" was also annunciated. An emergency was declared due to smoke and a diversion to Takamatsu was initiated using an initially high rate of descent.   
+After a visual approach to a landing on runway 26, the aircraft cleared the runway and, upon ATC approval of a crew request, was stopped on a taxiway. With "SMOKE" annunciations still occurring, ATC then advised that smoke could be seen coming from the aircraft and the commander shut down the engines and ordered an emergency evacuation. Slide function at all seven doors used for the evacuation was normal but the time taken to accomplish it was reported to have been "3 to 4 minutes". The four minor injuries to passengers were sustained on arrival at the bottom of the evacuation slides used. After the occupants had been led to the airport terminal building, the aircraft was towed to a parking stand.  
+The main battery and all its eight cells were later found to have been severely heat damaged and the battery case ground wire was found to be fused open. The cables connecting the battery with the Battery Diode Module and with the Battery Charging Unit (BCU) were intact and the battery case had no discoloration or puncture caused by arcing. There was no sign of fire near the main battery, but molten material was found to have covered the top of the battery cells and seeped out of the battery case through a gap between the case and the lid created by distortion of the lid during the failure and been deposited on the battery tray after running down the walls of the battery case. Also there was "soot-like material on the BCU case and nearby battery rack side walls and upper wall".
+Evidence, including that  drawn from extensive testing and simulation, was found to point to a thermal runaway within the failed battery which had originated in one of the  main battery cells during the flight. It was not possible to determine unequivocally what the origin of the cell failure was, but the most likely cause was considered to be an internal short circuit. It was noted that the likely reason for the detected burning smell was that although the smoke from the failing battery would have been "extracted overboard through the override valve and forward outflow valve…part of it was (then) sucked in from the cabin air compression inlet" thereby entering the air conditioning system. Since the smoke ventilation system had started to function after the main battery voltage began to drop, it was considered "highly probable that the system operated as designed". 
+It was noted that "although the probabilities of cell venting under the condition of multiple failures of power sources are very remote", the main battery is the primary source of electrical power if multiple failures of electrical power sources on the aircraft become inoperative. It was therefore concluded that "it would be a grave situation if that actually happened" and that "in light of three similar battery events, consideration should be given to the risk assessment of this issue".
+The summary of the Findings of the Investigation included the following:
+
+
+
+The battery cell which initiated the event was very likely cell 6.
+
+
+
+
+
+
+A possible origin of heat generated within the battery is, among other things, an internal short circuit. Three possible candidates for such a short circuit were identified:
+
+	lithium metal deposition in the cell
+
+	metal piece contamination
+
+     a damaged separator. 
+
+
+
+
+
+However, no mechanism of internal short circuit was conclusively identified so we are unable to exclude the possible involvement of other factors associated with design and manufacturing.
+
+
+
+
+ We cannot disregard the fact that all battery incidents (the serious incident inclusive) occurred in winter. Therefore, at present low temperature environment was the possible contributing factor to the battery failure.
+
+
+
+
+
+
+ We note that safety problems associated with lithium-ion batteries during the type certification process included overcharging, over-discharging and flammability of cell components and consider that the FAA "probably underestimated the risk of internal short circuit during the Special Conditions Study" which informed the decision to issue a Type Certificate.
+
+
+
+
+
+
+ At the time of the serious incident, the global 787 fleet had accumulated flight time of approximately 50,000 hours. This meant that the actual statistical probability for the occurrence of a “battery vent and/or smoke (without fire)” was 4 x 10-5 per flight hour, well above the estimated 1 x 10-7 per flight hour.
+
+
+
+
+
+
+ The probability of cell failure was based on the cell failure record of industrial Li-ion batteries, which have different cells to those used in the 787 batteries. It also appears that a lower than usual measure of statistical confidence (60%) as stipulated in Japanese Industrial Standards C 5003 may have been applied to the data used compare to the confidence levels of 95% or 99% which are normally used.
+
+
+
+
+
+
+ The handling of internal short circuit test by GS Yuasa during the development phase of the battery was  inappropriate in that it did not simulate actual on-board configuration and because of that, the test did not develop into a thermal 
+
+
+
+
+
+
+ The applicable FAA Li-ion battery airworthiness standard in TSO-179a based on RTCA/DO-311does not stipulate test procedures which will properly simulate an  internal short circuit in an on-board environment and should be amended.
+
+
+
+
+The Investigation determined that the Probable Cause of the event was that “the internal short circuit of a cell developed into cell heat generation, thermal propagation to other cells and consequently damaged the whole battery". 
+The possible Contributing Factors to the thermal propagation were identified as:
+
+
+
+ the test conducted during the developmental phase did not appropriately simulate the on-board configuration 
+
+
+
+
+
+
+ the effects of internal short circuit were underestimated.
+
+
+
+
+Safety Action since the investigated event was noted as having been taken by:
+
+
+ Boeing with FAA approval - elimination of potential cell failure causes, measures against cell-to-cell propagation and measures against battery venting
+
+
+
+ The FAA and endorsed by the Japan Civil Aviation Bureau (JCAB) - determination of battery system modifications necessary to return 787s to service.
+
+
+
+ The JCAB - the issue of an AD based on FAA AD 2013-08-12 and requesting that Japanese airlines "take utmost measures for equipment inspection and maintenance and pilot training while releasing safety information to customers". 
+
+
+It was also noted that on 14 January 14 2014, a mechanic who had been on board a Japan Airlines 787 parked at Narita International Airport to prepare it for the next flight "saw smoke flowing outboard and confirmed a message of failed main battery and battery charger unit on the EICAS screen" and that investigation had found that "cell 5 had vented and the remaining seven cells were still producing a normal voltage (approximately 4 volts)".  However, in this case, following the 2013 modifications to all 787 aircraft in which the main and APU batteries were re-installed inside metal enclosures ducted to the outside of the airplane, the enclosure box prevented any electrolyte from escaping into the cabin and expelled it overboard.
+Seven Safety Recommendations were made as a result of the Investigation as follows:
+
+
+ that the FAA should provide instruction to airplane manufacturers and equipment manufacturers to perform equipment tests simulating actual flight operations.
+
+
+
+ that the FAA should review the technical standards for Lithium Ion Batteries to ensure that the electric environment is appropriately simulated and, if necessary, amend the standards.
+
+
+
+ that the FAA should review the Lithium Ion Battery failure rate estimated during the 787 type certification and, if necessary based on its result, review the safety assessment of the battery.
+
+
+
+ that the FAA should review the (787) Type Certificate (in respect of) its appropriateness on heat propagation risk.
+
+
+
+ that the FAA should assess the impact of (battery) contactor opening after a cell vents on flight operations and take appropriate action if necessary.
+
+
+
+ that the FAA should supervise Boeing to continue the study of internal short circuit mechanism considering the effects of non-uniform winding formation and other factors deriving from manufacturing process; and continue efforts to improve the  quality of Lithium Ion Batteries and their reliability, reviewing their operational conditions such as temperature.
+
+
+
+ that the FAA should supervise Boeing to (address) Battery Charging Unit and (battery) contactor operations which are not intended in the design envelope.
+
+
+The Final Report was adopted by the Board on 19 September 2014, published on 25 September 2014 and subsequently made available in English translation. 
+
+
+Related Articles
+
+ Lithium-Ion Aircraft Batteries as a Smoke/Fire Risk
+
+ Aircraft Batteries
+
+ Fire, Smoke and Fumes
+
+ Aircraft Certification and Production Standards
+
+ Flight Data Recorder (FDR)
+
+
+Further Reading
+
+ NTSB: Primer on lithium ion battery technology
+
+ UK CAA: A Benefit Analysis for Enhanced Protection from Fires in Hidden Areas on Transport Aircraft
+
+ Fade-Free Memory, Wayne Rosenkrans, Aerosafety World, Jan 2008
+
+ FAA Airworthiness Directive: AD 2013-08-12, (Docket No. FAA-2013-0333; Directorate Identifier 2013-NM-080-AD; Amendment 39-17436; AD 2013-08-12)
+
+ FAA Advisory Circular: AC No: 25-19A Certification Maintenance Requirements
+
+
+
+
+
+
