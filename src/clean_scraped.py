@@ -18,7 +18,7 @@ def pmap(func, iterable):
 
 
 def notnl(l):
-    return l != '\n'
+    return l != '\n' and len(l) > 0
 
 
 def sections(content):

@@ -4,6 +4,7 @@ from rdflib.namespace import RDF, RDFS, OWL, DCTERMS, Namespace
 
 from config import BASE_DIR, RDF_BASE_URL
 from src.html_scraper import scrape_to_file
+from src.clean_scraped import sections
 from src.bin_clean import bin_clean
 
 XMLF = "application/rdf+xml"
@@ -83,8 +84,9 @@ class Ontology(Graph):
             rdf_file.write(self.serialize(format="pretty-xml").decode('utf-8'))
 
     def add_title(self, url, title, content):
+        cleaned_content = "\n".join(sections(content.splitlines()))
         triples = [(URIRef(url), DCTERMS.title, Literal(title[:-4])),
-                   (URIRef(url), SIOC.content, Literal(content)),
+                   (URIRef(url), SIOC.content, Literal(cleaned_content)),
                    ]
         self.add_triples(triples)
 
