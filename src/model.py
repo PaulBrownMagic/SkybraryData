@@ -14,7 +14,7 @@ PROPERTY = Namespace(
     'http://www.skybrary.aero/index.php/Special:URIResolver/Property-3A')
 WIKIURL = Namespace('https://www.skybrary.aero/index.php/')
 SIOC = Namespace("http://rdfs.org/sioc/ns#")
-PBM = Namespace("https://paulbrownmagic.com/skybrary#")
+
 
 NAMESPACES = dict(swivt=SWIVT,
                   wiki=WIKI,
@@ -22,7 +22,7 @@ NAMESPACES = dict(swivt=SWIVT,
                   wikiurl=WIKIURL,
                   sioc=SIOC,
                   dcterms=DCTERMS,
-                  pbm=PBM)
+                  )
 
 RDF_DIR = os.path.join(BASE_DIR, "rdf")
 
@@ -43,7 +43,6 @@ class Ontology(Graph):
         for r in self.query("""SELECT DISTINCT ?url
                             WHERE {
                                ?url a swivt:Subject.
-                               ?url property:Event_Type ?e.
                             }"""
                            ):
             title, content = scrape_to_file(r.url)
@@ -55,7 +54,8 @@ class Ontology(Graph):
         mkurl = "http://www.skybrary.aero/index.php/Special:URIResolver/{}".format
         triples = []
         for category in bin_clean():
-            url = mkurl(category.filename.replace('+','/'))
+            url = mkurl(category.filename.replace('+','/')[:-4])
+            triples.append((URIRef(url), DCTERMS.subject, Literal(category.subject)))
             for topic in category.bins:
                 triples.append((URIRef(url), SIOC.topic, Literal(topic)))
         self.add_triples(triples)

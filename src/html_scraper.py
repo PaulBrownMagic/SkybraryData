@@ -29,7 +29,6 @@ def get_html(resp):
 
 
 def scrape_to_file(url):
-    print("URL: ", url)
     page = get_page(url)
     if page is not None:
         fname, html = page

@@ -60,8 +60,6 @@ def find_bin(filename):
     else:
         subject = "other"
     assigned = leafs + major
-    if len(assigned) == 0:
-        assigned.append(subject)
     return assigned, subject
 
 
