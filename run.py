@@ -1,26 +1,62 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-"""Injest Data or Run the SPARQL Query webapp."""
 
 import argparse
+import os
+import sys
 
-from ingest_data import injest_data
-from query_app import app
+from config import BASE_DIR
+from src import Ontology, clean_files
 
-description = """Skybrary RDF data interface. Runs the webserver for SPARQL
-queries on the downloaded, serialised RDF data from Skybrary by default. Can
-also be used to update the data, note this operation clobbers the old data."""
+description = """Data management for Skybrary Data. Injests and cleans data."""
+
 parser = argparse.ArgumentParser(description=description)
-parser.add_argument('--injest', action='store_true',
-                    help='Injest new data.')
-parser.add_argument('--noweb', action='store_false',
-                    help='Do NOT start the webserver.')
 
+parser.add_argument('--injest',
+                    action='store_true',
+                    help="Download data from Skybrary")
+parser.add_argument('--noparse',
+                    action='store_true',
+                    help="Don't parse data")
+parser.add_argument('--scrape',
+                    action='store_true',
+                    help="Scrape html to txt for Skybrary reports")
+parser.add_argument('--bin',
+                    action='store_true',
+                    help="Put data into bins")
+parser.add_argument('--update',
+                    action='store_true',
+                    help="Don't add new data to rdf")
+parser.add_argument('--offline', action='store_true',
+                    help="All offline tasks")
+parser.add_argument('--all', action='store_true',
+                    help="Complete refresh")
 
-if __name__ == '__main__':
+def exit():
+    print("Exiting")
+    sys.exit(0)
+
+if __name__ == "__main__":
     args = parser.parse_args()
-    if args.injest:
-        injest_data()
-    if args.noweb:
-        app.run()
+    ontology = Ontology()
+    if args.injest or args.all:
+        print("Injesting Data")
+        ontology.load_new_rdf()
+    else:
+        print("Loading data")
+        ontology.parse(os.path.join(BASE_DIR, "rdf", "skybrary.rdf"))
+        print("Length of graph: {}".format(len(ontology)))
+    if args.noparse:
+        exit()
+    if args.scrape or args.all or args.offline:
+        if not args.offline:
+            print("Scraping from Skybrary HTML to text")
+            ontology.load_new_html()
+        print("Cleaning docs")
+        clean_files()
+    if args.bin or args.all or args.offline:
+        print("Putting docs into bins")
+        ontology.categorise_files()
+    if args.update or args.all or args.offline:
+        print("Updating RDF")
+        ontology.write_out_rdf()
+    exit()

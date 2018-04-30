@@ -1,6 +1,5 @@
 import os
 
-DEBUG = False
-
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
-SECRET_KEY = os.urandom(64)
+
+RDF_BASE_URL = "https://www.skybrary.aero/index.php/Special:ExportRDF/Category:Accidents_and_Incidents"
